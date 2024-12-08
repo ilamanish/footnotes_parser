@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:29.971+01:00</Created>
+        <LastChange>2024-12-04T10:23:07.262+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960047" pageNr="28" tsid="209646212" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=UJQQVSDUKCLMLNEGKOCHURAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CYATYGCJTPDOMUFRWKRVGZDG" imageId="70209351"/>
+    </Metadata>
+    <Page imageFilename="0028_the_land_of_the_perumauls_page_28.jpg" imageWidth="1184" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399339" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="144,236 144,1731 1042,1731 1042,236"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="383,270 786,266 786,243 747,233 619,241 592,226 543,230 528,244 383,243"/>
+                <Baseline points="390,260 416,258 443,258 469,259 496,260 523,260 549,260 576,259 602,256 629,258 656,256 682,256 709,258 735,259 762,259 789,260"/>
+                <TextEquiv>
+                    <Unicode>CRUZ MIRABILE.—ST. TIIOMAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="140,329 1032,330 1032,305 956,290 140,290"/>
+                <Baseline points="146,323 190,325 234,325 279,323 323,323 368,323 412,323 456,322 501,321 545,323 590,321 634,322 678,323 723,322 767,323 812,323 856,323 900,324 945,325 989,324 1034,321"/>
+                <TextEquiv>
+                    <Unicode>to the effect that in that year the Vypeen river found its exit in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="140,370 1030,370 1030,335 140,354"/>
+                <Baseline points="146,363 190,363 234,361 278,359 323,361 367,361 411,361 456,361 500,359 544,362 589,361 633,362 677,363 721,362 766,363 810,362 854,363 899,363 943,363 987,363 1032,361"/>
+                <TextEquiv>
+                    <Unicode>sea and Vypeen was formed : but such is impossible, as the river and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="140,405 1032,417 1032,372 140,390"/>
+                <Baseline points="146,400 190,400 234,402 279,400 323,400 368,400 412,400 456,399 501,398 545,398 590,400 634,400 678,400 723,401 767,400 812,401 856,402 900,401 945,402 989,402 1034,400"/>
+                <TextEquiv>
+                    <Unicode>the Sinus Colchicus, or large expanse of backwater, are mentioned</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="141,450 1029,456 1029,419 981,410 141,416"/>
+                <Baseline points="148,440 192,438 236,440 280,440 324,440 369,440 413,440 457,438 501,438 545,438 590,440 634,440 678,440 722,440 766,442 811,441 855,440 899,440 943,440 987,442 1032,438"/>
+                <TextEquiv>
+                    <Unicode>by P’tolemy, and other writers, as existing auterior to their time.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="146,490 1032,489 1017,455 146,453"/>
+                <Baseline points="152,479 196,478 240,477 284,479 328,477 372,478 416,477 460,477 504,477 548,477 593,479 637,478 681,477 725,477 769,477 813,478 857,477 901,479 945,479 989,479 1034,475"/>
+                <TextEquiv>
+                    <Unicode>It is remarkable that the era of Colum, or Qnilon, which has been as¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="140,530 1032,537 1032,494 1005,489 140,502"/>
+                <Baseline points="146,517 190,517 234,517 279,518 323,517 368,517 412,517 456,517 501,517 545,517 590,519 634,518 678,517 723,518 767,517 812,518 856,515 900,517 945,517 989,517 1034,511"/>
+                <TextEquiv>
+                    <Unicode>serted to have originated at the building of that city, is proved by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="141,566 1035,563 955,526 141,533"/>
+                <Baseline points="148,558 192,556 237,556 281,554 326,554 370,556 415,556 459,556 504,556 548,555 593,556 637,556 682,556 726,555 771,554 815,555 860,554 904,557 949,558 993,556 1038,554"/>
+                <TextEquiv>
+                    <Unicode>the Mackenzie M.S.S., to have reference only to a great religious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="140,607 1036,602 1036,573 925,564 140,576"/>
+                <Baseline points="146,596 190,595 235,596 279,594 324,592 369,594 413,596 458,596 502,596 547,595 592,596 636,596 681,594 725,595 770,594 815,594 859,596 904,594 948,596 993,596 1038,592"/>
+                <TextEquiv>
+                    <Unicode>festival, when water suddenly filled the tank. The era of Poothoo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="144,639 1032,646 1032,609 951,602 144,610"/>
+                <Baseline points="150,631 194,632 238,633 282,633 326,633 371,633 415,635 459,635 503,633 547,633 592,633 636,633 680,633 724,633 768,633 813,633 857,633 901,635 945,635 989,635 1034,633"/>
+                <TextEquiv>
+                    <Unicode>Veppoo, whieh Paoli mentions, as used in the Narrikal Church, may</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="144,682 1035,682 1009,642 144,653"/>
+                <Baseline points="150,669 194,671 238,671 283,672 327,673 372,671 416,673 460,672 505,671 549,670 594,671 638,673 682,673 727,672 771,671 816,671 860,673 904,673 949,673 993,673 1038,671"/>
+                <TextEquiv>
+                    <Unicode>very possibly refer to the origin of the first Christian Church, built</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="140,713 1030,730 1030,690 997,681 140,682"/>
+                <Baseline points="146,712 190,712 234,710 278,709 323,710 367,710 411,712 456,710 500,710 544,712 589,712 633,711 677,710 721,710 766,710 810,710 854,710 899,711 943,712 987,712 1032,708"/>
+                <TextEquiv>
+                    <Unicode>on the swampy, but saered, island of Vypeen. Certainly, according</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="140,769 1033,762 1033,729 936,722 140,736"/>
+                <Baseline points="146,748 190,749 235,748 279,749 324,748 368,749 413,750 457,750 502,750 546,750 591,750 635,748 680,750 724,750 769,750 813,750 858,752 902,750 947,750 991,749 1036,748"/>
+                <TextEquiv>
+                    <Unicode>to the Kerula Ulpati, the land from Vypeen to Narrikal, in this year</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="144,798 775,794 831,817 1035,795 1035,764 884,756 144,769"/>
+                <Baseline points="150,785 194,787 238,787 283,788 327,787 372,787 416,785 460,786 505,789 549,789 594,789 638,789 682,789 727,789 771,787 816,789 860,787 904,789 949,789 993,789 1038,789"/>
+                <TextEquiv>
+                    <Unicode>was first taxed, as being in a fit state for eultivation, which it was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="146,834 192,833 211,844 251,834 283,833 314,842 339,838 339,806 315,801 302,811 271,811 261,802 250,812 210,811 189,802 176,812 146,810"/>
+                <Baseline points="152,827 179,826 206,826 233,827 260,826 287,825 314,825 341,825"/>
+                <TextEquiv>
+                    <Unicode>not previously.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="177,879 1037,873 1012,830 177,839"/>
+                <Baseline points="183,866 225,865 268,864 311,862 354,864 397,864 440,864 482,866 525,866 568,866 611,866 654,866 697,866 740,866 782,865 825,866 868,866 911,866 954,866 997,867 1040,864"/>
+                <TextEquiv>
+                    <Unicode>Beyond Vypcen is Cruz Mirabile or the Wonderful Cross, a small</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="144,913 1034,918 1023,878 144,878"/>
+                <Baseline points="150,902 194,904 238,902 282,904 327,904 371,904 415,904 460,904 504,904 548,905 593,904 637,904 681,904 725,904 770,904 814,905 858,906 903,905 947,906 991,905 1036,904"/>
+                <TextEquiv>
+                    <Unicode>wooden Church on the bauks of an estuary, formed by thie backwater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="140,954 1036,959 1036,926 959,915 140,928"/>
+                <Baseline points="146,943 190,943 235,941 279,942 324,943 369,941 413,941 458,943 502,943 547,943 592,943 636,943 681,943 725,943 770,943 815,943 859,943 904,942 948,941 993,943 1038,943"/>
+                <TextEquiv>
+                    <Unicode>and erected there after the ancient Church became submerged. There</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="140,993 1036,993 1027,955 140,961"/>
+                <Baseline points="146,981 190,983 235,981 279,981 324,981 369,981 413,981 458,981 502,983 547,980 592,981 636,982 681,981 725,981 770,983 815,981 859,983 904,983 948,983 993,982 1038,979"/>
+                <TextEquiv>
+                    <Unicode>is a sandy ridge to its south, now frequently only 65 feet wide, over</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="146,1025 1037,1032 1037,1005 972,992 146,998"/>
+                <Baseline points="152,1020 196,1020 240,1022 285,1020 329,1020 374,1020 418,1020 462,1018 507,1018 551,1018 596,1018 640,1020 684,1020 729,1020 773,1020 818,1020 862,1020 906,1020 951,1022 995,1022 1040,1018"/>
+                <TextEquiv>
+                    <Unicode>which the sca occasionally breaks when the S. W. monsoon continues</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="141,1070 1033,1067 1011,1033 875,1029 141,1042"/>
+                <Baseline points="148,1060 192,1059 236,1060 281,1060 325,1058 370,1058 414,1058 458,1058 503,1058 547,1058 592,1058 636,1059 680,1058 725,1058 769,1058 814,1058 858,1060 902,1059 947,1058 991,1062 1036,1060"/>
+                <TextEquiv>
+                    <Unicode>strongly, for some time before the freshes are well down: people</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="140,1111 1034,1112 1033,1069 140,1072"/>
+                <Baseline points="146,1097 190,1097 235,1097 279,1096 324,1097 368,1097 413,1097 457,1097 502,1097 546,1096 591,1097 635,1097 680,1097 724,1097 769,1097 813,1097 858,1097 902,1097 947,1097 991,1099 1036,1101"/>
+                <TextEquiv>
+                    <Unicode>have often been apprehensive of the formation of a new opening</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="140,1150 1033,1153 992,1106 140,1112"/>
+                <Baseline points="146,1137 190,1134 235,1135 279,1135 324,1137 368,1136 413,1137 457,1136 502,1137 546,1135 591,1137 635,1135 680,1137 724,1137 769,1137 813,1137 858,1137 902,1137 947,1137 991,1138 1036,1133"/>
+                <TextEquiv>
+                    <Unicode>iere, which might cause the overflow of all the low inland paddy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="140,1182 1033,1193 1033,1155 982,1146 140,1155"/>
+                <Baseline points="146,1174 190,1174 235,1174 279,1174 324,1174 368,1176 413,1174 457,1175 502,1174 546,1175 591,1174 635,1174 680,1172 724,1175 769,1174 813,1174 858,1174 902,1175 947,1176 991,1176 1036,1174"/>
+                <TextEquiv>
+                    <Unicode>fields, besides ruining the Cochin out let. Various reasons have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="141,1223 960,1231 1033,1222 1032,1193 140,1195"/>
+                <Baseline points="148,1216 192,1214 236,1214 281,1213 325,1214 370,1214 414,1214 458,1215 503,1216 547,1215 592,1216 636,1214 680,1212 725,1214 769,1214 814,1215 858,1214 902,1214 947,1216 991,1216 1036,1212"/>
+                <TextEquiv>
+                    <Unicode>assigned for the name of this Church; one being, that here the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="147,1264 1035,1270 1035,1224 147,1230"/>
+                <Baseline points="153,1253 197,1253 241,1253 285,1251 330,1253 374,1252 418,1253 462,1252 507,1253 551,1252 595,1253 639,1253 684,1253 728,1253 772,1253 816,1253 861,1253 905,1251 949,1253 993,1255 1038,1255"/>
+                <TextEquiv>
+                    <Unicode>l'ortuguese cross was planted, as a symbol that they claimed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="138,1296 1037,1303 1037,1268 1008,1267 138,1278"/>
+                <Baseline points="144,1293 188,1291 233,1293 278,1291 323,1291 368,1290 412,1293 457,1292 502,1293 547,1291 592,1291 636,1293 681,1293 726,1293 771,1291 816,1292 860,1293 905,1293 950,1293 995,1295 1040,1295"/>
+                <TextEquiv>
+                    <Unicode>suvereiguty over the country; and another, that St. Thomas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="140,1341 1036,1339 1020,1304 140,1304"/>
+                <Baseline points="146,1330 190,1330 235,1330 279,1329 324,1328 369,1329 413,1330 458,1330 502,1332 547,1330 592,1330 636,1332 681,1332 725,1331 770,1330 815,1330 859,1330 904,1331 948,1330 993,1331 1038,1332"/>
+                <TextEquiv>
+                    <Unicode>luded here, and reared the eross himself. The next village is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="144,1376 1035,1378 1006,1341 144,1346"/>
+                <Baseline points="150,1370 194,1370 238,1370 283,1370 327,1370 372,1371 416,1370 460,1369 505,1370 549,1371 594,1370 638,1370 682,1372 727,1370 771,1370 816,1370 860,1370 904,1371 949,1372 993,1371 1038,1366"/>
+                <TextEquiv>
+                    <Unicode>Malliapooram (Muliy paugum,) to which pertains aflag staff of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="140,1414 1036,1424 1036,1381 1004,1379 820,1402 140,1376"/>
+                <Baseline points="146,1407 190,1409 235,1409 279,1408 324,1407 369,1407 413,1409 458,1409 502,1409 547,1409 592,1411 636,1410 681,1411 725,1409 770,1409 815,1409 859,1409 904,1410 948,1409 993,1409 1038,1405"/>
+                <TextEquiv>
+                    <Unicode>Cochin native Goverment, and a MasterAttendant. A sandy ridge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="140,1465 1037,1458 1037,1424 984,1418 140,1425"/>
+                <Baseline points="146,1449 190,1448 235,1447 280,1447 324,1447 369,1446 414,1447 458,1449 503,1449 548,1448 593,1449 637,1448 682,1449 727,1448 771,1449 816,1448 861,1451 905,1449 950,1449 995,1449 1040,1449"/>
+                <TextEquiv>
+                    <Unicode>near, is knowu as “ the old bar,” and probably a river once found its</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="140,1495 1032,1495 973,1459 140,1470"/>
+                <Baseline points="146,1484 190,1486 234,1486 279,1486 323,1486 368,1486 412,1488 456,1485 501,1488 545,1488 590,1486 634,1488 678,1488 723,1487 767,1488 812,1488 856,1488 900,1488 945,1488 989,1488 1034,1484"/>
+                <TextEquiv>
+                    <Unicode>exit here. At 21 miles distance, WV. N. W., is the pagoda of Yellum¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="144,1538 1028,1542 1005,1498 144,1505"/>
+                <Baseline points="150,1528 194,1526 238,1524 282,1524 326,1522 370,1525 414,1524 458,1525 502,1526 546,1527 590,1528 634,1527 678,1528 722,1528 766,1528 810,1526 854,1526 898,1526 942,1528 986,1528 1030,1522"/>
+                <TextEquiv>
+                    <Unicode>gunnapullay, eelebrated for an amnal festival held there: whilst 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="140,1566 1036,1571 996,1538 140,1545"/>
+                <Baseline points="146,1563 190,1562 235,1563 279,1563 324,1563 369,1563 413,1563 458,1563 502,1565 547,1565 592,1565 636,1565 681,1565 725,1565 770,1565 815,1565 859,1565 904,1564 948,1565 993,1565 1038,1563"/>
+                <TextEquiv>
+                    <Unicode>miles to its north, is Narrikal (Nharica), a Christian village, consist¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="146,1615 1033,1611 1033,1572 978,1598 146,1571"/>
+                <Baseline points="152,1601 196,1601 240,1603 284,1602 328,1601 373,1603 417,1601 461,1602 505,1605 549,1602 594,1603 638,1603 682,1605 726,1603 770,1603 815,1603 859,1605 903,1605 947,1607 991,1606 1036,1603"/>
+                <TextEquiv>
+                    <Unicode>ing of a street rumming east and west, terminated by a church.A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="141,1656 1039,1657 1039,1622 937,1613 141,1613"/>
+                <Baseline points="148,1638 192,1641 237,1642 282,1641 326,1642 371,1642 416,1640 460,1641 505,1640 550,1643 595,1642 639,1642 684,1644 729,1642 773,1642 818,1642 863,1642 907,1643 952,1644 997,1645 1042,1642"/>
+                <TextEquiv>
+                    <Unicode>small palaee and pagoda are situated to the north. The sea is here</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="144,1691 1037,1694 1037,1659 858,1650 144,1662"/>
+                <Baseline points="150,1678 194,1680 239,1680 283,1680 328,1678 372,1680 417,1680 461,1680 506,1680 550,1681 595,1682 639,1682 684,1682 728,1681 773,1682 817,1684 862,1682 906,1683 951,1684 995,1684 1040,1684"/>
+                <TextEquiv>
+                    <Unicode>smooth through the entire year, owingto a“ mud bank" that brcaks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="146,1728 216,1745 239,1737 303,1742 355,1724 437,1730 437,1699 146,1693"/>
+                <Baseline points="152,1719 178,1719 204,1719 230,1719 256,1719 282,1719 309,1719 335,1719 361,1717 387,1719 413,1719 440,1721"/>
+                <TextEquiv>
+                    <Unicode>the force of the wayes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

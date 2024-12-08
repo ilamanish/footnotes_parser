@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:30.223+01:00</Created>
+        <LastChange>2024-12-04T23:40:54.400+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960049" pageNr="31" tsid="209853330" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=DUNDVGZSKHSHKKQCZHBKUHTD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HYEFZLFJWLXZIFAJRNRIUQEF" imageId="70209353"/>
+    </Metadata>
+    <Page imageFilename="0031_the_land_of_the_perumauls_page_31.jpg" imageWidth="1170" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399388" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="74,248 74,1762 980,1762 980,248"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="386,278 666,278 667,241 618,238 540,254 493,241 464,249 388,246"/>
+                <Baseline points="393,268 418,270 443,269 468,268 493,268 518,269 543,270 568,268 593,268 618,268 643,268 668,268"/>
+                <TextEquiv>
+                    <Unicode>RELIGIOUS LEGENDS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="71,347 977,341 977,295 939,290 885,321 838,292 739,319 71,305"/>
+                <Baseline points="77,335 122,337 167,339 212,338 257,337 302,335 347,334 393,335 438,335 483,335 528,336 573,335 618,335 663,335 709,335 754,335 799,335 844,335 889,333 934,333 980,333"/>
+                <TextEquiv>
+                    <Unicode>Cranganore fort is N. N. W. 18 miles distant from Cochin. This</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="72,386 973,385 966,342 72,355"/>
+                <Baseline points="79,374 123,376 168,376 213,376 258,376 303,376 348,376 392,374 437,374 482,374 527,374 572,374 617,374 662,374 706,374 751,375 796,374 841,374 886,372 931,372 976,372"/>
+                <TextEquiv>
+                    <Unicode>territory comprehends an area of 182 square miles, and is well</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="75,421 972,418 948,382 75,394"/>
+                <Baseline points="81,413 125,415 170,415 214,415 259,417 304,415 348,415 393,413 438,415 482,415 527,415 572,415 616,415 661,415 706,413 750,414 795,413 840,413 884,413 929,413 974,411"/>
+                <TextEquiv>
+                    <Unicode>covered with cocoanut plantations and rice lands, though some por¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="71,459 970,463 953,425 71,431"/>
+                <Baseline points="77,452 121,454 166,455 211,454 256,454 300,454 345,454 390,454 435,453 479,454 524,454 569,454 614,454 658,454 703,452 748,452 793,454 837,452 882,452 927,452 972,450"/>
+                <TextEquiv>
+                    <Unicode>tion is merely a sandy tract. It contains a celebrated pagoda, dedi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="75,505 975,498 975,463 941,462 75,473"/>
+                <Baseline points="81,491 125,493 170,493 215,494 260,495 305,493 350,493 394,493 439,491 484,493 529,493 574,493 619,493 664,493 708,492 753,491 798,491 843,491 888,491 933,491 978,491"/>
+                <TextEquiv>
+                    <Unicode>cated to Bhagavadi, where there is a door apparently of stone, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="71,536 974,544 974,499 71,508"/>
+                <Baseline points="77,532 124,530 171,532 218,532 266,532 313,532 360,532 408,532 455,532 502,532 550,532 597,530 644,532 692,531 739,530 786,530 834,530 881,530 928,530 976,528"/>
+                <TextEquiv>
+                    <Unicode>fixed in a half-opeued position. A tradition is attached to this and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="71,572 974,577 974,544 937,539 71,541"/>
+                <Baseline points="77,569 124,569 171,569 218,571 266,569 313,571 360,571 408,571 455,571 502,571 550,571 597,571 644,570 692,569 739,569 786,569 834,569 881,569 928,569 976,569"/>
+                <TextEquiv>
+                    <Unicode>believed in by both Hindus and Christians, which asserts that St.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="80,616 972,618 972,589 871,574 80,585"/>
+                <Baseline points="87,608 131,610 175,609 220,610 264,610 308,608 353,610 397,610 441,610 486,610 530,610 574,610 619,610 663,610 707,608 752,608 796,608 840,607 885,608 929,608 974,606"/>
+                <TextEquiv>
+                    <Unicode>Thomas and Bhagavadi hield a discussion at Palliport, about the res¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="79,667 973,655 928,616 805,640 79,627"/>
+                <Baseline points="85,649 129,647 174,647 218,649 263,647 307,649 352,649 396,649 441,649 485,649 530,649 575,649 619,649 664,647 708,647 753,647 797,647 842,647 886,647 931,647 976,645"/>
+                <TextEquiv>
+                    <Unicode>pective merits of the Christian and Hindu religions. Arguments</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="77,704 974,696 974,654 77,668"/>
+                <Baseline points="83,686 127,686 172,686 216,686 261,688 306,686 350,687 395,686 440,687 484,686 529,687 574,686 618,686 663,686 708,686 752,686 797,684 842,684 886,684 931,684 976,682"/>
+                <TextEquiv>
+                    <Unicode>waxed warm, and Bhagavadi considering it best to cease further dis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="72,729 975,733 975,696 72,707"/>
+                <Baseline points="79,725 126,725 173,725 220,725 268,726 315,727 362,727 410,725 457,727 504,727 552,727 599,725 646,725 694,725 741,725 788,724 836,723 883,725 930,723 978,721"/>
+                <TextEquiv>
+                    <Unicode>cussions, decamped, and jumping across the Cranganore river, made</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="71,771 977,771 977,740 939,732 71,749"/>
+                <Baseline points="77,762 122,764 167,764 212,764 257,764 302,764 347,764 393,764 438,764 483,766 528,764 573,764 618,764 663,764 709,764 754,762 799,762 844,762 889,762 934,762 980,758"/>
+                <TextEquiv>
+                    <Unicode>straight for thie pagoda. St. Thomas not to be outdone, rapidly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="71,818 962,815 975,780 72,777"/>
+                <Baseline points="77,804 124,801 171,803 218,803 266,803 313,803 360,803 408,803 455,803 502,803 550,803 597,803 644,802 692,801 739,801 786,801 834,803 881,801 928,801 976,801"/>
+                <TextEquiv>
+                    <Unicode>gave chase, and just as Bliagavadi got inside the door, the Saint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="71,846 971,847 971,816 924,812 71,827"/>
+                <Baseline points="77,840 121,840 166,840 211,842 256,841 301,842 346,842 390,842 435,842 480,842 525,841 570,842 615,842 660,840 704,840 749,840 794,840 839,839 884,840 929,840 974,838"/>
+                <TextEquiv>
+                    <Unicode>reaclied its outside, and setting his foot between it and the door</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="75,894 973,888 973,855 841,846 75,862"/>
+                <Baseline points="81,882 125,879 170,880 215,881 260,881 304,881 349,880 394,881 439,880 483,881 528,880 573,879 618,879 662,879 707,879 752,879 797,879 841,879 886,879 931,879 976,877"/>
+                <TextEquiv>
+                    <Unicode>post, prevented its closing : there they both stood, until tlie door</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="71,929 977,927 947,886 71,903"/>
+                <Baseline points="77,916 122,918 167,918 212,918 257,919 302,919 347,918 393,919 438,919 483,919 528,919 573,918 618,918 663,918 709,918 754,918 799,917 844,918 889,918 934,918 980,918"/>
+                <TextEquiv>
+                    <Unicode>turned to stone, one would not allow its being opened, nor the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="77,963 340,963 363,974 450,963 450,938 432,932 225,932 154,944 77,923"/>
+                <Baseline points="83,957 109,957 135,957 162,957 188,957 214,957 241,957 267,957 293,957 320,957 346,957 372,957 399,957 425,958 452,957"/>
+                <TextEquiv>
+                    <Unicode>other permit its being shut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="103,1001 977,1006 967,968 103,965"/>
+                <Baseline points="109,996 152,996 196,996 239,996 283,996 326,996 370,996 413,996 457,996 500,996 544,996 588,996 631,996 675,996 718,996 762,996 805,996 849,996 892,996 936,996 980,996"/>
+                <TextEquiv>
+                    <Unicode>At this pagoda the feast of Baranee is held in the middle of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="75,1040 970,1038 953,1007 75,1006"/>
+                <Baseline points="81,1033 125,1034 170,1033 214,1034 259,1034 303,1034 348,1034 392,1034 437,1034 481,1034 526,1034 571,1034 615,1034 660,1034 704,1034 749,1033 793,1034 838,1033 882,1034 927,1033 972,1031"/>
+                <TextEquiv>
+                    <Unicode>March, when the Nairs and other Sudras offer up cocks to Bhagava¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="77,1081 970,1084 970,1052 873,1046 77,1052"/>
+                <Baseline points="83,1072 127,1072 171,1072 216,1073 260,1072 305,1073 349,1073 394,1073 438,1073 483,1073 527,1073 571,1072 616,1072 660,1072 705,1073 749,1072 794,1073 838,1072 883,1072 927,1073 972,1070"/>
+                <TextEquiv>
+                    <Unicode>di, beseeching immunity from severe diseases during the suc¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="72,1121 970,1122 970,1086 928,1081 72,1086"/>
+                <Baseline points="79,1109 123,1111 168,1112 212,1111 257,1112 302,1111 346,1110 391,1111 436,1110 480,1112 525,1112 570,1110 614,1111 659,1112 704,1110 748,1112 793,1111 838,1110 882,1110 927,1112 972,1109"/>
+                <TextEquiv>
+                    <Unicode>ceeding year. Near it is another pagoda, to which the Konka-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="77,1166 974,1163 958,1120 77,1132"/>
+                <Baseline points="83,1148 127,1149 172,1149 216,1149 261,1149 306,1149 350,1149 395,1149 440,1149 484,1149 529,1149 574,1149 618,1149 663,1149 708,1149 752,1149 797,1150 842,1151 886,1149 931,1149 976,1149"/>
+                <TextEquiv>
+                    <Unicode>nies and the higlier castes resort for devotional purposes. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="72,1197 977,1196 977,1168 920,1158 72,1173"/>
+                <Baseline points="79,1187 124,1188 169,1187 214,1187 259,1188 304,1188 349,1187 394,1187 439,1188 484,1188 529,1189 574,1188 619,1188 664,1188 709,1188 754,1188 799,1188 844,1188 889,1188 934,1188 980,1187"/>
+                <TextEquiv>
+                    <Unicode>number of devotees who come long distances to Cranganore is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="71,1231 974,1235 974,1198 71,1196"/>
+                <Baseline points="77,1225 124,1226 171,1227 218,1225 266,1226 313,1227 360,1227 408,1227 455,1227 502,1227 550,1227 597,1227 644,1227 692,1227 739,1227 786,1227 834,1227 881,1227 928,1227 976,1227"/>
+                <TextEquiv>
+                    <Unicode>remarkable : even the road to eternal bliss. in some portions of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="72,1274 975,1278 946,1237 72,1244"/>
+                <Baseline points="79,1266 126,1264 173,1264 220,1264 268,1264 315,1264 362,1266 410,1266 457,1266 504,1266 552,1266 599,1266 646,1266 694,1266 741,1266 788,1266 836,1266 883,1266 930,1266 978,1268"/>
+                <TextEquiv>
+                    <Unicode>Travancore is said to pass through this temple.* A large pagoda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="71,1314 974,1314 974,1278 71,1276"/>
+                <Baseline points="77,1302 124,1303 171,1303 218,1303 266,1304 313,1305 360,1305 408,1304 455,1305 502,1305 550,1305 597,1305 644,1304 692,1305 739,1304 786,1305 834,1305 881,1305 928,1305 976,1305"/>
+                <TextEquiv>
+                    <Unicode>sacred to Iuppen, the Hindu deity of the country, stands on a hill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="71,1349 972,1358 971,1322 932,1314 71,1318"/>
+                <Baseline points="77,1340 121,1340 166,1342 211,1341 256,1342 301,1342 346,1342 390,1342 435,1342 480,1344 525,1343 570,1342 615,1343 660,1344 704,1343 749,1344 794,1342 839,1344 884,1344 929,1344 974,1344"/>
+                <TextEquiv>
+                    <Unicode>near Cottayam : in it the Hindu god Iuppen, and the Maliomedan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="71,1390 974,1393 974,1358 71,1349"/>
+                <Baseline points="77,1379 124,1379 171,1381 218,1379 266,1380 313,1381 360,1381 408,1381 455,1381 502,1381 550,1381 597,1381 644,1382 692,1381 739,1382 786,1381 834,1383 881,1383 928,1381 976,1383"/>
+                <TextEquiv>
+                    <Unicode>Bawa, are alike objects of adoration, as it is asserted they are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="71,1431 971,1431 940,1394 71,1390"/>
+                <Baseline points="77,1418 121,1418 166,1417 211,1418 256,1418 301,1418 346,1418 390,1420 435,1420 480,1420 525,1420 570,1420 615,1420 660,1420 704,1420 749,1420 794,1420 839,1422 884,1422 929,1422 974,1420"/>
+                <TextEquiv>
+                    <Unicode>bosom friends, living in the same place. From this the pilgrim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="79,1474 971,1476 946,1433 79,1434"/>
+                <Baseline points="85,1459 129,1457 173,1457 218,1457 262,1457 306,1459 351,1457 395,1459 439,1459 484,1459 528,1459 572,1461 617,1459 661,1460 705,1461 750,1459 794,1461 838,1461 883,1461 927,1461 972,1461"/>
+                <TextEquiv>
+                    <Unicode>proceeds to St. Andrea, near Allepey, on the sea coast, where having</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="71,1507 902,1514 977,1511 977,1478 70,1470"/>
+                <Baseline points="77,1494 122,1496 167,1498 212,1496 257,1496 302,1497 347,1496 393,1496 438,1498 483,1498 528,1498 573,1498 618,1499 663,1500 709,1499 754,1498 799,1500 844,1500 889,1498 934,1498 980,1498"/>
+                <TextEquiv>
+                    <Unicode>bathed, prayers are offered at this Christian shrine, for St. Andrew is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="71,1545 911,1555 972,1547 971,1515 70,1516"/>
+                <Baseline points="76,1535 120,1535 165,1535 210,1535 255,1533 300,1535 345,1535 390,1535 435,1537 480,1537 525,1537 569,1537 614,1538 659,1539 704,1539 749,1537 794,1539 839,1539 884,1539 929,1537 974,1539"/>
+                <TextEquiv>
+                    <Unicode>said to have becu a bosom friend of the other two : finally lie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="77,1590 968,1587 968,1548 77,1557"/>
+                <Baseline points="83,1574 127,1574 171,1574 216,1574 260,1574 304,1574 349,1576 393,1576 437,1576 482,1576 526,1576 570,1576 615,1578 659,1578 703,1578 748,1577 792,1578 836,1578 881,1578 925,1576 970,1578"/>
+                <TextEquiv>
+                    <Unicode>proceeds to Cranganorc, where his wanderings are completed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="62,1603 991,1603 991,1769 62,1769"/>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:0;}">
+                <Coords points="107,1617 958,1641 964,1607 106,1607"/>
+                <Baseline points="114,1615 156,1620 199,1621 242,1623 284,1623 327,1623 370,1623 412,1625 455,1624 498,1625 541,1625 583,1625 626,1627 669,1627 711,1627 754,1627 797,1627 839,1627 882,1627 925,1627 968,1625"/>
+                <TextEquiv>
+                    <Unicode>* In the Dutch records it is stated that Cranganore is deemed specially</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:1;}">
+                <Coords points="68,1662 971,1667 948,1634 68,1629"/>
+                <Baseline points="74,1654 119,1652 164,1654 209,1654 254,1654 299,1654 344,1654 389,1654 434,1654 479,1654 524,1656 569,1656 614,1656 659,1656 704,1656 749,1656 794,1658 839,1656 884,1658 929,1658 974,1660"/>
+                <TextEquiv>
+                    <Unicode>sacred, on account of its having been built whilst Puresu Rama was on earth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:2;}">
+                <Coords points="71,1698 974,1696 955,1667 71,1663"/>
+                <Baseline points="77,1684 124,1684 171,1684 218,1684 266,1684 313,1684 360,1685 408,1685 455,1685 502,1686 550,1687 597,1687 644,1687 692,1687 739,1687 786,1689 834,1687 881,1688 928,1689 976,1689"/>
+                <TextEquiv>
+                    <Unicode>At Trichoor it is said the name Kudungaloor is merely a corruption of Kodi (a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:3;}">
+                <Coords points="71,1719 970,1730 970,1701 869,1695 71,1701"/>
+                <Baseline points="77,1713 121,1714 166,1715 211,1715 256,1717 300,1716 345,1717 390,1717 435,1717 479,1718 524,1718 569,1719 614,1720 658,1721 703,1721 748,1721 793,1719 837,1719 882,1721 927,1721 972,1721"/>
+                <TextEquiv>
+                    <Unicode>crore), lingum (the Indian Phallus), oor (country). In the Kodungaloor, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:4;}">
+                <Coords points="71,1753 720,1762 720,1737 669,1728 71,1728"/>
+                <Baseline points="77,1744 109,1744 141,1746 173,1746 205,1746 238,1746 270,1747 302,1748 334,1748 366,1748 399,1748 431,1748 463,1748 495,1750 527,1750 560,1750 592,1750 624,1750 656,1750 688,1752 721,1752"/>
+                <TextEquiv>
+                    <Unicode>Cranganore pagoda, are numerous figures of the lingum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

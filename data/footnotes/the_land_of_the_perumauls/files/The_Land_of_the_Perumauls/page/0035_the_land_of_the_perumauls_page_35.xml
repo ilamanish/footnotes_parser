@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:30.570+01:00</Created>
+        <LastChange>2024-12-04T23:41:44.152+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960065" pageNr="35" tsid="209854325" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=JYTQPGWUDAUZZHYMWOEBEHCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNUPMMDLMRHWFHZFVNPMAFAT" imageId="70209329"/>
+    </Metadata>
+    <Page imageFilename="0035_the_land_of_the_perumauls_page_35.jpg" imageWidth="1159" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399477" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="50,200 50,1714 964,1714 964,200"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="258,234 301,246 356,233 402,254 533,226 716,241 765,226 766,188 258,194"/>
+                <Baseline points="264,226 289,226 314,225 339,224 364,224 389,224 414,224 440,223 465,222 490,222 515,222 540,222 565,222 590,222 616,222 641,222 666,222 691,222 716,222 741,220 767,220"/>
+                <TextEquiv>
+                    <Unicode>l'ALLYPURAM.— POLITICAI. INTRIGUES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="72,294 944,302 938,258 72,270"/>
+                <Baseline points="79,293 122,294 165,293 209,292 252,291 295,291 339,291 382,289 425,289 469,288 512,289 555,289 599,287 642,287 685,287 729,287 772,287 815,287 859,287 902,287 946,287"/>
+                <TextEquiv>
+                    <Unicode>The Y'ainamakul division lies sonth west of Trichoor, separated</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="46,339 909,342 946,302 47,306"/>
+                <Baseline points="52,334 96,334 141,334 186,332 231,332 276,330 320,330 365,330 410,328 455,328 500,329 544,328 589,328 634,328 679,328 724,327 768,328 813,326 858,326 903,326 948,326"/>
+                <TextEquiv>
+                    <Unicode>for abont 3rd of the distance by the lake, and for the remainder by a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="45,377 949,375 949,333 46,351"/>
+                <Baseline points="52,372 97,372 142,372 187,371 232,371 277,370 322,369 367,369 412,369 457,367 502,368 547,367 592,367 637,367 682,367 727,367 772,367 817,366 862,367 907,366 952,365"/>
+                <TextEquiv>
+                    <Unicode>small stream. It contains an area of about sixty six and a half</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="44,424 936,416 946,379 44,388"/>
+                <Baseline points="50,409 94,411 139,411 184,410 229,409 274,409 319,408 364,407 409,407 454,407 499,407 543,407 588,405 633,405 678,405 723,405 768,405 813,405 858,405 903,405 948,403"/>
+                <TextEquiv>
+                    <Unicode>square miles, but nearly a quarter of this is occupied by the lake, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="44,462 947,453 947,417 909,411 44,425"/>
+                <Baseline points="50,448 95,450 140,450 185,450 230,448 275,448 320,448 365,446 410,446 455,446 500,446 545,446 590,446 635,444 680,445 725,444 770,444 815,444 860,444 905,444 950,442"/>
+                <TextEquiv>
+                    <Unicode>a quarter of the remainder is under enltivation. The eastern portion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="44,498 947,494 948,458 45,462"/>
+                <Baseline points="50,488 95,488 140,488 185,488 230,486 275,486 320,486 365,486 410,486 455,485 500,485 545,485 590,485 635,485 680,484 725,483 770,483 815,483 860,485 905,483 950,483"/>
+                <TextEquiv>
+                    <Unicode>is uplands, the western, eocoanut plantations; the greater part of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="49,536 953,524 953,493 50,503"/>
+                <Baseline points="56,525 100,527 145,527 190,526 235,525 280,525 325,525 370,525 415,524 460,525 505,524 549,523 594,523 639,523 684,523 729,521 774,521 819,521 864,521 909,521 954,519"/>
+                <TextEquiv>
+                    <Unicode>the land between the sea and the lake is enltivated. It has four Pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="50,571 936,577 936,541 879,533 50,547"/>
+                <Baseline points="56,566 100,566 144,566 188,566 232,564 276,564 320,564 364,564 408,564 452,564 496,562 540,562 584,562 628,562 672,562 716,562 760,562 804,562 848,562 892,562 937,560"/>
+                <TextEquiv>
+                    <Unicode>verties, lainamakul, Payringoatuenrra, Ooraghnin, and Arrumboor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="79,607 949,610 949,574 79,582"/>
+                <Baseline points="85,604 128,604 171,604 215,602 258,602 301,602 345,602 388,602 431,602 475,602 518,602 561,601 605,601 648,601 691,599 735,600 778,601 821,601 865,601 908,601 952,601"/>
+                <TextEquiv>
+                    <Unicode>Pallypnram is a beantiful little spot of territory belonging to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="47,654 947,655 936,611 47,619"/>
+                <Baseline points="54,643 98,644 143,643 188,643 233,641 278,643 322,641 367,641 412,641 457,641 502,641 546,641 591,640 636,639 681,639 726,639 770,639 815,639 860,639 905,639 950,637"/>
+                <TextEquiv>
+                    <Unicode>Rajah of Travancore, who obtained it amongst the Paroor lands : it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="47,689 951,686 932,652 47,654"/>
+                <Baseline points="54,682 99,682 144,682 189,681 234,682 279,680 324,679 369,680 414,680 459,680 504,680 549,680 594,680 639,678 684,678 729,678 774,676 819,677 864,678 909,678 954,676"/>
+                <TextEquiv>
+                    <Unicode>has a range of low bare topes, the most elcvated of which is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="47,727 951,725 929,687 47,706"/>
+                <Baseline points="54,720 99,721 144,720 189,720 234,720 279,719 324,719 369,718 414,718 459,718 504,719 549,718 594,718 639,718 684,718 729,718 774,716 819,717 864,718 909,717 954,716"/>
+                <TextEquiv>
+                    <Unicode>erowned by a pagoda. It lies on the borders of a narrow arm of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="50,777 949,771 930,728 50,729"/>
+                <Baseline points="56,761 100,760 145,759 190,759 235,759 280,757 324,759 369,757 414,757 459,757 504,757 548,757 593,757 638,757 683,757 728,757 772,755 817,757 862,757 907,756 952,755"/>
+                <TextEquiv>
+                    <Unicode>lake, which forins its northern limits. Pallypuram itself is merely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="50,810 766,805 766,772 617,765 50,781"/>
+                <Baseline points="56,800 91,800 127,798 162,800 198,799 234,797 269,798 305,798 341,798 376,797 412,797 448,796 483,798 519,798 555,798 590,796 626,798 662,796 697,796 733,796 769,798"/>
+                <TextEquiv>
+                    <Unicode>an ancient pagoda, shaded by an immense banyan tree.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="80,846 949,849 949,817 904,809 80,814"/>
+                <Baseline points="86,838 129,837 172,836 215,836 259,836 302,836 345,834 389,836 432,836 475,836 519,836 562,836 605,834 648,834 692,834 735,835 778,834 822,836 865,836 908,836 952,836"/>
+                <TextEquiv>
+                    <Unicode>The Thaullapully division contains an area of 714 sqnare miles,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="51,886 951,889 936,847 883,844 51,858"/>
+                <Baseline points="57,875 101,877 146,877 191,875 236,875 281,875 326,875 370,875 415,875 460,875 505,874 550,873 595,873 640,873 684,874 729,873 774,874 819,875 864,875 909,875 954,879"/>
+                <TextEquiv>
+                    <Unicode>and consists of a succession of minute chains of hills, or rather slopes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="53,922 950,927 950,892 879,884 53,894"/>
+                <Baseline points="59,917 103,915 148,914 192,914 237,912 282,914 326,913 371,912 416,913 460,912 505,914 550,914 594,914 639,912 684,912 728,912 773,910 818,912 862,912 907,914 952,914"/>
+                <TextEquiv>
+                    <Unicode>one-fourth of whieh is under cultivation. It is sub-divided into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="47,964 950,962 950,932 903,924 47,927"/>
+                <Baseline points="54,954 98,954 143,952 188,952 233,952 278,952 323,952 368,952 413,952 458,952 503,952 547,952 592,952 637,952 682,951 727,952 772,952 817,952 862,952 907,952 952,950"/>
+                <TextEquiv>
+                    <Unicode>four Proverties, Kunumkulumcurray, Choondul, Yecaul, and Chen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="53,1006 951,1009 930,964 53,973"/>
+                <Baseline points="59,995 103,993 148,993 193,991 238,991 282,991 327,991 372,991 417,991 461,991 506,989 551,991 596,990 640,991 685,991 730,989 775,991 819,991 864,991 909,991 954,993"/>
+                <TextEquiv>
+                    <Unicode>gaullycotay, which include ninety four villages. Thaullapully in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="51,1042 951,1046 951,1009 913,1001 51,1007"/>
+                <Baseline points="57,1031 101,1030 146,1028 191,1030 236,1030 281,1030 326,1029 370,1030 415,1030 460,1030 505,1030 550,1030 595,1030 640,1030 684,1029 729,1030 774,1030 819,1030 864,1030 909,1030 954,1035"/>
+                <TextEquiv>
+                    <Unicode>1743* was divided amongst four chiefs termed Ainecootty,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="53,1083 951,1077 918,1037 53,1044"/>
+                <Baseline points="59,1072 103,1070 148,1070 193,1070 238,1069 282,1068 327,1068 372,1068 417,1068 461,1068 506,1068 551,1068 596,1068 640,1068 685,1068 730,1067 775,1068 819,1068 864,1070 909,1070 954,1070"/>
+                <TextEquiv>
+                    <Unicode>Poonatoor, Manna-Colam, and Kacattoo : the last died away, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="50,1114 953,1114 953,1084 895,1078 50,1083"/>
+                <Baseline points="56,1109 100,1109 145,1109 190,1108 235,1107 280,1107 325,1107 370,1107 415,1107 460,1109 505,1108 549,1107 594,1107 639,1109 684,1107 729,1109 774,1107 819,1109 864,1109 909,1109 954,1107"/>
+                <TextEquiv>
+                    <Unicode>territory passed into the hands of the other three. The Aine¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="53,1155 956,1153 956,1121 894,1116 53,1123"/>
+                <Baseline points="59,1147 106,1147 153,1147 200,1147 248,1145 295,1144 342,1145 390,1145 437,1145 484,1145 532,1146 579,1145 626,1145 674,1147 721,1145 768,1145 816,1145 863,1146 910,1147 958,1145"/>
+                <TextEquiv>
+                    <Unicode>cootty Nambuddy was driven from his country in 1690, by Hen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="47,1186 951,1201 927,1156 47,1173"/>
+                <Baseline points="54,1186 99,1186 144,1188 189,1186 234,1186 279,1186 324,1186 369,1186 414,1186 459,1184 504,1186 549,1186 594,1186 639,1186 684,1184 729,1186 774,1186 819,1187 864,1186 909,1186 954,1190"/>
+                <TextEquiv>
+                    <Unicode>drick Adriaan Van Rcede, who made it a present to the Samorin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="54,1229 954,1235 913,1198 54,1205"/>
+                <Baseline points="61,1223 105,1225 150,1225 195,1225 240,1223 284,1225 329,1225 374,1225 419,1225 463,1225 508,1225 553,1225 598,1225 642,1223 687,1224 732,1223 777,1223 821,1225 866,1227 911,1227 956,1227"/>
+                <TextEquiv>
+                    <Unicode>who privately resold it to its former ruler for 40,000 gold fanams.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="53,1275 956,1275 956,1242 871,1236 53,1235"/>
+                <Baseline points="59,1263 106,1263 153,1263 200,1263 248,1263 295,1263 342,1263 390,1263 437,1265 484,1265 532,1264 579,1265 626,1263 674,1263 721,1263 768,1263 816,1265 863,1264 910,1265 958,1265"/>
+                <TextEquiv>
+                    <Unicode>In 1743 it was under the Rajah of Cochin, but the people were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="53,1318 954,1314 954,1285 899,1275 53,1279"/>
+                <Baseline points="59,1304 103,1304 148,1302 193,1300 238,1302 283,1302 328,1303 372,1302 417,1302 462,1304 507,1303 552,1304 597,1304 642,1302 686,1302 731,1302 776,1302 821,1303 866,1304 911,1304 956,1304"/>
+                <TextEquiv>
+                    <Unicode>said to be very fickle in their allegiance, and to be one day in favour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="50,1344 954,1351 954,1321 915,1314 50,1320"/>
+                <Baseline points="56,1341 101,1342 146,1341 191,1342 236,1343 281,1341 326,1343 371,1343 416,1343 461,1343 506,1343 551,1343 596,1343 641,1343 686,1343 731,1343 776,1343 821,1343 866,1343 911,1343 956,1345"/>
+                <TextEquiv>
+                    <Unicode>of the Cochin Rajah, and the next of the Samorin. The Poonatoor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="51,1383 954,1394 927,1351 51,1359"/>
+                <Baseline points="57,1381 104,1381 151,1379 198,1379 246,1380 293,1381 340,1381 388,1381 435,1381 482,1381 530,1381 577,1381 624,1381 672,1381 719,1381 766,1381 814,1381 861,1381 908,1383 956,1381"/>
+                <TextEquiv>
+                    <Unicode>chief owed allegianee to the Samorin, but was considered equally</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="53,1426 951,1433 922,1393 53,1392"/>
+                <Baseline points="59,1422 103,1421 148,1420 193,1419 238,1420 282,1420 327,1420 372,1420 417,1420 461,1420 506,1420 551,1422 596,1420 640,1420 685,1420 730,1420 775,1420 819,1420 864,1420 909,1422 954,1422"/>
+                <TextEquiv>
+                    <Unicode>inimical to him and to the Rajah of Cochin : he carried on an in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="53,1472 956,1475 956,1441 844,1429 53,1436"/>
+                <Baseline points="59,1460 106,1460 153,1459 200,1459 248,1459 295,1457 342,1459 390,1459 437,1459 484,1460 532,1459 579,1459 626,1459 674,1459 721,1459 768,1460 816,1459 863,1460 910,1460 958,1459"/>
+                <TextEquiv>
+                    <Unicode>trigue with the French at Mahi for threc years, in hopes that they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="51,1497 954,1506 912,1466 51,1477"/>
+                <Baseline points="57,1495 104,1499 151,1497 198,1499 246,1499 293,1499 340,1497 388,1497 435,1497 482,1497 530,1499 577,1499 624,1499 672,1497 719,1499 766,1498 814,1499 861,1499 908,1501 956,1501"/>
+                <TextEquiv>
+                    <Unicode>would cnable him to shake off the Samorin’s yoke. Manna-Colam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="56,1539 886,1555 959,1547 958,1511 55,1515"/>
+                <Baseline points="63,1538 110,1538 157,1538 204,1538 252,1538 299,1538 346,1536 394,1538 441,1538 488,1538 536,1538 583,1538 630,1539 678,1540 725,1538 772,1539 820,1540 867,1540 914,1540 962,1540"/>
+                <TextEquiv>
+                    <Unicode>was divided in its allegiance between the Samorin and the Rajah of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="54,1579 590,1593 590,1554 567,1548 54,1555"/>
+                <Baseline points="61,1578 87,1576 114,1578 140,1578 167,1578 194,1577 220,1576 247,1576 273,1576 300,1576 327,1576 353,1576 380,1576 406,1576 433,1576 460,1576 486,1576 513,1576 539,1576 566,1576 593,1578"/>
+                <TextEquiv>
+                    <Unicode>Cochin, and cansed considerable trouble.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="86,1620 956,1631 955,1594 850,1580 86,1593"/>
+                <Baseline points="92,1615 135,1617 178,1617 221,1617 265,1617 308,1616 351,1617 395,1616 438,1615 481,1616 525,1617 568,1617 611,1617 654,1616 698,1617 741,1617 784,1617 828,1617 871,1617 914,1617 958,1617"/>
+                <TextEquiv>
+                    <Unicode>Kunumkuluincurray may be considered the capital of the district,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="54,1658 963,1667 945,1627 54,1635"/>
+                <Baseline points="61,1654 106,1656 151,1656 196,1656 241,1656 286,1656 331,1655 377,1656 422,1655 467,1656 512,1656 557,1656 602,1656 647,1656 693,1656 738,1656 783,1656 828,1656 873,1658 918,1657 964,1656"/>
+                <TextEquiv>
+                    <Unicode>and is one of the largest Christian towns in this part of Cochin : it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="238,1682 800,1682 800,1729 238,1729"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="249,1714 775,1718 764,1680 249,1685"/>
+                <Baseline points="255,1702 281,1702 307,1704 333,1704 359,1704 385,1704 411,1704 438,1704 464,1704 490,1704 516,1704 542,1704 568,1702 594,1702 621,1702 647,1703 673,1704 699,1704 725,1704 751,1704 778,1702"/>
+                <TextEquiv>
+                    <Unicode>* Dutch Government Records of Cochin M.S.S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

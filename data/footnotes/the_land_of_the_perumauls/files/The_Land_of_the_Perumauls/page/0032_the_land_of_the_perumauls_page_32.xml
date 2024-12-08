@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:30.312+01:00</Created>
+        <LastChange>2024-12-04T10:23:07.790+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959424" pageNr="32" tsid="209646214" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=UNBVQGAEGQDSDPSTONECCOXT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FNUIQSLCFSMIBVSQDSIEVXIE" imageId="70209328"/>
+    </Metadata>
+    <Page imageFilename="0032_the_land_of_the_perumauls_page_32.jpg" imageWidth="1184" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399404" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="173,243 173,1751 1081,1751 1081,243"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="443,274 618,272 726,294 790,278 790,244 745,244 731,230 718,243 689,234 679,244 443,237"/>
+                <Baseline points="450,264 476,266 502,266 529,265 555,263 581,263 608,264 634,264 661,264 687,264 713,264 740,264 766,264 793,264"/>
+                <TextEquiv>
+                    <Unicode>AYROOR.—KODACHAYREE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="167,342 1070,344 1070,297 167,311"/>
+                <Baseline points="173,321 218,333 263,331 308,332 353,331 398,330 443,331 488,330 533,331 578,330 623,331 668,331 713,331 758,333 803,331 848,333 893,332 938,333 983,331 1028,331 1073,331"/>
+                <TextEquiv>
+                    <Unicode>There is a fine upstairs Cutcherry at Cranganorc, (the native town)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="169,384 1066,385 1056,350 169,356"/>
+                <Baseline points="175,369 219,373 264,371 308,371 353,369 398,370 442,369 487,371 532,369 576,369 621,369 666,370 710,371 755,371 800,371 844,371 889,371 934,371 978,371 1023,371 1068,369"/>
+                <TextEquiv>
+                    <Unicode>situated in front of the pagoda, which no low easte man may</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="169,418 1067,416 1067,387 1029,382 169,391"/>
+                <Baseline points="175,412 219,411 264,412 309,411 354,410 398,408 443,408 488,408 533,408 577,409 622,410 667,409 712,408 756,410 801,410 846,411 891,412 935,411 980,410 1025,410 1070,408"/>
+                <TextEquiv>
+                    <Unicode>approach. Therc is also a good bazaar. The road towards the soutli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="169,458 1073,460 1053,421 169,425"/>
+                <Baseline points="175,452 220,452 265,451 310,448 355,449 400,450 445,448 490,448 535,450 580,449 625,450 670,450 715,450 760,450 805,450 850,451 895,452 940,450 985,450 1030,450 1075,446"/>
+                <TextEquiv>
+                    <Unicode>lcads to a palace of the Cochin Rajah, which is about one mile</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="169,498 195,499 203,507 212,502 217,505 230,497 248,500 255,495 264,502 276,502 276,465 227,464 223,468 202,468 190,463 183,468 169,468"/>
+                <Baseline points="175,487 200,487 226,488 252,489 278,489"/>
+                <TextEquiv>
+                    <Unicode>distant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="203,539 1073,545 1073,493 203,503"/>
+                <Baseline points="209,527 252,527 295,527 338,525 382,527 425,527 468,527 512,527 555,529 598,527 642,528 685,529 728,528 771,526 815,529 858,529 901,529 945,527 988,529 1031,527 1075,523"/>
+                <TextEquiv>
+                    <Unicode>Stretehing between Cranganore and Chetwye, the island is divided</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="167,576 1070,576 1046,541 167,542"/>
+                <Baseline points="173,566 218,566 263,567 308,566 353,566 398,566 443,566 488,564 533,568 578,566 623,566 668,566 713,566 758,567 803,568 848,568 893,568 938,565 983,566 1028,566 1073,564"/>
+                <TextEquiv>
+                    <Unicode>into three small States, Cranganore to the south, Chetwye to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="167,617 1069,624 1069,575 167,587"/>
+                <Baseline points="173,606 220,606 267,608 314,606 362,604 409,604 456,604 504,606 551,606 598,606 646,606 693,606 740,606 788,607 835,606 882,606 930,606 977,606 1024,606 1072,604"/>
+                <TextEquiv>
+                    <Unicode>north, and Paponetty or Ayroor or Belanga in the centre. In 1743</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="175,659 1069,653 1051,619 175,624"/>
+                <Baseline points="181,643 225,643 270,645 314,643 359,643 403,643 448,643 492,643 537,645 581,644 626,643 671,644 715,645 760,645 804,643 849,645 893,645 938,644 982,643 1027,644 1072,645"/>
+                <TextEquiv>
+                    <Unicode>the ruler of Ayroor was nephew to the Cranganorc Rajali,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="171,694 1067,689 1067,661 997,654 171,658"/>
+                <Baseline points="177,683 221,684 266,683 310,683 355,683 400,681 444,683 489,682 534,683 578,683 623,683 668,683 712,683 757,684 802,685 846,683 891,683 936,683 980,685 1025,683 1070,681"/>
+                <TextEquiv>
+                    <Unicode>both were stated “ to be poor princes, without any power. Ayroor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="167,720 1067,731 1059,693 167,696"/>
+                <Baseline points="173,714 217,718 262,722 307,721 352,722 397,720 442,722 486,721 531,722 576,722 621,722 666,722 711,722 756,723 800,722 845,722 890,724 935,722 980,722 1025,722 1070,720"/>
+                <TextEquiv>
+                    <Unicode>“ was taken from the Samorin by the Dutch, in 1717, and settled</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="171,763 1073,764 1054,729 171,737"/>
+                <Baseline points="177,752 221,758 266,762 311,761 356,760 401,762 446,760 491,760 536,760 581,762 626,762 670,761 715,762 760,762 805,762 850,761 895,762 940,762 985,762 1030,762 1075,758"/>
+                <TextEquiv>
+                    <Unicode>“upon the Company, as were tlic lands of Trikonetty, Aeraltoo, Aral¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="195,814 1073,813 1073,785 1025,774 195,772"/>
+                <Baseline points="201,797 244,800 288,801 332,799 375,801 419,800 463,799 506,801 550,799 594,800 638,799 681,801 725,800 769,799 812,801 856,801 900,801 943,801 987,801 1031,801 1075,801"/>
+                <TextEquiv>
+                    <Unicode>tapala, Moodele, Coonattoo, and Pootenbarc, which last six districts,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="171,840 1073,850 1073,812 171,816"/>
+                <Baseline points="177,831 221,839 266,841 311,840 356,837 401,837 446,839 491,838 536,839 581,838 626,839 670,839 715,839 760,841 805,839 850,839 895,841 940,841 985,840 1030,841 1075,841"/>
+                <TextEquiv>
+                    <Unicode>“comprising 184 villages, werc given by the Extra Councillor General</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="167,879 1069,887 1069,848 714,870 167,841"/>
+                <Baseline points="173,868 220,874 267,880 314,876 362,877 409,878 456,878 504,878 551,878 598,878 646,878 693,878 740,878 788,878 835,878 882,878 930,879 977,880 1024,880 1072,878"/>
+                <TextEquiv>
+                    <Unicode>“ in Chief, Willem Backer Jacobsz, as a present to the Rajah of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="171,915 1073,922 1040,892 171,896"/>
+                <Baseline points="177,908 221,916 266,918 311,915 356,916 401,915 446,916 491,915 536,914 581,915 626,916 670,917 715,918 760,916 805,918 850,916 895,916 940,918 985,918 1030,918 1075,916"/>
+                <TextEquiv>
+                    <Unicode>Cochin.” Subscquently by desire of the Batavian Supreme Go¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="171,955 1071,970 1071,940 957,924 171,933"/>
+                <Baseline points="177,953 221,955 266,955 311,954 356,953 401,953 445,953 490,955 535,955 580,954 625,955 669,957 714,955 759,956 804,955 849,955 893,955 938,956 983,957 1028,957 1073,959"/>
+                <TextEquiv>
+                    <Unicode>vernment, they were resumed : but in accordance with fresli orders.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="171,1002 1071,1008 1071,980 978,966 171,972"/>
+                <Baseline points="177,995 221,995 266,994 311,995 356,995 401,993 445,995 490,994 535,995 580,995 625,995 669,995 714,995 759,996 804,995 849,995 893,996 938,995 983,996 1028,996 1073,993"/>
+                <TextEquiv>
+                    <Unicode>contained in a Secret letter from Batavia, dated July 4th, 1740, they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="172,1037 200,1049 390,1033 404,1043 549,1039 549,1011 528,1003 172,1015"/>
+                <Baseline points="179,1032 205,1030 232,1032 258,1033 285,1033 312,1032 338,1032 365,1032 392,1032 418,1034 445,1032 472,1030 498,1033 525,1033 552,1032"/>
+                <TextEquiv>
+                    <Unicode>were restored to that Princc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="212,1087 1073,1086 1071,1044 211,1042"/>
+                <Baseline points="217,1066 259,1072 302,1072 345,1072 388,1072 431,1072 473,1072 516,1073 559,1072 602,1072 645,1073 687,1070 730,1073 773,1071 816,1073 859,1073 901,1073 944,1073 987,1072 1030,1073 1073,1072"/>
+                <TextEquiv>
+                    <Unicode>The Kodachayree division consists partly of plains and partly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="167,1121 1073,1119 1043,1083 167,1101"/>
+                <Baseline points="173,1109 218,1112 263,1111 308,1111 353,1111 398,1111 443,1111 488,1111 533,1109 578,1110 624,1111 669,1111 714,1111 759,1111 804,1111 849,1111 894,1111 939,1113 984,1113 1029,1113 1075,1111"/>
+                <TextEquiv>
+                    <Unicode>of hills, and is of a most irregular form. Its easter side is bounded</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="177,1167 1069,1161 1057,1125 177,1127"/>
+                <Baseline points="183,1150 227,1150 271,1150 316,1150 360,1149 405,1149 449,1149 494,1150 538,1150 583,1150 627,1150 671,1150 716,1150 760,1150 805,1150 849,1151 894,1150 938,1151 983,1152 1027,1152 1072,1150"/>
+                <TextEquiv>
+                    <Unicode>for twenty miles by the Shallacoodec river, separating it for much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="171,1198 1078,1198 1068,1171 941,1162 171,1167"/>
+                <Baseline points="177,1190 222,1190 267,1188 312,1190 357,1188 403,1190 448,1190 493,1188 538,1188 583,1190 629,1190 674,1190 719,1188 764,1189 809,1190 855,1190 900,1190 945,1190 990,1190 1035,1191 1081,1188"/>
+                <TextEquiv>
+                    <Unicode>of this distance from the Iddiara and Naithoad hills, belonging to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="179,1236 1074,1236 1052,1201 179,1202"/>
+                <Baseline points="185,1224 229,1227 274,1227 318,1226 363,1227 408,1227 452,1229 497,1229 541,1227 586,1228 631,1225 675,1227 720,1227 764,1228 809,1227 854,1228 898,1227 943,1228 987,1229 1032,1229 1077,1227"/>
+                <TextEquiv>
+                    <Unicode>Travancorc, which last. State also possesses sovercignty over the Al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="171,1278 1077,1278 1077,1244 1044,1241 171,1241"/>
+                <Baseline points="177,1265 222,1266 267,1267 312,1267 357,1267 402,1267 447,1267 492,1267 537,1267 582,1267 628,1267 673,1267 718,1267 763,1267 808,1267 853,1269 898,1266 943,1267 988,1268 1033,1269 1079,1267"/>
+                <TextEquiv>
+                    <Unicode>lungaad distriet, whieh bounds it for about twenty milcs on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="167,1308 1076,1322 1076,1281 167,1286"/>
+                <Baseline points="173,1304 218,1306 263,1306 308,1306 354,1306 399,1306 444,1304 490,1306 535,1306 580,1306 626,1306 671,1306 716,1307 761,1306 807,1306 852,1308 897,1306 943,1308 988,1308 1033,1308 1079,1306"/>
+                <TextEquiv>
+                    <Unicode>south. Its arbitrary lincs of demarcation from other districts, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="171,1355 1071,1359 1054,1316 171,1321"/>
+                <Baseline points="177,1344 221,1344 266,1344 311,1344 356,1344 401,1346 445,1346 490,1344 535,1346 580,1346 625,1346 669,1346 714,1346 759,1346 804,1346 849,1346 893,1348 938,1347 983,1348 1028,1348 1073,1348"/>
+                <TextEquiv>
+                    <Unicode>also from the Tunnalapuram talook of British Malabar on its east,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="173,1395 1071,1395 1058,1356 172,1358"/>
+                <Baseline points="179,1381 223,1383 268,1383 313,1384 357,1383 402,1384 447,1383 491,1384 536,1385 581,1384 626,1385 670,1385 715,1385 760,1385 804,1385 849,1385 894,1385 938,1385 983,1385 1028,1386 1073,1385"/>
+                <TextEquiv>
+                    <Unicode>are too complicated to define. It comprises 342 squarc miles of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="175,1434 1073,1430 1044,1396 849,1388 175,1398"/>
+                <Baseline points="181,1421 225,1423 270,1421 315,1423 359,1423 404,1423 449,1423 493,1423 538,1423 583,1423 628,1423 672,1423 717,1425 762,1424 806,1425 851,1425 896,1425 940,1425 985,1425 1030,1426 1075,1423"/>
+                <TextEquiv>
+                    <Unicode>country, and is divided into four Proverties, Kodachayree, Paulathin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="177,1481 599,1476 599,1444 565,1435 344,1446 177,1435"/>
+                <Baseline points="183,1458 209,1461 235,1464 261,1464 287,1464 313,1463 340,1461 366,1460 392,1462 418,1462 444,1462 471,1462 497,1462 523,1462 549,1462 575,1462 602,1460"/>
+                <TextEquiv>
+                    <Unicode>gul, Thaulaycaad, and Koruttec.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="203,1508 983,1521 1075,1511 1075,1481 202,1473"/>
+                <Baseline points="209,1500 252,1502 295,1502 339,1500 382,1502 426,1501 469,1500 512,1500 556,1502 599,1502 643,1502 686,1502 729,1502 773,1504 816,1504 860,1504 903,1504 946,1504 990,1503 1033,1504 1077,1502"/>
+                <TextEquiv>
+                    <Unicode>Kodaehayree is one of its largest sub-divisions, not one twentieth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="167,1544 1076,1557 1058,1515 167,1523"/>
+                <Baseline points="173,1537 218,1538 263,1539 308,1539 354,1539 399,1539 444,1539 490,1539 535,1541 580,1541 626,1542 671,1541 716,1543 761,1543 807,1543 852,1543 897,1543 943,1543 988,1543 1033,1543 1079,1543"/>
+                <TextEquiv>
+                    <Unicode>of which is under cultivation. In the Duteh Government records</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="171,1586 1071,1600 1071,1559 994,1554 171,1557"/>
+                <Baseline points="177,1579 221,1578 266,1579 311,1580 356,1579 401,1579 445,1577 490,1579 535,1581 580,1581 625,1581 669,1581 714,1583 759,1582 804,1583 849,1582 893,1581 938,1582 983,1583 1028,1583 1073,1581"/>
+                <TextEquiv>
+                    <Unicode>for 1743, it is stated,“ the lands of thie Kodachayrec petty Kaimul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="171,1618 1074,1633 1039,1591 171,1594"/>
+                <Baseline points="177,1608 222,1613 267,1616 312,1618 357,1616 402,1617 447,1618 492,1618 537,1620 582,1620 627,1620 672,1620 717,1620 762,1622 807,1621 852,1620 897,1622 942,1620 987,1622 1032,1622 1077,1620"/>
+                <TextEquiv>
+                    <Unicode>“ lic between Paroor, Cranganore, the Cochin territory, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="171,1658 1074,1668 1074,1635 171,1638"/>
+                <Baseline points="177,1648 222,1654 267,1658 312,1659 357,1658 402,1658 447,1658 492,1659 537,1660 582,1660 627,1660 672,1660 717,1660 762,1660 807,1659 852,1660 897,1661 942,1660 987,1661 1032,1660 1077,1652"/>
+                <TextEquiv>
+                    <Unicode>“ghauts, and annually yield 125 eandies of pepper, whilst the best</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="206,1706 1076,1707 1017,1669 206,1675"/>
+                <Baseline points="213,1693 256,1697 299,1697 342,1695 386,1697 429,1696 472,1697 516,1697 559,1697 602,1699 646,1697 689,1699 732,1699 775,1699 819,1699 862,1699 905,1697 949,1699 992,1701 1035,1699 1079,1697"/>
+                <TextEquiv>
+                    <Unicode>cardamoms eome from that plaee : but that, and the wax, are in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="204,1746 573,1770 1076,1746 1075,1709 1029,1705 203,1706"/>
+                <Baseline points="209,1735 252,1736 295,1737 339,1737 382,1739 426,1737 469,1739 512,1737 556,1739 599,1739 643,1739 686,1741 729,1740 773,1741 816,1739 860,1741 903,1741 946,1739 990,1741 1033,1741 1077,1739"/>
+                <TextEquiv>
+                    <Unicode>the hands of the Jesuits, who are located at Ambalacatty, and thei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

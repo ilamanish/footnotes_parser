@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:30.057+01:00</Created>
+        <LastChange>2024-12-04T10:23:07.393+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959423" pageNr="29" tsid="209646093" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=GBGQDBKHVRPAMYJVUFKMVJHA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZNJMESNDFTJQRIKQJVLJWHGL" imageId="70209327"/>
+    </Metadata>
+    <Page imageFilename="0029_the_land_of_the_perumauls_page_29.jpg" imageWidth="1170" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399351" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="58,243 58,1748 958,1748 958,243"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="259,278 683,294 749,276 749,243 628,230 610,246 483,230 432,248 259,242"/>
+                <Baseline points="265,265 290,265 316,265 341,265 367,265 393,265 418,264 444,264 470,265 495,265 521,265 546,265 572,265 598,265 623,265 649,264 675,263 700,263 726,263 752,263"/>
+                <TextEquiv>
+                    <Unicode>PALLIPORT.—MIRACULOUS PAINTING.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="87,337 954,336 919,296 87,294"/>
+                <Baseline points="93,329 136,330 179,329 222,328 265,327 309,329 352,329 395,328 438,329 481,329 525,329 568,329 611,329 654,329 697,329 741,329 784,329 827,329 870,329 913,329 957,329"/>
+                <TextEquiv>
+                    <Unicode>Tlicre are several other small villages of no note, until Palliport</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="56,385 954,383 944,334 56,338"/>
+                <Baseline points="62,370 106,370 151,368 196,368 241,368 285,368 330,368 375,366 420,368 464,366 509,368 554,368 599,367 643,368 688,368 733,368 778,368 822,368 867,368 912,368 957,370"/>
+                <TextEquiv>
+                    <Unicode>(Pallipuram, or Mannapaad) is reached. Here is a holy pagoda,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="56,416 951,413 944,382 56,387"/>
+                <Baseline points="62,407 106,407 151,407 195,407 240,405 284,407 329,405 373,406 418,407 462,407 507,407 552,407 596,407 641,407 685,407 730,407 774,407 819,407 863,407 908,407 953,407"/>
+                <TextEquiv>
+                    <Unicode>where trials by crocodile ordeals took place, after the prisoner had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="52,462 948,455 937,414 52,418"/>
+                <Baseline points="58,446 102,448 147,447 191,448 236,446 281,446 325,445 370,446 415,446 459,446 504,446 549,446 593,446 638,446 683,446 727,445 772,446 817,446 861,446 906,446 951,444"/>
+                <TextEquiv>
+                    <Unicode>been sworn before the idol. Just to the north of this is a ditch divid¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="52,489 954,496 936,457 52,462"/>
+                <Baseline points="58,485 105,487 152,485 199,485 247,485 294,485 341,483 389,484 436,485 483,485 531,485 578,485 625,485 673,485 720,485 767,484 815,485 862,485 909,485 957,483"/>
+                <TextEquiv>
+                    <Unicode>ingthe Cochin territory from thie British and that of Travancore, this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="54,530 954,530 954,496 54,506"/>
+                <Baseline points="60,526 104,526 149,525 194,524 239,524 284,524 329,524 373,524 418,524 463,524 508,523 553,524 598,524 643,524 687,524 732,524 777,524 822,523 867,524 912,524 957,524"/>
+                <TextEquiv>
+                    <Unicode>ditch is probably a remnant of the “ Travancore lines.” The ground</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="51,580 929,577 954,542 52,543"/>
+                <Baseline points="58,563 105,563 152,563 199,563 247,563 294,563 341,563 389,563 436,563 483,563 531,563 578,563 625,563 673,563 720,561 767,563 815,563 862,563 909,563 957,561"/>
+                <TextEquiv>
+                    <Unicode>from here to tlie Ayacotta opening was purchased along with the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="56,605 956,606 956,572 56,577"/>
+                <Baseline points="62,602 106,603 151,602 196,602 241,602 286,602 330,602 375,602 420,602 465,602 510,602 554,602 599,602 644,602 689,602 734,602 778,602 823,602 868,601 913,602 958,602"/>
+                <TextEquiv>
+                    <Unicode>Cranganore fort, from the Dutch, by the Travancore state. In 1743</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="56,651 956,655 956,607 56,625"/>
+                <Baseline points="62,641 106,641 151,641 196,641 241,641 286,641 330,641 375,639 420,641 465,639 510,640 554,639 599,641 644,641 689,640 734,639 778,640 823,641 868,641 913,643 958,641"/>
+                <TextEquiv>
+                    <Unicode>this territory, as already observed, was under the free lord Paliat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="60,690 954,686 954,660 898,650 60,658"/>
+                <Baseline points="66,678 110,678 155,678 199,679 244,678 288,680 333,680 377,680 422,680 466,680 511,680 556,680 600,680 645,680 689,678 734,680 778,679 823,680 867,680 912,680 957,680"/>
+                <TextEquiv>
+                    <Unicode>Acheu. The Cochin State clainis it as theirs, but it is also said to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="57,728 952,742 952,697 859,688 57,690"/>
+                <Baseline points="64,719 108,719 153,719 197,718 242,719 286,718 331,719 375,719 420,717 464,718 509,719 554,719 598,718 643,719 687,718 732,717 776,718 821,719 865,719 910,719 955,721"/>
+                <TextEquiv>
+                    <Unicode>have formed a part of Paroor, when tliat State fell to the share of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="56,773 951,764 951,739 867,730 56,732"/>
+                <Baseline points="62,756 106,758 151,758 195,758 240,758 284,757 329,756 373,756 418,756 462,757 507,758 552,758 596,758 641,758 685,757 730,758 774,758 819,758 863,758 908,758 953,756"/>
+                <TextEquiv>
+                    <Unicode>Travancore in 1763, but they did not obtain possession of this out¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="57,803 952,817 945,764 57,774"/>
+                <Baseline points="64,795 108,797 153,797 197,796 242,795 286,795 331,795 375,796 420,795 464,796 509,795 554,797 598,797 643,795 687,795 732,795 776,797 821,797 865,797 910,797 955,801"/>
+                <TextEquiv>
+                    <Unicode>lying place, because the Dutch lield it as their own. To the north,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="57,841 955,844 893,809 57,810"/>
+                <Baseline points="64,834 108,834 153,836 197,835 242,836 287,834 331,834 376,834 421,834 465,834 510,834 555,834 599,836 644,836 689,836 733,836 778,836 823,836 867,836 912,838 957,838"/>
+                <TextEquiv>
+                    <Unicode>and close to this ditch, is the Palliport Lazaretto, or Leper asylum:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="52,878 948,889 935,847 52,850"/>
+                <Baseline points="58,875 102,874 147,875 191,873 236,873 281,873 325,873 370,873 415,873 459,873 504,873 549,873 593,873 638,873 683,875 727,873 772,874 817,875 861,874 906,877 951,877"/>
+                <TextEquiv>
+                    <Unicode>it and the grounds on which it stands, are Britisli property. Origi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="56,927 954,922 954,887 56,884"/>
+                <Baseline points="62,914 106,913 151,912 196,912 241,914 285,912 330,912 375,911 420,912 464,912 509,912 554,912 599,911 643,912 688,913 733,914 778,913 822,914 867,914 912,916 957,914"/>
+                <TextEquiv>
+                    <Unicode>nally a Portuguese buildinig, erected as a Syrian College in 1587, it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="60,964 952,962 952,930 898,926 60,928"/>
+                <Baseline points="66,949 110,951 154,951 199,951 243,951 288,951 332,951 377,951 421,951 466,951 510,951 554,951 599,951 643,951 688,951 732,953 777,953 821,953 866,953 910,955 955,953"/>
+                <TextEquiv>
+                    <Unicode>was turned by the Dutch to its present use. Tlie number of patients</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="59,1001 903,1010 952,976 57,965"/>
+                <Baseline points="64,990 108,990 153,990 197,990 242,990 286,989 331,990 375,990 420,990 464,990 509,988 554,990 598,990 643,990 687,990 732,990 776,991 821,992 865,994 910,994 955,990"/>
+                <TextEquiv>
+                    <Unicode>they maintained there for the last fifty years of their rule, averaged less</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="56,1035 954,1038 927,1006 56,1006"/>
+                <Baseline points="62,1029 106,1028 151,1029 196,1028 241,1027 285,1028 330,1027 375,1027 420,1027 464,1029 509,1028 554,1029 599,1028 643,1025 688,1027 733,1029 778,1029 822,1031 867,1031 912,1033 957,1033"/>
+                <TextEquiv>
+                    <Unicode>than ten: now thiere are usually, above forty. Next to this is a fine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="57,1074 952,1089 943,1044 57,1050"/>
+                <Baseline points="64,1068 108,1068 153,1068 197,1066 242,1066 286,1067 331,1066 375,1066 420,1066 464,1064 509,1066 554,1068 598,1067 643,1066 687,1068 732,1068 776,1068 821,1068 865,1070 910,1070 955,1070"/>
+                <TextEquiv>
+                    <Unicode>church, where the feast of thie “ Virgin Mary” is annually held with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="62,1129 952,1122 928,1087 62,1082"/>
+                <Baseline points="68,1105 112,1107 156,1107 201,1106 245,1105 289,1107 334,1105 378,1105 422,1105 467,1105 511,1105 555,1105 600,1107 644,1107 688,1107 733,1107 777,1108 821,1107 866,1109 910,1110 955,1110"/>
+                <TextEquiv>
+                    <Unicode>great pomp: it is said that an oil painting of her floated over the sea,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="52,1154 955,1167 937,1121 52,1132"/>
+                <Baseline points="58,1146 103,1146 148,1146 193,1146 238,1144 283,1144 328,1144 373,1144 418,1144 463,1144 508,1145 553,1146 598,1146 643,1146 688,1146 733,1146 778,1146 823,1148 868,1148 913,1149 958,1148"/>
+                <TextEquiv>
+                    <Unicode>and appeared off the shores of Palliport. A short way to the norti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="56,1194 954,1202 933,1159 55,1159"/>
+                <Baseline points="62,1183 106,1183 151,1185 196,1183 241,1183 285,1183 330,1183 375,1183 420,1183 464,1183 509,1183 554,1183 599,1185 643,1185 688,1185 733,1185 778,1186 822,1185 867,1187 912,1188 957,1187"/>
+                <TextEquiv>
+                    <Unicode>is a comfortable house, and close to it a small octagon tower, built</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="56,1234 951,1232 916,1199 56,1197"/>
+                <Baseline points="62,1222 106,1221 151,1222 195,1222 240,1222 284,1222 329,1222 373,1222 418,1222 462,1222 507,1222 552,1222 596,1223 641,1224 685,1224 730,1224 774,1223 819,1225 863,1225 908,1225 953,1225"/>
+                <TextEquiv>
+                    <Unicode>by the Portuguese, to command the neighbouring backwater :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="56,1269 686,1270 686,1242 649,1235 56,1241"/>
+                <Baseline points="62,1261 93,1261 124,1263 155,1261 187,1261 218,1261 249,1261 281,1261 312,1261 343,1261 375,1261 406,1261 437,1261 468,1261 500,1261 531,1261 562,1261 594,1261 625,1261 656,1262 688,1261"/>
+                <TextEquiv>
+                    <Unicode>within this building is a well of good water.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="87,1312 953,1312 929,1276 87,1275"/>
+                <Baseline points="93,1300 136,1300 179,1300 222,1300 265,1300 308,1300 351,1300 394,1299 437,1300 480,1300 524,1300 567,1300 610,1300 653,1300 696,1301 739,1302 782,1303 825,1303 868,1303 911,1305 955,1307"/>
+                <TextEquiv>
+                    <Unicode>Tlie Muluacaad sub-division is composed of ten small islands</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="54,1344 948,1359 948,1317 849,1308 54,1306"/>
+                <Baseline points="60,1337 104,1339 149,1339 193,1339 238,1339 282,1339 327,1337 371,1337 416,1337 460,1338 505,1339 550,1339 594,1339 639,1339 683,1339 728,1340 772,1340 817,1342 861,1342 906,1344 951,1344"/>
+                <TextEquiv>
+                    <Unicode>the backwater, most of which are under wet cultivation. The Bri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="54,1390 946,1391 936,1358 54,1352"/>
+                <Baseline points="60,1376 104,1378 148,1378 193,1378 237,1378 282,1378 326,1378 371,1377 415,1376 460,1378 504,1378 548,1378 593,1378 637,1378 682,1379 726,1379 771,1381 815,1379 860,1380 904,1383 949,1381"/>
+                <TextEquiv>
+                    <Unicode>tish Residency, as already stated, is situated on Balghatty (Ponye-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="52,1426 948,1439 948,1399 915,1393 52,1391"/>
+                <Baseline points="58,1417 102,1417 147,1417 191,1417 236,1415 281,1416 325,1417 370,1417 415,1417 459,1417 504,1417 549,1417 593,1417 638,1417 683,1418 727,1418 772,1420 817,1420 861,1420 906,1422 951,1422"/>
+                <TextEquiv>
+                    <Unicode>urra), one of the ten, 21 miles from the Cochin flagstaff. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="53,1474 951,1482 924,1437 52,1434"/>
+                <Baseline points="58,1455 102,1455 147,1455 192,1455 237,1455 281,1455 326,1454 371,1455 416,1455 460,1455 505,1455 550,1455 595,1455 639,1457 684,1456 729,1457 774,1456 818,1457 863,1459 908,1461 953,1463"/>
+                <TextEquiv>
+                    <Unicode>nosition of this house is delightful, aud its construction very superior;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="56,1506 945,1506 945,1473 56,1479"/>
+                <Baseline points="62,1493 106,1496 150,1496 194,1494 239,1494 283,1494 327,1494 371,1493 416,1493 460,1494 504,1494 548,1494 593,1494 637,1495 681,1496 725,1496 770,1496 814,1497 858,1498 902,1498 947,1498"/>
+                <TextEquiv>
+                    <Unicode>whilst from its upstairs verandah a most picturesque view is ob</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="52,1537 952,1549 952,1514 851,1510 52,1518"/>
+                <Baseline points="58,1533 102,1534 147,1533 192,1533 237,1533 282,1533 327,1533 371,1533 416,1533 461,1533 506,1533 551,1533 596,1533 641,1535 685,1535 730,1535 775,1537 820,1537 865,1538 910,1541 955,1541"/>
+                <TextEquiv>
+                    <Unicode>tajuable. Abont these islands, multitudes of ducks are reared, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="56,1581 954,1587 954,1558 811,1546 56,1555"/>
+                <Baseline points="62,1574 106,1574 151,1574 196,1573 241,1572 285,1572 330,1572 375,1572 420,1572 464,1572 509,1572 554,1572 599,1573 643,1572 688,1574 733,1576 778,1576 822,1576 867,1578 912,1578 957,1580"/>
+                <TextEquiv>
+                    <Unicode>tnd a ready sale in Cochin. Ramanthoorty, or Candle island, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="57,1618 916,1635 948,1599 56,1591"/>
+                <Baseline points="64,1611 108,1613 152,1613 197,1611 241,1611 285,1611 330,1611 374,1610 418,1611 463,1611 507,1609 551,1611 596,1613 640,1613 684,1613 729,1615 773,1615 817,1615 862,1617 906,1619 951,1619"/>
+                <TextEquiv>
+                    <Unicode>rmerly a great resort for smugglers, but is now rented by the Ra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="60,1657 925,1670 943,1629 59,1636"/>
+                <Baseline points="66,1650 110,1651 154,1652 198,1652 242,1650 286,1649 330,1650 374,1650 418,1650 462,1650 506,1650 550,1651 594,1652 638,1652 682,1652 726,1654 770,1654 814,1655 858,1658 902,1658 947,1656"/>
+                <TextEquiv>
+                    <Unicode>ol's Covernment. Moorakumpard is another island in the back¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="62,1698 851,1713 952,1705 951,1675 61,1670"/>
+                <Baseline points="68,1687 112,1691 156,1691 201,1690 245,1689 289,1689 334,1689 378,1688 422,1689 467,1689 511,1689 555,1690 600,1691 644,1691 688,1691 733,1691 777,1692 821,1695 866,1696 910,1697 955,1697"/>
+                <TextEquiv>
+                    <Unicode>ater, the property of a Native: or ratlier the water was so, where</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="57,1738 952,1746 952,1713 913,1709 57,1705"/>
+                <Baseline points="64,1728 108,1730 152,1730 197,1730 241,1730 286,1730 330,1730 375,1730 419,1730 464,1730 508,1730 552,1730 597,1732 641,1732 686,1732 730,1732 775,1735 819,1736 864,1735 908,1738 953,1736"/>
+                <TextEquiv>
+                    <Unicode>e land now is. He has for twenty years the right to any portion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

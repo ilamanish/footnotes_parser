@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:29.054+01:00</Created>
+        <LastChange>2024-12-04T11:16:59.506+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959418" pageNr="17" tsid="209665153" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=PRIFYTIZAZMZFIEIFFVAHUPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDUARQAYRYLLBUFHGEFTAKWV" imageId="70209322"/>
+    </Metadata>
+    <Page imageFilename="0017_the_land_of_the_perumauls_page_17.jpg" imageWidth="1167" imageHeight="1989">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399177" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="128,254 128,1794 1036,1794 1036,254"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="511,281 569,287 592,281 608,287 632,281 654,289 654,240 625,240 619,234 581,250 574,245 511,244"/>
+                <Baseline points="517,274 545,274 573,274 601,274 629,274 657,274"/>
+                <TextEquiv>
+                    <Unicode>CONTENTS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_4" custom="readingOrder {index:1;} structure {type:page-number;}">
+                <Coords points="1011,290 1041,285 1036,255 1006,260"/>
+                <Baseline points="1011,290 1041,285"/>
+                <TextEquiv>
+                    <Unicode>ix</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="161,343 983,346 983,313 944,305 161,319"/>
+                <Baseline points="167,334 207,336 248,334 289,334 330,335 371,336 412,334 453,334 494,334 535,336 576,334 616,336 657,336 698,336 739,336 780,336 821,336 862,336 903,336 944,337 985,334"/>
+                <TextEquiv>
+                    <Unicode>Day of wailing—Feast of Tabernacles—Similarity of Jewish and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="161,377 974,377 973,351 872,344 160,350"/>
+                <Baseline points="167,369 207,369 248,369 288,367 329,369 369,367 410,367 450,369 491,368 531,368 572,367 612,369 653,369 693,369 734,369 774,371 815,370 855,369 896,369 936,369 977,367"/>
+                <TextEquiv>
+                    <Unicode>Hindu Tabernaceles—History of Jews of Cochin—Early settlement—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="159,410 978,411 978,383 943,379 159,378"/>
+                <Baseline points="165,402 205,402 246,402 287,400 328,401 369,402 409,402 450,402 491,400 532,402 573,402 613,402 654,402 695,404 736,403 777,404 817,404 858,402 899,402 940,404 981,404"/>
+                <TextEquiv>
+                    <Unicode>First rulers—Destruction of Cranganore—Total defeat of Jews by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="159,441 1033,450 1033,413 159,411"/>
+                <Baseline points="165,435 208,437 252,435 295,436 339,435 382,436 426,435 469,435 513,435 556,435 600,435 644,437 687,437 731,437 774,437 818,438 861,439 905,439 948,439 992,438 1036,435"/>
+                <TextEquiv>
+                    <Unicode>Moors—Migration to Cochin—Dutch—English</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:6;} structure {type:page-number;}">
+                <Coords points="992,448 1038,448 1038,418 992,418"/>
+                <Baseline points="992,448 1038,448"/>
+                <TextEquiv>
+                    <Unicode>336</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:7;}">
+                <Coords points="493,497 552,495 571,485 607,497 683,491 683,462 671,459 634,464 620,457 493,455"/>
+                <Baseline points="499,480 525,480 552,480 579,477 605,477 632,479 659,481 686,482"/>
+                <TextEquiv>
+                    <Unicode>CHATTER IX.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:8;}">
+                <Coords points="133,526 977,519 934,493 133,497"/>
+                <Baseline points="139,515 181,515 223,515 265,514 307,515 349,515 391,515 433,517 475,516 517,513 559,515 601,517 643,517 685,517 727,517 769,517 811,517 853,517 895,515 937,515 979,513"/>
+                <TextEquiv>
+                    <Unicode>Mahomedans in the Cochin State—Mahomed, his rise, teaching, and death—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:9;}">
+                <Coords points="159,558 978,569 960,525 159,525"/>
+                <Baseline points="165,548 205,548 246,546 287,546 328,548 369,546 409,548 450,550 491,550 532,548 573,548 613,549 654,548 695,550 736,550 777,548 817,549 858,548 899,548 940,549 981,548"/>
+                <TextEquiv>
+                    <Unicode>The four Caliphs—The Imams—Sheeas—Soonees — Rise of various</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:10;}">
+                <Coords points="155,592 973,586 910,557 155,562"/>
+                <Baseline points="161,581 201,582 242,581 283,581 324,581 364,581 405,581 446,583 487,583 527,582 568,581 609,583 650,583 690,583 731,583 772,583 813,583 853,583 894,583 935,582 976,579"/>
+                <TextEquiv>
+                    <Unicode>schools—Creed spreads to India—Division of Indian Mahomedans—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:11;}">
+                <Coords points="155,625 974,620 974,589 155,596"/>
+                <Baseline points="161,616 201,614 242,614 283,614 324,614 365,616 405,616 446,616 487,616 528,616 569,616 609,616 650,616 691,616 732,615 773,616 813,616 854,616 895,614 936,614 977,614"/>
+                <TextEquiv>
+                    <Unicode>Hindu rites become engrafted on new creed—Caste distinctions com-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:12;}">
+                <Coords points="153,653 977,656 977,619 153,633"/>
+                <Baseline points="159,647 200,648 241,646 282,647 323,646 364,647 405,648 446,649 487,647 528,648 569,647 610,649 651,648 692,647 733,648 774,647 815,647 856,647 897,647 938,645 979,645"/>
+                <TextEquiv>
+                    <Unicode>mence—Origin of Moplahs—Persecutions of Portuguese—Beebee of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:13;}">
+                <Coords points="159,698 976,686 946,652 159,658"/>
+                <Baseline points="165,682 205,681 246,680 286,679 327,680 368,680 408,680 449,680 489,678 530,681 571,682 611,680 652,682 692,680 733,680 774,680 814,678 855,680 895,680 936,680 977,680"/>
+                <TextEquiv>
+                    <Unicode>Cannanore—Hyder—Tippoo—English—Priests—Rites—Feasts—Mar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:14;}">
+                <Coords points="153,720 966,718 933,687 153,700"/>
+                <Baseline points="159,713 199,714 239,713 280,714 320,713 361,715 401,714 442,715 482,715 523,715 563,715 603,715 644,715 684,714 725,714 765,713 806,713 846,713 887,715 927,714 968,711"/>
+                <TextEquiv>
+                    <Unicode>riages—Unlucky days—Seclusion of women—Dirty race—Burials—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:15;}">
+                <Coords points="157,754 1026,756 1014,717 943,743 157,726"/>
+                <Baseline points="163,748 206,748 249,748 292,748 336,748 379,748 422,748 465,749 509,750 552,751 595,750 638,751 682,750 725,749 768,748 811,748 855,748 898,750 941,750 984,748 1028,746"/>
+                <TextEquiv>
+                    <Unicode>Fast of Mohorrum—Ramzan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:16;} structure {type:page-number;}">
+                <Coords points="989,755 1032,755 1032,725 989,725"/>
+                <Baseline points="989,755 1032,755"/>
+                <TextEquiv>
+                    <Unicode>355</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:17;}">
+                <Coords points="491,797 511,803 578,800 589,808 606,799 639,798 653,806 673,801 671,778 658,772 606,767 553,776 530,767 518,774 491,772"/>
+                <Baseline points="497,793 522,791 547,791 572,791 598,791 623,792 648,793 674,793"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER X.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:18;}">
+                <Coords points="125,831 972,841 973,807 877,799 126,810"/>
+                <Baseline points="132,826 174,828 216,826 258,826 300,828 343,826 385,826 427,828 469,826 511,826 554,827 596,828 638,828 680,828 722,826 765,826 807,826 849,826 891,826 933,827 976,824"/>
+                <TextEquiv>
+                    <Unicode>Census—Ethnology—Language—Divisions of time—Birth—Horoscope—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:19;}">
+                <Coords points="153,867 969,863 893,835 153,846"/>
+                <Baseline points="159,859 199,861 240,859 280,859 321,859 362,861 402,857 443,859 484,860 524,859 565,861 606,860 646,859 687,861 728,859 768,859 809,859 850,857 890,859 931,859 972,857"/>
+                <TextEquiv>
+                    <Unicode>Children—Marriages—Deaths—Offences—Laws—Ordeals—Omens—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:20;}">
+                <Coords points="155,906 971,900 929,868 155,877"/>
+                <Baseline points="161,892 201,894 242,892 282,892 323,892 364,892 404,892 445,892 486,893 526,894 567,894 608,894 648,894 689,894 730,893 770,892 811,892 852,890 892,892 933,892 974,888"/>
+                <TextEquiv>
+                    <Unicode>Superstitions—Etiquette—Marks of distinctions—Letters—Poetry—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:21;}">
+                <Coords points="153,940 967,938 968,906 154,910"/>
+                <Baseline points="159,927 199,927 240,925 280,927 321,925 361,927 402,927 442,929 483,927 523,927 564,927 605,927 645,927 686,924 726,924 767,925 807,925 848,925 888,925 929,925 970,923"/>
+                <TextEquiv>
+                    <Unicode>Music—Theatricals—Nautches—Amusements—Dress—Ornaments—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:22;}">
+                <Coords points="161,970 1027,967 1027,941 161,938"/>
+                <Baseline points="167,960 210,961 253,960 296,960 339,962 382,961 425,962 469,961 512,960 555,961 598,962 641,962 684,961 727,960 771,961 814,962 857,962 900,962 943,962 986,962 1030,962"/>
+                <TextEquiv>
+                    <Unicode>Umbrellas—Houses—Furniture—Hospitality—Food</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:23;} structure {type:page-number;}">
+                <Coords points="986,971 1036,971 1035,941 986,941"/>
+                <Baseline points="986,971 1036,971"/>
+                <TextEquiv>
+                    <Unicode>374</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:24;}">
+                <Coords points="480,1015 504,1019 520,1010 530,1017 550,1015 566,1028 627,1007 681,1017 681,985 663,978 641,979 630,990 588,969 480,979"/>
+                <Baseline points="486,1003 514,1001 542,1001 570,1003 599,1003 627,1003 655,1003 684,1003"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER XI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:25;}">
+                <Coords points="128,1056 971,1051 730,1018 128,1027"/>
+                <Baseline points="134,1047 176,1047 218,1044 260,1046 302,1046 344,1046 386,1044 428,1045 470,1046 512,1046 554,1045 596,1046 638,1045 680,1046 722,1047 764,1046 806,1046 848,1047 890,1047 932,1047 974,1046"/>
+                <TextEquiv>
+                    <Unicode>Climate—Temperature—Monsoons—Rain fall—Land winds—Sea breeze—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:26;}">
+                <Coords points="153,1089 971,1082 885,1058 153,1062"/>
+                <Baseline points="159,1079 199,1080 240,1077 281,1077 322,1078 362,1079 403,1079 444,1081 485,1081 525,1081 566,1081 607,1081 648,1079 688,1079 729,1081 770,1081 811,1081 851,1081 892,1081 933,1080 974,1077"/>
+                <TextEquiv>
+                    <Unicode>Hailstorms—Offensive emanations from the sea—Native ideas of disease—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:27;}">
+                <Coords points="153,1123 971,1117 909,1090 153,1094"/>
+                <Baseline points="159,1114 199,1114 240,1114 281,1112 322,1112 362,1112 403,1112 444,1112 485,1112 525,1113 566,1114 607,1114 648,1114 688,1114 729,1114 770,1114 811,1114 851,1114 892,1114 933,1112 974,1110"/>
+                <TextEquiv>
+                    <Unicode>Cochin Dispensary—Fevers—Natives able to produce it themselves—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:28;}">
+                <Coords points="153,1154 974,1151 912,1123 153,1123"/>
+                <Baseline points="159,1147 199,1147 240,1147 281,1147 322,1147 363,1147 404,1147 444,1147 485,1149 526,1147 567,1147 608,1148 649,1147 690,1149 730,1148 771,1147 812,1147 853,1147 894,1147 935,1147 976,1145"/>
+                <TextEquiv>
+                    <Unicode>Native Practitioners—Small pox and vaccination—Consumption—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:29;}">
+                <Coords points="153,1188 967,1187 910,1154 153,1162"/>
+                <Baseline points="159,1176 199,1181 240,1178 280,1180 321,1180 361,1180 402,1179 442,1181 483,1182 523,1181 564,1180 605,1182 645,1182 686,1180 726,1182 767,1180 807,1180 848,1182 888,1182 929,1181 970,1178"/>
+                <TextEquiv>
+                    <Unicode>Cholera—Feasts to avert Epidemics—Curious remedies—Rheumatism—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:30;}">
+                <Coords points="157,1225 971,1226 971,1198 896,1187 157,1192"/>
+                <Baseline points="163,1213 203,1213 244,1211 284,1213 325,1212 365,1213 406,1213 446,1213 487,1215 527,1214 568,1215 609,1214 649,1213 690,1215 730,1214 771,1213 811,1211 852,1212 892,1213 933,1213 974,1213"/>
+                <TextEquiv>
+                    <Unicode>Elephant leg—Leprosy and Leper house—Fits considered to be the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:31;}">
+                <Coords points="149,1254 964,1249 851,1220 149,1238"/>
+                <Baseline points="155,1246 195,1245 236,1246 276,1245 317,1247 357,1248 398,1246 438,1246 479,1247 519,1247 560,1248 601,1248 641,1246 682,1246 722,1247 763,1246 803,1244 844,1246 884,1246 925,1246 966,1244"/>
+                <TextEquiv>
+                    <Unicode>effects of evil spirits—At Births Astrologers consulted—Witchcraft—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:32;}">
+                <Coords points="155,1289 1026,1289 1026,1260 155,1260"/>
+                <Baseline points="161,1281 204,1281 247,1281 291,1281 334,1279 377,1281 421,1281 464,1279 507,1281 551,1281 594,1281 637,1280 681,1281 724,1280 767,1281 811,1280 854,1281 897,1281 941,1281 984,1281 1028,1281"/>
+                <TextEquiv>
+                    <Unicode>Enchantments—Hill deity—Novel mode of curing all diseases</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_87" custom="readingOrder {index:33;} structure {type:page-number;}">
+                <Coords points="983,1292 1033,1291 1032,1261 982,1262"/>
+                <Baseline points="983,1292 1033,1291"/>
+                <TextEquiv>
+                    <Unicode>412</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:34;}">
+                <Coords points="472,1329 505,1337 555,1328 593,1334 615,1329 625,1336 678,1332 678,1292 626,1299 619,1306 595,1297 505,1300 488,1294 472,1301"/>
+                <Baseline points="478,1324 503,1324 528,1322 553,1322 579,1323 604,1323 629,1322 654,1324 680,1322"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER XII.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:35;}">
+                <Coords points="122,1370 973,1369 973,1334 880,1348 837,1313 783,1342 122,1339"/>
+                <Baseline points="128,1359 170,1359 212,1359 255,1359 297,1359 340,1359 382,1360 424,1359 467,1359 509,1360 552,1360 594,1359 636,1359 679,1360 721,1359 764,1359 806,1359 848,1360 891,1359 933,1360 976,1359"/>
+                <TextEquiv>
+                    <Unicode>Monkeys—Bats—Tigers—Legends respecting them—Cheetahs ; curious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:36;}">
+                <Coords points="147,1412 971,1403 960,1370 147,1380"/>
+                <Baseline points="153,1394 194,1392 235,1392 276,1390 317,1390 358,1392 399,1392 440,1392 481,1392 522,1392 563,1392 604,1393 645,1391 686,1392 727,1391 768,1392 809,1392 850,1394 891,1394 932,1393 974,1390"/>
+                <TextEquiv>
+                    <Unicode>method of destruction of one of them—Jackalls— Wild Dogs, their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:37;}">
+                <Coords points="149,1433 969,1433 887,1403 149,1412"/>
+                <Baseline points="155,1425 195,1426 236,1425 277,1425 318,1426 359,1425 400,1425 440,1427 481,1427 522,1427 563,1425 604,1427 645,1427 686,1427 726,1427 767,1427 808,1426 849,1427 890,1427 931,1427 972,1425"/>
+                <TextEquiv>
+                    <Unicode>mode of hunting—The Mongoose—Encounter between two Bears—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:38;}">
+                <Coords points="149,1465 969,1465 969,1441 806,1433 149,1440"/>
+                <Baseline points="155,1458 195,1460 236,1460 277,1458 318,1458 359,1456 400,1458 440,1460 481,1458 522,1459 563,1460 604,1460 645,1460 686,1460 726,1460 767,1460 808,1460 849,1460 890,1460 931,1459 972,1458"/>
+                <TextEquiv>
+                    <Unicode>Orange species of Porcupine—The Gour or Bison—The Malabar Ibex—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:39;}">
+                <Coords points="147,1506 1019,1505 1003,1463 968,1485 147,1468"/>
+                <Baseline points="153,1493 196,1492 239,1491 283,1492 326,1493 370,1493 413,1493 457,1493 500,1493 544,1493 587,1493 630,1494 674,1493 717,1493 761,1493 804,1493 848,1493 891,1494 935,1493 978,1493 1022,1493"/>
+                <TextEquiv>
+                    <Unicode>Massacre of Europeans in consequence of their killing a Cow—Elephants.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_132" custom="readingOrder {index:40;} structure {type:page-number;}">
+                <Coords points="977,1506 1038,1505 1037,1475 976,1476"/>
+                <Baseline points="977,1506 1038,1505"/>
+                <TextEquiv>
+                    <Unicode>435</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:41;}">
+                <Coords points="468,1550 559,1547 589,1562 607,1545 640,1553 685,1546 685,1512 654,1502 593,1510 576,1498 508,1510 468,1500"/>
+                <Baseline points="474,1535 500,1535 527,1535 553,1534 580,1535 606,1536 633,1536 659,1535 686,1537"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER XIII.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:42;}">
+                <Coords points="124,1595 968,1589 930,1551 124,1562"/>
+                <Baseline points="130,1582 172,1580 214,1580 256,1580 298,1582 340,1582 382,1580 424,1581 466,1580 508,1578 550,1580 592,1580 634,1581 676,1582 718,1582 760,1582 802,1582 844,1582 886,1582 928,1582 970,1578"/>
+                <TextEquiv>
+                    <Unicode>Tribes of birds found in different times of the year—Period of nidifica-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:43;}">
+                <Coords points="141,1615 971,1632 949,1590 141,1597"/>
+                <Baseline points="147,1611 188,1612 229,1611 271,1611 312,1613 353,1613 395,1613 436,1611 477,1613 519,1613 560,1613 601,1613 643,1613 684,1613 725,1613 767,1613 808,1613 849,1615 891,1613 932,1613 974,1615"/>
+                <TextEquiv>
+                    <Unicode>tion—Legend concerning the nest of the Brahmanee kite—Origin of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:44;}">
+                <Coords points="141,1655 968,1662 934,1623 141,1627"/>
+                <Baseline points="147,1644 188,1645 229,1644 270,1646 311,1644 352,1646 393,1645 435,1644 476,1646 517,1646 558,1646 599,1646 640,1646 681,1647 723,1647 764,1646 805,1645 846,1646 887,1646 928,1646 970,1644"/>
+                <TextEquiv>
+                    <Unicode>Owl being termed the “one legged carpenter"—Bulbul drawing off atten-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:45;}">
+                <Coords points="141,1685 968,1691 947,1659 141,1660"/>
+                <Baseline points="147,1679 188,1679 229,1679 270,1679 311,1678 352,1677 393,1677 435,1679 476,1679 517,1679 558,1679 599,1680 640,1679 681,1679 723,1679 764,1679 805,1678 846,1679 887,1679 928,1679 970,1679"/>
+                <TextEquiv>
+                    <Unicode>tion from its nest—Destruction of young Larks by ants—Nest of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:46;}">
+                <Coords points="149,1723 974,1720 974,1697 821,1688 149,1693"/>
+                <Baseline points="155,1712 196,1714 237,1712 278,1712 319,1712 360,1712 401,1712 442,1713 483,1714 524,1713 566,1714 607,1714 648,1713 689,1712 730,1714 771,1714 812,1713 853,1714 894,1714 935,1714 977,1710"/>
+                <TextEquiv>
+                    <Unicode>Tailor bird—Nest of the bottle nested sparrow—Mynah acting as a house</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:47;}">
+                <Coords points="143,1755 967,1761 967,1727 895,1721 143,1723"/>
+                <Baseline points="149,1747 190,1747 231,1747 272,1745 313,1746 354,1747 395,1747 436,1747 477,1747 518,1747 559,1745 600,1747 641,1747 682,1749 723,1747 764,1747 805,1747 846,1747 887,1745 928,1747 970,1745"/>
+                <TextEquiv>
+                    <Unicode>dog—Impudent Crows, origin of their being considered accursed by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:48;}">
+                <Coords points="145,1792 1019,1801 1005,1751 967,1773 145,1760"/>
+                <Baseline points="151,1780 194,1781 238,1780 281,1780 325,1780 368,1782 412,1782 455,1781 499,1779 542,1780 586,1780 630,1781 673,1782 717,1782 760,1782 804,1781 847,1782 891,1782 934,1784 978,1782 1022,1780"/>
+                <TextEquiv>
+                    <Unicode>Hindus—Sun bird, and its nest—Waterfowl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_142" custom="readingOrder {index:49;} structure {type:page-number;}">
+                <Coords points="980,1791 1026,1790 1025,1760 979,1761"/>
+                <Baseline points="980,1791 1026,1790"/>
+                <TextEquiv>
+                    <Unicode>155</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

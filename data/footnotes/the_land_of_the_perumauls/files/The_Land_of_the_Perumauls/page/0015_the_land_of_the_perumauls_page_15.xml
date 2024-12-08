@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:28.894+01:00</Created>
+        <LastChange>2024-12-04T11:16:18.618+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959939" pageNr="15" tsid="209663394" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=BIDQFEEVHUJWCNANSLZTPFVI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HFNVIBNEDPCANSGCXNMPACFZ" imageId="70208603"/>
+    </Metadata>
+    <Page imageFilename="0015_the_land_of_the_perumauls_page_15.jpg" imageWidth="1159" imageHeight="1967">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399160" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_26"/>
+                <RegionRefIndexed index="3" regionRef="r_44"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="131,517 131,1735 993,1735 993,517"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="450,540 530,554 558,539 585,552 739,548 739,496 627,491 593,473 533,474 517,486 450,482"/>
+                <Baseline points="456,537 481,537 507,539 533,538 559,538 585,538 611,538 637,539 663,539 689,539 715,539 741,541"/>
+                <TextEquiv>
+                    <Unicode>CONTENTS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="532,582 603,578 614,585 628,579 658,585 658,562 625,565 618,558 611,565 593,566 588,560 568,558 561,565 532,565"/>
+                <Baseline points="537,573 567,573 598,573 629,573 660,575"/>
+                <TextEquiv>
+                    <Unicode>—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="507,625 603,623 633,634 652,623 681,627 681,599 669,593 649,597 601,591 589,596 557,585 507,591"/>
+                <Baseline points="513,616 541,616 570,616 598,616 627,616 655,618 684,618"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="141,678 912,673 985,642 140,639"/>
+                <Baseline points="146,656 188,657 230,658 272,658 314,658 356,658 398,657 440,658 482,658 524,658 566,658 608,658 650,658 692,658 734,660 776,659 818,658 860,658 902,658 944,658 987,655"/>
+                <TextEquiv>
+                    <Unicode>General Description—Its Divisions—Legendary origin of Tripoonterah—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="168,699 990,697 990,673 925,668 168,672"/>
+                <Baseline points="173,691 214,691 255,691 296,691 337,691 378,693 419,693 460,693 501,692 542,692 583,693 624,693 665,693 706,693 747,691 788,691 829,691 870,691 911,691 952,691 993,693"/>
+                <TextEquiv>
+                    <Unicode>Legendary division of Islands—Curious Pilgrimages—Travancore lines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="169,726 986,730 953,698 169,709"/>
+                <Baseline points="175,720 215,723 256,724 297,724 337,725 378,724 419,724 459,724 500,724 541,725 582,726 622,725 663,726 704,726 744,726 785,724 826,725 866,726 907,722 948,725 989,722"/>
+                <TextEquiv>
+                    <Unicode>Trichoor Fortifications—Verapoly—Devil's Mouth—Alwaye—Build-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="164,768 983,762 933,731 164,731"/>
+                <Baseline points="170,757 210,756 251,755 292,755 333,754 373,757 414,757 455,757 496,757 536,756 577,757 618,759 659,759 699,757 740,758 781,757 822,756 862,757 903,757 944,757 985,755"/>
+                <TextEquiv>
+                    <Unicode>ings—Water Communications—Back-waters—Rivers—Reservoirs—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="168,802 986,801 957,763 168,764"/>
+                <Baseline points="173,790 213,789 254,788 295,790 336,790 377,790 417,790 458,792 499,790 540,791 581,792 621,792 662,792 703,792 744,792 785,790 825,790 866,790 907,789 948,789 989,790"/>
+                <TextEquiv>
+                    <Unicode>Roads—Mountains—Geology—Mineral Productions—Harbours— Nar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="168,835 985,846 985,807 168,803"/>
+                <Baseline points="173,825 213,823 254,823 295,825 335,825 376,825 417,825 457,825 498,825 539,825 580,825 620,825 661,825 702,825 742,825 783,825 824,825 864,825 905,825 946,825 987,825"/>
+                <TextEquiv>
+                    <Unicode>rikal Mud Bank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="500,866 584,865 597,870 645,861 685,866 685,838 676,836 658,834 641,842 623,835 500,833"/>
+                <Baseline points="506,859 531,859 557,857 583,857 609,858 635,858 661,858 687,859"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER II.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="133,899 986,900 947,863 133,870"/>
+                <Baseline points="139,894 181,894 223,894 266,894 308,894 351,894 393,894 435,894 478,893 520,894 563,895 605,896 647,895 690,894 732,894 775,894 817,892 859,894 902,894 944,893 987,890"/>
+                <TextEquiv>
+                    <Unicode>Legendary origin of Malabar—Brahmanical Government—Foreign Go-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="168,933 976,930 857,899 168,907"/>
+                <Baseline points="173,927 213,927 253,925 293,926 334,927 374,927 414,927 455,927 495,929 535,928 576,927 616,929 656,929 696,929 737,927 777,927 817,927 858,927 898,927 938,927 979,923"/>
+                <TextEquiv>
+                    <Unicode>vernors—Origin of Cochin Rajahs—Legendary division of Malabar—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="164,970 983,973 965,934 164,939"/>
+                <Baseline points="170,960 210,959 251,960 292,960 333,960 373,960 414,959 455,960 496,961 536,962 577,962 618,962 659,962 699,960 740,960 781,960 822,960 862,960 903,960 944,961 985,964"/>
+                <TextEquiv>
+                    <Unicode>Arrival of Portuguese—Arrival of the Dutch—Wars with the Samorin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="162,1000 985,1006 985,974 954,968 162,972"/>
+                <Baseline points="168,993 211,993 254,994 297,993 340,993 383,995 426,993 469,993 512,995 555,995 599,994 642,995 685,995 728,995 771,994 814,993 857,994 900,993 943,993 987,991"/>
+                <TextEquiv>
+                    <Unicode>and Rajah of Travancore—Hyder Ali—Tippoo Sultan—Battle of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="162,1033 976,1038 976,1006 938,1003 162,1006"/>
+                <Baseline points="168,1022 208,1026 249,1026 289,1026 330,1026 370,1026 411,1027 451,1027 492,1027 532,1027 573,1027 614,1027 654,1028 695,1027 735,1026 776,1026 816,1027 857,1027 897,1027 938,1026 979,1022"/>
+                <TextEquiv>
+                    <Unicode>Travancore lines—British treaty of 1790—Intrigues with the French—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="162,1067 986,1070 986,1034 162,1034"/>
+                <Baseline points="168,1060 209,1060 250,1060 291,1060 332,1060 373,1058 414,1059 455,1062 496,1061 537,1062 578,1062 619,1062 660,1062 701,1061 742,1060 783,1060 824,1060 865,1060 906,1060 947,1060 989,1060"/>
+                <TextEquiv>
+                    <Unicode>Nair disturbances—Laws of succession to the Musnud—Ancient and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="160,1107 982,1113 970,1078 160,1067"/>
+                <Baseline points="166,1093 206,1093 247,1095 288,1093 329,1093 370,1093 411,1094 451,1095 492,1096 533,1096 574,1095 615,1097 656,1097 697,1095 737,1095 778,1095 819,1095 860,1095 901,1095 942,1095 983,1095"/>
+                <TextEquiv>
+                    <Unicode>Modern laws—Revenue.........................</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="492,1146 691,1146 691,1120 678,1114 637,1115 624,1109 568,1117 492,1115"/>
+                <Baseline points="498,1136 525,1138 553,1138 581,1136 609,1138 637,1140 665,1138 693,1138"/>
+                <TextEquiv>
+                    <Unicode>CHAAPTER III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="132,1178 981,1178 981,1154 828,1142 132,1150"/>
+                <Baseline points="137,1174 179,1172 221,1172 263,1172 306,1172 348,1172 390,1172 433,1172 475,1173 517,1174 560,1173 602,1174 644,1173 686,1172 729,1172 771,1172 813,1172 856,1172 898,1172 940,1171 983,1170"/>
+                <TextEquiv>
+                    <Unicode>Earły voyagers to India—Bartholomew Diaz—Dou Vasca deGama arrives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="158,1210 981,1212 981,1183 949,1178 158,1185"/>
+                <Baseline points="164,1203 207,1205 250,1205 293,1203 336,1205 379,1205 422,1207 465,1206 508,1207 551,1207 595,1207 638,1207 681,1207 724,1206 767,1207 810,1206 853,1207 896,1205 939,1205 983,1205"/>
+                <TextEquiv>
+                    <Unicode>at Calicut—Visits Samorin—Returns to Europe—Cabral takes a fleet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="158,1245 983,1250 983,1216 933,1212 158,1223"/>
+                <Baseline points="164,1240 205,1240 246,1239 287,1238 328,1239 369,1240 410,1240 451,1240 492,1240 533,1240 574,1240 615,1240 656,1240 697,1240 738,1240 779,1240 820,1240 861,1239 902,1240 943,1240 985,1238"/>
+                <TextEquiv>
+                    <Unicode>to Calicut and bombards the town—Sails to Cochin and establishes a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="156,1280 983,1281 960,1248 156,1250"/>
+                <Baseline points="162,1271 203,1273 244,1270 285,1271 326,1272 367,1273 408,1273 450,1273 491,1273 532,1273 573,1273 614,1273 655,1273 696,1274 738,1273 779,1273 820,1273 861,1271 902,1272 943,1273 985,1273"/>
+                <TextEquiv>
+                    <Unicode>factory—DeGama returns, acts most inhumanly at Calicut—Proceeds</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="158,1315 976,1318 967,1278 158,1285"/>
+                <Baseline points="164,1306 204,1306 245,1306 286,1304 327,1306 367,1306 408,1306 449,1306 490,1306 530,1307 571,1306 612,1306 653,1308 693,1306 734,1306 775,1308 816,1305 856,1306 897,1307 938,1306 979,1306"/>
+                <TextEquiv>
+                    <Unicode>to Cochin—Fort erected at Cochin—Pacheco Governor—Brutality of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="152,1342 970,1353 975,1327 151,1321"/>
+                <Baseline points="158,1339 199,1340 240,1339 281,1337 322,1339 363,1339 404,1340 445,1340 486,1339 527,1340 568,1340 609,1339 650,1339 691,1340 732,1340 773,1339 814,1339 855,1340 896,1341 937,1342 979,1339"/>
+                <TextEquiv>
+                    <Unicode>Gonzalo Vaz—Albuquerque's wars—First Minister of Finance des-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="154,1385 975,1390 975,1358 925,1349 154,1356"/>
+                <Baseline points="160,1377 200,1373 241,1373 282,1371 323,1373 364,1373 405,1373 445,1373 486,1373 527,1373 568,1373 609,1372 650,1372 691,1375 731,1375 772,1373 813,1374 854,1373 895,1373 936,1375 977,1375"/>
+                <TextEquiv>
+                    <Unicode>patched to Cochin and disastrous results—DeGama returns to Cochin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="152,1407 973,1414 973,1390 773,1379 152,1384"/>
+                <Baseline points="158,1404 198,1406 239,1406 280,1406 321,1404 362,1406 403,1406 443,1408 484,1408 525,1407 566,1408 607,1408 648,1408 689,1408 729,1408 770,1408 811,1408 852,1408 893,1408 934,1410 975,1408"/>
+                <TextEquiv>
+                    <Unicode>where he dies—DeSouza reduces the pay of the Military, so they re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="150,1454 976,1458 976,1426 945,1419 150,1418"/>
+                <Baseline points="156,1441 197,1439 238,1440 279,1439 320,1437 361,1440 402,1441 444,1441 485,1441 526,1441 567,1441 608,1441 649,1441 690,1441 732,1440 773,1441 814,1441 855,1441 896,1441 937,1443 979,1439"/>
+                <TextEquiv>
+                    <Unicode>fuse to fight—Dutch begin to appear in India—Government employ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="149,1483 976,1478 676,1450 149,1457"/>
+                <Baseline points="154,1474 195,1474 236,1474 277,1474 319,1474 360,1474 401,1474 442,1474 484,1473 525,1474 566,1474 607,1474 649,1476 690,1476 731,1476 772,1476 814,1476 855,1476 896,1477 937,1478 979,1476"/>
+                <TextEquiv>
+                    <Unicode>and honours publicly sold—Dutch take Cochin............................</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="486,1522 605,1529 629,1518 641,1529 676,1530 676,1493 642,1489 626,1498 620,1492 587,1495 564,1489 486,1492"/>
+                <Baseline points="492,1516 518,1518 545,1516 571,1515 598,1515 624,1516 651,1517 678,1516"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="125,1561 976,1562 976,1531 943,1526 125,1529"/>
+                <Baseline points="131,1553 173,1555 215,1554 258,1553 300,1553 343,1553 385,1553 427,1553 470,1552 512,1551 555,1553 597,1553 639,1553 682,1553 724,1553 767,1552 809,1553 851,1553 894,1553 936,1553 979,1551"/>
+                <TextEquiv>
+                    <Unicode>Origin of Dutch power in India—Wars with Portuguese—Political acts in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="149,1594 976,1601 976,1564 149,1570"/>
+                <Baseline points="154,1586 195,1589 236,1586 277,1586 319,1587 360,1588 401,1587 442,1588 484,1586 525,1586 566,1586 607,1587 649,1586 690,1587 731,1588 772,1587 814,1586 855,1588 896,1587 937,1588 979,1586"/>
+                <TextEquiv>
+                    <Unicode>Cochin—Dutch Governors—Dutch Clergy—Reduction in the size of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="149,1625 975,1628 942,1594 149,1597"/>
+                <Baseline points="154,1619 195,1621 236,1621 277,1621 318,1620 359,1623 400,1621 442,1621 483,1621 524,1621 565,1621 606,1620 647,1621 688,1620 730,1621 771,1620 812,1620 853,1621 894,1621 935,1621 977,1621"/>
+                <TextEquiv>
+                    <Unicode>Cochin Fort—Disputes with Samorin—Chetwye Fort—Van Imhoff ar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="150,1666 976,1661 976,1629 150,1635"/>
+                <Baseline points="156,1653 197,1654 238,1653 279,1653 320,1654 361,1653 402,1654 444,1655 485,1653 526,1655 567,1655 608,1655 649,1655 690,1655 732,1655 773,1654 814,1653 855,1653 896,1654 937,1655 979,1655"/>
+                <TextEquiv>
+                    <Unicode>rives—Attack on Travancore—Pepper treaty and consequent decline of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="149,1693 967,1691 893,1660 149,1666"/>
+                <Baseline points="154,1688 194,1688 235,1688 276,1688 317,1688 357,1688 398,1688 439,1688 480,1688 520,1688 561,1688 602,1688 643,1688 683,1688 724,1688 765,1688 806,1688 846,1688 887,1688 928,1687 969,1684"/>
+                <TextEquiv>
+                    <Unicode>Dutch power—Samorin invades Chetwye—Hyder sends friendly letter—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="154,1729 972,1729 972,1703 923,1698 154,1698"/>
+                <Baseline points="160,1723 200,1723 241,1723 282,1723 323,1725 363,1725 404,1725 445,1725 486,1723 526,1724 567,1725 608,1725 649,1725 689,1725 730,1725 771,1723 812,1724 852,1723 893,1723 934,1722 975,1719"/>
+                <TextEquiv>
+                    <Unicode>Hyder arrives at Cannanore, and foretels British supremacy in India—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="1016,806 1057,806 1057,836 1016,836"/>
+            <TextLine id="l" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="1016,836 1057,836 1057,806 1016,806"/>
+                <Baseline points="1016,836 1057,836"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_26" custom="readingOrder {index:2;}">
+            <Coords points="1000,1065 1047,1065 1047,1102 1000,1102"/>
+            <TextLine id="l_25" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="1005,1102 1047,1094 1042,1065 1000,1073"/>
+                <Baseline points="1005,1102 1047,1094"/>
+                <TextEquiv>
+                    <Unicode>38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_44" custom="readingOrder {index:3;}">
+            <Coords points="989,1455 1044,1455 1044,1494 989,1494"/>
+            <TextLine id="l_43" custom="readingOrder {index:0;} structure {type:page-number;}">
+                <Coords points="995,1494 1044,1484 1038,1455 989,1465"/>
+                <Baseline points="995,1494 1044,1484"/>
+                <TextEquiv>
+                    <Unicode>70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

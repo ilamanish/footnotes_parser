@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:30.740+01:00</Created>
+        <LastChange>2024-12-04T10:23:08.461+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960066" pageNr="37" tsid="209646097" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=WCZTQSTULYUIAPRSPKZLAEPU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QTWDZKYJPGVEENMJKZYXQKYG" imageId="70209370"/>
+    </Metadata>
+    <Page imageFilename="0037_the_land_of_the_perumauls_page_37.jpg" imageWidth="1162" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="92,239 92,1748 1010,1748 1010,239"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="339,278 434,281 484,264 740,274 740,237 714,225 701,238 643,231 621,249 599,233 500,247 482,235 339,241"/>
+                <Baseline points="346,263 372,263 398,263 425,261 451,261 478,259 504,261 531,262 557,262 584,261 610,261 637,261 663,261 690,261 716,261 743,261"/>
+                <TextEquiv>
+                    <Unicode>TRICHOOR.—RAJAH'S PALACE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="85,336 996,333 998,303 877,289 87,307"/>
+                <Baseline points="92,331 137,330 182,331 228,329 273,329 318,329 364,329 409,329 454,329 500,327 545,328 590,329 636,330 681,329 726,327 772,327 817,327 862,325 908,325 953,326 999,327"/>
+                <TextEquiv>
+                    <Unicode>fifth of which is cultivated with paddy ; dense forests are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="88,377 998,376 998,342 930,331 88,345"/>
+                <Baseline points="94,371 139,371 184,369 229,369 275,369 320,368 365,367 410,367 456,367 501,367 546,367 591,367 637,367 682,367 727,367 772,365 818,365 863,364 908,364 953,365 999,369"/>
+                <TextEquiv>
+                    <Unicode>found in this district, and some of the lake is also within its limits,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="85,415 999,411 951,370 85,392"/>
+                <Baseline points="92,410 137,409 182,408 228,407 273,408 319,406 364,406 410,407 455,408 501,406 546,408 591,406 637,407 682,408 728,406 773,404 819,404 864,404 910,404 955,404 1001,404"/>
+                <TextEquiv>
+                    <Unicode>the surface of which in the month of August is covered with the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="88,457 571,451 676,478 994,450 994,420 892,410 88,417"/>
+                <Baseline points="94,449 139,449 184,449 229,447 274,447 319,447 364,445 410,445 455,445 500,447 545,447 590,447 635,445 680,445 726,445 771,445 816,445 861,445 906,443 951,443 997,443"/>
+                <TextEquiv>
+                    <Unicode>beautiful blossoms of the sacred lotus, the seeds are eaten and con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="88,499 525,492 526,467 89,461"/>
+                <Baseline points="94,487 119,487 145,487 170,487 196,487 221,487 247,486 272,486 298,486 323,484 349,484 374,484 400,485 425,486 451,485 476,484 502,484 528,486"/>
+                <TextEquiv>
+                    <Unicode>sidered delicacies by the natives.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="126,536 999,530 999,500 953,490 126,498"/>
+                <Baseline points="133,524 176,525 219,526 263,524 306,524 350,524 393,524 436,524 480,522 523,523 567,524 610,522 653,524 697,522 740,522 784,522 827,522 870,523 914,522 957,522 1001,522"/>
+                <TextEquiv>
+                    <Unicode>The large town of Trichoor is of great antiquity and sanctity, said to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="88,568 998,578 998,540 949,532 88,543"/>
+                <Baseline points="94,565 139,564 184,565 229,563 275,565 320,563 365,563 410,563 456,563 501,563 546,563 591,563 637,563 682,561 727,561 772,561 818,561 863,560 908,561 953,560 999,563"/>
+                <TextEquiv>
+                    <Unicode>have been founded by Puresu Rama, the sixth incarnation of Vishnu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="92,609 996,610 996,578 936,572 92,577"/>
+                <Baseline points="98,604 143,604 188,602 233,604 278,604 323,602 368,602 413,602 458,602 503,602 548,602 593,602 638,602 683,600 728,601 773,602 818,602 863,599 908,600 953,601 999,602"/>
+                <TextEquiv>
+                    <Unicode>It has always been remarkable for its splendid pagoda, and college</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="88,650 869,657 999,650 1000,621 88,622"/>
+                <Baseline points="94,642 139,641 184,642 230,642 275,642 320,640 366,640 411,640 456,640 502,640 547,640 592,640 638,640 683,638 728,638 774,638 819,638 864,638 910,638 955,638 1001,640"/>
+                <TextEquiv>
+                    <Unicode>for the education of Namboorie youths. It is encompassed by a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="90,690 996,689 968,650 90,658"/>
+                <Baseline points="96,681 141,681 186,681 231,681 276,681 321,680 366,680 412,681 457,679 502,679 547,680 592,679 637,679 682,679 728,677 773,678 818,679 863,677 908,677 953,678 999,681"/>
+                <TextEquiv>
+                    <Unicode>ditch and earthen rampart, having parapets of the same material,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="96,729 1000,730 990,690 96,701"/>
+                <Baseline points="102,720 149,720 196,720 243,718 291,718 338,720 385,720 433,719 480,720 527,719 575,719 622,718 669,718 717,718 764,718 811,718 859,718 906,718 953,718 1001,718"/>
+                <TextEquiv>
+                    <Unicode>which were erected in 1794, having an elevation of from 7 to 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="92,770 999,770 983,729 92,732"/>
+                <Baseline points="98,760 143,759 188,759 233,758 278,759 324,759 369,759 414,759 459,758 504,757 550,758 595,757 640,757 685,757 730,757 776,757 821,757 866,757 911,757 956,757 1002,759"/>
+                <TextEquiv>
+                    <Unicode>feet, and a breadth of about 15 feet, with a ditch along the outside</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="92,806 999,804 980,769 92,777"/>
+                <Baseline points="98,799 143,798 188,799 233,797 278,795 323,797 368,799 414,797 459,796 504,797 549,795 594,795 639,795 684,795 730,795 775,795 820,795 865,795 910,795 955,796 1001,797"/>
+                <TextEquiv>
+                    <Unicode>from 2 or 3 feet deep, to 10 or 12. On its west face it is 2,485 yards in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="93,843 999,845 999,814 944,802 93,810"/>
+                <Baseline points="100,836 145,837 190,838 235,838 280,836 325,836 370,836 415,836 460,836 505,836 551,835 596,836 641,835 686,834 731,834 776,834 821,834 866,834 911,834 956,834 1002,834"/>
+                <TextEquiv>
+                    <Unicode>length : on its east, 1,925: its north, 3,190 : and on its south, 2860 :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="92,887 999,886 990,847 92,861"/>
+                <Baseline points="98,879 143,876 188,877 233,875 278,875 324,875 369,875 414,874 459,875 504,875 550,875 595,873 640,873 685,873 730,875 776,873 821,873 866,874 911,875 956,875 1002,875"/>
+                <TextEquiv>
+                    <Unicode>giving a circumference of 4½/ miles. The Rajah’s palace may be called</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="93,922 992,921 992,889 947,886 93,895"/>
+                <Baseline points="100,913 144,913 189,914 233,913 278,914 323,913 367,913 412,913 457,913 501,913 546,912 591,913 635,912 680,911 725,913 769,911 814,911 859,913 903,913 948,913 993,911"/>
+                <TextEquiv>
+                    <Unicode>the citadel of Trichoor, and is 310 by 200 yards : it has some bas¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="96,962 1000,962 983,922 96,936"/>
+                <Baseline points="102,952 147,953 192,954 237,952 282,952 327,952 372,952 417,952 462,952 507,954 552,953 597,952 642,953 687,952 732,952 777,952 822,952 867,952 912,952 957,952 1002,954"/>
+                <TextEquiv>
+                    <Unicode>tions, is entered by two strong gateways, and might be a sufficient</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="96,999 1000,1002 1000,971 947,962 96,967"/>
+                <Baseline points="102,993 147,993 192,991 237,993 282,993 327,991 372,992 417,993 462,993 507,991 552,992 597,991 642,992 687,991 732,991 777,991 822,991 867,991 912,991 957,993 1002,993"/>
+                <TextEquiv>
+                    <Unicode>defence against cavalry. As the lines, or outer fortifications, have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="93,1040 999,1042 999,1011 868,1003 93,1010"/>
+                <Baseline points="100,1032 145,1030 190,1032 235,1030 280,1032 325,1032 370,1032 415,1030 460,1031 505,1032 550,1032 595,1030 640,1030 685,1030 730,1030 775,1030 820,1030 865,1030 910,1032 955,1032 1001,1032"/>
+                <TextEquiv>
+                    <Unicode>never been completed, it is probable that either a want of funds, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="90,1073 1001,1083 1001,1044 891,1040 90,1057"/>
+                <Baseline points="96,1070 141,1070 186,1070 232,1070 277,1070 323,1070 368,1069 413,1070 459,1069 504,1070 550,1070 595,1068 640,1069 686,1069 731,1070 777,1069 822,1068 867,1069 913,1070 958,1070 1004,1072"/>
+                <TextEquiv>
+                    <Unicode>a conviction of the inutility of the undertaking, induced the Rajah</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="96,1114 1000,1122 986,1083 881,1074 96,1086"/>
+                <Baseline points="102,1109 147,1108 192,1107 237,1108 282,1107 327,1107 372,1108 417,1107 462,1107 507,1107 552,1109 597,1109 642,1108 687,1107 732,1107 777,1107 822,1107 867,1108 912,1109 957,1109 1002,1109"/>
+                <TextEquiv>
+                    <Unicode>to discontinue it. It was evidently constructed to fortify the place</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="90,1155 1000,1157 1000,1122 90,1127"/>
+                <Baseline points="96,1148 141,1148 186,1148 231,1148 277,1148 322,1148 367,1148 413,1148 458,1148 503,1148 549,1147 594,1148 639,1148 684,1148 730,1148 775,1148 820,1148 866,1148 911,1148 956,1148 1002,1150"/>
+                <TextEquiv>
+                    <Unicode>against the Mysoreans, should they again descend on that portion of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="93,1200 999,1198 974,1155 93,1155"/>
+                <Baseline points="100,1186 145,1186 190,1185 235,1186 280,1186 325,1186 370,1186 415,1186 460,1186 505,1186 551,1186 596,1185 641,1186 686,1186 731,1186 776,1186 821,1186 866,1186 911,1186 956,1186 1002,1188"/>
+                <TextEquiv>
+                    <Unicode>India ; and its commencement may have been partly suggested by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="98,1234 999,1236 999,1199 888,1193 98,1199"/>
+                <Baseline points="104,1225 148,1225 193,1225 238,1225 283,1225 328,1225 373,1225 418,1225 463,1225 508,1225 553,1225 597,1225 642,1225 687,1225 732,1224 777,1225 822,1224 867,1225 912,1225 957,1226 1002,1225"/>
+                <TextEquiv>
+                    <Unicode>British Commissioners, who, in 1793, advised the native Princes to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="96,1277 1003,1274 1003,1232 96,1245"/>
+                <Baseline points="102,1262 147,1264 192,1262 237,1262 282,1264 328,1264 373,1264 418,1264 463,1264 508,1264 554,1263 599,1264 644,1264 689,1264 734,1264 780,1264 825,1264 870,1264 915,1264 960,1266 1006,1268"/>
+                <TextEquiv>
+                    <Unicode>shake off their allegiance to the Mysoreaans, if possible. Most of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="91,1307 984,1315 1000,1275 90,1283"/>
+                <Baseline points="96,1301 141,1301 186,1303 232,1303 277,1303 323,1303 368,1303 413,1303 459,1303 504,1303 550,1303 595,1303 640,1303 686,1304 731,1303 777,1305 822,1303 867,1304 913,1305 958,1305 1004,1303"/>
+                <TextEquiv>
+                    <Unicode>the Christian population reside in a long street, near the Romo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="98,1354 1006,1354 1006,1316 98,1312"/>
+                <Baseline points="104,1341 149,1340 194,1341 239,1340 284,1341 330,1341 375,1341 420,1341 465,1342 510,1341 556,1343 601,1341 646,1341 691,1341 736,1341 782,1341 827,1341 872,1343 917,1343 962,1345 1008,1345"/>
+                <TextEquiv>
+                    <Unicode>Syrian Church. On the highest portion of the town stands the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="93,1388 999,1395 999,1357 955,1352 93,1354"/>
+                <Baseline points="100,1382 145,1382 190,1382 235,1382 280,1380 325,1380 370,1380 416,1380 461,1381 506,1382 551,1382 596,1380 641,1382 686,1382 732,1380 777,1382 822,1382 867,1382 912,1382 957,1383 1002,1384"/>
+                <TextEquiv>
+                    <Unicode>largest pagoda, with fine entrances—north, south, east, and west ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="93,1427 1003,1433 1003,1401 900,1388 865,1413 93,1402"/>
+                <Baseline points="100,1421 145,1422 190,1421 235,1421 281,1421 326,1419 371,1420 417,1421 462,1420 507,1421 553,1421 598,1421 643,1421 688,1421 734,1421 779,1421 824,1421 870,1421 915,1423 960,1425 1006,1423"/>
+                <TextEquiv>
+                    <Unicode>the gateways have a great deal of carving about them, with pent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="93,1467 1007,1470 1007,1437 888,1433 93,1446"/>
+                <Baseline points="100,1459 145,1460 191,1459 236,1459 282,1459 327,1459 373,1459 418,1459 464,1459 509,1459 555,1460 600,1461 646,1461 691,1461 737,1459 782,1461 828,1461 873,1461 919,1461 964,1463 1010,1461"/>
+                <TextEquiv>
+                    <Unicode>roofs. The building is an exceedingly picturesque object. There are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="98,1515 1006,1513 1006,1477 834,1468 98,1485"/>
+                <Baseline points="104,1502 149,1498 194,1498 239,1498 284,1498 330,1498 375,1499 420,1498 465,1499 510,1498 556,1498 601,1500 646,1500 691,1498 736,1498 782,1499 827,1498 872,1500 917,1500 962,1501 1008,1502"/>
+                <TextEquiv>
+                    <Unicode>good roads running along its four sides, and near it are several</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="93,1546 1003,1546 1003,1515 720,1505 93,1518"/>
+                <Baseline points="100,1537 145,1539 190,1539 235,1538 281,1537 326,1537 371,1537 417,1539 462,1537 507,1539 553,1539 598,1539 643,1539 688,1539 734,1539 779,1539 824,1539 870,1540 915,1541 960,1541 1006,1541"/>
+                <TextEquiv>
+                    <Unicode>streets of Putter, or Potie Brahmans, who are almost entirely devoted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="93,1584 1006,1590 1006,1550 93,1552"/>
+                <Baseline points="100,1576 145,1578 190,1578 236,1578 281,1578 327,1578 372,1578 417,1578 463,1578 508,1578 554,1578 599,1578 644,1578 690,1578 735,1578 781,1579 826,1580 871,1580 917,1580 962,1580 1008,1580"/>
+                <TextEquiv>
+                    <Unicode>to mercantile pursuits. Should low caste persons dare ro intrude</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="93,1633 1007,1627 944,1587 92,1591"/>
+                <Baseline points="100,1614 145,1616 191,1616 236,1616 282,1616 327,1616 373,1616 418,1616 464,1616 509,1616 555,1616 600,1618 646,1616 691,1617 737,1618 782,1618 828,1616 873,1619 919,1620 964,1620 1010,1618"/>
+                <TextEquiv>
+                    <Unicode>iuto the west end of the town, amongst the residences of the higher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="98,1666 976,1667 976,1635 859,1627 98,1633"/>
+                <Baseline points="104,1657 147,1656 191,1657 235,1656 279,1657 322,1655 366,1655 410,1655 454,1655 497,1655 541,1657 585,1656 629,1657 672,1657 716,1659 760,1659 804,1657 847,1658 891,1659 935,1659 979,1659"/>
+                <TextEquiv>
+                    <Unicode>castes, they are liable to receive a good beating, and usually get it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="129,1713 1007,1705 974,1669 129,1668"/>
+                <Baseline points="135,1696 178,1694 222,1696 266,1696 310,1696 353,1696 397,1696 441,1695 485,1696 528,1696 572,1696 616,1697 660,1696 703,1696 747,1698 791,1698 835,1698 878,1698 922,1698 966,1698 1010,1696"/>
+                <TextEquiv>
+                    <Unicode>The Rajah’s palace is a rather commodious upper storied build¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="96,1758 1006,1742 1006,1712 949,1707 96,1713"/>
+                <Baseline points="102,1734 147,1735 192,1736 237,1736 283,1736 328,1736 373,1735 419,1734 464,1735 509,1736 555,1736 600,1736 645,1736 690,1736 736,1738 781,1738 826,1738 872,1738 917,1738 962,1738 1008,1736"/>
+                <TextEquiv>
+                    <Unicode>ing, partly of European architecture : it is situated on a gentle eleva¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

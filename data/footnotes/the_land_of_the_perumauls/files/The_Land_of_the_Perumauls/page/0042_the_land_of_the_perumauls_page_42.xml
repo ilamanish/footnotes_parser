@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:31.165+01:00</Created>
+        <LastChange>2024-12-04T10:23:09.138+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960069" pageNr="42" tsid="209646219" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=JMTRXBPSWWOPNYHWVNKCAZSD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLMFIYBSWFMBVJRKQFJKBPYJ" imageId="70209373"/>
+    </Metadata>
+    <Page imageFilename="0042_the_land_of_the_perumauls_page_42.jpg" imageWidth="1170" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399591" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="116,222 116,1718 1043,1718 1043,222"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="375,251 576,242 767,254 767,205 743,218 375,217"/>
+                <Baseline points="382,243 407,243 433,243 459,243 485,242 511,242 537,243 563,243 588,243 614,243 640,243 666,243 692,243 718,243 744,243 770,243"/>
+                <TextEquiv>
+                    <Unicode>ALWAYE.—ITS PRODUCE, &amp;C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="114,320 1017,329 988,280 836,272 114,287"/>
+                <Baseline points="120,311 167,311 214,311 261,310 309,310 356,311 403,310 451,310 498,310 545,309 593,310 640,310 687,310 735,310 782,310 829,311 877,311 924,311 971,311 1019,315"/>
+                <TextEquiv>
+                    <Unicode>they have to support all their establishmients, assisted partly by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="119,359 230,362 250,371 267,361 386,354 386,325 210,331 190,316 167,326 119,323"/>
+                <Baseline points="126,352 152,350 178,350 204,350 230,350 257,349 283,349 309,350 335,349 361,349 388,349"/>
+                <TextEquiv>
+                    <Unicode>their congregations.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="151,406 1020,395 1020,361 982,353 151,364"/>
+                <Baseline points="157,391 200,388 243,389 286,389 330,388 373,388 416,389 460,388 503,388 546,388 590,388 633,388 676,388 719,388 763,389 806,388 849,388 893,389 936,389 979,389 1023,388"/>
+                <TextEquiv>
+                    <Unicode>Not far from Vcrapoly, on the way to Alwaye, and close to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="109,429 1024,435 1024,402 991,398 109,414"/>
+                <Baseline points="116,428 161,429 206,428 252,427 297,428 343,428 388,427 434,427 479,427 525,427 570,427 615,427 661,428 706,427 752,428 797,428 843,427 888,427 934,427 979,428 1025,427"/>
+                <TextEquiv>
+                    <Unicode>margin of the same side of the river, is a cavern, termed “ the devil's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="114,472 1024,474 984,437 114,446"/>
+                <Baseline points="120,467 165,467 210,466 256,466 301,466 346,466 392,466 437,466 482,466 528,466 573,466 618,466 664,466 709,466 754,466 800,467 845,466 890,466 936,466 981,467 1027,466"/>
+                <TextEquiv>
+                    <Unicode>mouth ” it is about three feet high, but is said to be so full of suakes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="114,512 745,513 718,474 114,481"/>
+                <Baseline points="120,506 151,506 182,506 214,504 245,505 277,504 308,504 339,504 371,504 402,504 434,504 465,504 496,504 528,504 559,504 591,504 622,504 653,504 685,504 716,505 748,506"/>
+                <TextEquiv>
+                    <Unicode>and bats, that no one will venture to explore it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="151,555 1016,556 1016,515 959,510 619,535 151,518"/>
+                <Baseline points="157,545 200,543 243,544 286,543 329,543 372,543 415,543 458,543 501,543 544,543 588,543 631,543 674,543 717,543 760,543 803,543 846,543 889,543 932,543 975,544 1019,543"/>
+                <TextEquiv>
+                    <Unicode>A few miles beyond Verapoly is Alwaye, situated abont twenty</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="116,588 1015,595 1015,563 912,553 116,565"/>
+                <Baseline points="122,584 166,584 211,583 256,582 301,582 345,582 390,582 435,582 480,582 524,582 569,582 614,582 659,582 703,581 748,582 793,582 838,582 882,582 927,582 972,582 1017,582"/>
+                <TextEquiv>
+                    <Unicode>miles from tlie town of Cochin, and abont two miles below Sherwur-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="118,634 1024,629 1024,603 963,594 118,603"/>
+                <Baseline points="124,621 169,623 214,623 259,621 304,621 349,621 394,621 440,621 485,621 530,621 575,621 620,621 665,621 710,621 756,621 801,621 846,621 891,621 936,621 981,621 1027,621"/>
+                <TextEquiv>
+                    <Unicode>rah, alrcady mentioncd, in the Ernacollum division. It stands on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="119,665 1024,665 1010,632 119,638"/>
+                <Baseline points="126,662 171,662 216,660 261,660 306,660 351,660 396,660 441,659 486,659 531,660 576,660 621,660 666,660 711,660 756,660 801,660 846,660 891,660 936,660 981,660 1027,660"/>
+                <TextEquiv>
+                    <Unicode>the banks of a river, and is usually reached by boat, although thicre is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="118,703 1016,706 983,668 118,685"/>
+                <Baseline points="124,699 168,699 213,699 258,699 303,699 347,699 392,699 437,699 482,699 526,699 571,699 616,699 661,699 705,698 750,698 795,698 840,698 884,698 929,699 974,699 1019,698"/>
+                <TextEquiv>
+                    <Unicode>a road Icading to it from Ernacollum. It is a tract of consider¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="118,742 1018,753 1018,713 988,708 118,719"/>
+                <Baseline points="124,738 168,737 213,738 258,737 303,737 348,737 393,737 437,737 482,737 527,737 572,737 617,737 662,737 707,737 751,737 796,737 841,736 886,737 931,738 976,738 1021,738"/>
+                <TextEquiv>
+                    <Unicode>able size dotted with about twenty bungalows, to which durina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="118,783 1021,784 1021,753 930,745 118,759"/>
+                <Baseline points="124,776 171,776 218,777 265,776 313,777 360,776 407,776 455,776 502,776 549,777 597,777 644,777 691,776 739,776 786,776 833,776 881,776 928,776 975,776 1023,774"/>
+                <TextEquiv>
+                    <Unicode>the hot months of April and May, mauy persons retire, both to es¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="122,821 1019,827 1019,794 965,786 122,797"/>
+                <Baseline points="128,815 172,815 217,815 261,815 306,814 351,815 395,815 440,815 485,814 529,815 574,815 619,815 663,815 708,813 753,815 797,815 842,815 887,815 931,815 976,815 1021,811"/>
+                <TextEquiv>
+                    <Unicode>cape from the lieat of Cochin, and enjoy the bathing. The Euro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="132,868 1015,874 1015,835 890,826 132,827"/>
+                <Baseline points="138,855 184,854 230,854 276,854 323,853 369,854 415,853 461,854 508,853 554,854 600,854 646,853 693,854 739,854 785,854 831,854 878,854 924,854 970,854 1017,852"/>
+                <TextEquiv>
+                    <Unicode>pean honses are on the banks of the river, the natives form encamp¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="118,895 1018,899 1018,874 900,859 118,880"/>
+                <Baseline points="124,893 168,893 213,893 258,893 303,893 348,893 393,893 437,891 482,892 527,893 572,893 617,893 662,892 707,892 751,893 796,892 841,891 886,892 931,891 976,893 1021,891"/>
+                <TextEquiv>
+                    <Unicode>ments upon the sands : some persons even remain thierc all the year</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="123,938 1015,940 1016,913 930,897 124,915"/>
+                <Baseline points="130,932 174,932 218,932 263,932 307,930 351,930 396,930 440,930 484,930 529,930 573,932 617,931 662,930 706,930 750,930 795,930 839,930 883,930 928,930 972,931 1017,930"/>
+                <TextEquiv>
+                    <Unicode>round. The water is bclieved to have medicinal virtues, and to re</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="122,975 1020,974 999,938 122,948"/>
+                <Baseline points="128,971 172,969 217,969 262,969 307,969 351,969 396,968 441,969 486,969 530,969 575,970 620,969 665,969 709,969 754,969 799,968 844,967 888,969 933,969 978,968 1023,969"/>
+                <TextEquiv>
+                    <Unicode>move the ill effects of prickly heat, boils, and even to reduce ele¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="127,1026 1025,1019 1025,988 982,981 127,987"/>
+                <Baseline points="134,1011 178,1009 223,1008 267,1008 312,1008 357,1008 401,1007 446,1008 491,1008 535,1008 580,1008 625,1008 669,1008 714,1008 759,1008 803,1008 848,1008 893,1008 937,1008 982,1008 1027,1006"/>
+                <TextEquiv>
+                    <Unicode>phantiasis, or rather this diseasc is not indigenous as far inland as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="122,1048 1025,1057 995,1018 122,1031"/>
+                <Baseline points="128,1047 175,1047 222,1047 269,1047 317,1046 364,1047 411,1046 459,1047 506,1047 553,1047 601,1047 648,1047 695,1047 743,1047 790,1047 837,1047 885,1047 932,1047 979,1047 1027,1047"/>
+                <TextEquiv>
+                    <Unicode>this fertile spot, wlicre coffee grows luxuriantly, and tlie pepper vine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="122,1097 1019,1092 1019,1058 122,1062"/>
+                <Baseline points="128,1086 172,1086 217,1086 261,1086 306,1086 351,1086 395,1086 440,1086 485,1086 529,1085 574,1086 619,1086 663,1086 708,1086 753,1086 797,1086 842,1085 887,1086 931,1086 976,1086 1021,1086"/>
+                <TextEquiv>
+                    <Unicode>flourishes. Cochin is supplied with drinking water, either from Al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="127,1127 1025,1131 999,1098 896,1092 694,1117 127,1106"/>
+                <Baseline points="134,1123 178,1123 223,1125 267,1124 312,1123 357,1125 401,1125 446,1126 491,1125 535,1123 580,1123 625,1125 669,1125 714,1125 759,1123 803,1125 848,1123 893,1123 937,1125 982,1125 1027,1125"/>
+                <TextEquiv>
+                    <Unicode>waye or from a place opposite Verapoly. Much of the butter also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="122,1170 1028,1180 1028,1148 968,1131 122,1142"/>
+                <Baseline points="128,1164 173,1164 218,1162 263,1162 308,1162 353,1163 398,1162 444,1162 489,1163 534,1162 579,1164 624,1164 669,1163 714,1162 760,1162 805,1162 850,1163 895,1162 940,1164 985,1163 1031,1167"/>
+                <TextEquiv>
+                    <Unicode>is obtained from this district : the natives liere make good baskets,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="127,1209 1028,1210 998,1170 127,1181"/>
+                <Baseline points="134,1203 178,1202 223,1201 268,1201 313,1201 358,1201 403,1201 447,1202 492,1201 537,1201 582,1201 627,1201 672,1202 717,1203 761,1201 806,1201 851,1201 896,1201 941,1202 986,1203 1031,1203"/>
+                <TextEquiv>
+                    <Unicode>and a variety of pretty little children’s toys of basket work : besides</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="132,1250 688,1257 688,1223 602,1211 132,1219"/>
+                <Baseline points="138,1242 165,1240 193,1240 220,1242 248,1242 276,1242 303,1241 331,1240 358,1240 386,1240 414,1240 441,1240 469,1240 496,1240 524,1240 552,1242 579,1240 607,1240 634,1240 662,1240 690,1242"/>
+                <TextEquiv>
+                    <Unicode>umbrellas, (kodas. Mal.) of palmyra lcaves.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="160,1288 1024,1285 1010,1249 160,1252"/>
+                <Baseline points="167,1279 209,1278 252,1279 295,1280 338,1279 381,1279 424,1279 467,1279 510,1279 553,1279 596,1279 638,1279 681,1279 724,1279 767,1279 810,1279 853,1279 896,1279 939,1279 982,1279 1025,1279"/>
+                <TextEquiv>
+                    <Unicode>This appcars to have been the sanitarium of Cochin, from the ad¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="132,1322 1031,1325 998,1289 132,1299"/>
+                <Baseline points="138,1318 182,1317 227,1316 272,1318 317,1318 361,1318 406,1318 451,1318 496,1318 540,1318 585,1318 630,1318 675,1318 719,1318 764,1318 809,1318 854,1318 898,1318 943,1318 988,1318 1033,1320"/>
+                <TextEquiv>
+                    <Unicode>vent of Europeans to India : being mentioned as such, both in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="127,1362 1028,1364 1028,1338 965,1330 127,1332"/>
+                <Baseline points="134,1357 178,1356 223,1355 268,1356 313,1355 358,1355 403,1355 447,1356 492,1357 537,1357 582,1357 627,1355 672,1357 717,1357 761,1357 806,1357 851,1357 896,1357 941,1357 986,1357 1031,1357"/>
+                <TextEquiv>
+                    <Unicode>timc of the Portugucse and the Dutch, who probably used the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="126,1400 1029,1405 996,1370 814,1363 126,1378"/>
+                <Baseline points="132,1396 179,1396 226,1396 273,1394 321,1394 368,1394 415,1394 463,1394 510,1394 557,1396 605,1394 652,1396 699,1396 747,1396 794,1396 841,1396 889,1394 936,1396 983,1396 1031,1398"/>
+                <TextEquiv>
+                    <Unicode>same primitive stylc of bathing houses, as are now in existenee, viz.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="134,1441 1028,1450 1028,1413 986,1404 134,1409"/>
+                <Baseline points="140,1433 184,1435 229,1435 273,1435 318,1433 362,1433 407,1433 451,1433 496,1435 540,1433 585,1435 630,1435 674,1435 719,1435 763,1435 808,1435 852,1435 897,1435 941,1435 986,1435 1031,1437"/>
+                <TextEquiv>
+                    <Unicode>bamboos fixed into the water at intervals, with mats tied round them,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="127,1479 1031,1482 1003,1445 127,1445"/>
+                <Baseline points="134,1474 181,1472 228,1472 275,1472 323,1472 370,1472 417,1472 465,1472 512,1474 559,1473 607,1474 654,1474 701,1474 749,1474 796,1474 843,1474 891,1474 938,1474 985,1474 1033,1474"/>
+                <TextEquiv>
+                    <Unicode>from which a covered passage of tlic samc materials leads up to the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="132,1523 1032,1522 1014,1484 132,1482"/>
+                <Baseline points="138,1511 182,1511 227,1511 272,1511 317,1511 362,1511 407,1511 451,1511 496,1511 541,1511 586,1511 631,1511 676,1511 721,1513 765,1513 810,1513 855,1511 900,1513 945,1513 990,1513 1035,1514"/>
+                <TextEquiv>
+                    <Unicode>honse. The sands of the river arc excessively fine and smooth. An</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="134,1561 1032,1563 1032,1532 979,1521 134,1533"/>
+                <Baseline points="140,1548 184,1549 229,1548 274,1549 319,1550 363,1550 408,1550 453,1550 498,1550 542,1550 587,1550 632,1550 677,1550 721,1550 766,1550 811,1550 856,1550 900,1550 945,1550 990,1550 1035,1552"/>
+                <TextEquiv>
+                    <Unicode>observatory was kept up here by the Rajah of Travancore : and there</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="130,1592 1033,1596 1033,1563 130,1557"/>
+                <Baseline points="136,1587 183,1589 230,1589 277,1587 325,1588 372,1589 419,1589 467,1589 514,1589 561,1589 609,1589 656,1589 703,1589 751,1589 798,1589 845,1591 893,1589 940,1589 987,1589 1035,1589"/>
+                <TextEquiv>
+                    <Unicode>is a Tre“eller’s Bungalow, of an inferior description : as well as a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="138,1633 1031,1635 1031,1608 933,1599 710,1620 138,1596"/>
+                <Baseline points="144,1626 188,1626 232,1626 277,1628 321,1626 366,1627 410,1628 455,1627 499,1626 544,1628 588,1628 632,1628 677,1628 721,1628 766,1628 810,1628 855,1628 899,1628 944,1628 988,1626 1033,1628"/>
+                <TextEquiv>
+                    <Unicode>Residency, of which the less said the better. The banks of the river</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="138,1673 1032,1674 988,1636 138,1645"/>
+                <Baseline points="144,1665 188,1665 233,1665 277,1666 322,1665 366,1666 411,1667 455,1666 500,1667 544,1666 589,1665 634,1667 678,1667 723,1667 767,1667 812,1667 856,1667 901,1667 945,1667 990,1667 1035,1667"/>
+                <TextEquiv>
+                    <Unicode>are rather high and embellished with most beautiful trees, that in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="134,1713 1040,1710 1040,1685 959,1674 134,1679"/>
+                <Baseline points="140,1704 185,1705 230,1706 275,1706 320,1706 365,1706 410,1704 456,1706 501,1704 546,1706 591,1706 636,1706 681,1707 726,1708 772,1706 817,1706 862,1706 907,1706 952,1706 997,1706 1043,1706"/>
+                <TextEquiv>
+                    <Unicode>the hot months arc often covered with blossoms : whilst magnificent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

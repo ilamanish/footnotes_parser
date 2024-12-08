@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:29.376+01:00</Created>
+        <LastChange>2024-12-04T23:35:42.059+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959943" pageNr="21" tsid="209851629" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=LHHENVMXAOGZHOEFTCGJVPWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHYOYPIFJCPRVICHKJAMXWJW" imageId="70208607"/>
+    </Metadata>
+    <Page imageFilename="0021_the_land_of_the_perumauls_page_21.jpg" imageWidth="1167" imageHeight="1989">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733580399212" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="110,514 110,1697 995,1697 995,514"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="398,545 644,547 664,535 706,553 706,491 652,498 622,482 585,481 539,496 520,485 483,502 461,484 398,493"/>
+                <Baseline points="404,534 429,534 454,534 479,534 505,534 530,534 555,534 580,534 606,534 631,534 656,534 681,535 707,534"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER I.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="235,616 868,619 868,582 704,567 235,577"/>
+                <Baseline points="241,608 272,606 303,606 335,606 366,606 398,606 429,605 460,604 492,604 523,604 555,606 586,606 617,606 649,606 680,606 712,606 743,606 774,608 806,607 837,606 869,608"/>
+                <TextEquiv>
+                    <Unicode>TOPOGRAPHY OF THE COCHIN STATE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="108,650 987,647 987,609 108,624"/>
+                <Baseline points="114,643 157,641 201,641 245,641 289,641 332,641 376,641 420,640 464,641 507,640 551,641 595,641 639,641 682,642 726,639 770,640 814,641 857,641 901,641 945,641 989,639"/>
+                <TextEquiv>
+                    <Unicode>General Description—Its Divisions—Legendary origin of Tripoonterah—Le¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="133,684 985,674 927,649 133,660"/>
+                <Baseline points="139,676 181,672 223,670 266,671 308,671 351,672 393,671 435,670 478,670 520,670 563,671 605,670 647,672 690,672 732,672 775,670 817,670 859,670 902,668 944,670 987,670"/>
+                <TextEquiv>
+                    <Unicode>gendary division of Islands—Curious Pilgrimages—Travancore lines¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="135,707 988,703 907,676 135,681"/>
+                <Baseline points="141,699 183,701 225,701 268,700 310,699 353,701 395,701 437,699 480,701 522,701 565,701 607,701 649,703 692,701 734,699 777,701 819,701 861,699 904,699 946,699 989,697"/>
+                <TextEquiv>
+                    <Unicode>Trichoor FortificationsVerapolyevls MoutAlwayBudigs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="135,738 990,738 990,713 935,708 135,709"/>
+                <Baseline points="141,731 183,731 226,731 268,731 311,731 354,731 396,731 439,731 481,731 524,731 567,731 609,731 652,731 694,731 737,731 780,731 822,730 865,729 907,729 950,731 993,731"/>
+                <TextEquiv>
+                    <Unicode>Water CommicationsBack-watersRiverserr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="139,770 944,778 925,738 139,740"/>
+                <Baseline points="145,760 185,760 225,761 265,762 305,762 345,762 385,760 425,760 465,762 505,762 545,762 585,762 625,762 665,762 705,760 745,762 785,762 825,762 865,761 905,762 946,762"/>
+                <TextEquiv>
+                    <Unicode>tainsGeologyMiera Prodctions—Harbours—Narrkal Mud Bank.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="144,815 988,810 960,776 144,777"/>
+                <Baseline points="151,801 193,802 235,802 277,802 319,802 361,804 403,802 445,802 487,803 529,804 571,804 613,804 655,804 697,803 739,804 781,802 823,802 865,802 907,802 949,804 991,802"/>
+                <TextEquiv>
+                    <Unicode>THE Native State of Cochin may be called a Province of Mala¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="114,850 987,851 987,817 955,814 114,814"/>
+                <Baseline points="120,839 163,840 206,841 250,841 293,841 337,840 380,839 424,840 467,841 511,841 554,841 597,841 641,841 684,841 728,841 771,841 815,841 858,840 902,841 945,840 989,839"/>
+                <TextEquiv>
+                    <Unicode>bar, situated on the Western Coast of Hindustan, and lying between</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="112,890 988,889 988,850 112,861"/>
+                <Baseline points="118,878 161,878 205,880 248,878 292,878 336,879 379,880 423,878 467,878 510,879 554,878 598,880 641,880 685,880 729,880 772,878 816,878 860,880 903,880 947,878 991,878"/>
+                <TextEquiv>
+                    <Unicode>the 9th and 11th degrees of North latitude, and 75th and 77th of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="112,929 988,934 988,890 112,890"/>
+                <Baseline points="118,915 161,916 205,915 248,915 292,917 336,916 379,915 423,917 467,915 510,917 554,917 598,917 641,917 685,916 729,915 772,915 816,915 860,917 903,917 947,917 991,915"/>
+                <TextEquiv>
+                    <Unicode>East longitude. It is bounded ou the West by the Ocean, on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="108,961 992,964 992,932 937,929 108,932"/>
+                <Baseline points="114,956 158,955 202,954 246,954 290,954 334,954 378,956 422,956 466,954 510,956 554,956 598,956 642,954 686,954 730,954 774,955 818,954 862,954 906,954 950,954 995,956"/>
+                <TextEquiv>
+                    <Unicode>North by British Malabar, on the South by the Native State of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="112,1002 988,1009 975,966 112,969"/>
+                <Baseline points="118,993 161,992 205,991 248,992 292,993 336,993 379,993 423,993 467,993 510,993 554,995 598,995 641,995 685,994 729,993 772,993 816,993 860,993 903,993 947,994 991,993"/>
+                <TextEquiv>
+                    <Unicode>Travancore, and on the East by the loug hue of mountains knowa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="110,1041 991,1043 991,1009 906,1000 110,1012"/>
+                <Baseline points="116,1030 159,1030 203,1030 247,1030 291,1030 335,1031 379,1032 422,1031 466,1032 510,1032 554,1032 598,1032 642,1032 686,1030 729,1030 773,1032 817,1032 861,1032 905,1032 949,1032 993,1032"/>
+                <TextEquiv>
+                    <Unicode>as the Western Ghauts. It contains (including Chittoor) 1,131 square</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="112,1094 254,1074 660,1083 660,1044 112,1046"/>
+                <Baseline points="118,1069 145,1067 172,1069 199,1069 227,1069 254,1069 281,1069 308,1069 336,1069 363,1070 390,1071 417,1071 445,1069 472,1069 499,1069 526,1069 554,1069 581,1069 608,1071 635,1071 663,1069"/>
+                <TextEquiv>
+                    <Unicode>miles, of various descriptions of territory.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="137,1116 990,1119 990,1082 949,1077 137,1086"/>
+                <Baseline points="143,1108 185,1106 228,1106 270,1106 313,1106 355,1108 398,1107 440,1108 483,1108 525,1108 568,1108 610,1108 653,1109 695,1110 738,1108 780,1106 823,1108 865,1108 908,1108 950,1109 993,1110"/>
+                <TextEquiv>
+                    <Unicode>The Cochin State encireles several portions of Travancore, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="108,1149 990,1154 990,1119 108,1128"/>
+                <Baseline points="114,1143 160,1145 206,1145 252,1145 299,1145 345,1145 391,1145 437,1143 484,1144 530,1145 576,1147 622,1147 669,1147 715,1146 761,1145 807,1143 854,1143 900,1147 946,1147 993,1145"/>
+                <TextEquiv>
+                    <Unicode>one large town, kuown as Cochin, in latitude 9° 58' N., and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="104,1198 987,1192 972,1161 899,1154 104,1165"/>
+                <Baseline points="110,1184 156,1184 202,1182 248,1180 295,1182 341,1182 387,1180 433,1182 480,1183 526,1184 572,1186 618,1185 665,1184 711,1184 757,1182 803,1182 850,1182 896,1182 942,1184 989,1182"/>
+                <TextEquiv>
+                    <Unicode>longitude 76° 18' 30“ E., the property of the British Govern¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="110,1234 992,1229 992,1195 839,1213 773,1188 110,1204"/>
+                <Baseline points="116,1219 162,1221 208,1219 254,1219 301,1218 347,1219 393,1221 439,1222 486,1221 532,1221 578,1221 624,1222 671,1221 717,1221 763,1221 809,1221 856,1221 902,1221 948,1221 995,1221"/>
+                <TextEquiv>
+                    <Unicode>ment : whilst its owu distriet of Chittoor is itself surrounded</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="108,1267 992,1274 966,1237 843,1230 108,1233"/>
+                <Baseline points="114,1259 158,1256 202,1257 246,1259 290,1259 334,1258 378,1257 422,1257 466,1259 510,1259 554,1259 598,1260 642,1259 686,1260 730,1257 774,1258 818,1257 862,1259 906,1259 950,1259 995,1263"/>
+                <TextEquiv>
+                    <Unicode>by British territory. The State is divided into Kumeeanúr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="110,1306 988,1311 978,1274 832,1265 110,1277"/>
+                <Baseline points="116,1296 159,1298 203,1298 247,1297 291,1296 334,1298 378,1296 422,1297 466,1298 509,1298 553,1298 597,1297 641,1298 684,1298 728,1298 772,1296 816,1296 859,1297 903,1298 947,1298 991,1300"/>
+                <TextEquiv>
+                    <Unicode>Cochin, Cranganore, Kodachayree, Mukundapurum, Yainamakul,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="112,1342 988,1353 978,1310 112,1310"/>
+                <Baseline points="118,1333 161,1333 205,1335 248,1334 292,1333 336,1335 379,1335 423,1335 467,1337 510,1336 554,1337 598,1337 641,1335 685,1336 729,1335 772,1336 816,1335 860,1334 903,1335 947,1337 991,1333"/>
+                <TextEquiv>
+                    <Unicode>Thaullapullay, Trichoor, Chaylayekurray, and Chittoor.* Exelud¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="108,1385 989,1391 989,1354 928,1346 108,1349"/>
+                <Baseline points="114,1370 157,1372 201,1372 245,1371 289,1372 333,1372 377,1374 420,1372 464,1372 508,1374 552,1374 596,1374 640,1374 684,1374 727,1374 771,1372 815,1374 859,1373 903,1372 947,1374 991,1374"/>
+                <TextEquiv>
+                    <Unicode>ing this last division, it consists of hills aud low-lands : these</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="106,1422 988,1428 988,1391 937,1386 106,1384"/>
+                <Baseline points="112,1409 158,1409 204,1409 250,1411 297,1411 343,1411 389,1411 435,1411 482,1411 528,1413 574,1411 620,1413 667,1413 713,1411 759,1413 805,1411 852,1411 898,1411 944,1413 991,1417"/>
+                <TextEquiv>
+                    <Unicode>Atter being from fifteen to twenty miles in width, and stretching</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="112,1458 990,1459 990,1429 907,1423 112,1419"/>
+                <Baseline points="118,1448 161,1447 205,1448 249,1448 293,1448 336,1448 380,1450 424,1450 468,1450 511,1450 555,1450 599,1452 643,1450 686,1450 730,1450 774,1449 818,1450 861,1449 905,1450 949,1450 993,1450"/>
+                <TextEquiv>
+                    <Unicode>from the ghauts to the sca-shore. The low-lands are divisible into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="112,1502 993,1496 993,1469 931,1458 112,1464"/>
+                <Baseline points="118,1485 161,1485 205,1485 249,1487 293,1487 337,1487 381,1487 424,1489 468,1487 512,1489 556,1489 600,1489 644,1489 688,1489 731,1489 775,1490 819,1489 863,1487 907,1489 951,1490 995,1489"/>
+                <TextEquiv>
+                    <Unicode>two portions, a long saudy or maritime territory, from two miles to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="91,1515 1022,1515 1022,1704 91,1704"/>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:0;}">
+                <Coords points="172,1538 990,1542 990,1516 172,1513"/>
+                <Baseline points="178,1532 218,1532 259,1532 300,1532 341,1534 381,1534 422,1534 463,1534 504,1535 544,1535 585,1535 626,1535 667,1535 707,1535 748,1535 789,1535 830,1534 870,1534 911,1535 952,1535 993,1537"/>
+                <TextEquiv>
+                    <Unicode>* Many of the following measurements, and other information, are taken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:1;}">
+                <Coords points="108,1570 990,1578 990,1542 924,1538 108,1539"/>
+                <Baseline points="114,1561 160,1563 206,1561 252,1561 299,1561 345,1563 391,1564 437,1563 484,1564 530,1565 576,1565 622,1565 669,1565 715,1564 761,1565 807,1565 854,1565 900,1563 946,1567 993,1567"/>
+                <TextEquiv>
+                    <Unicode>from the excellent Official Reports of Lieutenants Connors and Ward ; M.S.S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:2;}">
+                <Coords points="106,1600 988,1602 962,1574 106,1578"/>
+                <Baseline points="112,1592 158,1591 204,1592 250,1590 297,1591 343,1592 389,1592 435,1592 482,1594 528,1594 574,1594 620,1594 667,1594 713,1593 759,1592 805,1594 852,1594 898,1596 944,1595 991,1594"/>
+                <TextEquiv>
+                    <Unicode>of the Surveyor General's Department: also M.S S. records of the Dutch Go-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:3;}">
+                <Coords points="108,1634 944,1638 992,1633 991,1603 107,1615"/>
+                <Baseline points="114,1623 158,1622 202,1621 246,1621 290,1621 334,1621 378,1621 422,1621 466,1621 510,1623 554,1623 598,1624 642,1623 686,1623 730,1625 774,1624 818,1623 862,1625 906,1625 950,1625 995,1625"/>
+                <TextEquiv>
+                    <Unicode>vernment of Cochin ; the report of Dr. Francis Buchanan, 1800 : Lieutenant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:4;}">
+                <Coords points="111,1659 900,1674 990,1666 989,1634 110,1636"/>
+                <Baseline points="116,1650 159,1652 203,1652 247,1650 291,1652 335,1651 379,1652 422,1652 466,1652 510,1652 554,1654 598,1654 642,1654 686,1654 729,1654 773,1655 817,1654 861,1654 905,1656 949,1656 993,1656"/>
+                <TextEquiv>
+                    <Unicode>Horsley, 1810, and Assistant Surgeon Oliphant, 1831. M.S.S. Alterations and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:5;}">
+                <Coords points="106,1689 760,1706 836,1698 836,1666 105,1666"/>
+                <Baseline points="112,1681 148,1683 184,1683 221,1683 257,1683 293,1681 330,1682 366,1684 402,1683 439,1683 475,1685 511,1685 548,1685 584,1685 620,1685 657,1685 693,1687 729,1685 766,1686 802,1687 839,1685"/>
+                <TextEquiv>
+                    <Unicode>additions have been made, to bring them up to the present time.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
