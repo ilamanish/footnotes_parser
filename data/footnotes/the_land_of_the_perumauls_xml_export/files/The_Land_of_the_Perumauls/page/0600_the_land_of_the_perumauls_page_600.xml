@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-11-27T19:20:18.441+01:00</Created>
+        <LastChange>2024-11-27T19:20:18.441+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960632" pageNr="600" tsid="208115913" status="NEW" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=BBGCBMMXTIWFNYNNVQJHXIBL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GYVICAUTNCZOEFDODDUMEOGU" imageId="70209977"/>
+    </Metadata>
+    <Page imageFilename="0600_the_land_of_the_perumauls_page_600.jpg" imageWidth="1170" imageHeight="1964"/>
+</PcGts>

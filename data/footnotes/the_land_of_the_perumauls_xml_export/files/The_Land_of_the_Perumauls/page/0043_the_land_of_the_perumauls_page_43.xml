@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:31.253+01:00</Created>
+        <LastChange>2024-12-04T10:23:09.263+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960070" pageNr="43" tsid="209646100" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=PDIKUIISNJJCZWXUUITIQLWF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYGISSRCAGAZHWLROIPEYWGR" imageId="70209374"/>
+    </Metadata>
+    <Page imageFilename="0043_the_land_of_the_perumauls_page_43.jpg" imageWidth="1162" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840512555" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="81,225 81,1708 972,1708 972,225"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="358,254 476,254 497,265 523,256 615,263 627,250 698,258 698,222 358,224"/>
+                <Baseline points="364,247 389,247 415,247 441,247 467,245 493,247 519,245 544,246 570,247 596,246 622,245 648,245 674,247 700,245"/>
+                <TextEquiv>
+                    <Unicode>REMARKABLE BUILDINCS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="79,319 968,315 918,286 79,277"/>
+                <Baseline points="85,313 129,313 173,313 217,313 262,313 306,311 350,313 394,313 439,313 483,313 527,313 571,315 616,315 660,314 704,315 748,313 793,311 837,312 881,311 925,311 970,309"/>
+                <TextEquiv>
+                    <Unicode>butterflies and birds of gorgeous plumage, are seen in every direc¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="83,363 967,366 967,335 917,325 83,327"/>
+                <Baseline points="89,354 133,354 177,354 221,352 265,352 309,354 353,352 397,352 441,354 485,354 529,354 573,354 617,352 661,352 705,352 749,353 793,352 837,351 881,352 925,352 970,352"/>
+                <TextEquiv>
+                    <Unicode>tion. This stream which is apparently both very gentle and shallow,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="81,402 970,398 902,365 81,364"/>
+                <Baseline points="87,391 131,393 175,392 219,393 264,392 308,391 352,391 396,391 441,391 485,393 529,393 573,391 618,393 662,392 706,393 750,392 795,391 839,391 883,389 927,390 972,387"/>
+                <TextEquiv>
+                    <Unicode>has unhappily been thie seene of several fatal aceidents to Euro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="85,444 969,435 969,408 926,402 85,412"/>
+                <Baseline points="91,435 135,429 179,429 223,431 267,429 311,429 355,429 399,429 443,429 487,429 531,429 575,429 619,431 663,429 707,429 751,429 795,429 839,429 883,429 927,428 972,429"/>
+                <TextEquiv>
+                    <Unicode>peaus whilst bathing; as at a short distance to the south there is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="77,472 846,477 846,448 736,443 77,452"/>
+                <Baseline points="83,470 121,468 159,469 197,468 236,468 274,468 312,468 350,468 389,468 427,468 465,468 503,470 542,470 580,470 618,468 656,468 695,468 733,468 771,467 809,467 848,468"/>
+                <TextEquiv>
+                    <Unicode>roek, around whieh are some holes in the bed of the river.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="112,515 966,510 937,478 112,484"/>
+                <Baseline points="118,507 160,507 203,507 245,507 288,506 330,507 373,507 415,507 458,507 500,507 543,506 585,507 628,506 670,507 713,507 755,507 798,507 840,505 883,505 925,505 968,505"/>
+                <TextEquiv>
+                    <Unicode>In the Cochin State the number of remarkable buildings is ex¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="79,553 969,558 969,527 919,518 79,526"/>
+                <Baseline points="85,546 129,546 173,546 218,546 262,546 306,546 351,546 395,546 439,546 484,546 528,546 572,546 617,546 661,547 705,546 750,546 794,546 838,545 883,546 927,544 972,542"/>
+                <TextEquiv>
+                    <Unicode>ceedingly small, such as there are, generally are dedicated to religious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="83,602 967,591 967,560 878,555 83,565"/>
+                <Baseline points="89,588 133,584 177,584 221,584 265,584 309,584 353,584 397,583 441,584 485,584 529,584 573,584 617,584 661,584 705,584 749,584 793,584 837,583 881,582 925,582 970,582"/>
+                <TextEquiv>
+                    <Unicode>purposes, and have been already named : the remainder may be sum¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="81,634 961,639 961,607 884,596 81,602"/>
+                <Baseline points="87,625 130,623 174,623 218,623 262,623 306,621 350,623 393,621 437,621 481,623 525,623 569,623 613,623 657,623 700,623 744,623 788,623 832,622 876,621 920,622 964,619"/>
+                <TextEquiv>
+                    <Unicode>med up as follows. TThere are some old ruins, the remains of pago¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="79,666 966,666 952,636 79,639"/>
+                <Baseline points="85,662 129,662 173,661 217,660 261,660 305,660 349,660 394,660 438,660 482,661 526,662 570,661 614,660 658,662 703,660 747,660 791,660 835,660 879,660 923,660 968,658"/>
+                <TextEquiv>
+                    <Unicode>das, near the old Fort of Cranganore, also in ruins, and one spot is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="85,713 968,705 968,680 910,670 85,674"/>
+                <Baseline points="91,704 137,698 183,698 229,698 276,697 322,698 368,699 414,698 461,698 507,698 553,698 599,698 646,698 692,700 738,698 784,698 831,698 877,698 923,697 970,697"/>
+                <TextEquiv>
+                    <Unicode>pointed out as being the residence of the Permauls, when they were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="81,750 970,750 948,711 81,721"/>
+                <Baseline points="87,745 131,737 175,737 219,737 264,737 308,737 352,737 396,737 441,737 485,737 529,737 573,737 618,737 662,738 706,739 750,737 795,737 839,737 883,737 927,735 972,737"/>
+                <TextEquiv>
+                    <Unicode>governors of Malabar. At Irinyaleoday is a temple, the chief of which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="75,785 967,782 967,750 931,746 75,750"/>
+                <Baseline points="81,776 125,776 169,776 214,776 258,776 303,776 347,776 392,776 436,775 481,776 525,776 569,776 614,776 658,776 703,776 747,776 792,776 836,776 881,776 925,774 970,774"/>
+                <TextEquiv>
+                    <Unicode>is a sunnyassie, who must be nominated from eertain families. He</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="79,828 968,819 968,780 79,797"/>
+                <Baseline points="85,815 129,815 173,815 217,815 262,814 306,813 350,814 394,815 439,815 483,815 527,815 571,815 616,815 660,815 704,815 748,814 793,815 837,815 881,815 925,813 970,813"/>
+                <TextEquiv>
+                    <Unicode>enjoys considerable immunities, and when he goes out, is preceded</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="85,861 966,860 930,828 85,828"/>
+                <Baseline points="91,853 134,853 178,851 222,853 266,853 310,851 354,851 397,852 441,853 485,853 529,853 573,853 617,853 661,853 704,851 748,852 792,853 836,852 880,851 924,851 968,853"/>
+                <TextEquiv>
+                    <Unicode>by a lamp and sword, and has all the insignia of supreme authority.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="79,897 969,896 969,864 920,859 79,867"/>
+                <Baseline points="85,890 129,890 173,891 218,890 262,890 306,890 351,890 395,892 439,891 484,890 528,890 572,890 617,892 661,891 705,890 750,890 794,890 838,890 883,890 927,890 972,888"/>
+                <TextEquiv>
+                    <Unicode>He aeknowledges no superior, and will reside in the presence of no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="79,937 966,942 966,900 175,922 79,900"/>
+                <Baseline points="85,929 129,929 173,929 217,930 261,929 305,929 349,929 394,929 438,929 482,929 526,929 570,929 614,929 658,930 703,929 747,929 791,929 835,929 879,929 923,929 968,929"/>
+                <TextEquiv>
+                    <Unicode>Prince. He watehes over the temple, superintends its ministerial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="79,975 957,975 948,942 79,942"/>
+                <Baseline points="85,968 128,968 172,966 216,967 260,968 303,968 347,968 391,967 435,968 478,967 522,968 566,968 610,968 653,967 697,966 741,968 785,968 828,968 872,968 916,967 960,966"/>
+                <TextEquiv>
+                    <Unicode>and lay concerns, sees to its revennes, and overlooks its expenditure.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="113,1024 967,1015 967,980 113,975"/>
+                <Baseline points="120,1004 162,1004 205,1004 247,1004 290,1004 332,1004 375,1004 417,1004 460,1004 502,1004 545,1004 587,1004 630,1004 672,1004 715,1004 757,1004 800,1004 842,1004 885,1005 927,1004 970,1006"/>
+                <TextEquiv>
+                    <Unicode>The Ootooparrahs have already been several times mentioned.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="81,1057 970,1056 950,1017 81,1019"/>
+                <Baseline points="87,1045 131,1044 175,1043 219,1043 264,1043 308,1044 352,1043 396,1043 441,1043 485,1043 529,1043 573,1043 618,1043 662,1043 706,1043 750,1043 795,1042 839,1043 883,1043 927,1043 972,1047"/>
+                <TextEquiv>
+                    <Unicode>In some places a portion of the pagoda is used, in licu of crecting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="77,1090 967,1090 967,1062 903,1049 77,1068"/>
+                <Baseline points="83,1082 127,1084 171,1084 216,1083 260,1082 304,1082 349,1084 393,1081 437,1080 482,1080 526,1082 570,1082 615,1082 659,1082 703,1082 748,1082 792,1082 836,1082 881,1082 925,1080 970,1082"/>
+                <TextEquiv>
+                    <Unicode>«separate building. They were origmally instituted for pilgrim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="85,1130 963,1128 948,1094 851,1086 85,1094"/>
+                <Baseline points="91,1123 134,1123 178,1121 222,1121 266,1121 309,1120 353,1121 397,1120 441,1121 484,1121 528,1121 572,1121 616,1121 659,1121 703,1121 747,1120 791,1121 834,1121 878,1121 922,1121 966,1121"/>
+                <TextEquiv>
+                    <Unicode>Brahmans, aud even now a rule exists, that uuless detained by sick-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="79,1169 969,1165 969,1131 79,1137"/>
+                <Baseline points="85,1161 129,1161 173,1159 218,1159 262,1159 306,1159 351,1157 395,1159 439,1158 484,1157 528,1157 572,1159 617,1157 661,1157 705,1155 750,1157 794,1157 838,1158 883,1157 927,1159 972,1159"/>
+                <TextEquiv>
+                    <Unicode>ness, no one may take more than two days' food in the same</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="75,1203 963,1207 914,1166 75,1177"/>
+                <Baseline points="81,1198 125,1198 169,1198 213,1198 258,1197 302,1196 346,1196 390,1196 435,1196 479,1196 523,1196 567,1196 612,1196 656,1196 700,1196 744,1196 789,1196 833,1196 877,1196 921,1196 966,1194"/>
+                <TextEquiv>
+                    <Unicode>establishment. In Travancore there are many more of these Ootoo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="85,1249 968,1244 952,1207 85,1214"/>
+                <Baseline points="91,1239 137,1237 183,1237 229,1235 276,1235 322,1235 368,1235 414,1235 461,1234 507,1233 553,1235 599,1235 646,1235 692,1235 738,1235 784,1234 831,1233 877,1235 923,1235 970,1233"/>
+                <TextEquiv>
+                    <Unicode>parrahs than in Cochin, for no Namboorie Brahman will reside in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="79,1279 962,1289 962,1250 863,1243 79,1255"/>
+                <Baseline points="85,1274 131,1275 177,1274 223,1274 270,1274 316,1274 362,1272 408,1272 455,1272 501,1272 547,1274 593,1272 640,1272 686,1272 732,1274 778,1272 825,1272 871,1272 917,1271 964,1270"/>
+                <TextEquiv>
+                    <Unicode>the former State although the Rajahs have in vain tried by every</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="81,1322 965,1326 965,1289 897,1285 81,1297"/>
+                <Baseline points="87,1314 133,1312 179,1312 225,1311 272,1310 318,1310 364,1310 410,1310 457,1310 503,1310 549,1310 595,1310 642,1310 688,1309 734,1308 780,1310 827,1310 873,1310 919,1310 966,1310"/>
+                <TextEquiv>
+                    <Unicode>means in their power, to induce them to do so. But the caste of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="79,1358 963,1359 951,1323 79,1325"/>
+                <Baseline points="85,1351 129,1351 173,1351 217,1349 261,1349 305,1349 349,1349 393,1349 437,1349 481,1349 525,1349 569,1348 613,1347 657,1348 701,1349 745,1347 789,1347 833,1348 877,1349 921,1349 966,1349"/>
+                <TextEquiv>
+                    <Unicode>the reigning family (Nair) is too low to suit the bigoted arrogmce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="77,1394 967,1397 967,1358 77,1374"/>
+                <Baseline points="83,1386 127,1388 171,1388 216,1388 260,1388 304,1388 349,1386 393,1388 437,1388 482,1388 526,1388 570,1388 615,1388 659,1388 703,1386 748,1386 792,1386 836,1386 881,1388 925,1388 970,1386"/>
+                <TextEquiv>
+                    <Unicode>of these Namboories, who consequently prefer living in the dominions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="77,1434 967,1438 967,1403 77,1411"/>
+                <Baseline points="83,1428 127,1427 171,1427 216,1427 260,1427 304,1425 349,1426 393,1425 437,1426 482,1425 526,1425 570,1427 615,1425 659,1425 703,1425 748,1424 792,1425 836,1425 881,1427 925,1427 970,1427"/>
+                <TextEquiv>
+                    <Unicode>of the Schatriya Prinee of Cochin where however they are not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="77,1473 966,1480 939,1433 77,1437"/>
+                <Baseline points="83,1465 127,1465 171,1465 215,1463 260,1465 304,1463 348,1461 392,1463 437,1463 481,1463 525,1463 569,1465 614,1463 658,1463 702,1463 746,1463 791,1463 835,1463 879,1463 923,1465 968,1465"/>
+                <TextEquiv>
+                    <Unicode>nearly so pampered. Many of the pagoda lands have been assumed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="81,1514 966,1514 966,1481 870,1470 81,1477"/>
+                <Baseline points="87,1504 131,1502 175,1502 219,1502 263,1502 307,1502 351,1500 395,1501 439,1500 483,1502 527,1502 571,1501 615,1500 659,1500 703,1500 747,1501 791,1502 835,1501 879,1502 923,1502 968,1500"/>
+                <TextEquiv>
+                    <Unicode>by the State, which in this ease undertakes the expenses of the es¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="75,1551 966,1552 966,1515 871,1510 75,1522"/>
+                <Baseline points="81,1541 125,1541 169,1541 214,1541 258,1541 302,1540 347,1541 391,1541 435,1541 480,1541 524,1541 568,1541 613,1540 657,1539 701,1539 746,1539 790,1540 834,1541 879,1541 923,1541 968,1543"/>
+                <TextEquiv>
+                    <Unicode>tablishments, but not quite in the style desired by the Brahmans,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="86,1588 967,1586 945,1555 673,1543 86,1559"/>
+                <Baseline points="92,1578 135,1580 179,1580 223,1580 267,1578 311,1579 355,1578 399,1578 443,1578 487,1578 531,1578 574,1578 618,1578 662,1578 706,1578 750,1578 794,1578 838,1579 882,1580 926,1580 970,1581"/>
+                <TextEquiv>
+                    <Unicode>One Namboorie has been induced to raise an Illum at Cottavai, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="83,1626 967,1626 967,1588 83,1593"/>
+                <Baseline points="89,1618 133,1618 177,1618 221,1617 265,1616 309,1616 353,1618 397,1616 441,1618 485,1616 529,1616 573,1616 617,1616 661,1616 705,1616 749,1616 793,1616 837,1618 881,1617 925,1618 970,1618"/>
+                <TextEquiv>
+                    <Unicode>Travaneore, which is giving great offence to others of his caste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="79,1664 966,1667 966,1634 930,1630 79,1628"/>
+                <Baseline points="85,1655 129,1657 173,1657 217,1656 261,1655 305,1655 349,1655 394,1655 438,1653 482,1655 526,1655 570,1654 614,1655 658,1655 703,1653 747,1653 791,1655 835,1655 879,1656 923,1657 968,1659"/>
+                <TextEquiv>
+                    <Unicode>This is probably the first of then who has settled in this State.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="79,1713 969,1710 952,1669 79,1669"/>
+                <Baseline points="85,1696 129,1694 173,1696 218,1696 262,1696 306,1696 351,1696 395,1695 439,1694 484,1694 528,1694 572,1694 617,1694 661,1694 705,1692 750,1694 794,1694 838,1694 883,1694 927,1696 972,1698"/>
+                <TextEquiv>
+                    <Unicode>The villages of forcigu or Potie Brahans, are called Agraruns, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

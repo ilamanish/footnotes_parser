@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:01.856+01:00</Created>
+        <LastChange>2024-12-10T01:28:03.231+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960446" pageNr="404" tsid="211283849" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=QRPLSBQYGFYFCVMZHKFIBLIZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GGEACFHSVLQDFQAXTXFGICUS" imageId="70209737"/>
+    </Metadata>
+    <Page imageFilename="0404_the_land_of_the_perumauls_page_404.jpg" imageWidth="1198" imageHeight="1967">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840750818" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="207,243 207,1749 1110,1749 1110,243"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="515,281 730,276 745,284 791,274 791,243 720,254 700,241 570,254 554,237 515,238"/>
+                <Baseline points="521,269 548,269 575,268 602,267 630,266 657,266 684,268 712,268 739,267 766,265 794,263"/>
+                <TextEquiv>
+                    <Unicode>IDEAS OF VERACITY.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="209,280 246,281 253,274 254,276 267,274 267,235 249,234 233,244 231,242 226,244 217,235 209,235"/>
+                <Baseline points="215,267 242,267 269,267"/>
+                <TextEquiv>
+                    <Unicode>3S1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="241,350 1101,351 1101,307 883,288 796,314 241,305"/>
+                <Baseline points="247,329 289,331 332,333 375,331 418,332 461,333 504,333 546,331 589,332 632,333 675,334 718,332 761,331 804,334 846,333 889,333 932,335 975,335 1018,335 1061,335 1104,333"/>
+                <TextEquiv>
+                    <Unicode>The crime of infanticide is unnecessary in these parts, and almost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="202,379 1101,384 1078,345 202,354"/>
+                <Baseline points="209,373 253,373 298,371 343,371 388,369 432,369 477,369 522,369 567,369 611,371 656,371 701,371 746,371 790,372 835,371 880,372 925,371 969,372 1014,373 1059,373 1104,371"/>
+                <TextEquiv>
+                    <Unicode>unknown. The domestic lives of the people, appear to be less dis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="207,415 1107,426 1107,397 206,384"/>
+                <Baseline points="213,409 257,411 302,409 347,408 392,409 437,409 482,411 526,409 571,411 616,411 661,411 706,411 751,413 796,411 840,411 885,412 930,411 975,412 1020,413 1065,413 1110,411"/>
+                <TextEquiv>
+                    <Unicode>turbed, by quarrels and jealousies, (because they have no one to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="210,465 1107,458 1069,425 210,425"/>
+                <Baseline points="217,449 261,450 306,449 350,449 395,449 440,449 484,449 529,450 574,451 618,449 663,451 708,452 752,453 797,452 842,449 886,451 931,451 976,451 1020,451 1065,451 1110,451"/>
+                <TextEquiv>
+                    <Unicode>jealous of,) than in most other portions of India, with the exception</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="209,497 1105,498 956,459 209,466"/>
+                <Baseline points="215,489 259,489 304,489 348,489 393,489 438,488 482,489 527,489 572,489 616,488 661,491 706,491 750,491 795,491 840,491 884,491 929,493 974,492 1018,493 1063,492 1108,493"/>
+                <TextEquiv>
+                    <Unicode>of the Brahmans, who are very suspicious of tlie fidelity of their wives.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="238,542 1104,544 1092,513 1008,502 238,504"/>
+                <Baseline points="245,529 288,529 331,527 374,528 417,528 460,531 503,529 546,529 589,529 632,529 675,531 718,531 761,531 804,531 847,531 890,530 933,531 976,530 1019,531 1062,531 1106,533"/>
+                <TextEquiv>
+                    <Unicode>In times of famine, mothers sometimes dispose of their children,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="205,578 1105,574 1105,548 932,538 205,542"/>
+                <Baseline points="211,567 255,567 300,567 345,565 390,565 435,566 480,567 524,567 569,567 614,568 659,569 704,569 749,569 794,569 838,569 883,569 928,569 973,569 1018,571 1063,570 1108,567"/>
+                <TextEquiv>
+                    <Unicode>frequently with the hope of being able to redeem them in more pros¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="213,623 1097,618 1097,578 213,588"/>
+                <Baseline points="219,605 263,606 307,607 351,605 395,603 439,606 483,607 527,607 571,607 615,607 659,607 703,607 747,608 791,607 835,607 879,607 923,607 967,609 1011,608 1055,609 1100,607"/>
+                <TextEquiv>
+                    <Unicode>pcrous times. The Hindu Laws, contain a provision for these cases,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="210,658 1099,665 1099,627 1038,618 210,626"/>
+                <Baseline points="217,645 261,645 305,645 349,645 394,643 438,645 482,645 526,646 571,647 615,646 659,647 703,647 748,647 792,647 836,647 880,647 925,647 969,647 1013,648 1057,647 1102,645"/>
+                <TextEquiv>
+                    <Unicode>directing, that whoever should during a famine, have sold his liberty</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="207,692 1104,699 1077,659 207,659"/>
+                <Baseline points="213,684 257,683 302,682 346,682 391,682 436,684 480,682 525,683 570,684 614,684 659,684 704,683 748,684 793,684 838,684 882,686 927,684 972,685 1016,686 1061,685 1106,686"/>
+                <TextEquiv>
+                    <Unicode>for food may in better times regain his freedom on returning the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="207,731 929,730 929,703 894,696 207,710"/>
+                <Baseline points="213,724 250,722 288,721 326,722 364,722 402,721 440,721 477,722 515,722 553,724 591,723 629,722 667,722 704,724 742,724 780,724 818,724 856,722 894,722 932,722"/>
+                <TextEquiv>
+                    <Unicode>amount he had received, and giving two head of cattle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="241,770 1101,771 1101,745 1018,736 903,756 845,729 241,732"/>
+                <Baseline points="247,760 289,761 332,760 375,760 418,760 461,762 504,763 546,762 589,763 632,762 675,763 718,762 761,762 804,762 846,762 889,764 932,764 975,763 1018,763 1061,762 1104,760"/>
+                <TextEquiv>
+                    <Unicode>Many of the laws and maxims of the Natives, are good, were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="205,809 1101,818 1101,781 1060,770 205,781"/>
+                <Baseline points="211,796 255,799 300,800 344,799 389,798 434,800 478,800 523,801 568,800 612,800 657,800 702,801 746,800 791,801 836,802 880,802 925,802 970,802 1014,802 1059,804 1104,804"/>
+                <TextEquiv>
+                    <Unicode>thcy followed out. In former times a person convicted of telling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="201,854 1104,848 1104,818 1015,809 201,825"/>
+                <Baseline points="207,838 254,839 301,838 348,838 396,837 443,838 490,838 538,838 585,838 632,838 680,838 727,839 774,838 822,840 869,840 916,838 964,840 1011,840 1058,841 1106,838"/>
+                <TextEquiv>
+                    <Unicode>an untruth,* was tortured, or very severely punished, werc this not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="205,890 1099,886 1099,861 953,852 205,857"/>
+                <Baseline points="211,876 255,878 300,876 344,876 389,876 433,876 478,876 522,877 567,876 611,877 656,878 701,878 745,878 790,879 834,878 879,879 923,880 968,878 1012,879 1057,880 1102,878"/>
+                <TextEquiv>
+                    <Unicode>obsolete, the courts of justice would have sufficient employment, as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="206,926 1099,930 1073,890 205,897"/>
+                <Baseline points="211,914 255,915 299,914 344,915 388,916 433,916 477,918 522,917 566,918 611,917 655,916 699,918 744,918 788,917 833,918 877,918 922,918 966,918 1011,918 1055,918 1100,916"/>
+                <TextEquiv>
+                    <Unicode>veracity is a virtue, unfortunately not too prevalent amongst the Na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="207,962 1106,969 1089,930 207,938"/>
+                <Baseline points="213,956 257,955 302,954 347,954 392,954 436,954 481,956 526,956 571,956 615,956 660,958 705,957 750,958 794,957 839,958 884,958 929,958 973,957 1018,958 1063,958 1108,954"/>
+                <TextEquiv>
+                    <Unicode>tives of the low country, but in the wilder parts they are more</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="205,1006 1099,1009 1099,971 934,964 205,974"/>
+                <Baseline points="211,994 255,994 300,994 344,992 389,994 433,993 478,994 522,995 567,996 611,994 656,996 701,996 745,996 790,996 834,996 879,996 923,996 968,996 1012,996 1057,996 1102,998"/>
+                <TextEquiv>
+                    <Unicode>truthful. It appcars that the further they are removed from cities,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="201,1041 1101,1046 1094,1015 957,1005 201,1014"/>
+                <Baseline points="207,1032 251,1034 296,1032 341,1034 386,1034 431,1034 476,1034 520,1034 565,1034 610,1034 655,1034 700,1035 745,1034 790,1034 834,1036 879,1034 924,1034 969,1034 1014,1036 1059,1036 1104,1034"/>
+                <TextEquiv>
+                    <Unicode>and communication with the external world, the more their word, may</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="205,1081 1101,1082 1101,1054 1047,1044 205,1051"/>
+                <Baseline points="211,1072 255,1071 300,1072 344,1072 389,1070 434,1071 478,1072 523,1072 568,1072 612,1071 657,1072 702,1072 746,1072 791,1073 836,1072 880,1072 925,1072 970,1074 1014,1074 1059,1073 1104,1070"/>
+                <TextEquiv>
+                    <Unicode>be relied on. This can scarcely be wondered at, subject as thcy have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="205,1116 1099,1126 1099,1084 205,1084"/>
+                <Baseline points="211,1110 255,1111 300,1110 344,1110 389,1110 433,1110 478,1110 522,1111 567,1112 611,1112 656,1110 701,1110 745,1110 790,1111 834,1112 879,1112 923,1110 968,1112 1012,1112 1057,1112 1102,1110"/>
+                <TextEquiv>
+                    <Unicode>becn for centuries, to tyrannical rule, where the law of the most power¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="205,1161 1104,1161 1104,1132 1029,1123 205,1126"/>
+                <Baseline points="211,1150 255,1150 300,1148 345,1148 390,1148 434,1148 479,1150 524,1150 569,1150 613,1150 658,1150 703,1150 748,1150 792,1150 837,1150 882,1150 927,1150 971,1151 1016,1152 1061,1151 1106,1150"/>
+                <TextEquiv>
+                    <Unicode>ful, has by force of circumstances, been that of the country, and each</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="202,1206 1099,1203 1056,1161 202,1174"/>
+                <Baseline points="209,1190 253,1188 298,1190 342,1188 387,1190 432,1189 476,1188 521,1190 566,1190 610,1190 655,1190 700,1190 744,1190 789,1189 834,1190 878,1190 923,1188 968,1190 1012,1190 1057,1191 1102,1192"/>
+                <TextEquiv>
+                    <Unicode>official has had, (and truth must admit many still have,) their price;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="201,1234 1104,1234 1077,1205 862,1197 201,1205"/>
+                <Baseline points="207,1228 254,1228 301,1228 348,1228 396,1228 443,1228 490,1228 538,1228 585,1230 632,1228 680,1230 727,1227 774,1228 822,1228 869,1228 916,1229 964,1230 1011,1230 1058,1230 1106,1226"/>
+                <TextEquiv>
+                    <Unicode>dissimulation has thus bccome necessary, and fraud been so thorough¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="207,1278 1104,1276 1096,1243 207,1243"/>
+                <Baseline points="213,1266 257,1266 302,1266 346,1266 391,1266 436,1265 480,1264 525,1266 570,1266 614,1267 659,1266 704,1266 748,1268 793,1268 838,1268 882,1268 927,1268 972,1265 1016,1268 1061,1268 1106,1270"/>
+                <TextEquiv>
+                    <Unicode>ly engrafted into the Native Character, that many a long year must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="209,1321 622,1315 623,1279 410,1289 324,1278 307,1294 210,1279"/>
+                <Baseline points="215,1306 240,1308 266,1308 291,1307 317,1306 343,1306 368,1306 394,1304 420,1304 445,1304 471,1304 496,1305 522,1306 548,1304 573,1304 599,1304 625,1306"/>
+                <TextEquiv>
+                    <Unicode>elapse, ere it can be eradicated.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="237,1352 1108,1354 1080,1318 237,1324"/>
+                <Baseline points="243,1345 286,1344 329,1343 373,1343 416,1343 459,1343 503,1344 546,1343 589,1344 633,1345 676,1344 719,1345 763,1344 806,1345 849,1345 893,1345 936,1345 979,1345 1023,1345 1066,1345 1110,1345"/>
+                <TextEquiv>
+                    <Unicode>It is a curious anomaly, that this race, who think it no crime to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="207,1407 1101,1403 1101,1367 1058,1354 207,1362"/>
+                <Baseline points="213,1385 257,1383 302,1383 346,1383 391,1383 435,1382 480,1381 524,1383 569,1383 613,1384 658,1385 703,1384 747,1383 792,1385 836,1385 881,1385 925,1385 970,1383 1014,1384 1059,1385 1104,1385"/>
+                <TextEquiv>
+                    <Unicode>cheat a white man, but on the contrary rather a meritorious action,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="203,1435 1121,1435 1121,1760 203,1760"/>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:0;}">
+                <Coords points="225,1457 1099,1473 1084,1430 225,1433"/>
+                <Baseline points="231,1451 274,1458 318,1459 361,1457 405,1457 448,1457 492,1459 535,1457 579,1457 622,1459 666,1458 710,1457 753,1459 797,1459 840,1458 884,1457 927,1457 971,1457 1014,1457 1058,1458 1102,1459"/>
+                <TextEquiv>
+                    <Unicode>* Mr. Muller, a German missionary, mentions appealing to a Hindu’s conscience,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:1;}">
+                <Coords points="207,1500 1095,1501 1095,1472 1058,1466 207,1466"/>
+                <Baseline points="213,1491 257,1489 301,1491 345,1491 389,1488 433,1489 477,1489 522,1489 566,1489 610,1489 654,1489 698,1489 742,1489 786,1488 831,1487 875,1489 919,1489 963,1489 1007,1487 1051,1488 1096,1485"/>
+                <TextEquiv>
+                    <Unicode>with respect to the future rewards of good and evil. The Hindu answered by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:2;}">
+                <Coords points="205,1537 1081,1532 1100,1505 205,1510"/>
+                <Baseline points="211,1521 255,1522 300,1521 344,1521 389,1519 433,1520 478,1521 522,1521 567,1521 611,1521 656,1521 701,1520 745,1521 790,1520 834,1521 879,1521 923,1519 968,1519 1012,1519 1057,1519 1102,1519"/>
+                <TextEquiv>
+                    <Unicode>a story. A butcher bought a cow, whilst taking her home, she broke her rope</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:3;}">
+                <Coords points="207,1563 1097,1566 1097,1530 1058,1527 207,1537"/>
+                <Baseline points="213,1553 257,1551 301,1551 346,1549 390,1552 434,1551 479,1552 523,1552 567,1553 612,1552 656,1551 700,1551 745,1551 789,1551 833,1551 878,1551 922,1551 966,1551 1011,1551 1055,1551 1100,1549"/>
+                <TextEquiv>
+                    <Unicode>and escaped. Going in pursuit he met a veracious Hindu, who informed him</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:4;}">
+                <Coords points="209,1592 1097,1588 1097,1566 978,1557 209,1563"/>
+                <Baseline points="215,1581 259,1583 303,1582 347,1581 391,1582 435,1581 479,1581 524,1583 568,1583 612,1581 656,1581 700,1582 744,1583 788,1583 833,1581 877,1581 921,1581 965,1581 1009,1581 1053,1582 1098,1579"/>
+                <TextEquiv>
+                    <Unicode>which road the cow had taken. Proceeding a little further asking a men-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:5;}">
+                <Coords points="205,1619 1096,1618 1083,1587 205,1599"/>
+                <Baseline points="211,1613 255,1613 299,1612 344,1613 388,1612 432,1613 477,1612 521,1613 565,1613 610,1611 654,1611 698,1612 743,1611 787,1613 831,1613 876,1611 920,1611 964,1609 1009,1611 1053,1611 1098,1609"/>
+                <TextEquiv>
+                    <Unicode>dacious Hindu, he told him the wrong road, consequently the cow escaped.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:6;}">
+                <Coords points="209,1662 1102,1652 1102,1621 1009,1618 209,1628"/>
+                <Baseline points="215,1645 259,1643 303,1643 348,1643 392,1643 437,1643 481,1643 526,1643 570,1643 615,1644 659,1643 703,1643 748,1643 792,1644 837,1643 881,1641 926,1641 970,1642 1015,1643 1059,1641 1104,1639"/>
+                <TextEquiv>
+                    <Unicode>After death, the one who by telling the true road, whereby the butcher was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:7;}">
+                <Coords points="207,1686 1104,1681 1104,1652 207,1662"/>
+                <Baseline points="213,1675 257,1675 302,1675 346,1675 391,1673 436,1673 480,1673 525,1675 570,1675 614,1675 659,1675 704,1675 748,1675 793,1674 838,1673 882,1673 927,1673 972,1673 1016,1673 1061,1673 1106,1669"/>
+                <TextEquiv>
+                    <Unicode>able to pursue the cow with the intention of slaughtering her was adjudged to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:8;}">
+                <Coords points="205,1706 1105,1718 1105,1684 1062,1680 205,1686"/>
+                <Baseline points="211,1705 255,1706 300,1705 345,1702 390,1703 435,1705 480,1703 524,1705 569,1705 614,1705 659,1705 704,1704 749,1705 794,1705 838,1703 883,1705 928,1705 973,1705 1018,1705 1063,1704 1108,1701"/>
+                <TextEquiv>
+                    <Unicode>be gnawed by worms for twenty lifetimes. He who by telling an untruth had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:9;}">
+                <Coords points="205,1742 947,1761 947,1714 892,1710 205,1727"/>
+                <Baseline points="211,1735 249,1737 288,1737 327,1737 366,1737 405,1736 444,1737 483,1737 522,1736 561,1735 599,1737 638,1737 677,1737 716,1735 755,1735 794,1735 833,1735 872,1735 911,1736 950,1739"/>
+                <TextEquiv>
+                    <Unicode>saved the cow's life was adjudged to be born twenty times a king.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

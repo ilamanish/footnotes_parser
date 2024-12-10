@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:19:59.892+01:00</Created>
+        <LastChange>2024-12-10T01:21:48.271+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960313" pageNr="383" tsid="211283705" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=CJSUYGZKXZUAFQEAPSDBEZEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BPZLMKSYWRYPYZHYRLVCYORY" imageId="70209684"/>
+    </Metadata>
+    <Page imageFilename="0383_the_land_of_the_perumauls_page_383.jpg" imageWidth="1178" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840739173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="100,231 100,1737 1009,1737 1009,231"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="940,259 946,259 952,266 961,266 968,260 975,262 978,258 1002,262 1002,217 993,216 991,219 984,219 981,216 973,222 940,221"/>
+                <Baseline points="946,251 975,253 1005,251"/>
+                <TextEquiv>
+                    <Unicode>363</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="430,273 447,281 459,272 563,259 600,273 650,273 673,263 674,219 453,216 446,223 431,214"/>
+                <Baseline points="437,257 463,255 489,254 516,253 542,253 569,254 595,254 622,253 648,253 675,251"/>
+                <TextEquiv>
+                    <Unicode>CASTE DIVISIONS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="96,331 956,334 1001,330 1002,281 96,282"/>
+                <Baseline points="102,320 147,320 192,319 237,320 282,320 327,320 372,318 417,320 462,320 507,318 552,318 597,318 642,321 687,320 732,318 777,318 822,318 867,318 912,318 957,319 1003,318"/>
+                <TextEquiv>
+                    <Unicode>Diez,* who had been captured by a Corsair, on her voyage to Tercei¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="96,366 1002,368 969,330 96,331"/>
+                <Baseline points="102,361 147,361 192,360 237,359 282,359 327,359 372,359 418,359 463,359 508,357 553,359 598,359 643,359 688,359 734,359 779,359 824,359 869,359 914,359 959,361 1005,359"/>
+                <TextEquiv>
+                    <Unicode>ra, and came by purchase into the possession of the Sultan Selim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="116,409 1003,407 1003,383 873,368 116,375"/>
+                <Baseline points="122,397 166,397 210,398 254,398 298,398 342,398 386,398 431,398 475,398 519,398 563,398 607,398 651,398 695,398 740,398 784,398 828,398 872,398 916,400 960,399 1005,400"/>
+                <TextEquiv>
+                    <Unicode>The grand Seignor, sent her as a present to Acbar. Having won</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="97,446 1000,447 1000,414 97,413"/>
+                <Baseline points="104,437 151,437 198,437 245,437 293,439 340,438 387,439 435,439 482,438 529,437 577,437 624,437 671,436 719,437 766,437 813,437 861,435 908,439 955,438 1003,435"/>
+                <TextEquiv>
+                    <Unicode>that Emperor’s affection, she applied herself, and with success, to pro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="96,493 1005,494 990,446 96,461"/>
+                <Baseline points="102,477 147,477 192,477 237,477 283,477 328,477 373,477 418,477 464,477 509,477 554,476 599,477 645,477 690,477 735,477 780,477 826,477 871,477 916,477 961,478 1007,475"/>
+                <TextEquiv>
+                    <Unicode>mote the interests of her country, and religion, in India. She it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="101,527 1006,527 1006,497 899,487 101,496"/>
+                <Baseline points="107,518 152,514 197,516 242,516 287,516 332,516 377,517 422,516 467,517 512,518 557,518 602,517 647,516 692,516 737,516 782,516 827,516 872,516 917,518 962,518 1007,514"/>
+                <TextEquiv>
+                    <Unicode>was who shook his belief in his faith, and had the Romish priests</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="103,571 1005,564 1005,528 943,522 103,527"/>
+                <Baseline points="109,559 153,557 198,556 243,557 288,556 333,555 378,555 423,555 468,555 513,555 558,555 602,555 647,555 692,555 737,555 782,555 827,555 872,555 917,557 962,557 1007,557"/>
+                <TextEquiv>
+                    <Unicode>given him the Bible without adding legends to it, probably he might</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="97,601 998,604 998,576 929,567 97,570"/>
+                <Baseline points="104,594 148,593 193,592 238,594 283,596 328,595 373,594 417,595 462,594 507,593 552,594 597,594 642,594 687,594 731,594 776,594 821,594 866,594 911,596 956,596 1001,594"/>
+                <TextEquiv>
+                    <Unicode>have embraced the Christians’ creed. As it was, he attempted a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="97,646 1002,648 1002,604 97,606"/>
+                <Baseline points="104,634 149,634 194,634 239,634 284,634 329,634 374,634 419,634 464,633 509,634 554,634 599,634 644,634 689,634 734,634 779,634 824,634 869,634 914,636 959,634 1005,630"/>
+                <TextEquiv>
+                    <Unicode>religion of his own composition, and from that day, Mahomedans have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="101,678 1002,685 1002,655 916,644 101,647"/>
+                <Baseline points="107,673 151,673 196,673 241,673 286,673 331,673 376,673 421,675 466,673 511,673 556,673 600,673 645,673 690,672 735,673 780,673 825,671 870,673 915,675 960,674 1005,669"/>
+                <TextEquiv>
+                    <Unicode>been unable to assert, that their’s is the only true faith, but can only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="96,717 180,729 198,717 310,718 360,732 376,719 503,720 503,686 96,685"/>
+                <Baseline points="102,710 127,710 152,712 177,712 202,712 227,712 252,712 277,712 303,712 328,712 353,712 378,712 403,712 428,712 453,712 478,711 504,706"/>
+                <TextEquiv>
+                    <Unicode>call it, one amongst the many.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="130,767 1001,768 1001,719 971,717 130,721"/>
+                <Baseline points="137,748 180,749 223,751 266,751 310,751 353,750 396,751 440,750 483,751 526,751 570,751 613,751 656,751 699,751 743,750 786,751 829,751 873,751 916,751 959,751 1003,753"/>
+                <TextEquiv>
+                    <Unicode>Thus Hindu rites became engrafted into the Mahomedan ritual,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="94,800 999,810 999,769 950,762 94,754"/>
+                <Baseline points="100,789 145,791 190,791 235,789 280,789 325,789 370,789 415,789 460,791 505,791 550,790 595,791 640,790 685,789 730,790 775,791 820,789 865,789 910,791 955,791 1001,791"/>
+                <TextEquiv>
+                    <Unicode>and as in Chapter VI we have seen, that Syrian Christians have not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="96,835 1002,843 1002,805 956,798 96,809"/>
+                <Baseline points="102,826 147,828 192,828 237,828 282,830 327,829 372,830 418,829 463,829 508,828 553,829 598,830 643,830 688,830 734,828 779,828 824,830 869,830 914,830 959,830 1005,832"/>
+                <TextEquiv>
+                    <Unicode>rejected Hindu feasts; in Chapter VII, how Hinduism in India,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="101,872 997,878 997,853 917,841 101,839"/>
+                <Baseline points="107,865 151,867 196,867 240,867 285,869 330,868 374,869 419,867 463,867 508,868 553,869 597,869 642,869 686,868 731,867 776,869 820,869 865,869 909,867 954,868 999,869"/>
+                <TextEquiv>
+                    <Unicode>became altered, and amalgamated with the religion of the aborigines:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="96,921 1001,917 1001,877 96,881"/>
+                <Baseline points="102,905 147,908 192,907 237,907 282,907 327,907 372,909 417,907 462,907 507,907 552,908 597,909 642,907 687,909 732,907 777,907 822,907 867,907 912,909 957,909 1003,909"/>
+                <TextEquiv>
+                    <Unicode>and in Chapter VIII, how identical many Jewish and Hindu forms</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="94,955 1000,957 1000,916 94,923"/>
+                <Baseline points="100,944 145,946 190,944 235,944 280,946 325,946 370,944 416,945 461,946 506,946 551,945 596,944 641,945 686,946 732,945 777,946 822,945 867,946 912,946 957,948 1003,946"/>
+                <TextEquiv>
+                    <Unicode>are: so now we may perceive, how greatly Mahomedanism sank from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="96,989 866,1001 1002,992 1001,957 95,955"/>
+                <Baseline points="102,981 147,984 192,983 237,983 282,983 327,985 372,985 418,984 463,985 508,985 553,985 598,985 643,985 688,985 734,985 779,985 824,986 869,985 914,985 959,985 1005,985"/>
+                <TextEquiv>
+                    <Unicode>its contact with Hinduism, until even caste formed a part of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="100,1033 1000,1039 989,992 100,999"/>
+                <Baseline points="106,1022 150,1022 195,1022 240,1022 285,1022 330,1023 375,1024 419,1024 464,1024 509,1024 554,1024 599,1024 644,1023 689,1022 733,1024 778,1024 823,1024 868,1024 913,1024 958,1024 1003,1026"/>
+                <TextEquiv>
+                    <Unicode>Moslem’s creed. Saints and Martyrs were received into its Calendar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="96,1068 997,1068 966,1035 96,1049"/>
+                <Baseline points="102,1062 146,1064 191,1062 236,1063 281,1062 326,1064 371,1064 415,1064 460,1064 505,1064 550,1064 595,1064 640,1064 685,1062 729,1062 774,1062 819,1062 864,1062 909,1064 954,1062 999,1062"/>
+                <TextEquiv>
+                    <Unicode>and offerings at their shrines exceeded tbose made at the Mosques,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="96,1112 999,1118 998,1083 892,1070 96,1088"/>
+                <Baseline points="102,1101 149,1101 196,1101 243,1101 291,1103 338,1103 385,1102 433,1103 480,1103 527,1103 575,1103 622,1103 669,1103 717,1103 764,1102 811,1103 859,1103 906,1103 953,1103 1001,1101"/>
+                <TextEquiv>
+                    <Unicode>divisions became subdivided, until at last they numbered at least</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="103,1152 1002,1152 1002,1114 103,1113"/>
+                <Baseline points="109,1130 153,1139 198,1140 243,1139 288,1140 333,1138 377,1142 422,1140 467,1142 512,1142 557,1142 601,1142 646,1142 691,1142 736,1142 781,1140 825,1141 870,1142 915,1142 960,1140 1005,1140"/>
+                <TextEquiv>
+                    <Unicode>72 sects, differing in their belief, from true Islamism, to downright</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="97,1186 104,1183 110,1188 140,1188 146,1194 152,1189 161,1188 166,1193 181,1186 191,1193 202,1188 216,1189 215,1169 197,1159 173,1162 163,1155 154,1162 144,1152 134,1151 106,1151 96,1156"/>
+                <Baseline points="104,1177 132,1179 161,1179 190,1181 219,1181"/>
+                <TextEquiv>
+                    <Unicode>atheism.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="122,1226 1005,1230 1005,1189 928,1174 122,1198"/>
+                <Baseline points="129,1217 172,1219 216,1219 260,1219 304,1219 348,1221 392,1221 436,1221 480,1221 524,1221 568,1221 611,1219 655,1221 699,1221 743,1221 787,1221 831,1221 875,1219 919,1219 963,1219 1007,1217"/>
+                <TextEquiv>
+                    <Unicode>Caste goes by birth, in the same way as amongst the Hindus, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="97,1266 1005,1273 1005,1230 97,1224"/>
+                <Baseline points="104,1256 149,1257 194,1258 239,1258 284,1258 329,1258 374,1258 420,1258 465,1259 510,1258 555,1258 600,1258 645,1258 690,1260 736,1258 781,1258 826,1258 871,1258 916,1258 961,1260 1007,1258"/>
+                <TextEquiv>
+                    <Unicode>it does not compel each son, to follow the exact occupation of his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="100,1313 1005,1308 1005,1273 100,1273"/>
+                <Baseline points="106,1295 151,1296 196,1295 241,1294 286,1295 331,1297 376,1295 421,1296 466,1297 511,1295 556,1297 601,1297 646,1296 691,1297 736,1297 781,1297 826,1297 871,1297 916,1299 961,1299 1007,1299"/>
+                <TextEquiv>
+                    <Unicode>father. The Fakeers live near tombs, where they meditate and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="101,1350 1006,1344 1006,1308 978,1307 101,1313"/>
+                <Baseline points="107,1342 152,1335 197,1336 242,1337 287,1337 332,1335 377,1334 422,1337 467,1337 512,1335 557,1336 602,1336 647,1335 692,1337 737,1337 782,1335 827,1337 872,1337 917,1337 962,1337 1007,1335"/>
+                <TextEquiv>
+                    <Unicode>pray, subsisting on voluntary offerings. Amongst the devotees</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="100,1391 1005,1390 986,1343 100,1349"/>
+                <Baseline points="106,1374 151,1375 196,1376 241,1373 286,1374 331,1375 376,1374 421,1375 466,1374 511,1374 556,1375 601,1376 646,1375 691,1374 736,1376 781,1376 826,1376 871,1376 916,1376 961,1376 1007,1378"/>
+                <TextEquiv>
+                    <Unicode>some deny the divine mission of Mahomed, and others the sacred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="96,1420 827,1424 827,1390 781,1383 96,1386"/>
+                <Baseline points="102,1413 138,1415 174,1414 211,1414 247,1413 284,1413 320,1413 356,1413 393,1415 429,1413 466,1413 502,1413 538,1413 575,1413 611,1414 648,1414 684,1413 720,1413 757,1413 793,1414 830,1415"/>
+                <TextEquiv>
+                    <Unicode>character of the Koran, or even the existence of a God.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="137,1465 1006,1462 982,1422 137,1429"/>
+                <Baseline points="143,1454 186,1452 229,1452 272,1450 316,1452 359,1450 402,1452 446,1452 489,1452 532,1452 576,1452 619,1450 662,1452 705,1452 749,1454 792,1453 835,1454 879,1454 922,1454 965,1453 1009,1450"/>
+                <TextEquiv>
+                    <Unicode>Imam was their ancient battle cry, the exulting shout of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="100,1505 1005,1502 1005,1464 100,1473"/>
+                <Baseline points="106,1490 151,1492 196,1492 241,1492 286,1492 331,1492 376,1492 421,1490 466,1490 511,1490 556,1490 601,1492 646,1491 691,1492 736,1491 781,1492 826,1493 871,1492 916,1493 961,1494 1007,1492"/>
+                <TextEquiv>
+                    <Unicode>victor, and the defiant cry of the vanquished.  It is one that the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="100,1536 1002,1542 1002,1504 881,1498 100,1519"/>
+                <Baseline points="106,1531 153,1533 200,1530 247,1531 295,1529 342,1529 389,1529 437,1529 484,1528 531,1529 579,1531 626,1529 673,1530 721,1530 768,1531 815,1530 863,1531 910,1529 957,1531 1005,1529"/>
+                <TextEquiv>
+                    <Unicode>conquered have often heard with such varying feelings, well know-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="100,1578 1005,1582 990,1542 100,1545"/>
+                <Baseline points="106,1570 151,1570 196,1568 241,1570 286,1568 331,1568 376,1568 421,1568 466,1568 511,1570 556,1569 601,1568 646,1569 691,1570 736,1570 781,1568 826,1568 871,1568 916,1570 961,1570 1007,1570"/>
+                <TextEquiv>
+                    <Unicode>ing that where it was triumphant, mercy to the fallen was unknown.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="100,1617 1006,1629 999,1582 100,1584"/>
+                <Baseline points="106,1607 151,1609 196,1609 241,1609 286,1607 331,1608 376,1607 422,1607 467,1607 512,1607 557,1607 602,1607 647,1607 692,1607 738,1607 783,1609 828,1609 873,1609 918,1609 963,1609 1009,1609"/>
+                <TextEquiv>
+                    <Unicode>Imam was the name of their veligious creed, their old faith, but in India</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="100,1666 1006,1664 1006,1630 932,1617 100,1623"/>
+                <Baseline points="106,1649 151,1649 196,1649 241,1649 286,1649 331,1649 376,1648 422,1647 467,1647 512,1647 557,1647 602,1647 647,1648 692,1647 738,1647 783,1647 828,1647 873,1647 918,1649 963,1647 1009,1645"/>
+                <TextEquiv>
+                    <Unicode>it is now no longer heard, calling their followers to arms, or encour¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="275,1702 823,1702 823,1762 275,1762"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="274,1744 800,1750 800,1708 768,1694 274,1703"/>
+                <Baseline points="280,1721 306,1726 332,1727 358,1727 384,1727 410,1727 436,1727 462,1727 488,1727 514,1727 540,1727 566,1727 592,1727 618,1727 644,1726 670,1725 696,1727 722,1725 748,1725 774,1725 801,1727"/>
+                <TextEquiv>
+                    <Unicode>* Major Jervis, Memoirs of the Konkun, 1840.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

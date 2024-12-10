@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:19:58.622+01:00</Created>
+        <LastChange>2024-12-10T01:14:21.434+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960390" pageNr="368" tsid="211281558" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=BGKNVZQROCVMZESXRYIAAABV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WWRXEFGRNZRALOBYWTDIIKBC" imageId="70209690"/>
+    </Metadata>
+    <Page imageFilename="0368_the_land_of_the_perumauls_page_368.jpg" imageWidth="1206" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840727831" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="197,217 197,1711 1103,1711 1103,217"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="502,257 607,248 783,257 793,247 835,247 835,213 552,219 538,209 502,218"/>
+                <Baseline points="509,237 534,239 559,238 584,237 609,237 635,237 660,237 685,237 710,237 736,237 761,237 786,237 811,239 837,237"/>
+                <TextEquiv>
+                    <Unicode>FEAST OF TABERNACLES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="208,251 244,249 251,254 270,257 272,215 260,215 256,210 248,214 239,210 234,214 218,201 210,201"/>
+                <Baseline points="215,239 244,239 273,237"/>
+                <TextEquiv>
+                    <Unicode>348</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="202,307 1100,314 1100,270 319,263 202,290"/>
+                <Baseline points="209,301 253,301 298,301 343,301 387,301 432,301 477,303 521,303 566,301 611,303 656,303 700,302 745,301 790,303 834,301 879,301 924,303 968,303 1013,303 1058,303 1103,301"/>
+                <TextEquiv>
+                    <Unicode>external of which, differ, in that they have a sort of turret at either</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="202,345 1100,348 1100,321 1033,315 202,331"/>
+                <Baseline points="209,339 253,340 298,339 343,341 387,341 432,340 477,341 521,341 566,341 611,341 656,341 700,341 745,341 790,341 834,341 879,341 924,341 968,341 1013,341 1058,342 1103,341"/>
+                <TextEquiv>
+                    <Unicode>extremity. All the oil lights, whieh are in brazen vessels, or else in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="209,394 1097,393 1097,355 209,350"/>
+                <Baseline points="215,383 259,379 303,379 347,379 391,379 436,379 480,380 524,379 568,380 612,381 657,381 701,380 745,381 789,381 833,379 878,378 922,379 966,381 1010,381 1054,381 1099,381"/>
+                <TextEquiv>
+                    <Unicode>glasses with brass supporters, are seen alight, everv one is in holi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="202,423 1100,432 1100,399 1042,388 202,396"/>
+                <Baseline points="209,417 253,417 298,417 343,418 387,417 432,417 477,419 521,420 566,419 611,419 656,419 700,419 745,419 790,419 834,419 879,419 924,421 968,420 1013,421 1058,421 1103,425"/>
+                <TextEquiv>
+                    <Unicode>day attire. The flowing robes of the Jews are crimson, plum colour,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="204,472 1101,472 1100,432 202,428"/>
+                <Baseline points="209,455 253,457 298,457 343,457 387,457 432,458 477,459 521,459 566,459 611,459 656,459 700,457 745,459 790,458 834,459 879,458 924,459 968,459 1013,457 1058,459 1103,457"/>
+                <TextEquiv>
+                    <Unicode>bronze, amber, orange, green, yellow, or even shawl patterns : whilst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="205,502 1082,512 1093,470 204,470"/>
+                <Baseline points="211,495 255,495 299,495 343,495 388,495 432,496 476,497 521,496 565,497 609,497 654,497 698,497 742,497 786,497 831,497 875,497 919,497 964,497 1008,497 1052,497 1097,501"/>
+                <TextEquiv>
+                    <Unicode>the turbans wound around the white skull caps, are often excceding-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="205,559 1100,552 1100,510 1064,506 205,505"/>
+                <Baseline points="211,537 255,535 300,535 344,535 389,533 434,534 478,535 523,535 567,535 612,535 657,537 701,537 746,537 790,537 835,537 880,535 924,537 969,535 1013,536 1058,535 1103,537"/>
+                <TextEquiv>
+                    <Unicode>ly handsome. The women in thieir gallery,* have dresses of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="205,590 1100,590 1100,552 1054,545 205,559"/>
+                <Baseline points="211,575 255,574 300,573 344,575 389,575 434,575 478,575 523,575 567,575 612,575 657,575 701,575 746,575 790,576 835,575 880,575 924,575 969,575 1013,576 1058,575 1103,581"/>
+                <TextEquiv>
+                    <Unicode>same bright colours, as those of tlie men, also dark blue, light blue,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="205,630 670,622 661,590 205,590"/>
+                <Baseline points="211,619 236,613 262,613 288,613 313,613 339,615 365,614 390,613 416,614 442,614 467,613 493,615 519,615 544,614 570,613 596,613 621,613 647,614 673,617"/>
+                <TextEquiv>
+                    <Unicode>primrose, pink spotted, and barege.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="237,662 1097,662 1068,626 969,620 760,643 237,622"/>
+                <Baseline points="243,653 285,651 328,651 371,651 414,651 457,652 499,653 542,653 585,653 628,653 671,653 713,653 756,653 799,653 842,653 885,653 927,653 970,653 1013,653 1056,653 1099,649"/>
+                <TextEquiv>
+                    <Unicode>A little after two o’eloek, all the miale congregation advance to¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="205,697 1096,701 1096,670 1029,660 205,667"/>
+                <Baseline points="211,689 255,689 299,689 344,690 388,691 433,691 477,693 521,691 566,691 610,692 655,691 699,692 743,691 788,691 832,691 877,691 921,691 965,691 1010,691 1054,691 1099,693"/>
+                <TextEquiv>
+                    <Unicode>wards the Books of the Law, the three centre ones are taken down</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="199,737 1093,738 1093,708 989,698 499,700 470,723 199,703"/>
+                <Baseline points="205,729 249,729 294,729 338,729 383,729 427,731 472,731 516,731 561,731 605,732 650,731 694,732 739,729 783,730 828,729 872,729 917,731 961,731 1006,731 1050,731 1095,731"/>
+                <TextEquiv>
+                    <Unicode>from their position, and borne towards the door, in the midst of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="205,778 1094,782 1094,745 931,737 205,747"/>
+                <Baseline points="211,769 255,767 299,767 343,767 388,769 432,767 476,768 521,769 565,770 609,771 654,769 698,769 742,769 786,770 831,769 875,769 919,769 964,769 1008,769 1052,769 1097,767"/>
+                <TextEquiv>
+                    <Unicode>chants and songs of praise ; at every step members of the congre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="207,822 1096,822 1077,781 207,784"/>
+                <Baseline points="213,811 257,807 301,807 345,807 390,805 434,807 478,807 523,807 567,807 611,808 656,809 700,809 744,809 788,808 833,809 877,807 921,807 966,807 1010,807 1054,807 1099,809"/>
+                <TextEquiv>
+                    <Unicode>gation press forward to salute them. Having arrived at the Court,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="204,857 1086,865 1097,822 202,821"/>
+                <Baseline points="209,843 253,845 298,845 342,846 387,845 432,846 476,847 521,847 565,847 610,847 655,847 699,847 744,847 788,847 833,847 878,847 922,847 967,847 1011,847 1056,847 1101,849"/>
+                <TextEquiv>
+                    <Unicode>they are carried around thie building, commencing from the northern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="199,889 1094,897 1094,863 1064,859 199,869"/>
+                <Baseline points="205,883 249,885 294,885 338,885 383,885 428,885 472,885 517,885 561,885 606,886 651,885 695,885 740,885 784,885 829,885 874,885 918,885 963,885 1007,885 1052,885 1097,889"/>
+                <TextEquiv>
+                    <Unicode>side. All join in singing, whilst those in front, and around thie books,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="201,930 1096,931 1068,898 201,904"/>
+                <Baseline points="207,921 251,921 296,923 340,922 385,923 430,924 474,925 519,924 563,925 608,925 653,923 697,923 742,923 786,925 831,925 876,923 920,925 965,924 1009,924 1054,923 1099,925"/>
+                <TextEquiv>
+                    <Unicode>commence daneing and jumping about. When the Jews have left the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="202,970 1094,971 1074,936 202,934"/>
+                <Baseline points="209,961 253,960 297,961 342,961 386,961 431,959 475,961 519,961 564,963 608,962 653,963 697,963 741,963 786,963 830,964 875,963 919,963 963,963 1008,963 1052,963 1097,965"/>
+                <TextEquiv>
+                    <Unicode>building, the Jewesses come dowu from their gallery, and kiss the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="199,1004 1094,1016 1094,981 1044,972 199,970"/>
+                <Baseline points="205,997 249,999 294,999 338,999 383,999 428,999 472,999 517,999 561,1001 606,1000 651,1001 695,1001 740,1001 784,1001 829,1001 874,1001 918,1001 963,1000 1007,1000 1052,1001 1097,1001"/>
+                <TextEquiv>
+                    <Unicode>two remaining books. In the meantime, the threc others having been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="199,1047 1093,1056 1093,1018 973,1010 199,1024"/>
+                <Baseline points="205,1037 249,1037 294,1039 338,1038 383,1037 427,1038 472,1039 516,1038 561,1039 605,1038 650,1039 694,1039 739,1039 783,1039 828,1039 872,1039 917,1039 961,1039 1006,1040 1050,1041 1095,1039"/>
+                <TextEquiv>
+                    <Unicode>carried as deseribed, three times around the building, the Synagogue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="195,1077 1092,1084 1074,1051 195,1046"/>
+                <Baseline points="201,1077 245,1077 290,1077 335,1077 379,1077 424,1077 469,1077 513,1077 558,1077 603,1077 648,1077 692,1078 737,1077 782,1077 826,1077 871,1078 916,1077 960,1077 1005,1077 1050,1079 1095,1077"/>
+                <TextEquiv>
+                    <Unicode>is again entered, and the two remaining volumes are taken out, to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="197,1137 1092,1131 1061,1093 197,1095"/>
+                <Baseline points="203,1123 247,1116 292,1115 336,1117 381,1117 426,1117 470,1117 515,1117 559,1117 604,1117 649,1117 693,1117 738,1117 782,1117 827,1117 872,1117 916,1117 961,1117 1005,1117 1050,1117 1095,1119"/>
+                <TextEquiv>
+                    <Unicode>join in the last round.f In the Synagoguc of the black Jews, rose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="199,1160 1131,1160 1131,1734 199,1734"/>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:0;}">
+                <Coords points="220,1178 1089,1197 1089,1156 220,1161"/>
+                <Baseline points="227,1179 270,1181 313,1183 356,1184 399,1184 443,1185 486,1185 529,1185 572,1185 615,1185 659,1185 702,1185 745,1185 788,1185 831,1185 875,1185 918,1185 961,1185 1004,1187 1047,1185 1091,1189"/>
+                <TextEquiv>
+                    <Unicode>* Women are not a portion of the congregation, their presence being merely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:1;}">
+                <Coords points="195,1216 1090,1225 1090,1196 195,1193"/>
+                <Baseline points="201,1215 245,1214 290,1215 334,1215 379,1215 424,1215 468,1215 513,1215 557,1215 602,1217 647,1215 691,1215 736,1217 780,1216 825,1215 870,1215 914,1215 959,1215 1003,1216 1048,1217 1093,1217"/>
+                <TextEquiv>
+                    <Unicode>tolerated in a gallery, which is hardly considered a portion of the sacred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:2;}">
+                <Coords points="195,1252 1086,1259 1086,1224 195,1219"/>
+                <Baseline points="201,1245 245,1246 289,1245 334,1245 378,1245 423,1246 467,1247 511,1245 556,1247 600,1247 645,1247 689,1247 733,1247 778,1247 822,1248 867,1247 911,1246 955,1245 1000,1247 1044,1247 1089,1247"/>
+                <TextEquiv>
+                    <Unicode>building. It is said, that Jews offer up daily thanks, that they were not born</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:3;}">
+                <Coords points="201,1296 277,1280 359,1281 377,1289 402,1282 413,1288 413,1256 401,1262 339,1255 328,1262 261,1262 253,1254 201,1259"/>
+                <Baseline points="207,1275 233,1277 259,1277 285,1277 311,1276 337,1275 363,1275 389,1275 415,1277"/>
+                <TextEquiv>
+                    <Unicode>of the female sex !</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:4;}">
+                <Coords points="215,1325 1089,1327 1089,1294 979,1304 905,1275 850,1298 215,1294"/>
+                <Baseline points="221,1317 264,1315 308,1317 351,1318 395,1317 438,1319 482,1319 525,1319 569,1319 612,1319 656,1319 699,1319 743,1319 786,1319 830,1319 873,1319 917,1319 960,1318 1004,1319 1047,1319 1091,1321"/>
+                <TextEquiv>
+                    <Unicode>† The Rev. J. Roberts, (Journal Royal Asiatie Society,) observes upon the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:5;}">
+                <Coords points="192,1358 1084,1365 1084,1330 1051,1323 192,1332"/>
+                <Baseline points="199,1353 243,1349 287,1349 332,1347 376,1347 421,1349 465,1349 509,1349 554,1349 598,1350 643,1351 687,1351 731,1349 776,1349 820,1349 865,1349 909,1349 953,1349 998,1349 1042,1349 1087,1351"/>
+                <TextEquiv>
+                    <Unicode>similarity of this feast, to that obtaining amongst the Hindus when they take their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:6;}">
+                <Coords points="191,1391 1082,1393 1053,1356 191,1366"/>
+                <Baseline points="197,1383 241,1379 285,1379 330,1377 374,1379 419,1379 463,1379 507,1379 552,1381 596,1381 641,1381 685,1380 729,1379 774,1379 818,1380 863,1377 907,1379 951,1381 996,1381 1040,1381 1085,1383"/>
+                <TextEquiv>
+                    <Unicode>principal Deitics out in procession, in their tabernacles, preceded by priests, sing-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:7;}">
+                <Coords points="199,1417 1082,1422 1082,1393 989,1387 199,1397"/>
+                <Baseline points="205,1411 248,1410 292,1409 336,1411 380,1411 424,1411 468,1409 512,1411 556,1411 600,1411 644,1412 687,1411 731,1411 775,1411 819,1411 863,1411 907,1410 951,1411 995,1411 1039,1413 1083,1411"/>
+                <TextEquiv>
+                    <Unicode>ers, musicians, and the dancing girls of the Temple. This is done to demon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:8;}">
+                <Coords points="192,1450 1082,1448 1066,1420 192,1424"/>
+                <Baseline points="199,1445 243,1441 287,1441 331,1441 376,1441 420,1441 464,1441 509,1441 553,1441 597,1441 642,1441 686,1441 730,1439 774,1441 819,1441 863,1442 907,1441 952,1441 996,1441 1040,1443 1085,1443"/>
+                <TextEquiv>
+                    <Unicode>strate from which god they considered they are deriving protection, or else to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:9;}">
+                <Coords points="199,1481 1084,1481 1084,1454 1025,1449 199,1451"/>
+                <Baseline points="205,1469 249,1471 293,1473 337,1473 381,1471 425,1472 469,1471 513,1470 557,1470 601,1471 646,1471 690,1471 734,1471 778,1471 822,1473 866,1473 910,1472 954,1473 998,1471 1042,1473 1087,1473"/>
+                <TextEquiv>
+                    <Unicode>honour him, in hopes that he will dissipate some sickness, or avert the evil eye.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:10;}">
+                <Coords points="197,1508 1086,1514 1078,1481 197,1482"/>
+                <Baseline points="203,1501 247,1501 291,1503 335,1501 380,1501 424,1501 468,1503 513,1501 557,1501 601,1501 646,1501 690,1501 734,1501 778,1501 823,1502 867,1503 911,1501 956,1501 1000,1502 1044,1503 1089,1501"/>
+                <TextEquiv>
+                    <Unicode>The Hindu tabernacle, is properly speaking borne by priests, (although it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:11;}">
+                <Coords points="195,1546 1084,1543 1084,1514 974,1508 195,1514"/>
+                <Baseline points="201,1533 245,1533 289,1533 333,1533 378,1533 422,1532 466,1531 511,1531 555,1531 599,1531 644,1533 688,1533 732,1532 776,1533 821,1532 865,1533 909,1531 954,1531 998,1533 1042,1533 1087,1533"/>
+                <TextEquiv>
+                    <Unicode>now mostly taken on wheels forming a car) whilst that of the Jews is directed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:12;}">
+                <Coords points="197,1571 1091,1579 1091,1545 1006,1538 197,1546"/>
+                <Baseline points="203,1565 247,1563 292,1563 336,1562 381,1561 425,1562 470,1561 514,1561 559,1563 603,1562 648,1563 692,1563 737,1563 781,1564 826,1563 870,1563 915,1562 959,1563 1004,1563 1048,1565 1093,1565"/>
+                <TextEquiv>
+                    <Unicode>to be carried by Levites : or should none such be present, by the highest in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:13;}">
+                <Coords points="195,1610 759,1602 759,1582 705,1570 195,1583"/>
+                <Baseline points="201,1591 229,1595 257,1597 285,1595 313,1595 341,1594 369,1594 397,1594 425,1593 453,1594 481,1594 509,1593 537,1593 565,1593 593,1593 621,1593 649,1595 677,1593 705,1595 733,1595 761,1597"/>
+                <TextEquiv>
+                    <Unicode>rank, amongst the members of the congregation.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:14;}">
+                <Coords points="223,1641 1084,1642 1084,1620 978,1603 223,1613"/>
+                <Baseline points="229,1629 271,1634 314,1635 357,1635 400,1634 443,1633 486,1633 529,1633 572,1634 615,1633 658,1633 700,1633 743,1633 786,1633 829,1633 872,1633 915,1635 958,1635 1001,1635 1044,1635 1087,1637"/>
+                <TextEquiv>
+                    <Unicode>The Jews, Amos v. 26, were told, that " ye have borne the tabernacle of your</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:15;}">
+                <Coords points="191,1670 1085,1681 1067,1642 191,1641"/>
+                <Baseline points="197,1659 241,1665 286,1667 330,1665 375,1665 419,1665 464,1665 508,1665 553,1665 597,1665 642,1665 686,1665 731,1665 775,1665 820,1665 864,1665 909,1665 953,1667 998,1666 1042,1667 1087,1667"/>
+                <TextEquiv>
+                    <Unicode>"Moloch, and Chiun, your images, the star of your god, which ye made to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:16;}">
+                <Coords points="194,1698 1049,1722 1089,1681 192,1670"/>
+                <Baseline points="199,1687 243,1697 288,1697 333,1696 377,1693 422,1697 467,1697 511,1697 556,1697 601,1697 646,1697 690,1697 735,1697 780,1697 824,1697 869,1697 914,1697 958,1698 1003,1699 1048,1700 1093,1701"/>
+                <TextEquiv>
+                    <Unicode>"yourselves." This Chiun, has been by good authorities, surmised to mean</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

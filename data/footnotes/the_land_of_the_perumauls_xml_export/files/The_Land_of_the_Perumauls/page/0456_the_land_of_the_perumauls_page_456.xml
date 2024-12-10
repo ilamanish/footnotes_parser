@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:06.291+01:00</Created>
+        <LastChange>2024-12-10T01:36:18.090+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960416" pageNr="456" tsid="211283984" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=YULVYMKJCQREXDMECFAPZSPT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EZEAODSUNMJOQNOLEETCSOXY" imageId="70209780"/>
+    </Metadata>
+    <Page imageFilename="0456_the_land_of_the_perumauls_page_456.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840782217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="143,221 143,1729 1058,1729 1058,221"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="137,250 154,259 170,260 180,253 185,259 204,259 208,208 184,208 169,213 141,213"/>
+                <Baseline points="145,245 176,245 208,241"/>
+                <TextEquiv>
+                    <Unicode>436</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="520,250 536,259 562,262 645,259 664,253 664,222 587,225 578,217 562,216 547,226 520,225"/>
+                <Baseline points="526,245 554,247 582,247 610,247 638,247 667,245"/>
+                <TextEquiv>
+                    <Unicode>MONKEYS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="138,322 1045,329 1020,283 138,279"/>
+                <Baseline points="145,310 190,310 235,310 280,310 325,312 370,310 415,310 461,310 506,310 551,310 596,310 641,312 686,311 731,312 777,311 822,312 867,311 912,312 957,312 1002,312 1048,312"/>
+                <TextEquiv>
+                    <Unicode>Jaw Monkey, Semnopithecus entellus, Duff. This is considered by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="136,354 1043,362 1043,330 998,322 136,330"/>
+                <Baseline points="143,349 188,349 233,349 278,349 323,347 368,348 413,347 459,347 504,349 549,349 594,349 639,351 684,351 729,349 775,350 820,349 865,349 910,351 955,351 1000,351 1046,349"/>
+                <TextEquiv>
+                    <Unicode>the natives, as the representative of Rama’s Monkey allies. They</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="141,395 1049,396 1008,359 141,371"/>
+                <Baseline points="147,390 192,386 237,386 282,387 328,388 373,388 418,388 463,388 509,388 554,388 599,388 644,388 690,390 735,388 780,388 825,388 871,387 916,388 961,388 1006,390 1052,390"/>
+                <TextEquiv>
+                    <Unicode>arg very common at the base of the ghauts, where large vegetation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="138,440 149,437 168,443 179,442 187,434 204,443 228,442 227,404 204,403 191,410 180,401 177,404 152,403 146,409 137,409"/>
+                <Baseline points="145,426 173,427 202,427 231,429"/>
+                <TextEquiv>
+                    <Unicode>exists.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="179,474 1048,482 1048,451 999,430 179,436"/>
+                <Baseline points="186,465 229,466 272,467 315,467 358,467 402,467 445,467 488,467 531,467 574,467 618,469 661,469 704,469 747,469 790,469 834,469 877,469 920,469 963,469 1006,469 1050,473"/>
+                <TextEquiv>
+                    <Unicode>The Hunaman Monkcy is of considerable size, but slender make,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="138,520 1048,514 1036,479 138,476"/>
+                <Baseline points="145,504 190,506 235,506 280,505 326,504 371,506 416,506 461,505 507,507 552,506 597,507 642,508 688,508 733,508 778,507 823,508 869,508 914,508 959,508 1004,508 1050,506"/>
+                <TextEquiv>
+                    <Unicode>its colour is ashy grey, lighitest underneath, the hands and fcet of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="143,554 1048,555 1029,519 143,524"/>
+                <Baseline points="149,543 194,545 239,545 284,545 329,545 374,545 419,545 464,545 509,547 554,545 599,546 644,545 689,547 734,547 779,546 824,545 869,547 914,547 959,546 1004,547 1050,545"/>
+                <TextEquiv>
+                    <Unicode>a deep brown colour, and the tail of great length. When young it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="138,596 1037,594 1016,555 665,577 138,554"/>
+                <Baseline points="145,583 189,583 234,583 279,584 324,585 368,585 413,583 458,585 503,585 547,585 592,587 637,587 682,585 726,585 771,585 816,587 861,585 905,587 950,587 995,587 1040,585"/>
+                <TextEquiv>
+                    <Unicode>is very gentle, but with advancing age, it becomes sullen, and vin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="138,638 1043,631 1043,602 991,595 138,605"/>
+                <Baseline points="145,622 190,622 235,622 280,622 325,624 370,624 415,624 460,624 505,624 550,624 595,624 640,624 685,624 730,624 775,624 820,624 865,624 910,624 955,626 1000,626 1046,624"/>
+                <TextEquiv>
+                    <Unicode>dictive : whilst its mischievous propensities increase. Communities</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="141,667 1042,674 1042,644 965,634 141,641"/>
+                <Baseline points="147,663 191,662 236,661 281,661 326,663 371,663 416,663 460,663 505,663 550,663 595,663 640,663 685,662 730,663 774,663 819,663 864,663 909,665 954,664 999,665 1044,663"/>
+                <TextEquiv>
+                    <Unicode>of these Monkeys, are generally about a score in number; in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="138,705 1043,715 1020,674 138,681"/>
+                <Baseline points="145,700 190,701 235,700 280,701 325,702 370,700 415,702 460,702 505,702 550,702 595,702 640,702 685,702 730,702 775,702 820,702 865,702 910,702 955,702 1000,704 1046,702"/>
+                <TextEquiv>
+                    <Unicode>early morning, some of them may often be seen on the tops of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="138,747 1043,750 1043,722 899,706 813,728 138,705"/>
+                <Baseline points="145,740 190,739 235,740 280,740 325,740 370,741 415,740 460,740 505,742 550,742 595,741 640,742 685,742 730,742 775,741 820,740 865,742 910,742 955,743 1000,742 1046,744"/>
+                <TextEquiv>
+                    <Unicode>highest trees, either sunning themselves, jumping or swinging from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="145,799 1043,787 1043,764 908,750 145,751"/>
+                <Baseline points="151,777 195,777 240,779 285,778 330,781 374,779 419,779 464,779 509,781 553,780 598,779 643,781 688,781 732,780 777,780 822,779 867,781 911,781 956,781 1001,781 1046,779"/>
+                <TextEquiv>
+                    <Unicode>bough to bough: whilst others act as sentinels, and warn their com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="146,832 639,829 629,798 146,799"/>
+                <Baseline points="153,812 178,817 204,818 230,817 255,816 281,817 307,818 332,818 358,818 384,818 409,818 435,818 461,818 486,818 512,818 538,818 563,818 589,820 615,819 641,820"/>
+                <TextEquiv>
+                    <Unicode>panions of the approach of strangers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="179,873 1043,864 1043,835 989,831 179,827"/>
+                <Baseline points="186,855 229,855 272,855 315,855 358,857 401,857 444,857 487,857 530,857 573,857 616,857 659,857 702,857 745,857 788,857 831,857 874,857 917,859 960,858 1003,858 1046,857"/>
+                <TextEquiv>
+                    <Unicode>On the arrival of an intruder, the Monkeys either remain perfect¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="136,910 1049,910 1049,875 1014,871 136,873"/>
+                <Baseline points="143,895 188,895 233,895 279,895 324,895 369,895 415,897 460,895 505,897 551,897 596,897 641,897 687,897 732,897 777,897 823,897 868,897 913,897 959,897 1004,897 1050,897"/>
+                <TextEquiv>
+                    <Unicode>ly still, or else rapidly make off gesticulating, and uttering cries</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="141,938 1043,944 1015,906 141,910"/>
+                <Baseline points="147,934 194,934 241,934 288,932 336,933 383,934 430,934 478,934 525,934 572,936 620,934 667,935 714,935 762,934 809,935 856,936 904,934 951,936 998,934 1046,934"/>
+                <TextEquiv>
+                    <Unicode>of warning, to their more distant friends. The mother may be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="138,982 1045,986 1025,941 138,959"/>
+                <Baseline points="145,971 190,971 235,971 280,972 325,971 370,973 415,973 461,973 506,973 551,973 596,973 641,973 686,973 731,973 777,973 822,973 867,973 912,975 957,974 1002,975 1048,975"/>
+                <TextEquiv>
+                    <Unicode>seen fleeing with one, or more rarely two, little ones clinging round</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="138,1020 1045,1020 1036,986 138,985"/>
+                <Baseline points="145,1011 190,1011 235,1011 280,1011 325,1013 370,1013 415,1013 461,1013 506,1012 551,1013 596,1013 641,1013 686,1012 731,1013 777,1013 822,1013 867,1012 912,1013 957,1013 1002,1013 1048,1013"/>
+                <TextEquiv>
+                    <Unicode>her neck : and sometimes, the old male, will even turn at bay, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="143,1054 1045,1062 1017,1018 143,1022"/>
+                <Baseline points="149,1050 196,1050 243,1050 290,1051 338,1050 385,1050 432,1048 480,1050 527,1052 574,1052 622,1052 669,1050 716,1051 764,1050 811,1052 858,1052 906,1050 953,1052 1000,1052 1048,1046"/>
+                <TextEquiv>
+                    <Unicode>attack the intruder. When Monkeys perceive a tiger, they generally</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="138,1104 1048,1099 1048,1067 138,1065"/>
+                <Baseline points="145,1087 190,1089 235,1089 280,1089 326,1089 371,1089 416,1089 461,1089 507,1091 552,1091 597,1090 642,1089 688,1089 733,1087 778,1089 823,1089 869,1089 914,1091 959,1091 1004,1091 1050,1091"/>
+                <TextEquiv>
+                    <Unicode>follow him for some little distance, jumping from tree to tree, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="145,1134 235,1146 389,1130 493,1146 582,1135 582,1100 145,1103"/>
+                <Baseline points="151,1124 176,1127 202,1128 227,1129 253,1129 278,1128 304,1128 329,1128 355,1128 380,1128 406,1128 431,1128 457,1128 482,1128 508,1128 533,1128 559,1130 585,1130"/>
+                <TextEquiv>
+                    <Unicode>making a peculiar warning noise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="171,1178 1048,1175 1048,1141 992,1135 171,1137"/>
+                <Baseline points="178,1166 221,1168 265,1168 308,1167 352,1168 396,1168 439,1168 483,1168 526,1168 570,1168 614,1168 657,1168 701,1168 744,1168 788,1168 832,1168 875,1168 919,1168 962,1168 1006,1168 1050,1168"/>
+                <TextEquiv>
+                    <Unicode>In cocoanut plantations, amongst plantain trees, and in cultivated</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="145,1213 1048,1219 1012,1179 144,1185"/>
+                <Baseline points="151,1207 198,1205 245,1207 292,1207 340,1207 387,1205 434,1207 482,1207 529,1207 576,1207 624,1207 671,1207 718,1207 766,1207 813,1207 860,1207 908,1207 955,1207 1002,1207 1050,1207"/>
+                <TextEquiv>
+                    <Unicode>rice grounds, they commit great devastations. Their food in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="151,1256 1049,1251 1049,1218 1012,1213 151,1213"/>
+                <Baseline points="157,1244 201,1245 246,1246 291,1245 336,1246 380,1245 425,1246 470,1246 515,1246 559,1246 604,1246 649,1246 694,1246 738,1246 783,1246 828,1246 873,1246 917,1244 962,1246 1007,1246 1052,1246"/>
+                <TextEquiv>
+                    <Unicode>jungles, consists of roots and fruits, especially those of the various</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="138,1294 1048,1290 1048,1256 138,1263"/>
+                <Baseline points="145,1283 190,1284 235,1283 280,1283 326,1283 371,1285 416,1283 461,1284 507,1283 552,1283 597,1285 642,1285 688,1285 733,1285 778,1285 823,1285 869,1284 914,1285 959,1285 1004,1285 1050,1285"/>
+                <TextEquiv>
+                    <Unicode>species of wild fig trees, more particularly the Ficus excelsa, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="143,1345 201,1327 292,1337 313,1328 371,1327 371,1294 219,1290 165,1300 142,1294"/>
+                <Baseline points="149,1323 174,1321 199,1322 224,1323 249,1323 274,1323 299,1323 324,1323 349,1325 374,1325"/>
+                <TextEquiv>
+                    <Unicode>the F. religiosa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="179,1377 1046,1372 1046,1330 179,1334"/>
+                <Baseline points="186,1358 229,1362 272,1362 315,1362 358,1362 401,1362 444,1364 487,1362 530,1363 573,1364 617,1362 660,1362 703,1362 746,1362 789,1362 832,1362 875,1362 918,1362 961,1362 1004,1362 1048,1362"/>
+                <TextEquiv>
+                    <Unicode>This species of Monkey, is believed by devout Hindus, never to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="145,1410 1049,1406 1025,1371 145,1373"/>
+                <Baseline points="151,1401 196,1401 241,1401 286,1401 331,1401 376,1401 421,1401 466,1401 511,1401 556,1401 601,1401 646,1401 691,1401 736,1401 781,1401 826,1401 871,1401 916,1401 961,1401 1006,1401 1052,1399"/>
+                <TextEquiv>
+                    <Unicode>die a natural death,* whilst should a house be inadvertently con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="143,1458 1045,1451 1045,1419 1007,1410 143,1418"/>
+                <Baseline points="149,1441 196,1441 243,1441 290,1441 338,1441 385,1441 432,1441 480,1441 527,1441 574,1441 622,1441 669,1441 716,1441 764,1441 811,1441 858,1441 906,1440 953,1440 1000,1441 1048,1441"/>
+                <TextEquiv>
+                    <Unicode>structed, over the bones of one of them, the domicile is doomed to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="146,1488 827,1486 827,1462 775,1454 146,1458"/>
+                <Baseline points="153,1476 186,1478 220,1480 254,1480 288,1480 322,1480 356,1480 389,1480 423,1480 457,1479 491,1479 525,1480 559,1480 593,1480 626,1478 660,1480 694,1480 728,1480 762,1480 796,1480 830,1480"/>
+                <TextEquiv>
+                    <Unicode>certain destruction, and its inmates to misfortunes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="178,1527 1049,1537 1029,1486 178,1493"/>
+                <Baseline points="184,1517 227,1519 270,1519 314,1518 357,1519 401,1519 444,1517 487,1519 531,1519 574,1517 618,1517 661,1517 704,1517 748,1517 791,1517 835,1517 878,1517 921,1517 965,1518 1008,1517 1052,1521"/>
+                <TextEquiv>
+                    <Unicode>In some parts of India, and occasionally also in the Cochin State,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="143,1566 1048,1571 1048,1540 1003,1529 143,1547"/>
+                <Baseline points="149,1556 194,1558 239,1556 284,1556 329,1556 374,1557 419,1556 464,1558 509,1556 554,1556 599,1556 644,1556 689,1556 734,1556 779,1556 824,1556 869,1556 914,1556 959,1556 1004,1556 1050,1560"/>
+                <TextEquiv>
+                    <Unicode>childrendelight in playing tricks with Monkeys, a common one being,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="145,1617 1052,1601 1052,1569 951,1563 145,1565"/>
+                <Baseline points="151,1596 196,1597 241,1598 286,1598 331,1596 376,1596 421,1596 467,1596 512,1596 557,1596 602,1596 647,1596 692,1596 737,1596 783,1596 828,1596 873,1596 918,1596 963,1596 1008,1596 1054,1596"/>
+                <TextEquiv>
+                    <Unicode>to obtain an innocuous snake, and rolling it up with some rice in a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="146,1631 157,1633 161,1638 173,1633 176,1636 190,1633 192,1636 196,1632 201,1636 202,1634 208,1636 208,1614 199,1616 190,1609 186,1609 171,1619 168,1617 154,1620 153,1617 148,1617"/>
+                <Baseline points="153,1629 181,1627 210,1625"/>
+                <TextEquiv>
+                    <Unicode>—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="120,1641 1085,1641 1085,1721 120,1721"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="171,1654 1056,1661 1056,1634 171,1636"/>
+                <Baseline points="178,1647 222,1654 266,1656 310,1656 354,1656 398,1655 442,1654 486,1656 530,1656 574,1656 618,1656 662,1656 706,1656 750,1656 794,1656 838,1656 882,1656 926,1656 970,1656 1014,1656 1058,1654"/>
+                <TextEquiv>
+                    <Unicode>* It is a common Hindu saying, that he who has seen a straight cocoanut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:1;}">
+                <Coords points="143,1698 1051,1698 1033,1664 143,1667"/>
+                <Baseline points="149,1686 194,1688 239,1688 284,1688 330,1688 375,1688 420,1686 465,1686 511,1687 556,1688 601,1688 646,1688 692,1690 737,1690 782,1690 827,1688 873,1688 918,1688 963,1688 1008,1688 1054,1686"/>
+                <TextEquiv>
+                    <Unicode>tree, a dead Monkey, the nest of a paddy bird, or the depth of a woman's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:2;}">
+                <Coords points="146,1735 191,1744 285,1730 328,1750 386,1730 577,1734 577,1700 146,1699"/>
+                <Baseline points="153,1719 178,1719 203,1719 228,1719 253,1719 278,1719 303,1719 328,1719 353,1719 378,1719 403,1719 428,1719 453,1719 478,1718 503,1717 528,1717 553,1717 579,1717"/>
+                <TextEquiv>
+                    <Unicode>deceitful heart, &amp;c. will live for ever.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

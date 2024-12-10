@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:01.020+01:00</Created>
+        <LastChange>2024-12-10T01:25:55.433+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960403" pageNr="394" tsid="211283968" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=IPOSMCYKAGIIPQPSOSRLGBON&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RSIAUIHDARCAQODIBMEYFDCL" imageId="70209717"/>
+    </Metadata>
+    <Page imageFilename="0394_the_land_of_the_perumauls_page_394.jpg" imageWidth="1198" imageHeight="1967">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840746471" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="159,419 159,1711 1078,1711 1078,419"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="482,464 650,464 684,456 740,469 739,398 703,396 687,408 481,400"/>
+                <Baseline points="487,439 512,442 538,444 563,445 589,445 614,445 640,445 665,445 691,445 716,445 742,445"/>
+                <TextEquiv>
+                    <Unicode>CHAPTER X.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="513,484 621,481 640,486 656,482 656,464 549,462 542,469 513,464"/>
+                <Baseline points="519,477 546,477 574,475 602,477 630,477 658,477"/>
+                <TextEquiv>
+                    <Unicode>—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="383,531 545,537 589,515 622,531 841,528 841,489 779,483 693,500 659,484 578,497 555,483 522,500 383,490"/>
+                <Baseline points="389,515 414,517 439,516 464,516 490,517 515,517 540,519 565,514 591,514 616,516 641,517 667,517 692,517 717,517 742,517 768,517 793,518 818,519 844,519"/>
+                <TextEquiv>
+                    <Unicode>PEOPLB, AND THEIR CUSTOMS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="158,559 1069,561 1058,531 979,527 158,523"/>
+                <Baseline points="165,553 210,551 255,551 301,553 346,555 391,555 437,555 482,555 527,555 573,554 618,555 663,557 709,557 754,557 799,555 845,557 890,555 935,557 981,557 1026,556 1072,555"/>
+                <TextEquiv>
+                    <Unicode>Census— Ethnology— Language— Divisions of time—Birth — Horoscope—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="187,595 1072,595 1072,571 995,563 187,562"/>
+                <Baseline points="193,585 237,583 281,583 325,583 369,585 413,585 457,587 501,587 545,586 589,587 633,587 677,586 721,588 765,585 809,587 853,585 897,586 941,587 985,586 1029,587 1074,585"/>
+                <TextEquiv>
+                    <Unicode>Children—Marriages—DeathsOffences—LawsOrdeasOmeSuper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="187,624 1073,626 1059,596 187,597"/>
+                <Baseline points="193,613 237,615 281,615 325,615 369,615 413,615 457,615 502,617 546,617 590,617 634,619 678,617 722,618 766,617 811,617 855,617 899,616 943,619 987,617 1031,619 1076,615"/>
+                <TextEquiv>
+                    <Unicode>stitions—EtiquetteMarks of distinctionsLetters—PoetryMsicThea-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="185,656 1073,659 1057,626 185,625"/>
+                <Baseline points="191,645 235,645 279,645 323,645 368,645 412,645 456,647 500,648 545,649 589,649 633,649 677,649 722,650 766,649 810,648 854,648 899,650 943,649 987,648 1031,649 1076,649"/>
+                <TextEquiv>
+                    <Unicode>tricals—NaútchesAmusementsDress—Ornaments—UmbrellasHouses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="193,683 304,697 352,681 414,703 453,690 479,699 503,683 520,697 576,700 576,659 193,662"/>
+                <Baseline points="199,672 224,674 249,674 275,675 300,675 325,674 351,676 376,676 401,677 427,677 452,676 477,677 503,678 528,678 553,680 579,680"/>
+                <TextEquiv>
+                    <Unicode>Furniture—Hospitality—Food.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="189,734 1067,739 1067,701 959,687 934,710 189,694"/>
+                <Baseline points="195,714 238,723 282,724 326,724 370,726 413,726 457,726 501,726 545,728 588,728 632,728 676,728 720,729 763,728 807,728 851,728 895,727 938,726 982,726 1026,725 1070,724"/>
+                <TextEquiv>
+                    <Unicode>The inhabitants of the Cochin State, in the year 1857, numbered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="169,775 1072,772 1042,738 168,735"/>
+                <Baseline points="175,758 222,763 269,764 316,764 364,765 411,764 458,766 506,766 553,767 600,764 648,766 695,767 742,768 790,766 837,768 884,767 932,767 979,766 1026,765 1074,762"/>
+                <TextEquiv>
+                    <Unicode>399,056 : out of which, 123,037 were engaged in agriculture. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="163,815 1072,811 1072,781 1012,771 163,775"/>
+                <Baseline points="169,804 214,803 259,802 304,802 350,804 395,804 440,804 485,806 531,806 576,805 621,804 666,806 712,806 757,806 802,806 847,806 893,806 938,805 983,804 1028,804 1074,802"/>
+                <TextEquiv>
+                    <Unicode>Christians of all denominations, were 88,920 : Mahomedans 18,496 :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="161,849 1072,850 1070,821 968,816 160,816"/>
+                <Baseline points="167,842 212,842 257,840 303,840 348,844 393,844 439,844 484,843 529,844 575,845 620,844 665,844 711,842 756,844 801,844 847,844 892,844 937,844 983,844 1028,842 1074,842"/>
+                <TextEquiv>
+                    <Unicode>Jeis 1,790 : and the Hindus 229,950 : of these last, 4,101 were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="165,890 1070,898 1070,861 979,854 674,876 165,850"/>
+                <Baseline points="171,880 216,880 261,880 306,880 351,882 396,882 441,882 486,882 531,882 576,884 621,884 666,883 711,884 756,883 801,882 846,884 891,882 936,883 981,884 1026,882 1072,882"/>
+                <TextEquiv>
+                    <Unicode>Namboories, and Imbran Brahmans: and 10,882 other Brahmans,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="163,933 1072,927 1072,898 982,890 163,897"/>
+                <Baseline points="169,918 214,920 259,922 304,920 350,920 395,919 440,922 485,922 531,922 576,923 621,924 666,922 712,922 757,923 802,924 847,923 893,923 938,920 983,922 1028,922 1074,918"/>
+                <TextEquiv>
+                    <Unicode>this includes 5,810 Konkanies : 422 were Schatriyas : Vysias not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="161,976 1069,974 1069,927 161,942"/>
+                <Baseline points="167,958 212,958 257,960 302,960 348,960 393,960 438,962 483,961 529,960 574,962 619,962 664,962 710,962 755,962 800,962 845,962 891,960 936,961 981,962 1026,961 1072,958"/>
+                <TextEquiv>
+                    <Unicode>even mentioned : and the remainder Sudras,* out of which 51,305</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="169,1015 1074,1010 1045,971 168,979"/>
+                <Baseline points="175,998 220,997 265,998 310,998 355,996 400,998 445,998 490,996 535,1002 580,1001 625,1002 670,1000 715,996 760,1000 805,1000 850,999 895,1000 940,1000 985,1000 1030,999 1076,998"/>
+                <TextEquiv>
+                    <Unicode>were soil slaves. Thus giving an average, of 3524 individuals, to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="163,1057 303,1043 349,1056 402,1044 562,1050 562,1021 548,1017 400,1021 382,1005 349,1020 163,1016"/>
+                <Baseline points="169,1036 195,1034 221,1035 248,1036 274,1037 301,1037 327,1037 353,1038 380,1038 406,1038 433,1038 459,1038 485,1039 512,1039 538,1038 565,1038"/>
+                <TextEquiv>
+                    <Unicode>every square mile of territory.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="193,1088 1069,1084 1031,1049 193,1056"/>
+                <Baseline points="199,1076 242,1076 286,1076 329,1076 373,1077 417,1078 460,1078 504,1078 548,1078 591,1080 635,1080 679,1080 722,1079 766,1078 810,1080 853,1079 897,1080 941,1078 984,1078 1028,1078 1072,1072"/>
+                <TextEquiv>
+                    <Unicode>In the Town of Cochin, and the British territory, the population</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="165,1130 1072,1123 1033,1084 165,1097"/>
+                <Baseline points="171,1114 216,1116 261,1116 306,1116 351,1118 396,1116 441,1118 487,1117 532,1118 577,1118 622,1118 667,1118 712,1118 757,1118 803,1118 848,1118 893,1118 938,1118 983,1118 1028,1117 1074,1116"/>
+                <TextEquiv>
+                    <Unicode>which is a floating one, was in 1861, according to the census, 11,449:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="165,1166 1070,1162 1043,1129 165,1133"/>
+                <Baseline points="171,1154 216,1154 261,1154 306,1154 351,1154 396,1154 441,1156 486,1155 531,1156 576,1156 621,1156 666,1157 711,1158 756,1158 801,1156 846,1156 891,1156 936,1156 981,1156 1026,1154 1072,1154"/>
+                <TextEquiv>
+                    <Unicode>of these, 205 were Europeans, and Eurasians : 6,569 Native Chris¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="161,1200 950,1200 927,1163 161,1170"/>
+                <Baseline points="167,1192 206,1193 245,1194 284,1194 324,1194 363,1194 402,1194 441,1196 481,1197 520,1196 559,1196 598,1196 638,1196 677,1196 716,1196 755,1196 795,1196 834,1196 873,1195 912,1194 952,1194"/>
+                <TextEquiv>
+                    <Unicode>tians : 3,455 Hindus : 1,186 Mahomedans : and 34 Jews.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="201,1238 1069,1241 1043,1204 201,1207"/>
+                <Baseline points="207,1230 250,1232 293,1232 336,1232 380,1232 423,1234 466,1234 509,1232 553,1234 596,1234 639,1235 682,1236 726,1235 769,1234 812,1234 855,1233 899,1234 942,1234 985,1234 1028,1233 1072,1232"/>
+                <TextEquiv>
+                    <Unicode>Without asserting the perfect accuracy of these figures, it will be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="163,1279 1069,1280 1057,1244 163,1244"/>
+                <Baseline points="169,1270 214,1272 259,1274 304,1272 349,1272 394,1272 439,1272 485,1274 530,1274 575,1274 620,1274 665,1274 710,1274 755,1274 801,1274 846,1274 891,1274 936,1274 981,1274 1026,1274 1072,1272"/>
+                <TextEquiv>
+                    <Unicode>sufficient to observe, that they were taken from official sources, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="158,1318 1072,1322 1036,1289 158,1298"/>
+                <Baseline points="165,1311 210,1310 255,1310 301,1310 346,1310 392,1310 437,1311 483,1311 528,1311 574,1312 619,1313 664,1313 710,1313 755,1313 801,1313 846,1312 892,1313 937,1313 983,1311 1028,1313 1074,1310"/>
+                <TextEquiv>
+                    <Unicode>are consequently a nearer approach to the truth, than any mere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="162,1359 1076,1362 1059,1322 161,1329"/>
+                <Baseline points="167,1349 212,1348 258,1349 303,1349 349,1349 394,1348 440,1349 485,1349 531,1349 576,1351 622,1351 668,1351 713,1349 759,1351 804,1351 850,1351 895,1351 941,1351 986,1350 1032,1351 1078,1349"/>
+                <TextEquiv>
+                    <Unicode>suppositions are likely to be. Certainly the census papers, do not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="166,1404 1069,1402 1069,1369 1031,1361 166,1370"/>
+                <Baseline points="173,1387 220,1388 267,1389 314,1388 362,1387 409,1389 456,1389 504,1387 551,1390 598,1391 646,1391 693,1390 740,1391 788,1390 835,1391 882,1390 930,1389 977,1391 1024,1389 1072,1385"/>
+                <TextEquiv>
+                    <Unicode>place the number of the population, at so high a rate as is gencrally</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="165,1443 1070,1446 1070,1402 165,1404"/>
+                <Baseline points="171,1427 216,1427 261,1427 306,1426 351,1427 396,1427 441,1429 486,1429 531,1429 576,1429 621,1429 666,1429 711,1427 756,1429 801,1429 846,1429 891,1429 936,1430 981,1429 1026,1429 1072,1431"/>
+                <TextEquiv>
+                    <Unicode>believed : but the country in accordance with its physical aspect,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="161,1482 1067,1479 1067,1444 161,1455"/>
+                <Baseline points="167,1467 212,1468 257,1467 302,1467 347,1467 392,1465 437,1469 483,1469 528,1467 573,1469 618,1469 663,1469 708,1471 753,1469 799,1467 844,1469 889,1469 934,1468 979,1467 1024,1468 1070,1469"/>
+                <TextEquiv>
+                    <Unicode>must be thinly populated. A large portion of it is covered with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="169,1515 1074,1515 1065,1482 169,1489"/>
+                <Baseline points="175,1507 220,1507 265,1507 310,1507 355,1507 400,1508 445,1505 490,1508 535,1507 580,1508 625,1509 670,1509 715,1509 760,1507 805,1507 850,1507 895,1507 940,1508 985,1509 1030,1508 1076,1509"/>
+                <TextEquiv>
+                    <Unicode>uninhabitable forests : a considerable amount with water, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="161,1553 1064,1556 1064,1520 161,1524"/>
+                <Baseline points="167,1547 214,1548 261,1547 308,1546 356,1548 403,1549 450,1546 498,1547 545,1547 592,1549 640,1547 687,1547 734,1547 782,1545 829,1545 876,1548 924,1547 971,1549 1018,1549 1066,1547"/>
+                <TextEquiv>
+                    <Unicode>marshes : and much with inhospitable scrubby jungle, or stunted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="174,1601 1072,1596 1070,1564 971,1554 852,1578 173,1569"/>
+                <Baseline points="179,1581 223,1587 268,1585 313,1586 358,1587 402,1587 447,1589 492,1587 537,1587 581,1587 626,1587 671,1588 716,1587 760,1587 805,1587 850,1586 895,1587 939,1587 984,1587 1029,1587 1074,1587"/>
+                <TextEquiv>
+                    <Unicode>grass, growing, or rather existing, on a laterite bed. These localities,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="165,1645 781,1651 781,1595 165,1602"/>
+                <Baseline points="171,1627 201,1626 232,1627 262,1627 293,1626 324,1625 354,1625 385,1625 416,1625 446,1626 477,1626 508,1625 538,1623 569,1625 600,1625 630,1627 661,1627 692,1627 722,1627 753,1625 784,1625"/>
+                <TextEquiv>
+                    <Unicode>are of course almost destitute of human beings.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="162,1657 1091,1657 1091,1722 162,1722"/>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:0;}">
+                <Coords points="211,1674 1073,1678 1061,1651 976,1646 211,1651"/>
+                <Baseline points="217,1669 262,1667 307,1669 352,1669 397,1669 443,1669 488,1671 533,1669 578,1669 623,1669 669,1669 714,1669 759,1669 804,1670 849,1671 895,1669 940,1671 985,1671 1030,1671 1076,1669"/>
+                <TextEquiv>
+                    <Unicode>* By Sudras is meant, all castes not wearing the sacred string, including out-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:1;}">
+                <Coords points="153,1705 158,1705 169,1715 186,1707 244,1709 243,1684 218,1685 210,1677 199,1677 192,1685 185,1681 182,1685 153,1683"/>
+                <Baseline points="159,1699 187,1701 216,1701 245,1701"/>
+                <TextEquiv>
+                    <Unicode>castes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:05.947+01:00</Created>
+        <LastChange>2024-12-10T01:35:38.987+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960475" pageNr="452" tsid="211284925" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=DXFIDIAVASHJGSUSIMHGBQUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CXUUEOIWPLARFTNBCPEZWSAN" imageId="70209697"/>
+    </Metadata>
+    <Page imageFilename="0452_the_land_of_the_perumauls_page_452.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840779708" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="188,231 188,1751 1099,1751 1099,231"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="192,263 204,266 212,258 254,257 253,228 239,228 228,221 220,229 215,230 206,221 191,220"/>
+                <Baseline points="198,251 227,253 257,253"/>
+                <TextEquiv>
+                    <Unicode>432</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="531,262 735,259 735,231 668,226 660,234 627,233 614,221 531,221"/>
+                <Baseline points="537,253 562,253 587,253 612,253 637,253 662,253 687,253 712,253 738,255"/>
+                <TextEquiv>
+                    <Unicode>HYDROPHOBIA.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="190,314 287,337 1097,330 1085,287 190,289"/>
+                <Baseline points="196,310 241,315 286,316 331,318 376,316 421,318 466,316 512,316 557,318 602,318 647,318 692,316 737,318 782,318 828,317 873,318 918,318 963,318 1008,320 1053,320 1099,318"/>
+                <TextEquiv>
+                    <Unicode>“or growing on a tree, equal in guilt the slayers of Brahmans, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="185,355 250,371 748,364 748,334 221,338 185,323"/>
+                <Baseline points="192,349 221,355 250,357 280,357 309,357 339,357 368,357 397,357 427,357 456,357 486,357 515,357 545,357 574,357 603,357 633,357 662,357 692,357 721,357 751,354"/>
+                <TextEquiv>
+                    <Unicode>“the most despicable of all deadly sinners</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="221,407 1090,411 1077,371 221,374"/>
+                <Baseline points="227,398 270,398 313,396 356,396 400,396 443,396 486,396 530,396 573,397 616,396 660,396 703,396 746,396 789,398 833,398 876,398 919,398 963,398 1006,398 1049,396 1093,392"/>
+                <TextEquiv>
+                    <Unicode>Cancer of the mouth, and lips, is very common, and incorrectly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="188,444 1094,449 1094,413 1043,410 188,423"/>
+                <Baseline points="194,435 239,437 284,435 329,435 374,435 419,435 464,435 510,435 555,435 600,435 645,435 690,437 735,436 780,437 826,437 871,435 916,437 961,437 1006,437 1051,437 1097,437"/>
+                <TextEquiv>
+                    <Unicode>attributed to chewing chunam, and smoking tobacco. It is a curious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="195,482 967,489 1095,483 1094,460 193,460"/>
+                <Baseline points="200,477 244,477 289,475 334,474 379,473 424,474 469,475 513,475 558,475 603,475 648,475 693,475 738,476 783,477 827,477 872,477 917,477 962,477 1007,477 1052,477 1097,477"/>
+                <TextEquiv>
+                    <Unicode>coincidence between Native and European ideas, that this is often</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="190,521 932,527 932,493 811,482 785,500 190,490"/>
+                <Baseline points="196,514 232,516 269,515 306,514 343,514 380,514 417,514 454,514 491,514 528,514 565,514 601,514 638,514 675,514 712,515 749,516 786,514 823,515 860,515 897,516 934,516"/>
+                <TextEquiv>
+                    <Unicode>thought to be caused in Europe, by smoking clay pipes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="223,561 1052,570 1089,562 1089,527 222,524"/>
+                <Baseline points="229,551 272,553 315,553 358,553 401,553 444,553 487,553 530,553 573,553 616,553 660,553 703,555 746,553 789,555 832,555 875,555 918,555 961,555 1004,555 1047,555 1091,553"/>
+                <TextEquiv>
+                    <Unicode>Tetanus or lock jaw, may occur at any season of the year, either</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="190,602 1093,606 1093,564 190,565"/>
+                <Baseline points="196,590 243,594 290,592 337,592 385,592 432,592 479,590 527,590 574,592 621,592 669,592 716,593 763,591 811,592 858,593 905,594 953,594 1000,595 1047,594 1095,596"/>
+                <TextEquiv>
+                    <Unicode>from the effects of severe injuries, or simply from slight ones, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="185,645 1090,643 1053,602 184,603"/>
+                <Baseline points="192,632 237,631 282,632 327,631 372,632 417,632 462,632 507,632 552,632 597,632 642,631 687,630 732,632 777,634 822,632 867,634 912,633 957,634 1002,634 1047,634 1093,632"/>
+                <TextEquiv>
+                    <Unicode>is generally fatal. But there is a severe chronic type of this dis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="192,682 1092,682 1092,654 1034,644 192,648"/>
+                <Baseline points="198,669 242,672 287,673 332,672 377,671 422,670 467,671 511,671 556,671 601,671 646,671 691,671 736,671 781,671 825,671 870,671 915,672 960,673 1005,673 1050,673 1095,673"/>
+                <TextEquiv>
+                    <Unicode>tressing malady, which occurs during the months of October, Novem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="185,714 756,721 756,688 727,682 185,679"/>
+                <Baseline points="192,710 220,710 248,710 277,710 305,710 333,710 362,710 390,710 418,710 447,710 475,710 503,710 532,709 560,709 588,710 617,709 645,709 673,710 702,710 730,710 759,712"/>
+                <TextEquiv>
+                    <Unicode>ber, and December, and is usually curable.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="217,761 1092,760 1092,730 1037,723 217,721"/>
+                <Baseline points="223,749 266,750 310,749 353,749 397,749 441,749 484,749 528,749 571,749 615,749 659,747 702,750 746,749 789,749 833,751 877,751 920,751 964,751 1007,752 1051,751 1095,751"/>
+                <TextEquiv>
+                    <Unicode>Hydrophobia sometimes occurs. Whenever thiere is a suspicion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="190,801 1090,802 1064,762 190,766"/>
+                <Baseline points="196,789 240,791 285,791 330,789 375,789 420,789 465,789 509,789 554,787 599,789 644,789 689,789 734,789 779,789 823,790 868,791 913,790 958,791 1003,791 1048,791 1093,791"/>
+                <TextEquiv>
+                    <Unicode>of a mad dog being at large, a reward is offered for the dead bodies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="190,837 1089,846 1089,806 1062,804 190,804"/>
+                <Baseline points="196,828 240,830 285,828 330,828 375,828 419,828 464,828 509,828 554,828 598,828 643,828 688,827 733,828 777,828 822,828 867,830 912,830 956,830 1001,830 1046,830 1091,830"/>
+                <TextEquiv>
+                    <Unicode>of any stray animals of the canine tribe: large numbers are then</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="190,875 1094,877 1093,847 1039,841 189,841"/>
+                <Baseline points="196,865 241,867 286,867 331,867 376,867 421,867 466,867 511,867 556,867 601,865 646,867 691,869 736,868 781,867 826,869 871,869 916,869 961,867 1006,869 1051,869 1097,873"/>
+                <TextEquiv>
+                    <Unicode>killed, and all who wish to preserve their favourites, must tie them</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="192,915 948,918 948,879 192,891"/>
+                <Baseline points="198,908 235,906 273,908 310,908 348,907 386,907 423,907 461,907 498,907 536,907 574,907 611,907 649,908 686,907 724,907 762,907 799,907 837,908 874,908 912,907 950,907"/>
+                <TextEquiv>
+                    <Unicode>up, until the order for this general massacre, is cancelled.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="221,959 1090,953 1090,923 221,920"/>
+                <Baseline points="227,946 270,944 313,946 356,946 400,946 443,946 486,946 530,946 573,946 616,946 660,946 703,946 746,946 789,946 833,946 876,948 919,948 963,948 1006,948 1049,948 1093,948"/>
+                <TextEquiv>
+                    <Unicode>When a child is born, an Astrologer is usually seated in the next</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="188,992 1092,998 1092,959 1062,956 188,967"/>
+                <Baseline points="194,985 239,985 284,985 329,985 374,985 419,984 464,985 509,984 554,983 599,985 644,985 689,985 734,985 779,985 824,985 869,985 914,985 959,985 1004,986 1049,987 1095,987"/>
+                <TextEquiv>
+                    <Unicode>room, in readiness to draw out its horoscope: this is a very difficult</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="192,1040 1090,1033 1090,999 192,1002"/>
+                <Baseline points="198,1030 242,1024 287,1022 332,1022 377,1023 421,1022 466,1022 511,1022 556,1022 600,1024 645,1024 690,1024 735,1024 779,1024 824,1024 869,1024 914,1024 958,1025 1003,1026 1048,1026 1093,1022"/>
+                <TextEquiv>
+                    <Unicode>process; if it is desired very exact, the situation of the stars at the mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="188,1074 1092,1083 1092,1040 995,1035 188,1046"/>
+                <Baseline points="194,1064 239,1064 284,1064 329,1064 374,1064 419,1064 464,1064 509,1064 554,1064 599,1064 644,1064 689,1064 734,1064 779,1064 824,1064 869,1064 914,1065 959,1066 1004,1066 1049,1066 1095,1064"/>
+                <TextEquiv>
+                    <Unicode>ment of the infant’s birth, must be ascertained. Natives have tlie most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="188,1115 1092,1116 1083,1081 188,1076"/>
+                <Baseline points="194,1103 239,1102 284,1101 329,1101 374,1103 419,1102 464,1101 509,1103 554,1103 599,1103 644,1103 689,1103 734,1103 779,1103 824,1104 869,1105 914,1104 959,1105 1004,1105 1049,1105 1095,1107"/>
+                <TextEquiv>
+                    <Unicode>implicit belief in the fulfilment of all predictions in their horoscopes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="185,1152 1089,1156 1072,1115 185,1124"/>
+                <Baseline points="192,1142 239,1143 286,1142 333,1142 381,1142 428,1140 475,1142 523,1142 570,1142 617,1141 665,1142 712,1142 759,1142 807,1142 854,1142 901,1142 949,1144 996,1144 1043,1144 1091,1146"/>
+                <TextEquiv>
+                    <Unicode>and the confident anticipation of death at a certain date, frequently</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="192,1202 1090,1194 1069,1156 192,1166"/>
+                <Baseline points="198,1185 242,1183 287,1183 332,1183 377,1183 421,1182 466,1181 511,1182 556,1183 600,1183 645,1183 690,1183 735,1183 779,1183 824,1183 869,1183 914,1184 958,1183 1003,1185 1048,1185 1093,1187"/>
+                <TextEquiv>
+                    <Unicode>produces such injurious effects on their health, as indirectly to cause it.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="221,1230 1092,1241 1092,1203 1050,1196 221,1199"/>
+                <Baseline points="227,1223 270,1223 313,1223 357,1223 400,1223 444,1222 487,1223 530,1223 574,1223 617,1223 661,1223 704,1223 747,1223 791,1225 834,1224 878,1225 921,1224 964,1225 1008,1225 1051,1225 1095,1227"/>
+                <TextEquiv>
+                    <Unicode>Should a child be born in any unnatural form, it is supposed to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="188,1275 1089,1277 1089,1243 984,1238 188,1240"/>
+                <Baseline points="194,1264 238,1262 283,1262 328,1263 373,1262 418,1262 463,1262 507,1261 552,1262 597,1262 642,1262 687,1262 732,1262 777,1262 821,1262 866,1262 911,1263 956,1264 1001,1264 1046,1264 1091,1268"/>
+                <TextEquiv>
+                    <Unicode>be the incarnation of an evil spirit, or else of some deceased enemy,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="184,1310 621,1310 621,1280 605,1274 184,1276"/>
+                <Baseline points="190,1303 215,1301 241,1302 266,1303 292,1303 317,1302 343,1301 368,1301 394,1301 419,1301 445,1301 470,1300 496,1300 521,1301 547,1301 572,1301 598,1301 624,1303"/>
+                <TextEquiv>
+                    <Unicode>and it is immediately destroyed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="215,1354 1095,1355 1095,1310 215,1314"/>
+                <Baseline points="221,1342 264,1341 308,1342 352,1340 396,1342 440,1342 483,1342 527,1340 571,1340 615,1341 659,1340 702,1341 746,1340 790,1341 834,1340 878,1342 921,1342 965,1342 1009,1344 1053,1344 1097,1346"/>
+                <TextEquiv>
+                    <Unicode>Should a woman suffer from convulsions after the birth of a child,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="184,1387 1094,1401 1094,1362 1041,1354 184,1368"/>
+                <Baseline points="190,1382 235,1382 280,1382 326,1381 371,1380 416,1381 462,1380 507,1380 552,1381 598,1380 643,1380 688,1380 734,1382 779,1382 824,1382 870,1382 915,1382 960,1384 1006,1382 1051,1384 1097,1386"/>
+                <TextEquiv>
+                    <Unicode>a fowl is divided in half down the centre, and a portion bound on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="185,1433 597,1428 597,1389 407,1400 241,1390 223,1406 185,1406"/>
+                <Baseline points="192,1419 217,1421 243,1421 268,1421 294,1421 319,1421 345,1421 370,1421 396,1419 421,1421 447,1421 472,1421 498,1421 523,1421 549,1421 574,1421 600,1421"/>
+                <TextEquiv>
+                    <Unicode>each side of the patient’s head.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="223,1471 1090,1471 1090,1440 1054,1432 223,1433"/>
+                <Baseline points="229,1460 272,1460 315,1462 358,1460 401,1460 445,1461 488,1460 531,1460 574,1460 617,1460 661,1460 704,1462 747,1462 790,1462 833,1462 877,1462 920,1462 963,1462 1006,1462 1049,1462 1093,1464"/>
+                <TextEquiv>
+                    <Unicode>When native married women, do not become in the state which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="182,1519 1091,1513 1091,1476 1008,1465 182,1480"/>
+                <Baseline points="188,1499 233,1501 278,1500 323,1499 369,1498 414,1499 459,1499 504,1499 550,1499 595,1499 640,1499 685,1499 731,1501 776,1501 821,1501 866,1501 912,1501 957,1501 1002,1501 1047,1501 1093,1497"/>
+                <TextEquiv>
+                    <Unicode>it is generally expected they should be, some very extraordinary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="185,1547 1092,1555 1091,1513 184,1520"/>
+                <Baseline points="192,1539 237,1540 282,1539 327,1541 372,1539 417,1540 462,1539 508,1539 553,1539 598,1539 643,1540 688,1541 733,1541 778,1541 824,1541 869,1541 914,1541 959,1541 1004,1541 1049,1543 1095,1541"/>
+                <TextEquiv>
+                    <Unicode>remedies are employed, for the purpose of effecting a change. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="182,1586 1094,1589 1048,1552 182,1565"/>
+                <Baseline points="188,1578 233,1580 278,1580 324,1580 369,1580 415,1581 460,1580 506,1580 551,1579 597,1580 642,1580 687,1580 733,1580 778,1580 824,1580 869,1580 915,1581 960,1582 1006,1580 1051,1580 1097,1580"/>
+                <TextEquiv>
+                    <Unicode>mole cricket, Igryllotalpus,, is caught, and she must then swallow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="182,1635 1094,1627 1074,1595 182,1596"/>
+                <Baseline points="188,1619 233,1617 278,1619 324,1619 369,1619 415,1618 460,1619 506,1619 551,1619 597,1617 642,1619 687,1619 733,1619 778,1619 824,1619 869,1621 915,1620 960,1621 1006,1621 1051,1621 1097,1619"/>
+                <TextEquiv>
+                    <Unicode>it whole, and if possible alive; this is difficult, as its appearance is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="184,1668 524,1690 576,1663 621,1690 1097,1666 1077,1631 184,1636"/>
+                <Baseline points="190,1660 235,1658 280,1658 326,1660 371,1658 417,1660 462,1660 508,1658 553,1658 599,1660 644,1659 689,1660 735,1660 780,1660 826,1660 871,1660 917,1661 962,1660 1008,1660 1053,1662 1099,1662"/>
+                <TextEquiv>
+                    <Unicode>most repulsive, and if it does not go down the throat at once, it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="408,1720 903,1720 903,1767 408,1767"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="463,1745 829,1746 829,1713 463,1718"/>
+                <Baseline points="469,1737 494,1739 520,1739 546,1739 572,1739 598,1739 624,1739 650,1739 676,1741 702,1741 728,1739 754,1739 780,1739 806,1740 832,1741"/>
+                <TextEquiv>
+                    <Unicode>* Sir W. Jones, vol. 5, page 160.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

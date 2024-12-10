@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:12.352+01:00</Created>
+        <LastChange>2024-12-10T01:47:15.809+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960535" pageNr="527" tsid="211285013" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=JOESAKQMVDRVEMMXKZGYZIBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGPZUJHPNEEOWLDWOBOTAZDI" imageId="70209856"/>
+    </Metadata>
+    <Page imageFilename="0527_the_land_of_the_perumauls_page_527.jpg" imageWidth="1184" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840884948" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="110,202 110,1708 1012,1708 1012,202"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="948,234 965,235 972,231 985,235 1009,235 1009,192 1003,192 998,196 991,193 948,194"/>
+                <Baseline points="954,222 983,222 1012,222"/>
+                <TextEquiv>
+                    <Unicode>507</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="461,234 475,234 488,246 546,246 554,238 586,234 672,234 672,201 664,199 543,203 524,189 497,189 485,200 461,201"/>
+                <Baseline points="467,224 492,224 518,224 544,224 570,223 596,222 622,222 648,224 674,224"/>
+                <TextEquiv>
+                    <Unicode>THE SAW FISH.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="104,303 1009,303 1000,258 104,255"/>
+                <Baseline points="110,290 155,289 200,288 245,288 290,288 335,289 380,288 425,288 470,290 515,290 561,290 606,290 651,290 696,290 741,289 786,290 831,289 876,290 921,290 966,290 1012,295"/>
+                <TextEquiv>
+                    <Unicode>fish, went with their vessels, until the desired haven was reached,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="112,337 1008,336 970,301 112,304"/>
+                <Baseline points="118,327 162,328 207,327 251,327 296,327 341,329 385,329 430,328 474,329 519,329 564,329 608,330 653,329 697,329 742,329 787,329 831,329 876,328 920,329 965,330 1010,329"/>
+                <TextEquiv>
+                    <Unicode>when it left them. Its darkly striped sides, makes it easily per¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="104,385 1003,378 1003,339 104,347"/>
+                <Baseline points="110,366 154,368 199,368 244,367 289,366 334,368 378,368 423,368 468,368 513,368 558,368 602,368 647,368 692,368 737,368 782,368 826,368 871,368 916,368 961,370 1006,370"/>
+                <TextEquiv>
+                    <Unicode>ceived from the deck of a vessel, and when captured, it is good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="107,415 372,431 695,418 695,389 668,378 107,382"/>
+                <Baseline points="114,406 143,408 172,408 201,408 230,408 260,408 289,408 318,408 347,408 376,408 406,408 435,408 464,408 493,408 522,408 552,408 581,408 610,408 639,408 668,409 698,408"/>
+                <TextEquiv>
+                    <Unicode>eating, as it belongs to the Mackerel family.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="140,454 1003,462 1003,421 140,422"/>
+                <Baseline points="146,447 189,447 232,447 275,446 318,447 361,447 404,447 447,447 490,447 533,447 576,447 619,447 662,447 705,447 748,447 791,448 834,447 877,448 920,447 963,446 1006,443"/>
+                <TextEquiv>
+                    <Unicode>A shark is rather a valuable acquisition, its flesh is estecmed ycry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="104,499 1007,498 1007,461 104,470"/>
+                <Baseline points="110,487 155,488 200,487 245,487 290,487 335,487 380,487 425,487 470,487 515,487 560,487 605,489 650,487 695,487 740,487 785,487 830,489 875,489 920,489 965,489 1010,491"/>
+                <TextEquiv>
+                    <Unicode>nutritive, and though rarely eaten fresli, it is salted in pieces, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="106,542 1003,546 1003,505 952,500 106,499"/>
+                <Baseline points="112,528 156,527 201,526 246,526 290,526 335,526 380,526 424,526 469,526 514,526 559,528 603,526 648,526 693,526 737,526 782,526 827,526 871,527 916,528 961,528 1006,528"/>
+                <TextEquiv>
+                    <Unicode>then is believed to be very good, especially for women who have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="114,581 1005,576 1005,547 880,534 114,543"/>
+                <Baseline points="120,570 164,568 208,568 252,567 297,566 341,566 385,566 430,566 474,568 518,568 563,568 607,567 651,568 695,567 740,568 784,568 828,568 873,568 917,568 961,568 1006,566"/>
+                <TextEquiv>
+                    <Unicode>young infants. Its native name, of Pal Soora, Mal., or milk produc¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="104,617 1001,622 1001,580 968,578 104,579"/>
+                <Baseline points="110,607 154,606 199,605 244,605 288,605 333,605 378,605 422,605 467,605 512,605 557,605 601,605 646,605 691,607 735,605 780,605 825,605 869,606 914,605 959,607 1004,605"/>
+                <TextEquiv>
+                    <Unicode>ing, refers to the powers attributed to it. The hammer hcaded</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="104,658 1006,650 988,619 104,617"/>
+                <Baseline points="110,647 154,647 199,647 244,645 289,645 334,645 379,645 424,645 469,645 514,647 559,647 603,647 648,647 693,647 738,647 783,647 828,647 873,646 918,647 963,647 1008,645"/>
+                <TextEquiv>
+                    <Unicode>shark, grows to 12 feet, or even more in length,* it is not esteemed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="104,705 182,691 567,692 567,667 533,659 448,669 412,655 385,669 349,655 295,670 221,656 104,673"/>
+                <Baseline points="110,686 135,685 161,684 186,684 212,686 237,686 263,686 288,686 314,685 340,684 365,684 391,684 416,684 442,684 467,684 493,684 518,684 544,686 570,684"/>
+                <TextEquiv>
+                    <Unicode>so nourishing, as the other species.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="135,730 1007,729 980,698 135,694"/>
+                <Baseline points="142,724 185,724 228,724 272,723 315,724 359,722 402,724 445,724 489,724 532,724 576,724 619,726 662,724 706,724 749,725 793,724 836,725 879,726 923,726 966,726 1010,726"/>
+                <TextEquiv>
+                    <Unicode>The Saw Fish, Pristis semi sagittatus, Shaw., is certainly morc to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="106,772 1008,772 1008,747 923,739 106,740"/>
+                <Baseline points="112,765 156,763 201,763 246,763 291,763 336,763 381,763 426,763 471,763 516,763 561,763 605,763 650,763 695,763 740,763 785,763 830,763 875,763 920,765 965,765 1010,767"/>
+                <TextEquiv>
+                    <Unicode>be dreaded than the sharks, and accidents are more commonly seen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="104,810 1006,814 1006,775 104,784"/>
+                <Baseline points="110,803 154,803 199,803 244,801 289,801 334,802 379,803 424,802 469,803 514,803 559,803 603,803 648,803 693,803 738,803 783,803 828,803 873,803 918,803 963,805 1008,805"/>
+                <TextEquiv>
+                    <Unicode>caused by its snout, which is extended like a sword, and toothed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="107,849 1003,850 1003,819 957,810 827,833 107,816"/>
+                <Baseline points="114,842 158,842 203,842 247,842 292,842 337,841 381,840 426,840 470,842 515,842 560,842 604,842 649,842 693,842 738,842 783,842 827,842 872,842 916,842 961,842 1006,842"/>
+                <TextEquiv>
+                    <Unicode>like a large saw ; a very formidable weapon of offence, and one it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="107,888 1003,891 971,849 107,863"/>
+                <Baseline points="114,881 158,881 203,881 247,881 292,881 337,881 381,881 426,881 470,881 515,881 560,881 604,881 649,881 693,880 738,881 783,881 827,883 872,881 916,881 961,882 1006,881"/>
+                <TextEquiv>
+                    <Unicode>very fond of making use of. The eye is very curiously formed, the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="114,935 1006,929 1006,893 114,895"/>
+                <Baseline points="120,923 164,921 208,921 253,921 297,919 342,921 386,921 430,920 475,921 519,921 564,921 608,920 652,921 697,921 741,921 786,922 830,923 874,923 919,923 963,921 1008,923"/>
+                <TextEquiv>
+                    <Unicode>yellowish coloured iris, which has a very fine black margin, instead</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="107,970 1003,972 1003,932 107,943"/>
+                <Baseline points="114,960 158,960 203,958 247,959 292,960 337,959 381,960 426,960 470,958 515,958 560,960 604,960 649,960 693,960 738,960 783,960 827,960 872,960 916,962 961,961 1006,962"/>
+                <TextEquiv>
+                    <Unicode>of possessing a circular hole in its centre, commonly called the pupil,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="107,1009 1003,1010 1003,972 107,981"/>
+                <Baseline points="114,1000 158,999 203,998 247,999 292,998 337,998 381,1000 426,1000 470,1000 515,1000 560,1000 604,1000 649,1000 693,1000 738,1000 783,1000 827,1002 872,1001 916,1000 961,1000 1006,1000"/>
+                <TextEquiv>
+                    <Unicode>may be said to be entire, and an oval flap made of its upper and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="104,1051 1006,1049 1006,1020 955,1011 104,1011"/>
+                <Baseline points="110,1037 154,1037 199,1037 244,1037 289,1037 334,1038 379,1039 424,1039 469,1039 514,1039 559,1039 603,1039 648,1037 693,1039 738,1039 783,1039 828,1040 873,1039 918,1039 963,1039 1008,1041"/>
+                <TextEquiv>
+                    <Unicode>lower half. These flaps appear to be easily raised, depressed, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="109,1090 1007,1090 1007,1050 109,1057"/>
+                <Baseline points="116,1079 160,1079 205,1079 250,1079 294,1077 339,1079 384,1079 428,1078 473,1079 518,1079 563,1079 607,1077 652,1079 697,1079 741,1079 786,1079 831,1079 875,1079 920,1079 965,1079 1010,1081"/>
+                <TextEquiv>
+                    <Unicode>expanded, thus partially or completely excluding light as required.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="114,1126 1006,1123 981,1090 114,1090"/>
+                <Baseline points="120,1118 164,1117 208,1116 253,1116 297,1116 342,1116 386,1118 430,1116 475,1114 519,1117 564,1116 608,1117 652,1116 697,1117 741,1118 786,1117 830,1118 874,1118 919,1118 963,1118 1008,1118"/>
+                <TextEquiv>
+                    <Unicode>The habits of this fish are too little known, for any assertion to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="106,1166 1008,1164 1008,1137 952,1123 106,1133"/>
+                <Baseline points="112,1158 156,1157 201,1156 246,1156 291,1158 336,1158 381,1156 426,1156 471,1156 516,1156 561,1156 605,1156 650,1156 695,1156 740,1156 785,1157 830,1158 875,1156 920,1158 965,1158 1010,1160"/>
+                <TextEquiv>
+                    <Unicode>made regarding the use of this peculiar iris, but as neither eyelids nor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="104,1204 1001,1202 1001,1171 104,1168"/>
+                <Baseline points="110,1197 154,1196 199,1195 244,1196 288,1197 333,1197 378,1195 422,1195 467,1195 512,1195 557,1195 601,1196 646,1195 691,1195 735,1195 780,1196 825,1195 869,1195 914,1195 959,1195 1004,1195"/>
+                <TextEquiv>
+                    <Unicode>nictitating membranes could act owing to external pressure under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="107,1243 1001,1243 984,1213 792,1204 107,1217"/>
+                <Baseline points="114,1237 158,1237 203,1237 247,1235 292,1233 336,1235 381,1235 425,1234 470,1235 514,1235 559,1235 603,1235 648,1235 692,1235 737,1235 781,1235 826,1235 870,1236 915,1237 959,1235 1004,1235"/>
+                <TextEquiv>
+                    <Unicode>water, analogy would favour the belief, that this fish traverses some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="112,1297 999,1282 999,1253 932,1243 112,1247"/>
+                <Baseline points="118,1280 162,1276 206,1276 250,1274 294,1276 339,1274 383,1274 427,1273 471,1272 515,1273 560,1274 604,1274 648,1272 692,1272 736,1274 781,1274 825,1274 869,1275 913,1276 957,1274 1002,1274"/>
+                <TextEquiv>
+                    <Unicode>peculiarly bright spaces, where the light would be too strong for its</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="104,1325 1000,1329 1000,1290 967,1285 104,1301"/>
+                <Baseline points="110,1316 154,1315 199,1314 243,1315 288,1314 333,1314 377,1314 422,1314 466,1312 511,1314 556,1314 600,1314 645,1314 689,1312 734,1314 779,1312 823,1314 868,1314 912,1314 957,1314 1002,1316"/>
+                <TextEquiv>
+                    <Unicode>optical apparatus, and that consequently it has the power of excluding</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="104,1360 1006,1362 1006,1331 873,1322 104,1341"/>
+                <Baseline points="110,1355 154,1354 199,1353 244,1353 289,1353 334,1353 379,1353 424,1351 469,1351 514,1351 559,1353 603,1351 648,1353 693,1351 738,1351 783,1352 828,1352 873,1353 918,1353 963,1353 1008,1355"/>
+                <TextEquiv>
+                    <Unicode>as much of it as it pleases, by means of these curtains formed of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="104,1409 1006,1400 1006,1362 104,1373"/>
+                <Baseline points="110,1393 154,1393 199,1393 244,1392 289,1393 334,1392 379,1393 424,1392 469,1393 514,1391 559,1391 603,1391 648,1391 693,1391 738,1393 783,1391 828,1393 873,1393 918,1393 963,1393 1008,1393"/>
+                <TextEquiv>
+                    <Unicode>the iris. The lens is peculiarly soft. Their flesh is cqually good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="109,1438 1001,1443 1001,1403 109,1410"/>
+                <Baseline points="116,1432 160,1432 204,1430 249,1431 293,1430 338,1430 382,1430 426,1430 471,1430 515,1430 560,1430 604,1430 648,1430 693,1430 737,1432 782,1431 826,1430 870,1432 915,1432 959,1432 1004,1432"/>
+                <TextEquiv>
+                    <Unicode>with the sharks. The fins of all thesc species, are salted, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="104,1490 666,1471 729,1506 803,1476 1001,1481 1001,1444 104,1445"/>
+                <Baseline points="110,1477 154,1472 199,1471 244,1469 288,1471 333,1469 378,1469 422,1469 467,1469 512,1469 557,1469 601,1470 646,1471 691,1470 735,1471 780,1471 825,1469 869,1471 914,1471 959,1471 1004,1471"/>
+                <TextEquiv>
+                    <Unicode>generally sent to China. Their skins are used for sword belts, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="106,1522 211,1531 227,1517 506,1515 506,1489 483,1484 106,1489"/>
+                <Baseline points="112,1513 138,1512 164,1512 191,1512 217,1511 244,1511 270,1511 297,1509 323,1509 350,1509 376,1509 403,1509 429,1509 456,1509 482,1509 509,1509"/>
+                <TextEquiv>
+                    <Unicode>rubbing down rough surfaces.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="143,1558 1000,1562 972,1518 712,1541 143,1525"/>
+                <Baseline points="149,1550 191,1550 234,1550 276,1551 319,1551 362,1550 404,1548 447,1548 490,1549 532,1548 575,1550 618,1550 660,1550 703,1550 746,1550 788,1550 831,1550 874,1549 916,1550 959,1550 1002,1552"/>
+                <TextEquiv>
+                    <Unicode>The Skates, Raiaida, are very numerous, and of great variety,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="113,1591 1027,1591 1027,1715 113,1715"/>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:0;}">
+                <Coords points="134,1603 1002,1610 983,1578 134,1580"/>
+                <Baseline points="140,1594 183,1599 226,1600 269,1600 312,1600 356,1598 399,1598 442,1598 485,1600 528,1600 572,1600 615,1600 658,1600 701,1600 744,1600 788,1600 831,1600 874,1600 917,1600 960,1600 1004,1600"/>
+                <TextEquiv>
+                    <Unicode>* The Natives give most exaggerated accounts of the size of these fish ; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:1;}">
+                <Coords points="104,1649 1006,1641 991,1611 104,1611"/>
+                <Baseline points="110,1633 154,1635 199,1633 244,1634 289,1633 334,1633 379,1633 424,1631 469,1633 514,1632 559,1633 603,1632 648,1631 693,1631 738,1633 783,1633 828,1633 873,1633 918,1633 963,1633 1008,1633"/>
+                <TextEquiv>
+                    <Unicode>hammer headed shark, they say is often from 40 to 60 feet in length, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:2;}">
+                <Coords points="109,1671 996,1674 996,1642 109,1649"/>
+                <Baseline points="116,1667 160,1667 204,1665 248,1666 292,1665 336,1665 380,1665 424,1665 468,1665 512,1664 557,1665 601,1665 645,1665 689,1665 733,1665 777,1665 821,1665 865,1665 909,1665 953,1665 998,1665"/>
+                <TextEquiv>
+                    <Unicode>white variety much larger, but they cannot catch them, owing to their enor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:3;}">
+                <Coords points="107,1707 121,1706 147,1718 173,1721 199,1718 204,1712 216,1721 242,1718 242,1674 228,1680 222,1674 170,1674 165,1680 132,1674 125,1681 107,1684"/>
+                <Baseline points="114,1698 140,1698 166,1698 192,1698 218,1698 244,1698"/>
+                <TextEquiv>
+                    <Unicode>mous size!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

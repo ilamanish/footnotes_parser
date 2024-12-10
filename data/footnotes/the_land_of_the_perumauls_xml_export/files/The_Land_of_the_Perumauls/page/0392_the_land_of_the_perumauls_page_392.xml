@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:00.855+01:00</Created>
+        <LastChange>2024-12-10T01:25:32.780+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960319" pageNr="392" tsid="211283629" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=BHEWIODVHOCZCWMLTHBUZZSH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WUMWSZWWFZHYZRINMEHSTFUS" imageId="70209730"/>
+    </Metadata>
+    <Page imageFilename="0392_the_land_of_the_perumauls_page_392.jpg" imageWidth="1198" imageHeight="1967">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840744420" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="179,251 179,1783 1090,1783 1090,251"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="180,292 197,290 206,297 215,297 221,295 223,291 247,288 242,259 232,260 228,256 223,260 213,255 206,256 204,259 195,255 190,260 184,257 175,259"/>
+                <Baseline points="183,271 215,283 247,281"/>
+                <TextEquiv>
+                    <Unicode>372</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="553,290 605,291 618,298 646,290 664,297 702,295 703,257 663,256 638,264 619,254 610,262 604,256 574,262 554,259"/>
+                <Baseline points="559,283 588,283 617,283 647,283 676,283 706,281"/>
+                <TextEquiv>
+                    <Unicode>FUNERALS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="173,353 1085,363 1054,318 173,329"/>
+                <Baseline points="179,345 224,346 269,347 315,347 360,347 406,347 451,347 497,347 542,347 588,349 633,347 678,347 724,349 769,348 815,347 860,348 906,349 951,349 997,347 1042,349 1088,347"/>
+                <TextEquiv>
+                    <Unicode>bride’s father has rubbed sandal wood on the breasts of his guests,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="181,399 221,398 230,404 249,387 280,402 382,397 382,373 372,370 286,361 226,369 181,359"/>
+                <Baseline points="187,385 215,383 243,385 271,387 300,385 328,386 356,387 385,385"/>
+                <TextEquiv>
+                    <Unicode>they withdraw.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="209,438 1085,429 1018,392 209,402"/>
+                <Baseline points="215,417 258,425 302,425 345,427 389,425 433,425 476,427 520,427 564,427 607,427 651,427 695,427 738,427 782,427 826,428 869,429 913,428 957,427 1000,427 1044,427 1088,423"/>
+                <TextEquiv>
+                    <Unicode>The marriage often does not take place for some time ; in the inter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="173,470 1082,473 1058,436 954,433 173,448"/>
+                <Baseline points="179,463 224,463 269,463 314,464 360,465 405,465 450,465 495,465 541,465 586,465 631,465 676,466 722,465 767,466 812,465 857,465 903,465 948,466 993,465 1038,465 1084,461"/>
+                <TextEquiv>
+                    <Unicode>mediate period, care is taken to choose a lucky day, whilst in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="176,513 1085,513 1085,481 1033,470 176,485"/>
+                <Baseline points="183,501 228,502 273,501 318,504 364,505 409,503 454,503 499,504 545,503 590,504 635,505 680,505 726,505 771,505 816,503 861,506 907,505 952,505 997,505 1042,504 1088,503"/>
+                <TextEquiv>
+                    <Unicode>unlucky months, espousals may be said to be almost prohibited.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="179,559 1082,546 1082,515 179,520"/>
+                <Baseline points="185,541 232,541 279,541 326,543 374,543 421,543 468,543 516,543 563,544 610,543 658,545 705,545 752,545 800,545 847,545 894,544 942,543 989,545 1036,544 1084,541"/>
+                <TextEquiv>
+                    <Unicode>Also “on the third day of the new moon, as Adam was then expel-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="173,574 1085,601 1085,565 1031,555 173,557"/>
+                <Baseline points="179,571 224,578 269,581 315,581 360,583 406,583 451,581 497,583 542,583 588,583 633,583 678,583 724,585 769,584 815,583 860,583 906,583 951,583 997,582 1042,581 1088,579"/>
+                <TextEquiv>
+                    <Unicode>"led from Paradise: on the fifth, when Jonah was swallowed by a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="173,622 1079,629 1059,596 173,595"/>
+                <Baseline points="179,611 224,616 269,621 314,621 359,623 404,622 449,623 495,623 540,623 585,623 630,623 675,623 720,623 765,622 811,623 856,622 901,623 946,623 991,623 1036,622 1082,621"/>
+                <TextEquiv>
+                    <Unicode>“whale: on the thirteenth, when Abraham was thrown into thie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="173,657 503,686 1085,669 1085,644 1014,635 173,630"/>
+                <Baseline points="179,651 224,656 269,660 315,660 360,660 406,661 451,660 497,661 542,660 588,662 633,662 678,662 724,662 769,662 815,662 860,662 906,662 951,660 997,660 1042,660 1088,658"/>
+                <TextEquiv>
+                    <Unicode>"fire : on the sixteenth, when Joseph was lowered into a well : on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="176,700 1084,708 1050,670 176,678"/>
+                <Baseline points="183,690 228,697 273,700 318,700 363,700 408,700 453,702 499,701 544,700 589,700 634,700 679,701 724,702 769,700 815,702 860,701 905,700 950,700 995,700 1040,700 1086,698"/>
+                <TextEquiv>
+                    <Unicode>"the twenty-first, when Job was afflicted with diseases: on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="173,747 1082,752 1072,711 220,720 173,698"/>
+                <Baseline points="179,730 224,734 269,738 314,738 360,740 405,740 450,740 495,740 541,740 586,740 631,738 676,740 722,740 767,740 812,740 857,740 903,740 948,739 993,740 1038,739 1084,738"/>
+                <TextEquiv>
+                    <Unicode>"twenty-fourth, when Zachariah was murdered: on the twenty-fifth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="175,772 251,801 1081,786 1081,756 1029,751 175,761"/>
+                <Baseline points="181,768 226,776 271,778 316,779 361,780 406,780 451,780 497,780 542,780 587,780 632,778 677,780 722,780 767,780 813,780 858,780 903,776 948,778 993,780 1038,779 1084,776"/>
+                <TextEquiv>
+                    <Unicode>“when Mahomed had his front teeth broken by a sling.” Marriages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="173,825 1082,821 1059,792 925,787 173,801"/>
+                <Baseline points="179,816 224,818 269,818 314,817 360,818 405,818 450,818 495,820 541,818 586,819 631,818 676,820 722,820 767,819 812,820 857,817 903,818 948,818 993,818 1038,818 1084,814"/>
+                <TextEquiv>
+                    <Unicode>are mostly celebrated in January, April, August, October, and No¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="181,860 1050,867 1037,830 181,835"/>
+                <Baseline points="187,854 230,855 273,858 316,856 360,858 403,858 446,857 489,858 533,857 576,856 619,858 662,858 706,858 749,858 792,858 835,858 879,858 922,858 965,858 1008,857 1052,854"/>
+                <TextEquiv>
+                    <Unicode>vember, excluding all the days having bad omens, as enumerated.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="207,911 1083,901 1052,871 207,869"/>
+                <Baseline points="213,894 256,895 300,896 343,896 387,896 431,896 474,896 518,896 562,897 605,896 649,897 693,896 736,897 780,898 824,897 867,898 911,897 955,898 998,898 1042,898 1086,894"/>
+                <TextEquiv>
+                    <Unicode>It is needless to detail the whole of the ceremony, the most im¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="183,952 1081,946 1060,910 183,910"/>
+                <Baseline points="189,936 233,936 278,936 323,936 368,936 412,936 457,936 502,934 547,936 591,936 636,936 681,936 726,936 770,936 815,936 860,936 905,938 949,938 994,938 1039,938 1084,938"/>
+                <TextEquiv>
+                    <Unicode>portant and concluding part of which is, when the Tungel goes into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="176,985 1078,988 1077,956 1042,951 176,953"/>
+                <Baseline points="183,974 227,975 272,974 317,974 362,974 407,975 452,976 496,975 541,976 586,974 631,974 676,976 721,976 766,974 810,974 855,976 900,976 945,976 990,978 1035,978 1080,974"/>
+                <TextEquiv>
+                    <Unicode>the inner room with the bridegroom, unites his little finger to that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="176,1025 1081,1025 1081,999 977,990 176,994"/>
+                <Baseline points="183,1012 228,1014 273,1014 318,1013 363,1014 408,1013 453,1012 498,1014 543,1014 588,1014 633,1014 678,1014 723,1014 768,1014 813,1016 858,1015 903,1016 948,1016 993,1016 1038,1016 1084,1018"/>
+                <TextEquiv>
+                    <Unicode>of the bride, and pronounces a benediction. A gold chain, or a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="173,1062 1077,1066 1077,1031 173,1036"/>
+                <Baseline points="179,1052 224,1053 269,1052 314,1053 359,1054 404,1053 449,1054 494,1054 539,1054 584,1054 629,1054 674,1054 719,1054 764,1054 809,1054 854,1054 899,1054 944,1054 989,1054 1034,1056 1080,1054"/>
+                <TextEquiv>
+                    <Unicode>string, sometimes of beads, in the form of a tali, is usually hung around</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="179,1102 1079,1109 1079,1077 1023,1068 179,1070"/>
+                <Baseline points="185,1094 229,1091 274,1092 319,1092 364,1092 409,1094 454,1092 498,1093 543,1092 588,1092 633,1092 678,1092 723,1094 768,1093 812,1092 857,1094 902,1094 947,1094 992,1094 1037,1094 1082,1094"/>
+                <TextEquiv>
+                    <Unicode>the bride’s neck at some convenient time, subsequent to the ceremony.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="215,1142 1084,1151 1058,1108 215,1107"/>
+                <Baseline points="221,1129 264,1130 307,1130 350,1130 394,1132 437,1132 480,1132 523,1132 567,1132 610,1132 653,1132 696,1132 740,1132 783,1132 826,1132 869,1132 913,1134 956,1134 999,1134 1042,1134 1086,1134"/>
+                <TextEquiv>
+                    <Unicode>The richer and some of the stricter Mahomedans, rigidly seclude</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="176,1175 1083,1191 1072,1147 176,1151"/>
+                <Baseline points="183,1168 228,1170 273,1170 318,1170 363,1170 408,1170 453,1170 499,1170 544,1170 589,1170 634,1170 679,1172 724,1172 769,1170 815,1170 860,1172 905,1172 950,1172 995,1172 1040,1173 1086,1174"/>
+                <TextEquiv>
+                    <Unicode>their women, who have to keep their faces covered, when going out,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="179,1224 1079,1226 1060,1185 932,1178 179,1183"/>
+                <Baseline points="185,1208 229,1208 274,1208 319,1210 364,1208 409,1210 454,1210 498,1209 543,1208 588,1210 633,1210 678,1210 723,1210 768,1210 812,1210 857,1211 902,1212 947,1212 992,1212 1037,1212 1082,1208"/>
+                <TextEquiv>
+                    <Unicode>but these are exceptional cases. The Moplah women, are usually</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="179,1256 1082,1259 1082,1232 981,1218 179,1230"/>
+                <Baseline points="185,1250 232,1248 279,1248 326,1248 374,1248 421,1248 468,1248 516,1250 563,1248 610,1250 658,1248 705,1250 752,1250 800,1250 847,1250 894,1250 942,1251 989,1252 1036,1252 1084,1248"/>
+                <TextEquiv>
+                    <Unicode>allowed to go about, like those of the Hindus. These Moplahchees are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="176,1296 1081,1307 1081,1269 1041,1260 176,1273"/>
+                <Baseline points="183,1288 228,1290 273,1286 318,1288 363,1288 408,1288 453,1288 498,1286 543,1288 588,1288 633,1288 678,1288 723,1288 768,1288 813,1288 858,1289 903,1290 948,1290 993,1290 1038,1290 1084,1286"/>
+                <TextEquiv>
+                    <Unicode>amongst the dirtiest people in India, wearing their clothes until they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="176,1341 1081,1335 1081,1308 1033,1304 176,1296"/>
+                <Baseline points="183,1327 228,1327 273,1327 318,1326 363,1327 408,1326 453,1325 498,1325 543,1327 588,1327 633,1325 678,1326 723,1327 768,1327 813,1323 858,1327 903,1327 948,1327 993,1327 1038,1328 1084,1325"/>
+                <TextEquiv>
+                    <Unicode>almost rot off them: even in chewing betel, they have the objection¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="179,1373 1077,1379 1061,1340 179,1341"/>
+                <Baseline points="185,1365 229,1367 274,1367 319,1365 364,1365 408,1365 453,1365 498,1365 543,1365 587,1365 632,1365 677,1365 722,1365 766,1365 811,1365 856,1365 901,1367 945,1367 990,1369 1035,1367 1080,1365"/>
+                <TextEquiv>
+                    <Unicode>able practice, of sitting outside their houses and spitting* inwards</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="179,1415 1087,1418 1087,1380 179,1378"/>
+                <Baseline points="185,1403 230,1404 275,1403 320,1405 366,1403 411,1405 456,1403 501,1404 547,1403 592,1405 637,1405 682,1405 728,1405 773,1405 818,1405 863,1405 909,1405 954,1406 999,1407 1044,1407 1090,1405"/>
+                <TextEquiv>
+                    <Unicode>through the door. Their filth is said to be considered a sign, that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="181,1451 1084,1457 1068,1418 181,1429"/>
+                <Baseline points="187,1443 234,1444 281,1443 328,1443 376,1443 423,1443 470,1443 518,1443 565,1441 612,1443 660,1445 707,1444 754,1443 802,1443 849,1445 896,1443 944,1445 991,1443 1038,1445 1086,1445"/>
+                <TextEquiv>
+                    <Unicode>they are good housewives. Their necks are often covered with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="184,1495 1082,1500 1081,1461 183,1461"/>
+                <Baseline points="189,1483 233,1483 278,1481 323,1483 368,1483 412,1483 457,1483 502,1483 547,1483 591,1483 636,1483 681,1483 726,1483 770,1483 815,1485 860,1485 905,1483 949,1485 994,1485 1039,1486 1084,1487"/>
+                <TextEquiv>
+                    <Unicode>strings of beads, their arms with bangles, as are also their ankles,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="183,1530 890,1534 879,1500 769,1492 183,1506"/>
+                <Baseline points="189,1523 224,1523 259,1523 294,1523 329,1521 364,1522 399,1522 435,1522 470,1521 505,1521 540,1521 575,1522 610,1522 645,1521 681,1523 716,1523 751,1523 786,1523 821,1522 856,1523 892,1521"/>
+                <TextEquiv>
+                    <Unicode>whilst their ears are weighed down with ornaments.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="214,1566 1089,1572 1087,1540 968,1533 213,1533"/>
+                <Baseline points="219,1553 262,1563 306,1563 349,1563 393,1561 436,1563 480,1563 523,1561 567,1563 610,1563 654,1562 698,1563 741,1562 785,1563 828,1563 872,1563 915,1563 959,1563 1002,1565 1046,1565 1090,1565"/>
+                <TextEquiv>
+                    <Unicode>Their burial ground is in Muttencherry. After death the feet of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="179,1611 1087,1613 1078,1573 179,1577"/>
+                <Baseline points="185,1603 230,1603 275,1603 320,1603 366,1603 411,1601 456,1601 501,1600 547,1603 592,1601 637,1601 682,1601 728,1601 773,1602 818,1603 863,1602 909,1603 954,1603 999,1603 1044,1603 1090,1603"/>
+                <TextEquiv>
+                    <Unicode>the corpse are tied together, as are also the hands, and the face is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="171,1657 1106,1657 1106,1793 171,1793"/>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:0;}">
+                <Coords points="205,1670 278,1693 1085,1691 1085,1658 1027,1649 205,1652"/>
+                <Baseline points="211,1669 254,1675 298,1679 342,1677 386,1677 430,1679 474,1677 517,1677 561,1677 605,1677 649,1677 693,1679 737,1679 781,1679 824,1677 868,1677 912,1678 956,1677 1000,1678 1044,1679 1088,1679"/>
+                <TextEquiv>
+                    <Unicode>* This practice is held in the greatest detestation by the Hindus, for doing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:1;}">
+                <Coords points="179,1723 1087,1715 1053,1685 179,1673"/>
+                <Baseline points="185,1709 230,1709 275,1709 320,1709 366,1707 411,1709 456,1709 501,1709 547,1709 592,1708 637,1709 682,1709 728,1709 773,1709 818,1709 863,1708 909,1707 954,1709 999,1709 1044,1709 1090,1709"/>
+                <TextEquiv>
+                    <Unicode>such inside the house, is considered the height of filthiness. Hindus (if high</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:2;}">
+                <Coords points="181,1745 1079,1753 1079,1724 957,1716 181,1731"/>
+                <Baseline points="187,1739 231,1741 276,1741 321,1740 366,1739 410,1740 455,1741 500,1741 545,1741 589,1741 634,1741 679,1741 724,1739 768,1741 813,1741 858,1741 903,1741 947,1741 992,1741 1037,1743 1082,1741"/>
+                <TextEquiv>
+                    <Unicode>caste) can hardly be induced to touch a letter closed with a wafer, as they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:3;}">
+                <Coords points="189,1785 753,1786 736,1747 189,1748"/>
+                <Baseline points="195,1773 223,1773 251,1773 279,1773 307,1773 335,1773 363,1773 391,1771 419,1771 447,1772 475,1773 503,1773 531,1773 559,1773 587,1772 615,1772 643,1773 671,1773 699,1773 727,1771 756,1771"/>
+                <TextEquiv>
+                    <Unicode>believe it must have been touched by the tongue.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

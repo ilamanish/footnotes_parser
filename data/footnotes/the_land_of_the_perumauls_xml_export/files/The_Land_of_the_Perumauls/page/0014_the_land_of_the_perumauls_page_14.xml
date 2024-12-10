@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:28.813+01:00</Created>
+        <LastChange>2024-12-04T11:14:43.715+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959417" pageNr="14" tsid="209663615" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=UUXBASABIDYFCQDMLZBXCGIS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSKFDDSNPMAOIQCGRDRSNBSV" imageId="70209321"/>
+    </Metadata>
+    <Page imageFilename="0014_the_land_of_the_perumauls_page_14.jpg" imageWidth="1170" imageHeight="1984">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840508024" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="140,461 140,1773 1047,1773 1047,461"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="535,497 556,488 572,497 581,491 624,489 644,498 663,489 663,456 618,462 604,457 569,461 556,448 535,448"/>
+                <Baseline points="542,481 572,483 603,483 634,483 665,483"/>
+                <TextEquiv>
+                    <Unicode>PREFACE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;} structure {type:page-number;}">
+                <Coords points="158,492 189,494 191,464 160,462"/>
+                <Baseline points="158,492 189,494"/>
+                <TextEquiv>
+                    <Unicode>vi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:2;}">
+                <Coords points="146,560 1044,555 1038,512 889,539 581,505 147,528"/>
+                <Baseline points="152,550 196,552 241,550 286,550 331,550 375,550 420,550 465,550 510,549 554,548 599,548 644,548 689,548 733,548 778,548 823,548 868,548 912,550 957,550 1002,549 1047,544"/>
+                <TextEquiv>
+                    <Unicode>other officials and friends afforded their assistance, to all and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:3;}">
+                <Coords points="148,602 720,603 708,561 148,572"/>
+                <Baseline points="154,591 182,590 210,591 239,591 267,592 295,593 324,592 352,591 380,592 409,592 437,591 465,591 494,591 522,591 550,591 579,589 607,589 635,591 664,589 692,589 721,589"/>
+                <TextEquiv>
+                    <Unicode>each of whom, thanks are here offered.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:4;}">
+                <Coords points="175,657 1005,660 1036,634 993,612 174,622"/>
+                <Baseline points="181,645 223,645 266,645 309,644 352,647 395,645 438,643 481,645 524,643 567,643 610,643 652,643 695,644 738,647 781,645 824,645 867,645 910,645 953,647 996,647 1039,651"/>
+                <TextEquiv>
+                    <Unicode>Owing to the civility of Messrs. Smith Elder and Co.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:5;}">
+                <Coords points="140,702 1028,693 1028,668 801,659 140,666"/>
+                <Baseline points="146,690 190,690 234,688 278,690 323,688 367,688 411,688 455,690 500,688 544,689 588,688 632,688 677,688 721,687 765,688 809,688 854,688 898,688 942,686 986,687 1031,686"/>
+                <TextEquiv>
+                    <Unicode>some old books on Malabar, now out of print, were procur-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:6;}">
+                <Coords points="140,744 1032,739 1032,707 872,697 140,709"/>
+                <Baseline points="146,731 190,733 234,731 279,731 323,731 367,731 412,729 456,730 500,729 545,730 589,727 633,729 678,731 722,731 766,731 811,729 855,729 899,729 944,729 988,729 1033,729"/>
+                <TextEquiv>
+                    <Unicode>ed in London, and proved of great assistance, with reference</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:7;}">
+                <Coords points="141,780 845,778 845,748 788,740 141,751"/>
+                <Baseline points="148,772 183,771 218,772 253,772 288,770 323,768 358,772 393,770 428,768 463,770 498,770 533,770 568,770 603,771 638,772 673,772 708,772 743,772 778,771 813,770 848,768"/>
+                <TextEquiv>
+                    <Unicode>to the early history of this portion of Malabar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:8;}">
+                <Coords points="181,849 1030,833 1030,804 933,790 181,792"/>
+                <Baseline points="187,825 229,825 271,827 313,827 356,825 398,825 440,825 483,825 525,826 567,825 610,825 652,825 694,826 736,827 779,826 821,825 863,825 906,826 948,827 990,827 1033,823"/>
+                <TextEquiv>
+                    <Unicode>The following are the principal works referred to, in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:9;}">
+                <Coords points="146,874 165,881 232,874 260,890 295,877 320,885 333,874 394,874 395,854 213,841 147,851"/>
+                <Baseline points="152,868 179,869 206,870 233,868 260,866 288,867 315,868 342,866 369,866 397,864"/>
+                <TextEquiv>
+                    <Unicode>ensuing pages :—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:10;}">
+                <Coords points="178,925 1028,924 1028,877 593,882 566,905 517,878 178,881"/>
+                <Baseline points="185,912 227,914 269,914 311,914 354,914 396,916 438,915 481,914 523,914 565,914 608,914 650,914 692,916 734,916 777,914 819,916 861,914 904,915 946,914 988,916 1031,916"/>
+                <TextEquiv>
+                    <Unicode>Herbert'’s Travels, 1665. Purchas, His Pilgrims, 1625.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:11;}">
+                <Coords points="141,969 1030,964 1005,926 141,931"/>
+                <Baseline points="148,957 192,957 236,955 280,955 325,955 369,955 413,955 457,956 502,955 546,954 590,956 634,955 679,955 723,956 767,955 811,956 856,957 900,957 944,957 988,955 1033,955"/>
+                <TextEquiv>
+                    <Unicode>Tavernier’s Travels, 1676. Travels of two Mahomedans in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:12;}">
+                <Coords points="141,1006 1034,1009 1020,971 141,975"/>
+                <Baseline points="148,998 192,996 236,997 281,996 325,997 370,996 414,995 459,996 503,997 548,996 592,996 636,998 681,998 725,996 770,996 814,997 859,996 903,996 948,998 992,996 1037,994"/>
+                <TextEquiv>
+                    <Unicode>the 9th century. Voyage of Captain Walter Peyton to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:13;}">
+                <Coords points="144,1051 932,1052 932,1010 416,1008 375,1032 144,1010"/>
+                <Baseline points="150,1037 189,1039 228,1039 267,1039 306,1039 346,1039 385,1039 424,1039 463,1039 502,1039 542,1038 581,1037 620,1037 659,1038 698,1039 738,1039 777,1039 816,1037 855,1037 894,1039 934,1037"/>
+                <TextEquiv>
+                    <Unicode>India, in 1615. Stavorinus’s Voyage to India, 1777.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:14;}">
+                <Coords points="175,1106 1030,1107 1030,1073 881,1059 488,1064 465,1087 175,1065"/>
+                <Baseline points="181,1090 223,1094 266,1094 308,1094 351,1094 394,1094 436,1094 479,1096 521,1094 564,1092 607,1094 649,1094 692,1094 734,1094 777,1094 820,1094 862,1095 905,1096 947,1096 990,1095 1033,1090"/>
+                <TextEquiv>
+                    <Unicode>Faria’s Portuquese Asia. Notes concerning the factory</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:15;}">
+                <Coords points="141,1151 1025,1144 1025,1111 936,1100 887,1128 141,1108"/>
+                <Baseline points="148,1135 192,1136 236,1137 280,1137 324,1137 368,1135 412,1137 456,1137 500,1137 544,1137 588,1137 632,1137 676,1137 720,1136 764,1137 808,1136 852,1135 896,1135 940,1137 984,1135 1028,1133"/>
+                <TextEquiv>
+                    <Unicode>of Cranganore, from the Journal of Roger Hawes. Phillips</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:16;}">
+                <Coords points="138,1186 1029,1193 1029,1156 970,1146 138,1155"/>
+                <Baseline points="144,1178 188,1178 232,1179 277,1178 321,1179 365,1178 410,1178 454,1176 498,1178 543,1178 587,1178 631,1177 676,1176 720,1177 764,1178 809,1176 853,1176 897,1176 942,1178 986,1177 1031,1172"/>
+                <TextEquiv>
+                    <Unicode>Account of Malabar, 1717. A voyage round the world by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:17;}">
+                <Coords points="146,1226 1027,1227 1027,1201 927,1185 716,1209 146,1194"/>
+                <Baseline points="152,1217 195,1221 239,1219 283,1219 327,1219 371,1218 415,1219 459,1220 503,1219 547,1219 591,1219 634,1221 678,1219 722,1219 766,1219 810,1219 854,1219 898,1218 942,1219 986,1219 1030,1217"/>
+                <TextEquiv>
+                    <Unicode>Commodore Roggewein, in 1721-1723. Sonnerat's Voyages</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:18;}">
+                <Coords points="138,1266 1035,1266 1016,1233 890,1226 138,1244"/>
+                <Baseline points="144,1260 188,1260 233,1262 277,1260 322,1260 367,1260 411,1260 456,1260 501,1260 545,1261 590,1262 635,1260 679,1262 724,1260 769,1260 813,1260 858,1260 903,1260 947,1262 992,1262 1037,1260"/>
+                <TextEquiv>
+                    <Unicode>and Travels. Cope’s Voyages and Travels, 1754. Hamilton's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:19;}">
+                <Coords points="144,1310 1033,1307 1000,1275 847,1268 657,1293 594,1266 144,1275"/>
+                <Baseline points="150,1301 194,1301 238,1303 282,1301 327,1301 371,1302 415,1303 459,1303 504,1303 548,1302 592,1303 636,1303 681,1301 725,1302 769,1301 813,1301 858,1301 902,1303 946,1303 990,1303 1035,1301"/>
+                <TextEquiv>
+                    <Unicode>New account of the East Indies. Paolino de St. Bartholo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:20;}">
+                <Coords points="138,1353 1033,1354 1018,1313 911,1337 812,1313 138,1325"/>
+                <Baseline points="144,1342 188,1342 233,1342 277,1343 322,1344 366,1343 411,1342 455,1343 500,1344 544,1344 589,1344 634,1344 678,1344 723,1344 767,1344 812,1344 856,1344 901,1344 945,1345 990,1344 1035,1344"/>
+                <TextEquiv>
+                    <Unicode>meo's Travels, 1800. Ormes History of Industan. Kerr's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="141,1394 1030,1393 1030,1363 944,1355 141,1364"/>
+                <Baseline points="148,1381 192,1383 236,1385 280,1384 325,1383 369,1383 413,1383 457,1384 502,1385 546,1385 590,1387 634,1386 679,1385 723,1385 767,1385 811,1385 856,1385 900,1385 944,1385 988,1387 1033,1385"/>
+                <TextEquiv>
+                    <Unicode>collection of Voyages and Travels, 1824. Discoveries in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:22;}">
+                <Coords points="138,1433 1029,1436 1029,1402 993,1396 138,1395"/>
+                <Baseline points="144,1426 188,1427 232,1426 277,1426 321,1426 365,1426 410,1426 454,1426 498,1426 543,1426 587,1426 631,1426 676,1426 720,1426 764,1426 809,1427 853,1428 897,1428 942,1428 986,1428 1031,1428"/>
+                <TextEquiv>
+                    <Unicode>India, from 1497 to 1505, by Herman Lopez de Castaneda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:23;}">
+                <Coords points="138,1475 1035,1483 1035,1451 928,1436 138,1435"/>
+                <Baseline points="144,1467 188,1464 233,1467 277,1467 322,1467 367,1467 411,1467 456,1467 501,1468 545,1468 590,1468 635,1467 679,1468 724,1467 769,1468 813,1468 858,1468 903,1468 947,1470 992,1470 1037,1470"/>
+                <TextEquiv>
+                    <Unicode>Dr. Francis Buchanan’s Journey through Mysore, Canara,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:24;}">
+                <Coords points="140,1518 1028,1523 1028,1495 934,1476 140,1490"/>
+                <Baseline points="146,1506 190,1508 234,1509 278,1509 323,1509 367,1508 411,1509 455,1509 500,1509 544,1509 588,1507 632,1508 677,1509 721,1507 765,1509 809,1509 854,1509 898,1509 942,1511 986,1511 1031,1511"/>
+                <TextEquiv>
+                    <Unicode>and Malabar, 1807. Memoirs of Dr. Claudius Buchanan,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:25;}">
+                <Coords points="138,1560 1033,1563 1009,1523 138,1519"/>
+                <Baseline points="144,1550 188,1550 233,1548 277,1549 322,1548 366,1548 411,1550 455,1551 500,1552 544,1551 589,1552 634,1550 678,1550 723,1550 767,1550 812,1550 856,1551 901,1552 945,1552 990,1552 1035,1552"/>
+                <TextEquiv>
+                    <Unicode>1817. Forbes's Oriental Memoirs, 1834. Elphinstone's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:26;}">
+                <Coords points="144,1601 1025,1598 1016,1563 144,1564"/>
+                <Baseline points="150,1591 193,1591 237,1589 281,1591 325,1591 369,1592 413,1593 457,1593 501,1593 545,1593 589,1593 632,1593 676,1591 720,1591 764,1591 808,1593 852,1591 896,1592 940,1593 984,1593 1028,1591"/>
+                <TextEquiv>
+                    <Unicode>History of India. Taylors History of India. MacFar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:27;}">
+                <Coords points="140,1646 1034,1641 1034,1611 991,1603 910,1627 852,1602 140,1606"/>
+                <Baseline points="146,1632 190,1633 235,1632 279,1634 324,1634 368,1634 413,1634 457,1634 502,1634 546,1633 591,1634 636,1634 680,1636 725,1632 769,1633 814,1634 858,1634 903,1634 947,1635 992,1636 1037,1634"/>
+                <TextEquiv>
+                    <Unicode>lanes History of India. Mill’s History of India. Wilk's</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:28;}">
+                <Coords points="140,1684 1033,1690 1032,1660 968,1644 139,1648"/>
+                <Baseline points="146,1675 190,1675 234,1675 279,1673 323,1675 368,1675 412,1675 457,1675 501,1675 546,1675 590,1675 634,1677 679,1677 723,1676 768,1675 812,1675 857,1676 901,1677 946,1677 990,1677 1035,1679"/>
+                <TextEquiv>
+                    <Unicode>History of Mysore. Asiatic Researches. Calcutta Reviews.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:29;}">
+                <Coords points="138,1722 1030,1731 1030,1692 997,1687 773,1710 138,1682"/>
+                <Baseline points="144,1714 188,1716 232,1714 277,1716 321,1716 366,1717 410,1718 455,1718 499,1718 544,1718 588,1718 632,1718 677,1718 721,1718 766,1718 810,1718 855,1718 899,1718 944,1719 988,1720 1033,1718"/>
+                <TextEquiv>
+                    <Unicode>Madras Journals of Literature and Science. Journals of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:30;}">
+                <Coords points="134,1760 1034,1770 999,1730 134,1747"/>
+                <Baseline points="140,1759 184,1757 229,1757 274,1758 319,1757 364,1757 409,1759 453,1759 498,1759 543,1759 588,1760 633,1761 678,1761 723,1759 767,1760 812,1761 857,1761 902,1761 947,1762 992,1763 1037,1763"/>
+                <TextEquiv>
+                    <Unicode>Asiatic Society. Records of Travancore and Cochin. &amp;c., &amp;c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

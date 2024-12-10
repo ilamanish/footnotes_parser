@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:04.597+01:00</Created>
+        <LastChange>2024-12-10T01:33:21.801+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960468" pageNr="436" tsid="211284668" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=MDWHMATCBNAXHUXRESMBFXBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AATCSJLTQUKICULKOTXSBBVP" imageId="70209762"/>
+    </Metadata>
+    <Page imageFilename="0436_the_land_of_the_perumauls_page_436.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840766965" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="188,215 188,1727 1101,1727 1101,215"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="182,246 220,246 229,249 234,244 252,241 252,210 237,207 233,210 221,210 206,209 202,206 182,206"/>
+                <Baseline points="188,235 221,237 255,235"/>
+                <TextEquiv>
+                    <Unicode>416</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="357,241 918,244 918,212 357,220"/>
+                <Baseline points="363,235 390,237 418,237 446,237 474,237 502,237 530,237 557,237 585,237 613,237 641,237 669,237 697,237 725,237 752,237 780,237 808,237 836,237 864,239 892,239 920,237"/>
+                <TextEquiv>
+                    <Unicode>OFFENSIVE EFFLUVIE FROM THE WATER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="182,310 1088,310 1088,277 823,270 182,290"/>
+                <Baseline points="188,300 233,303 278,302 323,300 368,300 413,301 458,302 504,300 549,302 594,302 639,302 684,302 729,303 774,304 820,303 865,304 910,304 955,304 1000,303 1045,304 1091,304"/>
+                <TextEquiv>
+                    <Unicode>something like a flock of wild ducks passing. In the commencement of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="184,348 1087,354 1064,313 184,316"/>
+                <Baseline points="190,341 237,342 284,341 331,341 379,341 426,341 473,341 521,341 568,341 615,340 663,341 710,341 757,342 805,341 852,342 899,343 947,343 994,343 1041,343 1089,345"/>
+                <TextEquiv>
+                    <Unicode>March, strong cold sea breezes, generally occur, renderingthe sea rough :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="184,386 1083,401 1071,355 184,355"/>
+                <Baseline points="190,380 234,380 279,380 324,379 369,380 413,380 458,380 503,380 548,380 592,380 637,380 682,380 727,380 771,382 816,382 861,382 906,381 950,382 995,382 1040,382 1085,380"/>
+                <TextEquiv>
+                    <Unicode>should persons remain in them whilst perspiring, fever is frequently</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="184,432 1087,427 1087,399 877,388 184,393"/>
+                <Baseline points="190,420 237,420 284,420 331,420 379,420 426,422 473,421 521,420 568,420 615,421 663,420 710,421 757,421 805,422 852,422 899,420 947,421 994,420 1041,420 1089,422"/>
+                <TextEquiv>
+                    <Unicode>the result ; during April and May, thunder and lightning become</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="185,468 1088,466 1064,431 185,435"/>
+                <Baseline points="192,457 239,458 286,459 333,459 381,459 428,459 475,459 523,459 570,459 617,459 665,459 712,459 759,459 807,461 854,460 901,461 949,461 996,461 1043,459 1091,461"/>
+                <TextEquiv>
+                    <Unicode>severe, the flashes being very vivid, whilst the claps appear close :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="188,506 1083,514 1067,468 188,476"/>
+                <Baseline points="194,498 238,498 283,498 327,498 372,496 416,497 461,498 505,497 550,498 594,498 639,498 684,498 728,498 773,498 817,498 862,498 906,498 951,498 995,500 1040,498 1085,500"/>
+                <TextEquiv>
+                    <Unicode>sometimes the shipping in the roads are struck, trees are frequently</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="188,547 1088,546 1088,507 188,506"/>
+                <Baseline points="194,537 238,537 283,535 328,535 373,535 418,536 463,537 507,537 552,537 597,537 642,537 687,537 732,537 777,537 821,537 866,537 911,537 956,537 1001,537 1046,537 1091,539"/>
+                <TextEquiv>
+                    <Unicode>knocked down, and some fatal accidents to coolies working out of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="185,584 1084,594 1084,555 1041,546 185,555"/>
+                <Baseline points="192,575 236,576 281,575 326,577 371,577 415,577 460,577 505,577 550,577 594,577 639,577 684,577 729,577 773,577 818,578 863,577 908,577 952,577 997,578 1042,577 1087,579"/>
+                <TextEquiv>
+                    <Unicode>doors usually take place, especially to those preparing the paddy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="188,633 1088,626 1088,596 1027,593 188,594"/>
+                <Baseline points="194,618 238,616 283,616 328,616 373,615 418,614 463,616 507,616 552,616 597,616 642,616 687,616 732,616 777,616 821,616 866,616 911,616 956,616 1001,616 1046,616 1091,614"/>
+                <TextEquiv>
+                    <Unicode>grounds, fox the Monsoon crop. As the downpour becomes more</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="188,667 1090,667 1079,634 188,634"/>
+                <Baseline points="194,653 241,653 288,655 335,653 383,654 430,653 477,655 525,655 572,655 619,655 667,657 714,655 761,655 809,655 856,655 903,655 951,656 998,655 1045,655 1093,653"/>
+                <TextEquiv>
+                    <Unicode>decided, the thunder and lightning gradually disappear, and cease</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="192,710 1084,698 1003,668 192,667"/>
+                <Baseline points="198,693 242,693 286,693 331,693 375,693 419,693 464,693 508,693 552,694 597,694 641,694 685,694 730,694 774,694 818,694 863,694 907,694 951,694 996,694 1040,694 1085,693"/>
+                <TextEquiv>
+                    <Unicode>by the middle of June. In the North East Monsoon, there is usu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="185,745 749,740 748,714 672,704 184,714"/>
+                <Baseline points="192,732 221,732 250,732 280,732 309,732 339,732 368,732 397,732 427,732 456,732 486,732 515,732 545,732 574,732 603,734 633,734 662,732 692,734 721,734 751,732"/>
+                <TextEquiv>
+                    <Unicode>ally a return of this electrical disturbance.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="225,782 1084,779 1069,742 225,748"/>
+                <Baseline points="231,769 273,771 316,769 359,771 402,771 445,771 487,770 530,769 573,771 616,771 659,773 701,771 744,773 787,773 830,772 873,773 915,773 958,773 1001,773 1044,773 1087,773"/>
+                <TextEquiv>
+                    <Unicode>Hail storms are of very rare occurrence: one occurred in Cochin in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="190,825 1087,817 1052,782 190,782"/>
+                <Baseline points="196,810 240,810 285,810 329,810 374,810 419,809 463,810 508,810 553,810 597,810 642,810 687,810 731,810 776,810 821,810 865,811 910,812 955,810 999,810 1044,810 1089,812"/>
+                <TextEquiv>
+                    <Unicode>May 1862,and was-looked upon by the Natives, with extreme wonder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="225,858 1094,859 1094,827 1035,819 225,832"/>
+                <Baseline points="231,848 274,848 317,848 360,850 404,848 447,849 490,848 534,850 577,849 620,850 664,849 707,850 750,850 793,850 837,850 880,852 923,850 967,850 1010,850 1053,850 1097,850"/>
+                <TextEquiv>
+                    <Unicode>At various periods in the year, very offensive effluvio arise from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="193,896 1094,898 1094,870 1037,859 193,861"/>
+                <Baseline points="200,889 244,888 289,889 334,888 379,889 424,887 469,887 513,889 558,889 603,889 648,889 693,889 738,889 783,889 827,889 872,889 917,889 962,889 1007,889 1052,889 1097,889"/>
+                <TextEquiv>
+                    <Unicode>the sea, the backwater, and the banks of the Alwaye river. These</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="190,933 1090,936 1090,906 1032,897 190,907"/>
+                <Baseline points="196,926 240,927 285,926 330,926 375,926 420,926 465,926 509,926 554,926 599,928 644,926 689,928 734,928 779,928 823,927 868,926 913,928 958,928 1003,928 1048,928 1093,930"/>
+                <TextEquiv>
+                    <Unicode>exhalations from the sea, during the last three years, have been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="192,975 1096,979 1096,940 192,947"/>
+                <Baseline points="198,965 243,965 288,965 333,965 378,965 423,965 468,965 513,965 558,965 603,965 648,966 693,967 738,967 783,967 828,966 873,967 918,967 963,967 1008,967 1053,967 1099,967"/>
+                <TextEquiv>
+                    <Unicode>especially apparent, on June 14th and 15th, 1861 : July 22nd, 23rd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="192,1008 1093,1011 1093,979 192,988"/>
+                <Baseline points="198,1005 242,1005 287,1005 332,1005 377,1003 422,1005 467,1005 511,1005 556,1005 601,1006 646,1005 691,1005 736,1005 781,1005 825,1004 870,1003 915,1005 960,1005 1005,1005 1050,1005 1095,1005"/>
+                <TextEquiv>
+                    <Unicode>and 24th, 1860 : and August 8th, 1862. Whilst in “ November, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="192,1060 1090,1051 1090,1016 967,1011 192,1018"/>
+                <Baseline points="198,1036 242,1041 287,1044 332,1043 377,1042 421,1043 466,1042 511,1044 556,1044 600,1043 645,1044 690,1044 735,1044 779,1044 824,1043 869,1044 914,1044 958,1042 1003,1044 1048,1044 1093,1042"/>
+                <TextEquiv>
+                    <Unicode>“December, 1836, the state of the sea at this station, (Calicut,) and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="193,1081 1090,1089 1090,1052 193,1059"/>
+                <Baseline points="200,1073 244,1079 289,1083 333,1081 378,1079 423,1081 467,1081 512,1082 557,1083 601,1083 646,1083 691,1083 735,1083 780,1083 825,1083 869,1083 914,1083 959,1081 1003,1081 1048,1081 1093,1081"/>
+                <TextEquiv>
+                    <Unicode>“ Tellicherry, was very unwholesome, it sent forth a strong stench of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="192,1118 1089,1135 1089,1101 985,1093 192,1096"/>
+                <Baseline points="198,1115 242,1120 287,1122 331,1122 376,1120 421,1122 465,1122 510,1121 555,1122 599,1122 644,1122 689,1122 733,1122 778,1122 823,1122 867,1122 912,1122 957,1122 1001,1122 1046,1122 1091,1119"/>
+                <TextEquiv>
+                    <Unicode>“putrifying matter,and deposited a black mud on the sand. For many</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="192,1166 1096,1171 1096,1137 1061,1131 192,1140"/>
+                <Baseline points="198,1152 243,1159 288,1162 333,1162 378,1160 423,1161 468,1160 513,1160 558,1160 603,1160 648,1160 693,1160 738,1161 783,1160 828,1160 873,1162 918,1162 963,1162 1008,1161 1053,1162 1099,1160"/>
+                <TextEquiv>
+                    <Unicode>“yards from the shore, the water was covered by dead fish, and on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="190,1198 1094,1207 1077,1171 190,1174"/>
+                <Baseline points="196,1189 241,1197 286,1199 331,1199 376,1197 421,1198 466,1197 511,1199 556,1199 601,1199 646,1199 691,1199 736,1199 781,1199 826,1199 871,1199 916,1200 961,1199 1006,1199 1051,1199 1097,1199"/>
+                <TextEquiv>
+                    <Unicode>“ beach they werelying in large heaps: the effluvia arising from which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="190,1241 1093,1251 1093,1217 1033,1214 190,1223"/>
+                <Baseline points="196,1230 243,1236 290,1238 337,1238 385,1237 432,1238 479,1238 527,1238 574,1238 621,1238 669,1238 716,1238 763,1238 811,1238 858,1237 905,1238 953,1238 1000,1238 1047,1238 1095,1238"/>
+                <TextEquiv>
+                    <Unicode>“ extended over the station, and almost every person was more or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="191,1274 1088,1281 1006,1248 190,1252"/>
+                <Baseline points="196,1268 240,1275 285,1278 330,1278 375,1274 419,1276 464,1278 509,1278 554,1278 598,1278 643,1278 688,1278 733,1278 777,1277 822,1278 867,1278 912,1278 956,1278 1001,1278 1046,1278 1091,1278"/>
+                <TextEquiv>
+                    <Unicode>“ less ailing,—fevers, headaches, and nausea, were the general com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="190,1318 1093,1322 1093,1298 983,1286 190,1295"/>
+                <Baseline points="196,1309 243,1315 290,1317 337,1312 385,1316 432,1317 479,1316 527,1317 574,1317 621,1317 669,1317 716,1317 763,1317 811,1317 858,1317 905,1317 953,1317 1000,1317 1047,1317 1095,1317"/>
+                <TextEquiv>
+                    <Unicode>“ plaints.”* In this last instance, the state of the sea, could not be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="195,1363 1096,1363 1096,1328 195,1335"/>
+                <Baseline points="202,1352 246,1356 291,1354 336,1354 381,1354 426,1356 471,1356 515,1355 560,1354 605,1355 650,1354 695,1356 740,1356 785,1354 829,1356 874,1354 919,1354 964,1354 1009,1354 1054,1356 1099,1356"/>
+                <TextEquiv>
+                    <Unicode>owing to the admixture of fresh with salt water, as such was not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="193,1407 1094,1400 1094,1364 193,1375"/>
+                <Baseline points="200,1395 244,1395 289,1394 334,1395 379,1393 424,1393 469,1393 513,1393 558,1393 603,1393 648,1393 693,1395 738,1395 783,1394 827,1393 872,1393 917,1393 962,1393 1007,1393 1052,1393 1097,1391"/>
+                <TextEquiv>
+                    <Unicode>then occurring, whilst the state of the sea appears to have caused</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="193,1440 1088,1442 1088,1411 1037,1402 193,1408"/>
+                <Baseline points="200,1433 244,1434 289,1435 333,1433 378,1433 422,1434 467,1433 511,1433 556,1433 600,1434 645,1433 690,1433 734,1433 779,1433 823,1433 868,1433 912,1433 957,1433 1001,1433 1046,1433 1091,1433"/>
+                <TextEquiv>
+                    <Unicode>the destruction of the fish. In Cochin when emanations arise from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="198,1483 1095,1480 1095,1452 1028,1444 198,1452"/>
+                <Baseline points="204,1470 248,1473 293,1472 337,1472 382,1472 427,1472 471,1472 516,1472 561,1472 605,1472 650,1472 695,1472 739,1472 784,1472 829,1472 873,1472 918,1472 963,1472 1007,1472 1052,1472 1097,1470"/>
+                <TextEquiv>
+                    <Unicode>the sea, they also do so from the backwater, showing from whence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="195,1521 1090,1523 1059,1480 195,1484"/>
+                <Baseline points="202,1511 246,1510 291,1511 335,1510 380,1509 424,1510 469,1509 513,1510 558,1509 602,1511 647,1509 692,1509 736,1509 781,1509 825,1511 870,1511 914,1511 959,1510 1003,1509 1048,1509 1093,1511"/>
+                <TextEquiv>
+                    <Unicode>the odour is derived. Still it seems as if the smell is augmented,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="198,1566 1093,1556 1093,1523 198,1530"/>
+                <Baseline points="204,1548 248,1550 293,1550 337,1550 382,1550 426,1548 471,1548 515,1550 560,1550 604,1549 649,1548 694,1549 738,1548 783,1549 827,1550 872,1549 916,1548 961,1548 1005,1548 1050,1548 1095,1548"/>
+                <TextEquiv>
+                    <Unicode>when the unsavoury water from the backwater, reaches the sea, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="195,1601 1098,1601 1075,1557 195,1572"/>
+                <Baseline points="202,1588 249,1590 296,1588 343,1590 391,1589 438,1588 485,1588 533,1590 580,1590 627,1588 675,1588 722,1590 769,1590 817,1590 864,1590 911,1588 959,1588 1006,1590 1053,1588 1101,1588"/>
+                <TextEquiv>
+                    <Unicode>many of the finny tribe, and sea snakes, are often perceived at this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="193,1634 337,1651 419,1632 601,1638 601,1614 547,1596 519,1610 323,1594 261,1614 221,1598 193,1608"/>
+                <Baseline points="200,1627 225,1629 250,1629 275,1629 301,1629 326,1628 351,1627 376,1629 402,1627 427,1628 452,1628 477,1628 503,1629 528,1629 553,1629 578,1629 604,1627"/>
+                <TextEquiv>
+                    <Unicode>time lying dead on the shore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="189,1672 1127,1672 1127,1736 189,1736"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="238,1694 1078,1697 1095,1631 237,1643"/>
+                <Baseline points="245,1678 287,1682 330,1682 373,1682 415,1682 458,1682 501,1682 543,1682 586,1682 629,1682 672,1682 714,1682 757,1684 800,1682 842,1683 885,1682 928,1682 970,1684 1013,1684 1056,1682 1099,1682"/>
+                <TextEquiv>
+                    <Unicode>* Medical Topography of the Madras Presidency, Malabar, and Canara,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:1;}">
+                <Coords points="195,1735 237,1738 253,1722 302,1722 303,1690 266,1690 259,1695 236,1695 231,1700 226,1695 197,1697"/>
+                <Baseline points="202,1717 227,1715 253,1715 278,1715 304,1715"/>
+                <TextEquiv>
+                    <Unicode>page 84.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

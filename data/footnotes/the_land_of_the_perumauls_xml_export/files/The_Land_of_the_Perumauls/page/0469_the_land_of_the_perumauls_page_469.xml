@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:07.387+01:00</Created>
+        <LastChange>2024-12-10T01:41:31.165+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960482" pageNr="469" tsid="211286125" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=DTFJFYSJUEDTBHGGUEFMJMBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NLBWUUGUYCYKZBMSBXQUQOYJ" imageId="70209703"/>
+    </Metadata>
+    <Page imageFilename="0469_the_land_of_the_perumauls_page_469.jpg" imageWidth="1178" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840789470" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r_13"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="109,215 109,1735 1012,1735 1012,215"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="519,250 544,262 560,263 575,262 581,255 588,258 605,245 615,245 614,198 603,198 597,204 553,203 544,206 539,213 519,213"/>
+                <Baseline points="525,235 556,237 587,237 618,237"/>
+                <TextEquiv>
+                    <Unicode>SHEEP.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="949,249 954,249 960,254 968,254 976,262 1004,262 1004,202 998,202 995,198 992,200 984,196 971,196 955,181 949,181"/>
+                <Baseline points="955,239 980,241 1006,239"/>
+                <TextEquiv>
+                    <Unicode>449</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="144,315 1007,319 979,274 144,272"/>
+                <Baseline points="151,302 196,302 241,302 286,301 331,300 377,301 422,300 467,300 512,300 557,300 603,300 648,302 693,302 738,302 783,302 829,302 874,303 919,304 964,305 1010,306"/>
+                <TextEquiv>
+                    <Unicode>Domesticated cattle do not thrive in this portion of India ; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="111,345 1001,361 991,318 111,327"/>
+                <Baseline points="117,341 161,338 205,341 250,340 294,341 338,340 383,339 427,339 471,339 516,339 560,341 604,341 649,341 693,341 737,341 782,341 826,341 870,343 915,343 959,344 1004,347"/>
+                <TextEquiv>
+                    <Unicode>cows are small and few in number, oxen are used for ploughing,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="111,394 1006,396 1006,364 967,358 111,364"/>
+                <Baseline points="117,378 161,378 206,378 250,378 295,378 339,378 384,378 428,378 473,378 517,377 562,378 607,378 651,378 696,379 740,378 785,380 829,380 874,380 918,380 963,383 1008,384"/>
+                <TextEquiv>
+                    <Unicode>and as beasts of draught and burden, as are also the country ponies,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="113,427 1005,435 1005,399 113,392"/>
+                <Baseline points="119,419 163,418 207,418 252,418 296,418 341,419 385,418 430,418 474,418 519,417 563,416 607,418 652,418 696,419 741,419 785,419 830,419 874,421 919,421 963,422 1008,423"/>
+                <TextEquiv>
+                    <Unicode>The reason of this deficiency in cattle appears to be due to two</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="115,467 1005,479 1005,437 922,430 115,436"/>
+                <Baseline points="121,459 165,457 209,457 253,457 298,457 342,457 386,457 430,457 475,457 519,457 563,457 607,457 652,457 696,459 740,459 784,458 829,459 873,459 917,461 961,460 1006,461"/>
+                <TextEquiv>
+                    <Unicode>causes, first to the difficulty in procuring pasturage, and secondly to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="115,506 1006,513 1005,479 963,470 115,475"/>
+                <Baseline points="121,498 165,498 209,498 253,496 298,496 342,496 386,496 430,495 475,496 519,496 563,496 607,496 652,496 696,497 740,498 784,497 829,498 873,499 917,500 961,502 1006,500"/>
+                <TextEquiv>
+                    <Unicode>the heavy monsoons, which are so destructive to the health and life</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="113,543 1002,558 1002,514 113,511"/>
+                <Baseline points="119,535 163,534 207,535 251,535 296,535 340,535 384,533 428,534 473,533 517,534 561,533 605,535 650,535 694,535 738,537 782,537 827,537 871,539 915,539 959,541 1004,537"/>
+                <TextEquiv>
+                    <Unicode>of large ruminant animals.* The idols and great people are fanned</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="115,586 702,588 702,558 558,544 115,556"/>
+                <Baseline points="121,573 150,575 179,575 208,575 237,575 266,575 295,575 325,575 354,575 383,575 412,575 441,573 470,573 499,573 529,573 558,573 587,575 616,575 645,575 674,575 704,576"/>
+                <TextEquiv>
+                    <Unicode>with the tail of the Thibet cow, Bos gruiens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="146,626 1005,626 1004,590 144,588"/>
+                <Baseline points="151,616 193,612 236,612 279,612 322,612 364,612 407,612 450,614 493,612 535,614 578,613 621,612 664,613 706,614 749,616 792,616 835,616 877,617 920,618 963,618 1006,614"/>
+                <TextEquiv>
+                    <Unicode>The Malabar Ibex, Capra—? may be identical with the Neil¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="115,668 1001,665 982,627 883,622 114,633"/>
+                <Baseline points="121,657 165,652 209,653 253,651 297,651 341,651 385,651 430,651 474,653 518,651 562,653 606,653 650,653 694,655 739,655 783,655 827,655 871,656 915,657 959,657 1004,655"/>
+                <TextEquiv>
+                    <Unicode>gherry species, although in some respects it appears to differ. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="111,702 1009,704 997,666 111,668"/>
+                <Baseline points="117,692 161,690 206,688 251,689 296,688 340,691 385,690 430,690 475,690 519,692 564,692 609,692 654,692 698,693 743,692 788,692 833,694 877,694 922,694 967,694 1012,694"/>
+                <TextEquiv>
+                    <Unicode>length of the male is about 5 feet 4 inches, from the base of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="111,738 1006,752 986,710 111,709"/>
+                <Baseline points="117,728 161,730 206,730 250,729 295,728 339,730 384,730 428,732 473,732 517,730 562,732 607,732 651,732 696,732 740,733 785,733 829,733 874,733 918,733 963,734 1008,735"/>
+                <TextEquiv>
+                    <Unicode>horns to the tip of the nose, which last is aquiline, the horns are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="111,776 1007,790 1006,752 110,739"/>
+                <Baseline points="117,769 161,769 206,769 250,767 295,767 340,769 384,769 429,769 474,769 518,769 563,769 608,771 652,771 697,770 742,771 786,772 831,773 876,773 920,773 965,773 1010,773"/>
+                <TextEquiv>
+                    <Unicode>14½/ inches in length, and 54 apart at the tips. The general colour is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="115,822 1005,818 1005,790 906,780 115,791"/>
+                <Baseline points="121,808 165,808 209,808 254,807 298,808 342,808 387,808 431,808 475,808 520,808 564,808 608,808 653,810 697,810 741,810 786,810 830,810 874,810 919,812 963,812 1008,812"/>
+                <TextEquiv>
+                    <Unicode>greyish brown, with a greyish ash coloured saddle across the loins ; it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="109,851 1005,865 1005,823 109,823"/>
+                <Baseline points="115,847 159,845 204,845 248,846 293,847 338,847 382,847 427,847 472,847 516,847 561,847 606,847 650,849 695,847 740,849 784,848 829,849 874,851 918,851 963,851 1008,853"/>
+                <TextEquiv>
+                    <Unicode>is also grey at the sides and base of the neck, and has a black streak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="109,898 1004,897 1004,865 921,862 109,869"/>
+                <Baseline points="115,887 159,886 204,887 248,885 293,885 337,887 382,887 426,887 471,887 515,886 560,887 605,887 649,887 694,889 738,889 783,887 827,889 872,889 916,889 961,889 1006,887"/>
+                <TextEquiv>
+                    <Unicode>from the occiput to the tail, the legs are black with a spot of white</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="110,936 926,943 999,939 998,908 109,911"/>
+                <Baseline points="115,924 159,925 203,924 248,924 292,926 336,926 381,924 425,924 469,924 514,924 558,924 602,925 647,926 691,926 735,926 780,926 824,926 868,927 913,928 957,929 1002,928"/>
+                <TextEquiv>
+                    <Unicode>on the forelegs, an inch above each knee. The skin, is of the same</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="111,972 1001,976 1001,945 906,939 111,943"/>
+                <Baseline points="117,963 161,964 205,961 250,961 294,961 338,963 383,963 427,963 471,963 516,963 560,963 604,964 649,965 693,965 737,965 782,966 826,967 870,967 915,967 959,966 1004,965"/>
+                <TextEquiv>
+                    <Unicode>thickness in every part of the body. It is good eating, but inhabits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="109,1007 1006,1021 1005,982 924,979 109,989"/>
+                <Baseline points="115,1002 159,1002 204,1000 248,1002 293,1002 338,1000 382,1002 427,1001 472,1000 516,1001 561,1002 606,1002 650,1002 695,1002 740,1004 784,1004 829,1004 874,1006 918,1005 963,1006 1008,1008"/>
+                <TextEquiv>
+                    <Unicode>rocks and other almost inaccessible places, with the exception of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="109,1047 1001,1065 981,1020 109,1010"/>
+                <Baseline points="115,1042 159,1042 203,1040 248,1040 292,1040 337,1040 381,1040 426,1040 470,1038 515,1040 559,1040 603,1042 648,1042 692,1042 737,1042 781,1042 826,1043 870,1045 915,1046 959,1044 1004,1048"/>
+                <TextEquiv>
+                    <Unicode>Maliatur, where, as already mentioned, it is, curious to say, perfectly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="109,1086 999,1091 999,1065 943,1057 109,1058"/>
+                <Baseline points="115,1081 159,1081 203,1079 248,1079 292,1079 336,1079 381,1079 425,1078 469,1077 514,1079 558,1079 602,1081 647,1081 691,1081 735,1081 780,1082 824,1083 868,1084 913,1085 957,1085 1002,1081"/>
+                <TextEquiv>
+                    <Unicode>tame. Sometimes it may be seen almost as shaggy as the Cash¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="106,1132 772,1135 754,1091 159,1089 106,1108"/>
+                <Baseline points="113,1118 146,1118 179,1118 212,1118 245,1118 278,1118 311,1118 344,1118 377,1116 410,1118 443,1118 476,1118 509,1118 542,1118 575,1119 608,1118 641,1120 674,1120 707,1120 740,1120 773,1122"/>
+                <TextEquiv>
+                    <Unicode>mere goats, with hair almost touching the ground.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="141,1175 1005,1169 1005,1140 839,1126 141,1132"/>
+                <Baseline points="147,1159 190,1158 233,1157 276,1157 319,1157 362,1156 405,1157 448,1157 491,1157 534,1157 577,1157 620,1157 663,1157 706,1157 749,1159 792,1159 835,1159 878,1161 921,1161 964,1163 1008,1161"/>
+                <TextEquiv>
+                    <Unicode>Sheep (Ardou, Mal.) may be said to be unknown in Cochin, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="106,1210 997,1217 997,1175 918,1170 106,1180"/>
+                <Baseline points="113,1195 157,1196 201,1197 246,1197 290,1195 334,1195 379,1197 423,1195 467,1195 512,1195 556,1195 600,1197 645,1197 689,1197 733,1197 778,1199 822,1199 866,1201 911,1201 955,1202 1000,1205"/>
+                <TextEquiv>
+                    <Unicode>are brought into the country from Palghaut, and are long legged,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="109,1243 999,1247 974,1213 109,1222"/>
+                <Baseline points="115,1236 159,1235 203,1236 248,1236 292,1236 336,1236 381,1236 425,1234 469,1234 514,1234 558,1236 602,1234 647,1236 691,1236 735,1236 780,1237 824,1236 868,1237 913,1240 957,1241 1002,1240"/>
+                <TextEquiv>
+                    <Unicode>ugly, red, brown, and black creatures.† Although very thin, the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="106,1280 999,1294 999,1262 921,1252 106,1253"/>
+                <Baseline points="113,1273 157,1275 201,1275 246,1273 290,1273 335,1274 379,1273 424,1273 468,1273 513,1273 557,1273 601,1274 646,1275 690,1275 735,1275 779,1275 824,1275 868,1276 913,1277 957,1280 1002,1283"/>
+                <TextEquiv>
+                    <Unicode>mutton is usually pretty good, but small goats thrive much better,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="109,1319 998,1331 998,1299 958,1290 109,1296"/>
+                <Baseline points="115,1314 159,1314 203,1314 247,1312 292,1312 336,1312 380,1312 424,1312 469,1312 513,1311 557,1312 601,1313 646,1312 690,1312 734,1314 778,1314 823,1314 867,1316 911,1316 955,1317 1000,1320"/>
+                <TextEquiv>
+                    <Unicode>and are more numerous in the interior of the country. When</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="109,1361 996,1374 996,1332 889,1326 109,1326"/>
+                <Baseline points="115,1354 159,1352 203,1352 247,1352 291,1352 335,1352 379,1352 424,1352 468,1352 512,1351 556,1352 600,1352 644,1352 688,1353 733,1354 777,1354 821,1354 865,1355 909,1356 953,1358 998,1358"/>
+                <TextEquiv>
+                    <Unicode>brought into the town, they multiply rapidly, but do not give much</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:30;}">
+                <Coords points="510,1727 524,1734 531,1730 538,1738 553,1738 560,1745 567,1746 570,1693 564,1692 552,1697 545,1697 542,1693 540,1696 534,1696 531,1692 528,1696 521,1693 517,1697 512,1696"/>
+                <Baseline points="516,1725 543,1725 571,1721"/>
+                <TextEquiv>
+                    <Unicode>1 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_13" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="110,1422 1047,1422 1047,1718 110,1718"/>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:0;}">
+                <Coords points="133,1446 1001,1458 967,1421 880,1416 133,1426"/>
+                <Baseline points="139,1438 182,1442 225,1446 268,1444 312,1442 355,1443 398,1442 441,1444 485,1444 528,1444 571,1444 614,1444 658,1445 701,1444 744,1446 787,1446 831,1447 874,1448 917,1450 960,1450 1004,1452"/>
+                <TextEquiv>
+                    <Unicode>* In the memoirs of the Missionary Weitbrecht, it is stated that Hindus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:1;}">
+                <Coords points="109,1488 996,1494 964,1458 109,1457"/>
+                <Baseline points="115,1477 159,1476 203,1475 247,1475 291,1473 335,1473 379,1473 424,1474 468,1475 512,1474 556,1475 600,1475 644,1475 688,1476 733,1475 777,1477 821,1477 865,1477 909,1479 953,1481 998,1479"/>
+                <TextEquiv>
+                    <Unicode>believe coal, to be the remains of horses, of which as many as 5,090 were fre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:2;}">
+                <Coords points="110,1521 997,1522 996,1492 898,1485 109,1490"/>
+                <Baseline points="115,1511 159,1509 203,1507 247,1506 291,1503 335,1504 379,1507 424,1505 468,1505 512,1505 556,1505 600,1507 644,1505 688,1507 733,1507 777,1507 821,1507 865,1509 909,1511 953,1512 998,1513"/>
+                <TextEquiv>
+                    <Unicode>quently sacrificed to the gods, by their kings in ancient times. The tar in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:3;}">
+                <Coords points="106,1544 934,1555 934,1522 862,1514 106,1521"/>
+                <Baseline points="113,1540 154,1539 195,1538 236,1538 277,1536 318,1536 359,1536 401,1536 442,1536 483,1536 524,1536 565,1537 606,1538 647,1538 689,1538 730,1538 771,1538 812,1538 853,1540 894,1541 936,1542"/>
+                <TextEquiv>
+                    <Unicode>the coal is supposed to arise from the ghee, poured on the sacrificial fire.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:4;}">
+                <Coords points="133,1585 1000,1586 1000,1560 884,1548 133,1555"/>
+                <Baseline points="139,1570 182,1572 225,1572 268,1572 311,1572 354,1570 397,1570 441,1571 484,1571 527,1570 570,1572 613,1572 656,1572 699,1573 743,1573 786,1573 829,1574 872,1575 915,1577 958,1579 1002,1575"/>
+                <TextEquiv>
+                    <Unicode>† Krishna was an especial favourite with the Shepherdesses, of whom he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:5;}">
+                <Coords points="103,1617 996,1618 996,1594 879,1584 103,1586"/>
+                <Baseline points="109,1607 153,1605 197,1603 242,1604 286,1601 331,1602 375,1601 420,1601 464,1601 509,1602 553,1603 597,1602 642,1601 686,1604 731,1605 775,1603 820,1603 864,1606 909,1607 953,1609 998,1609"/>
+                <TextEquiv>
+                    <Unicode>had a large number under his protection. On hearing of his death, they are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:6;}">
+                <Coords points="103,1648 996,1648 958,1618 103,1616"/>
+                <Baseline points="109,1636 153,1635 197,1632 242,1634 286,1632 331,1631 375,1630 420,1632 464,1632 509,1632 553,1632 597,1634 642,1634 686,1634 731,1634 775,1635 820,1634 864,1636 909,1638 953,1638 998,1640"/>
+                <TextEquiv>
+                    <Unicode>believed to have drowned themselves in the pool at Dwaraka; in commemora-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:7;}">
+                <Coords points="106,1678 976,1697 995,1653 105,1653"/>
+                <Baseline points="111,1666 155,1667 199,1664 244,1664 288,1664 332,1664 377,1664 421,1664 465,1664 510,1666 554,1666 598,1666 643,1664 687,1666 731,1666 776,1666 820,1666 864,1668 909,1670 953,1672 998,1670"/>
+                <TextEquiv>
+                    <Unicode>tion of which, the caste marks of the Vishnuites ought to be made of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:8;}">
+                <Coords points="103,1708 354,1711 354,1681 342,1673 306,1682 293,1674 286,1681 221,1676 209,1683 166,1677 132,1686 103,1676"/>
+                <Baseline points="109,1699 136,1699 164,1699 191,1698 219,1697 246,1697 274,1697 301,1695 329,1695 357,1695"/>
+                <TextEquiv>
+                    <Unicode>mud from that pond.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

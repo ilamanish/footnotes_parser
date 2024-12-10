@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:29.885+01:00</Created>
+        <LastChange>2024-12-04T23:36:05.468+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960046" pageNr="27" tsid="209848395" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=FCKJFPBTNRYSZDETLEGBNMCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EPDDPUCULFDBHDMHEIQCTJMT" imageId="70209350"/>
+    </Metadata>
+    <Page imageFilename="0027_the_land_of_the_perumauls_page_27.jpg" imageWidth="1170" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840508941" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="116,233 116,1729 1015,1729 1015,233"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="378,271 759,272 759,226 378,230"/>
+                <Baseline points="385,255 410,257 435,257 460,257 485,255 510,255 535,257 560,257 586,257 611,257 636,257 661,256 686,255 711,255 736,255 762,253"/>
+                <TextEquiv>
+                    <Unicode>YPEEX.—THE FREE RAJAI.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="116,335 1007,324 1007,297 901,283 116,295"/>
+                <Baseline points="122,323 166,324 210,323 255,322 299,321 343,320 388,319 432,319 476,319 521,320 565,319 609,319 654,319 698,319 742,319 787,319 831,319 875,318 920,317 964,317 1009,315"/>
+                <TextEquiv>
+                    <Unicode>the town of Cochin. The Dutch probably sold it to the lajah as, ac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="116,374 1012,363 1012,333 917,323 116,335"/>
+                <Baseline points="122,362 166,362 211,361 255,360 300,359 345,358 389,357 434,358 479,358 523,358 568,358 613,358 657,358 702,357 747,358 791,356 836,356 881,356 925,354 970,354 1015,354"/>
+                <TextEquiv>
+                    <Unicode>cording to their records, it belonged to them in the year 1753: but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="113,411 1005,397 990,367 892,363 113,381"/>
+                <Baseline points="120,399 164,401 208,401 253,399 297,399 341,397 386,397 430,396 474,397 519,397 563,397 607,397 652,397 696,396 740,395 785,396 829,395 873,395 918,395 962,393 1007,391"/>
+                <TextEquiv>
+                    <Unicode>not when Cochin fell to the British. It contains a Christian popu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="116,449 966,457 1010,449 1011,414 116,418"/>
+                <Baseline points="122,440 166,438 211,438 255,438 300,438 344,438 389,436 433,436 478,436 522,436 567,436 612,434 656,434 701,434 745,434 790,434 834,434 879,434 923,434 968,433 1013,434"/>
+                <TextEquiv>
+                    <Unicode>lation and a Ronian Catholie Church opposite the Canal, leading to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="116,494 139,496 156,485 164,492 180,486 207,495 222,494 238,482 271,488 301,483 301,459 283,451 236,458 191,452 185,460 141,451 114,455"/>
+                <Baseline points="122,467 148,476 174,477 200,477 226,477 252,477 278,477 304,477"/>
+                <TextEquiv>
+                    <Unicode>Tripoonterah.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="155,523 1012,519 1012,491 962,473 155,489"/>
+                <Baseline points="161,512 203,514 246,514 289,514 331,513 374,512 417,512 459,512 502,512 545,512 588,512 630,512 673,512 716,512 758,512 801,512 844,512 886,510 929,510 972,510 1015,510"/>
+                <TextEquiv>
+                    <Unicode>The town of Cochin will be deseribed in the Chapter on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="120,565 1006,555 1006,526 917,515 120,524"/>
+                <Baseline points="126,553 170,553 214,553 258,552 302,551 346,551 390,551 434,551 478,551 522,551 566,551 610,551 654,551 698,550 742,551 786,551 830,551 874,550 918,549 962,549 1007,549"/>
+                <TextEquiv>
+                    <Unicode>English : it ineludes part of the Culvetty village, and the Mutten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="113,606 1008,595 981,561 113,572"/>
+                <Baseline points="120,590 164,592 209,591 253,592 298,592 342,590 387,590 431,588 476,590 520,588 565,590 610,590 654,590 699,590 743,588 788,589 832,588 877,588 921,590 966,588 1011,588"/>
+                <TextEquiv>
+                    <Unicode>cherry bazaars, although the greater portion of the latter are in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="113,641 1008,641 1008,602 113,606"/>
+                <Baseline points="120,631 164,631 209,629 253,629 298,629 342,629 387,628 431,627 476,627 520,627 565,627 610,629 654,629 699,628 743,629 788,627 832,629 877,627 921,627 966,626 1011,627"/>
+                <TextEquiv>
+                    <Unicode>Native State. Close to Jew’s Town is the Rajah’s Palace, one of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="116,678 1010,671 1010,641 946,636 116,642"/>
+                <Baseline points="122,670 166,668 211,667 255,668 300,668 344,668 389,667 433,666 478,666 522,666 567,666 612,666 656,666 701,666 745,666 790,666 834,666 879,666 923,666 968,665 1013,664"/>
+                <TextEquiv>
+                    <Unicode>the two most important which belonged to him, when Europeans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="112,711 1012,712 1012,678 112,686"/>
+                <Baseline points="118,709 162,707 207,706 252,705 297,706 342,705 387,705 431,705 476,705 521,705 566,705 611,705 656,705 701,705 745,705 790,705 835,705 880,705 925,703 970,703 1015,701"/>
+                <TextEquiv>
+                    <Unicode>first arrived. About A.D. 1550 the Portuguese built him the present</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="113,750 1006,752 1006,717 113,723"/>
+                <Baseline points="120,744 164,746 208,746 253,744 297,744 342,746 386,744 431,744 475,744 520,744 564,742 608,744 653,744 697,742 742,744 786,744 831,742 875,744 920,744 964,742 1009,742"/>
+                <TextEquiv>
+                    <Unicode>edifice or a great portion of it, as probably additions and alterations</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="118,801 562,801 562,761 546,755 230,768 118,753"/>
+                <Baseline points="124,783 149,783 175,783 201,783 227,783 253,783 279,783 305,783 331,783 357,783 383,783 409,782 435,781 461,781 487,781 513,781 539,783 565,781"/>
+                <TextEquiv>
+                    <Unicode>have been made since that period.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="149,833 1008,827 982,792 807,803 775,781 631,806 149,795"/>
+                <Baseline points="155,822 197,822 240,822 283,822 326,822 369,820 411,820 454,820 497,820 540,820 583,820 625,820 668,820 711,819 754,820 797,818 839,820 882,820 925,820 968,820 1011,820"/>
+                <TextEquiv>
+                    <Unicode>Sherria Anandapoorain is the most southern sub-division of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="118,864 1004,867 1004,837 947,828 118,835"/>
+                <Baseline points="124,859 168,860 212,861 256,859 300,859 344,859 388,859 432,858 476,859 520,857 564,859 608,859 652,859 696,859 740,859 784,859 828,857 872,858 916,859 960,859 1005,859"/>
+                <TextEquiv>
+                    <Unicode>Coehin districts having a larger proportionate quantity of land un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="120,913 911,906 911,877 876,868 120,873"/>
+                <Baseline points="126,898 165,897 204,898 244,898 283,898 323,898 362,898 401,897 441,896 480,896 520,896 559,896 598,898 638,897 677,896 717,898 756,896 795,896 835,896 874,896 914,898"/>
+                <TextEquiv>
+                    <Unicode>der wet cultivation than either of the other three proverties.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="146,942 1009,945 1009,907 146,907"/>
+                <Baseline points="152,931 197,934 242,935 287,936 332,937 378,935 423,937 468,935 513,935 558,935 604,935 649,935 694,935 739,935 784,935 830,933 875,935 920,935 965,937 1011,937"/>
+                <TextEquiv>
+                    <Unicode>Vypeen, or Baypeen, (Waipey) extends from the river, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="116,990 1008,984 982,947 116,942"/>
+                <Baseline points="122,976 166,976 210,975 255,974 299,975 344,974 388,974 433,974 477,974 522,973 566,974 610,974 655,974 699,976 744,974 788,974 833,974 877,975 922,976 966,975 1011,974"/>
+                <TextEquiv>
+                    <Unicode>divides it from Cochin, to the Cranganore or Ayacotta opening. Its</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="116,1020 1007,1025 1007,991 975,988 116,990"/>
+                <Baseline points="122,1015 166,1013 210,1013 255,1013 299,1011 343,1011 388,1011 432,1011 476,1011 521,1011 565,1011 609,1013 654,1011 698,1010 742,1013 787,1011 831,1011 875,1013 920,1013 964,1013 1009,1013"/>
+                <TextEquiv>
+                    <Unicode>most southern portion is British territory : its most northern now</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="113,1073 168,1061 199,1066 220,1054 295,1062 320,1054 358,1065 372,1056 412,1059 412,1025 317,1035 266,1024 222,1034 113,1020"/>
+                <Baseline points="120,1052 146,1052 173,1052 200,1051 227,1050 254,1050 280,1051 307,1051 334,1050 361,1050 388,1050 415,1050"/>
+                <TextEquiv>
+                    <Unicode>belongs to Travaneore.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="146,1099 1005,1099 1005,1057 146,1066"/>
+                <Baseline points="152,1089 194,1089 237,1089 280,1088 323,1089 365,1089 408,1089 451,1089 494,1089 536,1089 579,1089 622,1089 665,1090 707,1089 750,1090 793,1089 836,1089 878,1089 921,1089 964,1089 1007,1089"/>
+                <TextEquiv>
+                    <Unicode>In 1743, “ the Paliat Achen, or free Rajah,* had a residenee at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="110,1133 1008,1139 979,1098 110,1105"/>
+                <Baseline points="116,1118 160,1127 205,1128 250,1128 295,1128 339,1128 384,1128 429,1128 474,1128 518,1128 563,1128 608,1128 653,1127 697,1128 742,1128 787,1128 832,1128 876,1128 921,1128 966,1128 1011,1128"/>
+                <TextEquiv>
+                    <Unicode>“ Chenotta (Chennamungalum), elose to Cranganore, and was the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="111,1178 975,1190 1006,1185 1005,1148 110,1151"/>
+                <Baseline points="116,1159 160,1164 205,1167 249,1167 294,1167 339,1167 383,1167 428,1166 473,1165 517,1165 562,1167 607,1167 651,1167 696,1167 741,1167 785,1167 830,1167 875,1167 919,1167 964,1167 1009,1165"/>
+                <TextEquiv>
+                    <Unicode>“free lord of the Island of Vypeen,” (with the exception of some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="118,1221 1006,1218 1006,1185 938,1179 118,1186"/>
+                <Baseline points="124,1208 168,1206 212,1206 256,1206 301,1204 345,1204 389,1204 433,1204 478,1204 522,1204 566,1204 610,1204 655,1204 699,1204 743,1204 787,1206 832,1206 876,1206 920,1206 964,1206 1009,1206"/>
+                <TextEquiv>
+                    <Unicode>gardens and lands situated at its southern extremity, opposite to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="112,1255 1009,1255 1009,1217 112,1215"/>
+                <Baseline points="118,1243 162,1245 207,1245 251,1243 296,1243 341,1243 385,1243 430,1243 475,1245 519,1243 564,1243 609,1245 653,1243 698,1243 743,1243 787,1243 832,1244 877,1239 921,1241 966,1243 1011,1245"/>
+                <TextEquiv>
+                    <Unicode>Coehin, which belonged to the Dutch East India Company ;) “and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="116,1294 1010,1291 1001,1253 116,1257"/>
+                <Baseline points="122,1274 166,1280 211,1282 255,1282 300,1282 344,1282 389,1282 433,1281 478,1282 522,1282 567,1282 612,1282 656,1282 701,1282 745,1282 790,1282 834,1282 879,1282 923,1282 968,1282 1013,1284"/>
+                <TextEquiv>
+                    <Unicode>“some time previously he had become the ruling sovereign of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="113,1328 1008,1328 987,1290 113,1295"/>
+                <Baseline points="120,1309 164,1316 209,1321 253,1321 298,1319 342,1321 387,1321 431,1321 476,1321 520,1321 565,1321 610,1321 654,1321 699,1319 743,1319 788,1321 832,1319 877,1319 921,1321 966,1321 1011,1319"/>
+                <TextEquiv>
+                    <Unicode>“ Manacotta and Moolooreurra, lying above Chetwye : also his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="110,1362 1005,1371 1005,1335 957,1332 110,1334"/>
+                <Baseline points="116,1348 160,1354 205,1358 249,1358 294,1358 338,1358 383,1358 427,1358 472,1360 516,1360 561,1360 606,1358 650,1358 695,1356 739,1358 784,1358 828,1359 873,1360 917,1360 962,1358 1007,1358"/>
+                <TextEquiv>
+                    <Unicode>“rights extended over the old kingdom of Williar Wattalta, above</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="110,1391 1005,1408 1005,1381 933,1369 110,1373"/>
+                <Baseline points="116,1387 160,1394 205,1397 249,1397 294,1397 338,1397 383,1397 427,1397 472,1397 516,1398 561,1397 606,1397 650,1397 695,1397 739,1396 784,1395 828,1397 873,1399 917,1399 962,1397 1007,1401"/>
+                <TextEquiv>
+                    <Unicode>“ Parda, whieh was hardly more than a name.” The Paliat Aehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="110,1440 1005,1450 980,1410 110,1418"/>
+                <Baseline points="116,1436 160,1436 205,1436 249,1436 294,1436 338,1435 383,1436 427,1435 472,1436 516,1436 561,1436 606,1434 650,1436 695,1436 739,1436 784,1436 828,1436 873,1436 917,1436 962,1436 1007,1436"/>
+                <TextEquiv>
+                    <Unicode>is represented as “ fifty ycars of age, who speaks little but thinks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="116,1487 140,1487 146,1483 165,1486 172,1481 184,1481 183,1448 176,1448 168,1441 154,1450 136,1450 131,1455 120,1445 114,1445"/>
+                <Baseline points="122,1473 154,1473 187,1475"/>
+                <TextEquiv>
+                    <Unicode>well.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="141,1518 1008,1521 1008,1483 141,1482"/>
+                <Baseline points="148,1512 191,1512 234,1512 277,1513 320,1512 363,1512 406,1514 450,1512 493,1512 536,1513 579,1514 622,1514 665,1512 708,1514 752,1513 795,1512 838,1514 881,1514 924,1514 967,1514 1011,1514"/>
+                <TextEquiv>
+                    <Unicode>The meaning of the word Vypeen is, “ a place whieh has arisen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="113,1561 1006,1561 1006,1534 905,1524 113,1529"/>
+                <Baseline points="120,1551 164,1552 208,1551 253,1551 297,1551 342,1549 386,1551 431,1552 475,1551 520,1552 564,1553 608,1552 653,1551 697,1553 742,1553 786,1551 831,1551 875,1553 920,1553 964,1553 1009,1553"/>
+                <TextEquiv>
+                    <Unicode>from a swamp :“ and there is an era, called the Poothoo Veppoo, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="112,1602 1006,1602 1006,1563 112,1567"/>
+                <Baseline points="118,1590 162,1588 207,1586 251,1590 296,1590 340,1591 385,1590 429,1590 474,1590 518,1590 563,1590 608,1592 652,1592 697,1592 741,1592 786,1592 830,1590 875,1590 919,1592 964,1590 1009,1592"/>
+                <TextEquiv>
+                    <Unicode>new Vypeen, corresponding to A. D. 1341. Paoli gives a legend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="108,1636 1023,1636 1023,1732 108,1732"/>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:0;}">
+                <Coords points="171,1659 1011,1666 991,1632 171,1634"/>
+                <Baseline points="177,1656 218,1656 260,1656 302,1656 344,1656 386,1656 427,1656 469,1656 511,1656 553,1655 595,1656 636,1656 678,1656 720,1656 762,1656 804,1656 845,1658 887,1656 929,1656 971,1656 1013,1654"/>
+                <TextEquiv>
+                    <Unicode>* Dutch Government Records, 1743 : but still, the Paliat Achen appears to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:1;}">
+                <Coords points="110,1694 1008,1698 1008,1666 953,1661 110,1658"/>
+                <Baseline points="116,1684 160,1686 205,1687 250,1687 295,1687 339,1687 384,1687 429,1687 474,1687 518,1686 563,1687 608,1687 653,1687 697,1687 742,1687 787,1687 832,1687 876,1687 921,1686 966,1685 1011,1685"/>
+                <TextEquiv>
+                    <Unicode>have been in some respects a vassal to the Cochin Rajah and his hereditary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:2;}">
+                <Coords points="110,1723 116,1723 123,1731 169,1731 176,1738 183,1738 192,1729 223,1729 224,1701 211,1698 202,1703 198,1698 169,1696 158,1701 154,1696 130,1694 111,1698"/>
+                <Baseline points="116,1719 143,1719 171,1719 198,1719 226,1717"/>
+                <TextEquiv>
+                    <Unicode>Minister.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:19:58.783+01:00</Created>
+        <LastChange>2024-12-10T01:19:01.502+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960407" pageNr="370" tsid="211281101" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=YDKJXYMDVOEZSKXOXGGLJPSJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRYXGIFCJOSDNCJSCKWQCIVO" imageId="70209679"/>
+    </Metadata>
+    <Page imageFilename="0370_the_land_of_the_perumauls_page_370.jpg" imageWidth="1206" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840728189" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="185,253 185,1747 1091,1747 1091,253"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="411,281 577,297 806,281 862,297 862,249 806,254 781,230 678,254 613,234 576,254 529,251 498,221 447,254 411,256"/>
+                <Baseline points="417,277 443,275 469,275 496,275 522,275 548,275 575,275 601,275 627,275 654,273 680,273 706,274 733,275 759,275 785,275 812,275 838,275 865,273"/>
+                <TextEquiv>
+                    <Unicode>FIRST SETTLEMENT IN MALAEAR.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="187,281 193,281 203,290 217,288 254,293 253,253 244,255 240,252 233,254 221,251 212,254 205,249 192,264 186,264"/>
+                <Baseline points="193,275 224,277 255,277"/>
+                <TextEquiv>
+                    <Unicode>350</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="185,354 1085,348 1085,301 185,327"/>
+                <Baseline points="191,347 235,343 280,341 325,341 370,339 415,341 459,339 504,340 549,341 594,341 639,341 683,341 728,343 773,342 818,341 863,339 907,339 952,339 997,339 1042,338 1087,337"/>
+                <TextEquiv>
+                    <Unicode>giving them the privileges, as already translated in full, and accord¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="186,386 1088,386 1047,349 186,357"/>
+                <Baseline points="193,381 237,380 282,379 327,379 372,379 417,379 462,379 507,379 552,381 597,379 642,379 686,381 731,381 776,382 821,381 866,380 911,379 956,379 1001,379 1046,379 1091,377"/>
+                <TextEquiv>
+                    <Unicode>ing to their own account, they had a head man of their tribes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="189,427 296,431 322,424 349,433 358,427 367,436 387,427 428,427 428,395 412,389 366,403 351,395 255,405 189,396"/>
+                <Baseline points="195,421 221,419 247,419 273,419 299,419 326,419 352,419 378,419 404,419 431,421"/>
+                <TextEquiv>
+                    <Unicode>Suranum Moplah.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="225,472 1088,466 1073,428 225,431"/>
+                <Baseline points="231,459 274,457 317,457 360,457 403,457 446,457 489,457 532,459 575,459 618,459 661,458 704,457 747,457 790,457 833,458 876,457 919,457 962,457 1005,457 1048,456 1091,455"/>
+                <TextEquiv>
+                    <Unicode>Van Reede, who took a great interest in this people, stated in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="186,507 1086,503 1086,474 987,464 186,473"/>
+                <Baseline points="193,497 237,495 282,497 327,497 372,497 417,496 461,497 506,497 551,497 596,497 641,497 685,498 730,497 775,497 820,497 865,497 909,497 954,495 999,495 1044,495 1089,493"/>
+                <TextEquiv>
+                    <Unicode>1695, that they were of the tribe of Manasseh, a portion of whom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="186,538 1088,541 1080,505 186,520"/>
+                <Baseline points="193,535 237,533 282,535 327,535 372,535 417,535 462,535 507,535 552,537 597,537 642,537 686,537 731,537 776,537 821,537 866,535 911,535 956,535 1001,535 1046,534 1091,535"/>
+                <TextEquiv>
+                    <Unicode>were carried away by Nebuchadnezzar, to the eastern extremity of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="189,585 1086,589 1086,549 1050,542 189,553"/>
+                <Baseline points="195,575 239,575 284,575 329,576 373,577 418,575 463,575 507,575 552,577 597,577 642,577 686,577 731,577 776,576 820,575 865,575 910,575 954,574 999,573 1044,575 1089,581"/>
+                <TextEquiv>
+                    <Unicode>his vast empire, from whence they migrated into Malabar, carrying</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="186,615 1088,625 1041,586 186,596"/>
+                <Baseline points="193,613 237,613 282,613 327,614 372,613 417,615 462,615 507,615 552,615 597,615 642,615 686,616 731,617 776,616 821,615 866,613 911,613 956,613 1001,613 1046,613 1091,617"/>
+                <TextEquiv>
+                    <Unicode>with them tlie silver trumpets, made use of in the time of the Jubilee,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="183,656 1088,659 1088,625 183,638"/>
+                <Baseline points="189,655 234,653 279,653 324,653 369,653 414,653 459,653 504,655 549,655 594,655 640,655 685,655 730,655 775,655 820,655 865,653 910,653 955,653 1000,653 1045,652 1091,653"/>
+                <TextEquiv>
+                    <Unicode>and on which were inscribed the ineffable name. The number of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="189,705 1086,698 1076,665 189,669"/>
+                <Baseline points="195,695 239,691 284,691 329,692 373,693 418,692 463,693 507,693 552,693 597,693 642,695 686,695 731,693 776,692 820,693 865,693 910,691 954,692 999,691 1044,691 1089,689"/>
+                <TextEquiv>
+                    <Unicode>persons composing this emigration, has been variously estimated, at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="183,737 1085,738 1085,704 1014,702 183,718"/>
+                <Baseline points="189,731 233,731 278,731 323,731 368,731 413,731 458,731 503,731 548,733 593,733 638,733 682,733 727,733 772,733 817,731 862,731 907,731 952,731 997,731 1042,730 1087,731"/>
+                <TextEquiv>
+                    <Unicode>from 18, to 80,000, but common sense precludes the possibility of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="185,778 1087,779 1075,740 185,755"/>
+                <Baseline points="191,771 235,769 280,769 325,771 370,771 415,770 460,771 505,771 550,773 595,771 640,771 684,772 729,773 774,771 819,771 864,771 909,771 954,771 999,771 1044,770 1089,771"/>
+                <TextEquiv>
+                    <Unicode>so large a number of persons as that last mentioned, arriving at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="183,817 1086,826 1069,782 183,790"/>
+                <Baseline points="189,809 234,809 279,809 324,809 369,809 414,809 459,809 504,809 549,811 594,810 639,809 684,811 729,809 774,810 819,809 864,809 909,809 954,809 999,809 1044,809 1089,809"/>
+                <TextEquiv>
+                    <Unicode>same time. Even at  the present day, notwithstanding all the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="183,857 1085,862 1075,821 183,827"/>
+                <Baseline points="189,847 233,846 278,845 323,848 368,847 413,847 458,849 503,848 548,849 593,849 638,849 682,849 727,849 772,849 817,849 862,849 907,849 952,848 997,849 1042,849 1087,849"/>
+                <TextEquiv>
+                    <Unicode>modern appliances of steam, &amp;e., moving such an enormous army,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="186,897 1080,905 1079,867 185,865"/>
+                <Baseline points="193,885 237,886 282,887 326,887 371,885 415,885 460,887 504,887 549,887 593,888 638,889 682,888 727,887 771,889 816,887 860,887 905,887 949,887 994,887 1038,887 1083,887"/>
+                <TextEquiv>
+                    <Unicode>would be a fearful undertaking. However this may have been, the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="185,937 1076,933 1047,898 185,902"/>
+                <Baseline points="191,925 235,924 279,925 324,925 368,925 413,927 457,925 501,926 546,927 590,927 635,927 679,927 723,927 768,927 812,927 857,927 901,925 945,927 990,925 1034,925 1079,925"/>
+                <TextEquiv>
+                    <Unicode>Jews increased rapidly in Malabar, and in course of time, having be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="185,971 1085,980 1085,940 185,945"/>
+                <Baseline points="191,963 235,961 280,961 325,962 370,961 415,962 459,961 504,963 549,963 594,963 639,963 683,965 728,963 773,963 818,963 863,963 907,963 952,963 997,963 1042,963 1087,961"/>
+                <TextEquiv>
+                    <Unicode>come wealthy, they were able according to some accounts, to purchase</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="186,1002 1085,1010 1067,975 186,976"/>
+                <Baseline points="193,999 237,1000 282,1001 327,1001 371,1001 416,1001 461,1001 505,1001 550,1001 595,1002 640,1003 684,1001 729,1001 774,1001 818,1001 863,1001 908,1001 952,1001 997,1001 1042,1001 1087,1001"/>
+                <TextEquiv>
+                    <Unicode>Cranganore. But this may mueh more probably be understood to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="185,1051 1085,1050 1055,1015 185,1018"/>
+                <Baseline points="191,1041 235,1039 280,1039 325,1040 370,1039 415,1039 459,1041 504,1041 549,1041 594,1041 639,1041 683,1041 728,1041 773,1041 818,1041 863,1039 907,1039 952,1039 997,1041 1042,1039 1087,1041"/>
+                <TextEquiv>
+                    <Unicode>mean, that they purehased the right of living tax free, being under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="186,1090 1082,1088 1064,1052 186,1060"/>
+                <Baseline points="193,1079 237,1079 282,1077 326,1079 371,1079 416,1079 460,1079 505,1079 549,1079 594,1079 639,1079 683,1080 728,1079 772,1079 817,1079 862,1080 906,1079 951,1079 995,1079 1040,1077 1085,1081"/>
+                <TextEquiv>
+                    <Unicode>the Government of their own people, and trying and punishing their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote-continued;}">
+            <Coords points="179,1127 1108,1127 1108,1760 179,1760"/>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:0;}">
+                <Coords points="183,1151 1080,1149 1080,1123 918,1114 183,1125"/>
+                <Baseline points="189,1145 233,1144 278,1145 323,1145 367,1145 412,1145 457,1145 501,1145 546,1147 591,1146 636,1147 680,1146 725,1145 770,1145 814,1145 859,1145 904,1145 948,1145 993,1145 1038,1145 1083,1143"/>
+                <TextEquiv>
+                    <Unicode>extraordinary legends concerning this people are extant, and for the verifica-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:1;}">
+                <Coords points="183,1184 1080,1186 1080,1149 183,1158"/>
+                <Baseline points="189,1175 233,1176 278,1175 323,1175 367,1175 412,1176 457,1177 501,1177 546,1177 591,1177 636,1177 680,1177 725,1177 770,1177 814,1177 859,1177 904,1177 948,1177 993,1177 1038,1176 1083,1175"/>
+                <TextEquiv>
+                    <Unicode>tion of many of them, the shade of Cheraman Permaul is invoked, even hundreds</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:2;}">
+                <Coords points="181,1210 1086,1213 1086,1187 977,1183 181,1191"/>
+                <Baseline points="187,1205 232,1205 277,1205 322,1205 367,1205 412,1207 457,1207 502,1208 547,1209 592,1207 638,1207 683,1209 728,1209 773,1209 818,1207 863,1207 908,1207 953,1206 998,1207 1043,1207 1089,1207"/>
+                <TextEquiv>
+                    <Unicode>of years after he had paid the debt of nature, A.D. 378. For this event</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:3;}">
+                <Coords points="186,1242 1080,1254 1080,1213 186,1224"/>
+                <Baseline points="193,1235 237,1237 282,1235 326,1236 371,1237 415,1237 460,1237 504,1238 549,1237 593,1238 638,1239 682,1239 727,1239 771,1239 816,1237 860,1237 905,1237 949,1237 994,1237 1038,1239 1083,1239"/>
+                <TextEquiv>
+                    <Unicode>various authors have indulged in dates of their own, without advancing any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:4;}">
+                <Coords points="183,1271 1086,1277 1040,1244 183,1261"/>
+                <Baseline points="189,1269 234,1267 279,1267 324,1267 369,1267 414,1268 459,1269 504,1269 549,1269 594,1269 639,1269 684,1269 729,1269 774,1269 819,1269 864,1269 909,1269 954,1269 999,1271 1044,1271 1089,1269"/>
+                <TextEquiv>
+                    <Unicode>argument whatever, tending to prove them correct; for instance. Moens, gives</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:5;}">
+                <Coords points="183,1303 1080,1315 1080,1287 996,1275 183,1290"/>
+                <Baseline points="189,1299 233,1298 278,1297 323,1298 367,1299 412,1301 457,1299 501,1301 546,1301 591,1301 636,1301 680,1301 725,1301 770,1301 814,1301 859,1300 904,1301 948,1301 993,1301 1038,1301 1083,1305"/>
+                <TextEquiv>
+                    <Unicode>A. D. 426. Dr. C. Buchanan, 490. Bishop Middleton, 508. Mr. Lawson,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:6;}">
+                <Coords points="183,1332 1085,1340 1085,1315 984,1304 183,1303"/>
+                <Baseline points="189,1331 233,1329 278,1329 323,1329 368,1329 413,1329 458,1331 503,1331 548,1331 593,1331 638,1331 682,1333 727,1333 772,1331 817,1331 862,1332 907,1331 952,1331 997,1331 1042,1333 1087,1333"/>
+                <TextEquiv>
+                    <Unicode>750. The Rev. T. Whitehouse, 825! Paoli, the tenth century ; and the Jews</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:7;}">
+                <Coords points="189,1365 973,1377 1080,1370 1079,1341 187,1339"/>
+                <Baseline points="195,1361 239,1359 283,1359 328,1361 372,1361 417,1361 461,1361 505,1363 550,1363 594,1363 639,1363 683,1363 727,1363 772,1363 816,1363 861,1363 905,1363 949,1363 994,1363 1038,1363 1083,1365"/>
+                <TextEquiv>
+                    <Unicode>themselves, A. D. 379, making a trifling difference of 446 years, between the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:8;}">
+                <Coords points="181,1396 1078,1405 1055,1368 181,1380"/>
+                <Baseline points="187,1395 231,1391 276,1389 321,1390 365,1393 410,1392 455,1393 499,1393 544,1393 589,1393 634,1393 678,1394 723,1393 768,1394 812,1395 857,1395 902,1393 946,1393 991,1395 1036,1395 1081,1393"/>
+                <TextEquiv>
+                    <Unicode>date given by them, and that by Mr. Whitehouse. It appcars that the origi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:9;}">
+                <Coords points="183,1434 1079,1434 1079,1406 965,1402 183,1406"/>
+                <Baseline points="189,1421 233,1423 278,1423 322,1423 367,1423 412,1423 456,1425 501,1424 545,1423 590,1423 635,1425 679,1425 724,1425 768,1425 813,1425 858,1425 902,1425 947,1425 991,1425 1036,1425 1081,1427"/>
+                <TextEquiv>
+                    <Unicode>nal date, or rather that given on the copper plates by the translator, is one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:10;}">
+                <Coords points="189,1463 1082,1469 1082,1437 1033,1434 189,1435"/>
+                <Baseline points="195,1453 239,1453 284,1453 328,1453 373,1453 417,1453 462,1455 506,1454 551,1453 595,1455 640,1455 684,1455 729,1455 773,1455 818,1455 862,1455 907,1455 951,1455 996,1456 1040,1457 1085,1461"/>
+                <TextEquiv>
+                    <Unicode>year subsequent to Cheraman Permaul's death, whereas the text of the grant,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:11;}">
+                <Coords points="178,1483 1080,1492 1045,1463 178,1474"/>
+                <Baseline points="185,1483 229,1484 274,1483 319,1483 364,1483 409,1484 454,1485 499,1485 544,1483 589,1485 634,1485 678,1485 723,1485 768,1485 813,1485 858,1485 903,1485 948,1485 993,1485 1038,1485 1083,1485"/>
+                <TextEquiv>
+                    <Unicode>states it to have been made in the 36th year of his reign, or the year before</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:12;}">
+                <Coords points="183,1517 1080,1528 1080,1499 997,1491 183,1489"/>
+                <Baseline points="189,1517 233,1514 278,1513 323,1514 367,1515 412,1515 457,1515 501,1515 546,1515 591,1515 636,1515 680,1515 725,1515 770,1515 814,1515 859,1515 904,1517 948,1516 993,1517 1038,1516 1083,1517"/>
+                <TextEquiv>
+                    <Unicode>his demise, viz., A. D. 377. If the translation is referred to, it will be seen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:13;}">
+                <Coords points="189,1552 773,1566 1071,1554 1078,1531 187,1526"/>
+                <Baseline points="195,1547 239,1545 283,1545 327,1545 372,1545 416,1545 460,1545 505,1546 549,1545 593,1545 638,1545 682,1545 726,1546 770,1547 815,1547 859,1547 903,1547 948,1547 992,1547 1036,1549 1081,1547"/>
+                <TextEquiv>
+                    <Unicode>that the grant was made in the 36th year of his reign, but written in A.D. 379.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:14;}">
+                <Coords points="189,1578 1079,1590 1079,1554 1031,1550 189,1560"/>
+                <Baseline points="195,1569 239,1574 283,1575 327,1577 372,1577 416,1577 460,1577 505,1577 549,1575 593,1576 638,1575 682,1577 726,1577 770,1577 815,1577 859,1577 903,1577 948,1577 992,1577 1036,1579 1081,1579"/>
+                <TextEquiv>
+                    <Unicode>The Syrian plates are identical with those of the Jews, which has given rise to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:15;}">
+                <Coords points="191,1608 1087,1619 1087,1588 1009,1583 191,1588"/>
+                <Baseline points="197,1607 241,1607 286,1607 330,1607 375,1607 420,1607 464,1607 509,1607 553,1607 598,1607 643,1607 687,1607 732,1609 776,1609 821,1609 866,1608 910,1607 955,1608 999,1609 1044,1609 1089,1609"/>
+                <TextEquiv>
+                    <Unicode>the idea, that both, or at all events one of them, must be spurious, but quite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:16;}">
+                <Coords points="186,1650 1080,1648 1064,1614 226,1629 186,1605"/>
+                <Baseline points="193,1639 237,1639 282,1639 326,1637 371,1637 415,1637 460,1639 504,1638 549,1637 593,1637 638,1637 682,1637 727,1639 771,1639 816,1639 860,1639 905,1638 949,1637 994,1640 1038,1639 1083,1639"/>
+                <TextEquiv>
+                    <Unicode>an opposite construction may be placed on this similarity. If they were both</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:17;}">
+                <Coords points="186,1683 1080,1678 1080,1650 186,1651"/>
+                <Baseline points="193,1673 237,1669 282,1669 326,1669 371,1669 415,1669 460,1669 504,1669 549,1669 593,1669 638,1667 682,1669 727,1669 771,1670 816,1669 860,1669 905,1669 949,1669 994,1671 1038,1671 1083,1669"/>
+                <TextEquiv>
+                    <Unicode>granted at the same time, and conferred the same privileges, it is but natural</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:18;}">
+                <Coords points="186,1700 1082,1711 1062,1677 186,1686"/>
+                <Baseline points="193,1695 237,1700 282,1699 326,1699 371,1699 416,1699 460,1699 505,1699 549,1699 594,1699 639,1699 683,1699 728,1701 772,1700 817,1701 862,1699 906,1701 951,1701 995,1703 1040,1703 1085,1701"/>
+                <TextEquiv>
+                    <Unicode>to suppose, that similar words aud expressions might be used, where the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:19;}">
+                <Coords points="191,1745 985,1750 985,1716 929,1709 191,1717"/>
+                <Baseline points="197,1729 236,1731 276,1731 315,1731 355,1731 394,1732 434,1733 473,1733 513,1732 552,1733 592,1733 631,1733 671,1733 710,1733 750,1733 789,1733 829,1733 868,1733 908,1734 947,1735 987,1737"/>
+                <TextEquiv>
+                    <Unicode>witnesses were the same, and the same Secretary drew up the grants.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

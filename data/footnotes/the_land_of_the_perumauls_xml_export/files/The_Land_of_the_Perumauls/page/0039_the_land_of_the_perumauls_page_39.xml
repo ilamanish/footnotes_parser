@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:30.909+01:00</Created>
+        <LastChange>2024-12-04T10:23:08.737+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960067" pageNr="39" tsid="209646098" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=RIXLTPJCKBCBOZZDVJTMLSHK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVQKRIGQVFDWHJTUDKXTRIMW" imageId="70209371"/>
+    </Metadata>
+    <Page imageFilename="0039_the_land_of_the_perumauls_page_39.jpg" imageWidth="1162" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840511923" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="104,254 104,1770 1039,1770 1039,254"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="962,275 968,275 973,281 979,283 987,281 996,283 1004,276 1012,276 1012,237 1004,236 992,247 988,243 986,245 983,242 979,244 975,241 962,241"/>
+                <Baseline points="968,274 1014,274"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="321,282 373,284 397,305 495,278 794,289 794,249 735,264 713,248 597,241 457,258 383,231 321,244"/>
+                <Baseline points="327,278 353,276 379,276 405,276 431,276 457,276 483,276 509,276 535,274 562,276 588,274 614,274 640,274 666,274 692,275 718,275 744,274 770,276 797,276"/>
+                <TextEquiv>
+                    <Unicode>PROTESTANT CHURCH, SCHOOL, &amp;C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="98,352 902,371 1010,348 972,310 98,324"/>
+                <Baseline points="104,346 149,345 194,344 240,344 285,344 331,344 376,342 421,343 467,342 512,342 558,342 603,344 648,342 694,342 739,342 785,342 830,344 875,343 921,342 966,342 1012,342"/>
+                <TextEquiv>
+                    <Unicode>around which the sepoys clean their arms of a moruing, was the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="102,395 272,391 334,403 422,389 422,371 395,357 349,369 290,354 189,369 102,367"/>
+                <Baseline points="108,385 134,385 160,385 187,385 213,385 240,385 266,385 292,384 319,383 345,383 372,381 398,383 425,385"/>
+                <TextEquiv>
+                    <Unicode>centre of a holy pagoda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="135,431 1012,435 1012,396 904,377 633,412 135,401"/>
+                <Baseline points="141,424 184,423 228,422 271,422 315,422 359,422 402,422 446,421 490,422 533,421 577,422 621,422 664,422 708,423 752,422 795,421 839,420 883,421 926,420 970,421 1014,424"/>
+                <TextEquiv>
+                    <Unicode>There is au English school here, supported by the Rajali,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="102,474 1011,475 1011,446 921,431 102,439"/>
+                <Baseline points="108,460 153,462 198,464 243,462 289,460 334,458 379,460 425,460 470,461 515,462 561,460 606,460 651,460 696,462 742,460 787,460 832,460 878,459 923,460 968,458 1014,462"/>
+                <TextEquiv>
+                    <Unicode>but inferior to that attached to the Protestant Mission,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="106,511 991,512 1011,475 107,474"/>
+                <Baseline points="114,501 159,500 204,501 249,501 294,499 339,499 384,499 429,499 474,501 519,501 564,501 609,499 654,500 699,499 744,499 789,499 834,499 879,498 924,499 969,497 1014,495"/>
+                <TextEquiv>
+                    <Unicode>which has both boys and girls as boarders. There is also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="104,547 1013,547 1013,517 904,506 104,520"/>
+                <Baseline points="110,540 155,538 200,538 245,540 291,538 336,540 381,540 427,540 472,539 517,540 563,540 608,540 653,538 698,538 744,539 789,538 834,539 880,539 925,538 970,537 1016,538"/>
+                <TextEquiv>
+                    <Unicode>a very large Protestant Church situated on a rising hill, near</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="106,584 1012,591 995,548 106,548"/>
+                <Baseline points="112,577 157,578 202,577 247,578 292,578 337,578 382,578 427,577 472,578 517,578 563,578 608,578 653,577 698,578 743,577 788,577 833,578 878,577 923,578 968,577 1014,577"/>
+                <TextEquiv>
+                    <Unicode>the high road, a little way out of Triehoor, it was commeneed in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="110,625 1013,635 1003,590 110,587"/>
+                <Baseline points="116,617 161,617 206,617 251,616 296,617 341,617 386,617 431,617 476,617 521,617 566,617 611,617 656,617 701,617 746,617 791,615 836,617 881,616 926,617 971,615 1016,613"/>
+                <TextEquiv>
+                    <Unicode>1840. Two Travellers’ Bungalows are also in Trichioor, one near</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="106,657 1016,666 1016,636 932,627 106,637"/>
+                <Baseline points="112,656 157,656 202,658 247,658 293,658 338,658 383,658 429,658 474,658 519,658 565,656 610,656 655,656 700,656 746,656 791,656 836,656 882,655 927,656 972,654 1018,656"/>
+                <TextEquiv>
+                    <Unicode>the canal, in which persons either going or coming by baekwater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="107,704 1019,698 988,666 107,672"/>
+                <Baseline points="114,697 159,697 204,695 250,697 295,697 341,697 386,697 431,697 477,697 522,697 568,697 613,697 658,695 704,695 749,695 795,695 840,694 885,695 931,695 976,693 1022,695"/>
+                <TextEquiv>
+                    <Unicode>usually take up their abode : and the other in the centre of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="106,738 1018,750 1018,712 960,705 106,709"/>
+                <Baseline points="112,733 157,734 202,735 248,734 293,735 339,735 384,735 429,734 475,735 520,733 566,734 611,733 656,733 702,733 747,734 793,733 838,734 883,733 929,733 974,733 1020,731"/>
+                <TextEquiv>
+                    <Unicode>towu, but more fitted for travellers by land, not being so far from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="106,779 156,783 180,778 221,786 237,779 236,753 208,746 193,758 186,752 170,752 159,761 151,753 124,746 115,756 105,754"/>
+                <Baseline points="112,772 137,774 163,772 188,772 214,773 240,774"/>
+                <TextEquiv>
+                    <Unicode>tlie road.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="140,815 1018,818 1018,781 953,777 140,784"/>
+                <Baseline points="147,813 190,811 234,811 277,811 321,813 365,812 408,811 452,812 496,813 539,813 583,813 627,811 670,813 714,811 758,811 801,813 845,811 889,812 932,811 976,811 1020,809"/>
+                <TextEquiv>
+                    <Unicode>Trichoor is a place of considerable trade ; and a great quantity of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="112,856 1021,857 1010,819 112,837"/>
+                <Baseline points="118,850 163,851 208,850 253,851 299,850 344,851 389,851 435,851 480,851 525,850 571,851 616,853 661,850 706,851 752,851 797,850 842,850 888,851 933,851 978,850 1024,851"/>
+                <TextEquiv>
+                    <Unicode>cotton cloth is mannfactured there. All the rice and grain froin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="112,897 1018,898 988,859 112,865"/>
+                <Baseline points="118,890 163,890 208,890 253,890 298,888 343,888 388,890 433,888 478,890 523,888 569,889 614,890 659,890 704,890 749,890 794,888 839,890 884,890 929,890 974,890 1020,890"/>
+                <TextEquiv>
+                    <Unicode>Palghat must also pass through this town, on its way to Cochin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="115,938 1017,938 1017,914 916,894 621,921 565,896 115,897"/>
+                <Baseline points="121,929 168,929 215,929 262,929 310,929 357,929 404,929 452,929 499,929 546,929 594,930 641,929 688,928 736,927 783,927 830,929 878,929 925,929 972,929 1020,927"/>
+                <TextEquiv>
+                    <Unicode>The principal market day is Friday. The disease ealled Elephan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="111,979 1000,984 1016,938 110,944"/>
+                <Baseline points="116,966 161,967 206,968 251,966 296,966 341,968 386,967 431,968 476,968 521,968 567,968 612,968 657,968 702,968 747,968 792,968 837,968 882,968 927,968 972,968 1018,966"/>
+                <TextEquiv>
+                    <Unicode>tiasis rarely exists so far inland as tliis station, but leprosy is very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="115,1024 1021,1018 1021,985 973,977 115,987"/>
+                <Baseline points="121,1012 166,1006 211,1006 256,1006 301,1006 346,1006 391,1006 437,1004 482,1006 527,1006 572,1006 617,1006 662,1006 707,1006 753,1005 798,1006 843,1006 888,1006 933,1006 978,1006 1024,1004"/>
+                <TextEquiv>
+                    <Unicode>prevalent. From June to Jannary cabin boats can go from Tri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="115,1058 1021,1052 1005,1019 115,1025"/>
+                <Baseline points="121,1045 166,1045 211,1045 256,1045 301,1045 346,1045 391,1045 437,1045 482,1045 527,1045 572,1045 617,1047 662,1045 707,1045 753,1045 798,1045 843,1045 888,1044 933,1045 978,1045 1024,1049"/>
+                <TextEquiv>
+                    <Unicode>choor to Cochin, a distance by water of fifty-two miles :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="115,1098 1024,1092 1000,1055 115,1065"/>
+                <Baseline points="121,1084 166,1084 211,1084 256,1084 302,1084 347,1084 392,1085 437,1084 483,1085 528,1086 573,1086 618,1084 664,1084 709,1084 754,1086 799,1084 845,1084 890,1084 935,1086 980,1086 1026,1084"/>
+                <TextEquiv>
+                    <Unicode>whilst nearly all the year round cargo boats ean proceed by that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="114,1131 1021,1133 1021,1100 963,1096 114,1109"/>
+                <Baseline points="120,1124 165,1124 210,1123 255,1123 300,1123 346,1123 391,1123 436,1123 481,1123 526,1124 572,1124 617,1124 662,1124 707,1124 752,1124 798,1124 843,1124 888,1124 933,1124 978,1124 1024,1124"/>
+                <TextEquiv>
+                    <Unicode>ronte, but should the water be low, passengers and goods may travel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="114,1167 1021,1177 1021,1144 970,1134 114,1134"/>
+                <Baseline points="120,1163 165,1162 210,1161 255,1163 300,1163 346,1162 391,1161 436,1163 481,1163 526,1163 572,1163 617,1163 662,1162 707,1163 752,1163 798,1163 843,1163 888,1163 933,1163 978,1163 1024,1161"/>
+                <TextEquiv>
+                    <Unicode>to Kurriapudnam, by land 21½ miles, where there is a good bunga¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="115,1211 692,1214 692,1185 661,1171 503,1185 213,1170 178,1189 115,1170"/>
+                <Baseline points="121,1202 149,1200 178,1202 207,1202 235,1200 264,1200 293,1200 321,1202 350,1202 379,1202 408,1202 436,1202 465,1202 494,1202 522,1202 551,1202 580,1202 608,1202 637,1202 666,1202 695,1202"/>
+                <TextEquiv>
+                    <Unicode>low, whilst it is about half way to Cochin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="146,1252 1029,1252 1018,1210 145,1214"/>
+                <Baseline points="151,1241 197,1239 243,1241 289,1241 336,1240 382,1241 428,1241 474,1241 521,1241 567,1241 613,1241 659,1241 706,1241 752,1241 798,1241 844,1243 891,1243 937,1243 983,1243 1030,1241"/>
+                <TextEquiv>
+                    <Unicode>The two large Christian villages of Arnaatcurray and Ooloor are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="115,1291 1029,1288 1029,1254 939,1247 115,1258"/>
+                <Baseline points="121,1281 166,1279 212,1277 257,1278 303,1279 348,1279 394,1279 439,1281 485,1279 530,1279 576,1281 622,1279 667,1279 713,1279 758,1280 804,1281 849,1281 895,1281 940,1281 986,1280 1032,1279"/>
+                <TextEquiv>
+                    <Unicode>near the Trichoor lines: the former S. W. one mile, and 1,100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="115,1336 1031,1338 1031,1290 115,1300"/>
+                <Baseline points="121,1324 166,1318 212,1318 257,1318 303,1318 349,1320 394,1320 440,1320 485,1320 531,1320 577,1320 622,1320 668,1320 713,1320 759,1320 805,1320 850,1321 896,1320 941,1322 987,1320 1033,1320"/>
+                <TextEquiv>
+                    <Unicode>yards : the latter S. E., 3½ miles. It is eurious to ride through</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="114,1364 1026,1371 1026,1340 870,1332 114,1340"/>
+                <Baseline points="120,1359 165,1358 210,1357 256,1357 301,1357 347,1359 392,1359 437,1359 483,1359 528,1359 574,1359 619,1359 664,1361 710,1361 755,1361 801,1361 846,1361 891,1361 937,1361 982,1361 1028,1359"/>
+                <TextEquiv>
+                    <Unicode>tliese Christian villages about the time of their evening prayers : uo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="119,1403 1031,1411 1016,1371 119,1380"/>
+                <Baseline points="125,1399 170,1397 215,1397 261,1397 306,1397 351,1397 397,1397 442,1397 487,1399 533,1399 578,1399 623,1399 669,1399 714,1399 759,1399 805,1399 850,1399 895,1399 941,1399 986,1399 1032,1399"/>
+                <TextEquiv>
+                    <Unicode>one is stirring in the streets, and no sound is heard, save tlie voices</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="114,1443 1026,1451 1008,1417 802,1405 114,1413"/>
+                <Baseline points="120,1436 165,1436 210,1434 256,1436 301,1436 347,1436 392,1438 437,1438 483,1438 528,1438 574,1438 619,1438 664,1438 710,1439 755,1438 801,1438 846,1440 891,1438 937,1438 982,1440 1028,1438"/>
+                <TextEquiv>
+                    <Unicode>of the various households raised in prayer. The village of Paunun-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="118,1492 1031,1489 1009,1447 118,1451"/>
+                <Baseline points="124,1478 169,1476 214,1475 260,1475 305,1477 351,1477 396,1477 442,1477 487,1477 533,1477 578,1477 623,1477 669,1477 714,1477 760,1479 805,1479 851,1479 896,1479 942,1479 987,1479 1033,1481"/>
+                <TextEquiv>
+                    <Unicode>jayree is situated 7½ miles E. N. E. of Trichoor, in the midst of hill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="116,1522 1031,1527 1031,1500 936,1488 116,1501"/>
+                <Baseline points="123,1514 168,1516 214,1516 259,1514 305,1516 350,1516 396,1515 441,1516 487,1516 532,1516 578,1516 623,1516 669,1516 714,1517 760,1518 805,1518 851,1518 896,1518 942,1518 987,1519 1033,1519"/>
+                <TextEquiv>
+                    <Unicode>scenery, on tlie eastern skirts of this village is a pagoda now</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="115,1564 1031,1570 1029,1529 114,1526"/>
+                <Baseline points="121,1554 166,1555 212,1556 257,1554 303,1554 349,1554 394,1554 440,1556 485,1555 531,1556 577,1555 622,1556 668,1556 713,1556 759,1556 805,1556 850,1556 896,1557 941,1558 987,1558 1033,1558"/>
+                <TextEquiv>
+                    <Unicode>in ruins, but still bearing the name of Gooroonaden Umblum, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="123,1602 1032,1610 1013,1568 123,1569"/>
+                <Baseline points="129,1593 174,1593 219,1595 264,1593 310,1593 355,1595 400,1595 446,1595 491,1595 536,1595 582,1595 627,1595 672,1595 717,1597 763,1597 808,1597 853,1597 899,1598 944,1599 989,1598 1035,1601"/>
+                <TextEquiv>
+                    <Unicode>very celebrated in the annals of Malabar. Close to it is Putticaad,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="121,1643 1034,1646 1034,1616 947,1603 121,1614"/>
+                <Baseline points="127,1632 172,1634 218,1634 263,1634 309,1634 354,1634 400,1633 445,1634 491,1634 536,1636 582,1636 627,1636 673,1636 718,1636 764,1636 809,1636 855,1638 900,1638 946,1638 991,1638 1037,1640"/>
+                <TextEquiv>
+                    <Unicode>where a Travellers’ Bungalow stands on the side of tle road from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="123,1681 1032,1690 1032,1649 123,1642"/>
+                <Baseline points="129,1674 174,1673 219,1672 264,1673 310,1674 355,1674 400,1673 446,1674 491,1674 536,1674 582,1674 627,1674 672,1676 717,1674 763,1676 808,1676 853,1676 899,1677 944,1678 989,1678 1035,1678"/>
+                <TextEquiv>
+                    <Unicode>Trichoor to Palghat. This place was formerly remarkable for the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="116,1714 1003,1738 1031,1700 115,1698"/>
+                <Baseline points="123,1713 168,1713 214,1713 259,1713 305,1713 351,1713 396,1713 442,1713 487,1714 533,1715 579,1715 624,1715 670,1715 715,1717 761,1717 807,1717 852,1717 898,1717 943,1717 989,1719 1035,1719"/>
+                <TextEquiv>
+                    <Unicode>number of robberies committed on travellers. The robbers came</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="121,1761 991,1777 1036,1769 1035,1730 120,1729"/>
+                <Baseline points="127,1754 172,1753 218,1754 263,1756 309,1756 355,1756 400,1755 446,1756 491,1756 537,1756 583,1756 628,1756 674,1758 719,1758 765,1758 811,1759 856,1758 902,1758 947,1760 993,1760 1039,1760"/>
+                <TextEquiv>
+                    <Unicode>down in the woody pass, seized their booty, and rapidly decamped.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

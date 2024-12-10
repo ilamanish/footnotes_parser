@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:13.601+01:00</Created>
+        <LastChange>2024-12-10T01:48:35.702+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960553" pageNr="542" tsid="211285015" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=MAMZOAIXGDPCXYDPZVVPHTLD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNFUOSCCLEHLCXXVAYXJQISQ" imageId="70209899"/>
+    </Metadata>
+    <Page imageFilename="0542_the_land_of_the_perumauls_page_542.jpg" imageWidth="1184" imageHeight="1973">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840887398" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="209,208 209,1742 1124,1742 1124,208"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="570,246 608,249 654,242 670,247 723,239 734,243 752,236 752,205 716,202 694,211 679,206 598,209 570,202"/>
+                <Baseline points="576,228 601,230 627,230 652,230 678,230 703,230 729,230 755,230"/>
+                <TextEquiv>
+                    <Unicode>WHITE ANTS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="207,242 237,241 241,244 246,238 253,243 270,243 269,201 245,199 242,202 239,199 235,203 228,202 217,211 206,209"/>
+                <Baseline points="213,230 242,230 272,232"/>
+                <TextEquiv>
+                    <Unicode>522</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="214,314 1110,308 1109,271 961,260 213,274"/>
+                <Baseline points="219,299 263,296 308,295 352,293 397,293 442,293 486,293 531,293 576,293 620,295 665,295 710,295 754,295 799,294 844,295 888,295 933,295 978,295 1022,297 1067,295 1112,299"/>
+                <TextEquiv>
+                    <Unicode>pits which thcy form in the sand, may be seen at the side of paths,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="206,342 1109,344 1109,308 206,318"/>
+                <Baseline points="213,335 260,337 307,335 354,335 402,334 449,335 496,333 544,333 591,335 638,335 686,335 733,335 780,335 828,335 875,335 922,335 970,335 1017,335 1064,335 1112,335"/>
+                <TextEquiv>
+                    <Unicode>and sandy spots of ground, and should an ant or other small insect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="211,385 1113,385 1090,345 211,347"/>
+                <Baseline points="217,376 264,376 311,374 358,374 406,374 453,374 500,374 548,374 595,374 642,374 690,374 737,374 784,374 832,374 879,374 926,374 974,374 1021,374 1068,374 1116,372"/>
+                <TextEquiv>
+                    <Unicode>fall in, it instantly disappears in a shower of sand, discharged at it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="206,425 1112,418 1088,386 917,380 206,391"/>
+                <Baseline points="213,414 258,414 303,414 348,414 393,413 438,412 483,413 528,412 573,412 618,414 663,414 708,414 753,414 798,414 843,414 888,414 933,416 978,414 1023,414 1068,414 1114,412"/>
+                <TextEquiv>
+                    <Unicode>by the hidden occupant of the trap. It is said that in order to ob¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="211,473 1112,462 1076,425 211,437"/>
+                <Baseline points="217,455 261,455 306,455 351,455 396,454 441,453 486,453 530,453 575,453 620,455 665,455 710,455 755,455 800,455 844,455 889,455 934,455 979,455 1024,455 1069,454 1114,453"/>
+                <TextEquiv>
+                    <Unicode>tain a satisfactory answer to any request, the internal administration</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="206,503 1115,500 1115,472 1061,467 206,478"/>
+                <Baseline points="213,495 258,496 303,495 348,495 394,495 439,495 484,495 529,493 575,495 620,495 665,495 710,495 756,495 801,495 846,495 891,495 937,495 982,495 1027,495 1072,495 1118,495"/>
+                <TextEquiv>
+                    <Unicode>of an ant Lion is a capital specific, given to the party from whom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="209,546 280,545 290,554 301,544 366,551 388,539 497,546 510,540 511,508 439,516 429,508 388,521 345,506 311,516 210,508"/>
+                <Baseline points="215,536 242,534 269,534 296,534 323,534 350,534 377,534 404,533 431,532 458,532 485,532 512,534"/>
+                <TextEquiv>
+                    <Unicode>the benefit is required.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="238,584 1117,579 1117,547 238,552"/>
+                <Baseline points="244,576 287,576 331,574 375,572 419,573 463,572 506,572 550,573 594,574 638,574 682,574 725,574 769,574 813,574 857,574 901,574 944,574 988,574 1032,574 1076,573 1120,572"/>
+                <TextEquiv>
+                    <Unicode>Amongst the net winged insects, (Dictyotoptera) are the beautiful</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="206,626 1115,625 1115,588 1048,585 206,587"/>
+                <Baseline points="213,615 258,615 303,614 348,613 394,613 439,613 484,613 529,613 575,613 620,613 665,613 710,613 756,613 801,613 846,613 891,613 937,613 982,613 1027,613 1072,613 1118,611"/>
+                <TextEquiv>
+                    <Unicode>Dragon Flies, Libellulide, they may be seen in all directions, of most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="209,673 1112,661 1112,634 1039,619 209,635"/>
+                <Baseline points="215,655 262,655 309,653 356,655 404,653 451,653 498,653 546,653 593,653 640,653 688,653 735,652 782,653 830,653 877,653 924,653 972,653 1019,653 1066,653 1114,655"/>
+                <TextEquiv>
+                    <Unicode>varied and gorgcous hues, which however decrease in brllliancy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="203,700 1117,699 1117,659 203,675"/>
+                <Baseline points="209,694 254,695 300,693 345,694 391,692 436,692 482,692 527,692 573,692 618,692 664,692 710,692 755,692 801,692 846,692 892,692 937,692 983,692 1028,692 1074,692 1120,692"/>
+                <TextEquiv>
+                    <Unicode>after death. Some have crimson bodies, some blue, or yellow, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="206,741 1117,739 1117,707 1007,701 206,716"/>
+                <Baseline points="213,735 258,733 303,731 349,733 394,732 439,731 485,731 530,731 575,731 621,731 666,731 711,731 757,731 802,731 847,731 893,731 938,731 983,731 1029,731 1074,731 1120,731"/>
+                <TextEquiv>
+                    <Unicode>others orange, or yellow and blue, in fact there is scarcely any shade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="213,787 1115,779 1083,739 213,751"/>
+                <Baseline points="219,775 266,773 313,771 360,771 408,771 455,771 502,771 550,771 597,771 644,771 692,772 739,771 786,771 834,771 881,771 928,771 976,771 1023,771 1070,771 1118,771"/>
+                <TextEquiv>
+                    <Unicode>of colour of which they may not be perceived, whilst the size of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="209,824 1112,819 1082,781 209,791"/>
+                <Baseline points="215,814 262,812 309,812 356,809 404,810 451,810 498,810 546,808 593,810 640,810 688,810 735,810 782,810 830,810 877,810 924,810 972,810 1019,810 1066,810 1114,810"/>
+                <TextEquiv>
+                    <Unicode>species, is very varied.* One of the most destructive of Indian in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="209,860 1114,857 1114,821 209,836"/>
+                <Baseline points="215,854 260,850 305,850 350,850 395,850 440,850 485,850 530,848 575,849 620,850 665,850 710,850 755,850 800,850 845,852 890,850 935,850 980,850 1025,850 1070,850 1116,850"/>
+                <TextEquiv>
+                    <Unicode>sects, is the Termite, or White Ant, (Curriaan, or cheddel, Mal.) it is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="206,898 1117,905 1096,858 206,870"/>
+                <Baseline points="213,893 258,891 303,891 349,889 394,889 439,889 485,889 530,889 575,889 621,889 666,889 711,889 757,889 802,889 847,889 893,889 938,891 983,891 1029,891 1074,891 1120,893"/>
+                <TextEquiv>
+                    <Unicode>found in British Cochin, but owing to the sandy nature of the soil,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="211,940 1113,938 1091,899 211,907"/>
+                <Baseline points="217,931 264,931 311,929 358,931 406,929 453,929 500,929 548,929 595,929 642,929 690,931 737,929 784,929 832,929 879,930 926,931 974,931 1021,931 1068,931 1116,931"/>
+                <TextEquiv>
+                    <Unicode>its communitics do not erect the large nests, which are common in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="211,976 1117,985 1066,937 978,961 211,946"/>
+                <Baseline points="217,970 262,970 307,970 352,968 397,968 442,968 487,968 533,968 578,968 623,968 668,968 713,968 758,969 803,968 849,968 894,970 939,970 984,970 1029,971 1074,972 1120,976"/>
+                <TextEquiv>
+                    <Unicode>the Native state and elsewhere. As they never work in the light,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="213,1018 1115,1019 1115,986 1010,980 213,988"/>
+                <Baseline points="219,1012 266,1010 313,1008 360,1008 408,1008 455,1008 502,1008 550,1008 597,1008 644,1008 692,1008 739,1008 786,1010 834,1009 881,1008 928,1010 976,1010 1023,1010 1070,1010 1118,1010"/>
+                <TextEquiv>
+                    <Unicode>they prefer rooms which are kept dark, especially if the floors are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="206,1053 1115,1052 1096,1025 935,1016 206,1033"/>
+                <Baseline points="213,1053 258,1051 303,1048 348,1049 394,1048 439,1047 484,1047 529,1047 575,1046 620,1047 665,1047 710,1047 756,1047 801,1048 846,1049 891,1049 937,1051 982,1049 1027,1049 1072,1049 1118,1047"/>
+                <TextEquiv>
+                    <Unicode>made of mud, and they destroy everything they are capable of mas¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="213,1099 969,1105 1113,1098 1112,1061 212,1069"/>
+                <Baseline points="219,1091 263,1089 308,1089 353,1088 398,1087 443,1087 488,1087 532,1087 577,1087 622,1087 667,1087 712,1088 757,1087 802,1088 846,1089 891,1089 936,1089 981,1089 1026,1091 1071,1091 1116,1091"/>
+                <TextEquiv>
+                    <Unicode>ticating. Thcy construct their nests of mud prepared in their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="209,1146 1117,1138 1117,1099 209,1106"/>
+                <Baseline points="215,1130 260,1130 305,1130 350,1128 396,1126 441,1127 486,1126 531,1126 577,1126 622,1128 667,1128 712,1126 758,1128 803,1128 848,1128 893,1128 939,1128 984,1130 1029,1128 1074,1128 1120,1130"/>
+                <TextEquiv>
+                    <Unicode>mouths, and covered with a sticky secretion : and form covered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="211,1186 1116,1187 1116,1153 1051,1141 211,1146"/>
+                <Baseline points="217,1173 262,1169 307,1168 352,1168 397,1168 442,1166 487,1166 532,1166 577,1166 622,1168 667,1168 712,1168 757,1168 802,1167 847,1168 892,1168 937,1168 982,1168 1027,1169 1072,1169 1118,1171"/>
+                <TextEquiv>
+                    <Unicode>passages along which they reach any object they intend to consume ;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="211,1215 1113,1216 1113,1188 991,1179 211,1187"/>
+                <Baseline points="217,1209 264,1209 311,1209 358,1207 406,1207 453,1206 500,1207 548,1205 595,1207 642,1207 690,1207 737,1207 784,1207 832,1207 879,1207 926,1209 974,1207 1021,1209 1068,1209 1116,1207"/>
+                <TextEquiv>
+                    <Unicode>or else they glue boxes or other objects to the floor, and then com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="206,1257 1113,1255 1113,1227 206,1222"/>
+                <Baseline points="213,1250 258,1246 303,1247 348,1246 393,1246 438,1246 483,1245 529,1246 574,1246 619,1246 664,1245 709,1246 754,1246 799,1246 845,1246 890,1246 935,1248 980,1248 1025,1248 1070,1248 1116,1248"/>
+                <TextEquiv>
+                    <Unicode>mence their destruction. They ascend trees in the same manner, re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="212,1305 1123,1305 1122,1269 866,1257 211,1269"/>
+                <Baseline points="217,1288 262,1288 307,1288 353,1287 398,1286 443,1286 489,1286 534,1286 579,1286 625,1288 670,1286 715,1286 761,1286 806,1288 851,1287 897,1288 942,1288 987,1288 1033,1288 1078,1288 1124,1288"/>
+                <TextEquiv>
+                    <Unicode>moving the bark, and destroying their vitality. It is not uncommon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="211,1334 1119,1338 1119,1309 1021,1298 211,1309"/>
+                <Baseline points="217,1327 262,1327 307,1325 352,1326 398,1325 443,1325 488,1325 533,1325 579,1325 624,1325 669,1325 714,1325 760,1325 805,1325 850,1326 895,1327 941,1327 986,1327 1031,1327 1076,1327 1122,1329"/>
+                <TextEquiv>
+                    <Unicode>to see one of these raised galleries, commenced in the centre of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="211,1378 1117,1376 1117,1347 1064,1337 211,1347"/>
+                <Baseline points="217,1367 262,1367 307,1367 352,1366 397,1367 442,1366 487,1367 533,1366 578,1365 623,1365 668,1367 713,1365 758,1367 803,1367 849,1367 894,1367 939,1367 984,1367 1029,1367 1074,1367 1120,1367"/>
+                <TextEquiv>
+                    <Unicode>floor, and carried up as much as a foot from the ground, and then</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="213,1417 1119,1418 1119,1382 213,1378"/>
+                <Baseline points="219,1408 264,1406 309,1406 354,1404 399,1406 444,1406 489,1406 535,1406 580,1406 625,1404 670,1406 715,1406 760,1406 805,1406 851,1406 896,1406 941,1406 986,1407 1031,1408 1076,1407 1122,1406"/>
+                <TextEquiv>
+                    <Unicode>forsaken : it appears that they sometimes raise these, in hopes of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="213,1463 1119,1460 1119,1427 1076,1420 213,1420"/>
+                <Baseline points="219,1448 264,1448 309,1446 354,1445 399,1446 444,1446 489,1446 535,1446 580,1446 625,1446 670,1446 715,1446 760,1446 805,1446 851,1446 896,1446 941,1448 986,1448 1031,1448 1076,1448 1122,1452"/>
+                <TextEquiv>
+                    <Unicode>finding some edible substance, but failing in doing so forsake them,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="215,1496 804,1498 804,1467 772,1458 215,1468"/>
+                <Baseline points="222,1487 251,1485 280,1485 309,1485 338,1485 368,1485 397,1485 426,1485 455,1485 484,1485 514,1485 543,1485 572,1485 601,1485 630,1485 660,1485 689,1485 718,1485 747,1485 776,1486 806,1487"/>
+                <TextEquiv>
+                    <Unicode>and retire to some more favourable locality.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="246,1530 1115,1540 1081,1492 246,1506"/>
+                <Baseline points="252,1527 295,1525 338,1525 381,1525 425,1525 468,1525 511,1525 555,1525 598,1525 641,1525 685,1525 728,1525 771,1525 814,1525 858,1526 901,1527 944,1527 988,1527 1031,1527 1074,1527 1118,1529"/>
+                <TextEquiv>
+                    <Unicode>Although white ants may occasionally destroy boxes, and articles,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="215,1578 1115,1578 1115,1540 215,1537"/>
+                <Baseline points="222,1566 266,1565 311,1566 356,1564 401,1564 446,1564 490,1566 535,1565 580,1564 625,1566 670,1566 714,1564 759,1566 804,1566 849,1566 894,1565 938,1566 983,1567 1028,1566 1073,1568 1118,1570"/>
+                <TextEquiv>
+                    <Unicode>left upon the floor, in one night, such is of rare occurrence, as they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="211,1606 1119,1618 1119,1581 211,1590"/>
+                <Baseline points="217,1604 262,1606 307,1606 352,1606 398,1606 443,1604 488,1606 533,1605 579,1604 624,1606 669,1606 714,1606 760,1607 805,1606 850,1606 895,1606 941,1606 986,1606 1031,1607 1076,1606 1122,1607"/>
+                <TextEquiv>
+                    <Unicode>are generally at least twelve hours in glueing objects down, with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="213,1655 1121,1659 1121,1620 1072,1615 213,1621"/>
+                <Baseline points="220,1645 265,1646 310,1647 355,1646 400,1645 446,1645 491,1645 536,1645 581,1645 626,1645 672,1645 717,1645 762,1647 807,1647 852,1647 898,1647 943,1647 988,1647 1033,1648 1078,1647 1124,1649"/>
+                <TextEquiv>
+                    <Unicode>their gummy fine sand, before they commence eating them : thus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="206,1681 1156,1681 1156,1769 206,1769"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="266,1707 1121,1707 1104,1677 266,1675"/>
+                <Baseline points="272,1698 314,1698 357,1698 399,1699 442,1698 485,1698 527,1698 570,1698 612,1700 655,1700 698,1700 740,1700 783,1700 825,1701 868,1700 911,1700 953,1700 996,1701 1038,1702 1081,1700 1124,1702"/>
+                <TextEquiv>
+                    <Unicode>* Dragon flies in confinement soon die. Col. Pringle states that a specific</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:1;}">
+                <Coords points="211,1733 249,1745 588,1740 588,1708 211,1713"/>
+                <Baseline points="217,1732 243,1730 270,1732 297,1732 323,1732 350,1732 377,1732 404,1732 430,1732 457,1732 484,1732 510,1732 537,1732 564,1732 591,1732"/>
+                <TextEquiv>
+                    <Unicode>for this is to cut off their heads.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:03.260+01:00</Created>
+        <LastChange>2024-12-10T01:30:33.580+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960437" pageNr="420" tsid="211283559" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=IGLQMMATYIVNUWUEMWYDONAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDGYDCMMBYGQAURKDFURZMJV" imageId="70209751"/>
+    </Metadata>
+    <Page imageFilename="0420_the_land_of_the_perumauls_page_420.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840755523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="212,231 212,1740 1117,1740 1117,231"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="222,261 228,261 233,265 248,265 252,262 256,265 263,265 269,260 277,258 282,252 288,252 288,225 269,225 265,228 254,218 248,217 243,221 221,221"/>
+                <Baseline points="227,251 258,251 290,253"/>
+                <TextEquiv>
+                    <Unicode>400</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="554,269 790,271 789,234 772,230 553,230"/>
+                <Baseline points="559,257 584,257 610,257 636,257 662,257 687,258 713,259 739,259 765,261 791,259"/>
+                <TextEquiv>
+                    <Unicode>VISITS OF STATE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="209,321 1114,333 1114,297 1087,295 209,289"/>
+                <Baseline points="215,318 260,321 305,321 350,322 395,321 440,322 485,321 530,322 575,323 620,322 666,323 711,325 756,324 801,325 846,325 891,325 936,325 981,327 1026,325 1071,325 1117,327"/>
+                <TextEquiv>
+                    <Unicode>simplicity, as that of his people,* being a thin muslin cloth,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="213,367 1115,378 1115,349 1006,333 642,353 213,330"/>
+                <Baseline points="219,361 263,361 308,361 353,361 398,363 443,361 488,361 533,361 578,363 623,363 668,363 712,365 757,365 802,365 847,365 892,365 937,365 982,365 1027,365 1072,365 1117,367"/>
+                <TextEquiv>
+                    <Unicode>from the waist to the kuees, a magnificent necklace of pearls,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="221,411 1112,410 1112,387 1000,372 221,376"/>
+                <Baseline points="227,398 271,400 315,400 359,400 404,402 448,401 492,402 537,401 581,402 625,402 670,402 714,402 758,404 802,404 847,402 891,404 935,404 980,403 1024,404 1068,404 1113,402"/>
+                <TextEquiv>
+                    <Unicode>with a diamond clasp, uo turban, but caste marks. When re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="219,450 1111,447 1111,424 1035,413 219,415"/>
+                <Baseline points="225,439 269,438 313,439 358,440 402,441 447,440 491,441 535,440 580,439 624,441 669,441 713,441 757,441 802,442 846,443 891,441 935,443 979,442 1024,443 1068,444 1113,441"/>
+                <TextEquiv>
+                    <Unicode>ceiving strangers, he has on a most bcautiful lead dress of pre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="221,494 1114,489 1104,455 221,449"/>
+                <Baseline points="227,477 271,479 316,479 360,479 405,479 449,479 494,480 538,479 583,479 627,480 672,480 716,480 761,480 805,482 850,480 894,481 939,480 983,480 1028,482 1072,483 1117,484"/>
+                <TextEquiv>
+                    <Unicode>cions stones, and a long white ninslin dress, edged with gold.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="217,528 1114,531 1103,491 217,494"/>
+                <Baseline points="223,516 267,517 312,518 357,518 401,518 446,518 491,520 535,518 580,520 625,520 670,520 714,520 759,520 804,520 848,520 893,520 938,520 982,520 1027,522 1072,522 1117,520"/>
+                <TextEquiv>
+                    <Unicode>On Durbar days, he is likewise dressed in white muslin, with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="221,571 1114,571 1114,537 1069,531 221,535"/>
+                <Baseline points="227,557 271,557 316,559 360,557 405,557 449,557 494,559 538,558 583,559 627,559 672,559 716,559 761,559 805,559 850,559 894,559 939,559 983,559 1028,561 1072,561 1117,559"/>
+                <TextEquiv>
+                    <Unicode>gold lace, and a turban adorned with jewels: around his right</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="221,603 1113,614 1094,572 221,580"/>
+                <Baseline points="227,594 271,596 315,596 359,596 404,596 448,595 492,596 537,596 581,596 625,598 670,598 714,598 758,598 802,598 847,598 891,598 935,598 980,598 1024,598 1068,598 1113,602"/>
+                <TextEquiv>
+                    <Unicode>arin (sometimes also on both) is a baugle of splendid diamonds,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="221,646 1112,647 1112,614 937,605 221,616"/>
+                <Baseline points="227,632 271,635 315,636 359,635 404,636 448,636 492,636 537,636 581,636 625,638 670,638 714,638 758,638 802,638 847,638 891,638 935,638 980,638 1024,638 1068,640 1113,638"/>
+                <TextEquiv>
+                    <Unicode>which are eut flat, and very thin, according to the Native fashion.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="221,687 1112,685 1112,650 221,646"/>
+                <Baseline points="227,673 271,675 315,675 359,673 404,675 448,675 492,675 537,675 581,675 625,675 670,677 714,677 758,675 802,677 847,677 891,677 935,677 980,677 1024,679 1068,678 1113,677"/>
+                <TextEquiv>
+                    <Unicode>His fingers are adorned with beautiful jewels, and on his second</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="219,726 1115,722 1115,695 985,683 219,687"/>
+                <Baseline points="225,714 269,713 314,714 358,714 403,714 448,714 492,714 537,714 581,714 626,715 671,716 715,716 760,716 804,715 849,716 894,714 938,716 983,716 1027,716 1072,716 1117,716"/>
+                <TextEquiv>
+                    <Unicode>toe, is a gold ring. On each side of him, stand two Peons, one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="214,766 1111,769 1111,730 1072,728 214,726"/>
+                <Baseline points="221,753 265,753 310,753 354,753 399,753 444,753 488,753 533,753 577,753 622,754 667,753 711,753 756,755 800,755 845,753 890,753 934,755 979,754 1023,755 1068,755 1113,759"/>
+                <TextEquiv>
+                    <Unicode>fanning him with the tail of the yah, the other with a white fan,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="217,803 1113,804 1084,763 217,771"/>
+                <Baseline points="223,791 267,793 312,793 356,793 401,793 446,793 490,795 535,793 579,793 624,793 669,793 713,793 758,793 802,793 847,793 892,795 936,795 981,795 1025,795 1070,795 1115,795"/>
+                <TextEquiv>
+                    <Unicode>surrounded by peacock’s feathers. Next to him is seated the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="217,842 1099,847 1111,814 216,806"/>
+                <Baseline points="223,832 267,832 312,832 356,832 401,832 445,832 490,830 534,832 579,832 623,831 668,832 712,832 757,832 801,832 846,834 890,832 935,832 979,833 1024,834 1068,834 1113,834"/>
+                <TextEquiv>
+                    <Unicode>Resident, and the Priuces either on his left haud, or below the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="213,882 1115,880 1107,844 213,843"/>
+                <Baseline points="219,869 263,871 308,871 353,871 398,871 443,871 488,871 533,869 578,871 623,871 668,871 712,871 757,871 802,871 847,871 892,871 937,871 982,873 1027,873 1072,873 1117,869"/>
+                <TextEquiv>
+                    <Unicode>Resident on the right. The Dewan or Prime Minister stands behind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="219,922 1111,921 1111,892 991,877 219,885"/>
+                <Baseline points="225,910 269,910 313,910 358,910 402,908 447,909 491,910 535,909 580,908 624,910 669,910 713,910 757,910 802,910 846,910 891,910 935,910 979,910 1024,910 1068,911 1113,908"/>
+                <TextEquiv>
+                    <Unicode>him, and many turbauless Brahmans in their single cloths, either</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="214,954 614,961 614,933 582,926 321,938 303,924 214,924"/>
+                <Baseline points="221,950 247,950 273,950 300,950 326,950 352,950 379,950 405,950 431,950 458,950 484,950 510,950 537,950 563,950 589,950 616,950"/>
+                <TextEquiv>
+                    <Unicode>behind, or on one side of him.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="245,992 1108,1002 1090,954 245,961"/>
+                <Baseline points="251,987 294,987 337,987 380,987 423,987 466,987 509,987 552,987 595,987 638,987 681,987 724,989 767,987 810,989 853,988 896,987 939,988 982,989 1025,988 1068,989 1111,987"/>
+                <TextEquiv>
+                    <Unicode>If the Rajah receives the visit of another Prince, at Muttencherry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="214,1041 1108,1035 1085,1001 214,1006"/>
+                <Baseline points="221,1028 265,1028 310,1028 354,1027 399,1028 443,1026 488,1026 532,1026 577,1026 621,1026 666,1028 710,1028 755,1026 799,1026 844,1026 888,1026 933,1026 977,1027 1022,1028 1066,1028 1111,1030"/>
+                <TextEquiv>
+                    <Unicode>the following is the etiquette. The Rajah geuerally passes the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="221,1080 1108,1072 908,1034 221,1049"/>
+                <Baseline points="227,1067 271,1067 315,1067 359,1067 403,1067 448,1066 492,1066 536,1067 580,1066 624,1066 669,1066 713,1066 757,1066 801,1066 845,1066 890,1066 934,1066 978,1066 1022,1067 1066,1067 1111,1066"/>
+                <TextEquiv>
+                    <Unicode>preceding night at the palace, which is about one hundred paces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="209,1112 1108,1114 1086,1079 909,1070 209,1082"/>
+                <Baseline points="215,1107 259,1107 304,1107 349,1106 394,1105 439,1105 483,1105 528,1106 573,1105 618,1105 663,1105 707,1105 752,1105 797,1105 842,1105 887,1105 931,1105 976,1105 1021,1106 1066,1107 1111,1107"/>
+                <TextEquiv>
+                    <Unicode>from the water’s edge, the whole distance from which, is covered in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="209,1158 1102,1152 1102,1116 1060,1114 209,1122"/>
+                <Baseline points="215,1142 259,1145 304,1144 348,1145 393,1144 437,1144 482,1144 526,1145 571,1144 615,1144 660,1146 704,1144 749,1144 793,1144 838,1144 882,1146 927,1146 971,1146 1016,1146 1060,1146 1105,1144"/>
+                <TextEquiv>
+                    <Unicode>by a long pandall. On each side, along the entire length, are plan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="209,1196 1105,1198 1105,1167 994,1158 209,1166"/>
+                <Baseline points="215,1183 259,1183 304,1183 348,1185 393,1183 438,1183 482,1183 527,1183 571,1183 616,1183 661,1185 705,1183 750,1183 794,1183 839,1183 884,1184 928,1183 973,1184 1017,1183 1062,1184 1107,1181"/>
+                <TextEquiv>
+                    <Unicode>tain trees in splendid beariug, tied to each of the pillars, that sup¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="221,1236 1106,1238 1106,1196 221,1198"/>
+                <Baseline points="227,1225 271,1223 315,1223 359,1223 403,1223 447,1223 491,1223 535,1223 579,1223 623,1223 668,1223 712,1222 756,1223 800,1223 844,1223 888,1224 932,1223 976,1223 1020,1223 1064,1225 1109,1221"/>
+                <TextEquiv>
+                    <Unicode>port the paudall. The Rajah’s body-guard of Sepoys, are drawu up</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="211,1280 1102,1274 1070,1229 211,1243"/>
+                <Baseline points="217,1262 261,1262 305,1262 350,1263 394,1262 439,1262 483,1264 527,1263 572,1262 616,1262 661,1262 705,1262 749,1262 794,1262 838,1262 883,1262 927,1262 971,1262 1016,1262 1060,1262 1105,1262"/>
+                <TextEquiv>
+                    <Unicode>in two lines, the guard of honour armed with pikes, surmounted by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="209,1312 1106,1313 1068,1272 209,1281"/>
+                <Baseline points="215,1299 259,1301 304,1299 349,1301 393,1301 438,1301 483,1301 527,1301 572,1301 617,1301 662,1301 706,1301 751,1301 796,1301 840,1301 885,1301 930,1301 974,1301 1019,1301 1064,1301 1109,1299"/>
+                <TextEquiv>
+                    <Unicode>white ostrich plumes, are in waiting. A drummer, a few fifers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="209,1345 707,1370 1106,1347 1106,1321 989,1307 209,1323"/>
+                <Baseline points="215,1338 259,1340 304,1340 349,1340 393,1340 438,1340 483,1340 527,1340 572,1340 617,1339 662,1340 706,1340 751,1340 796,1340 840,1340 885,1340 930,1340 974,1340 1019,1340 1064,1340 1109,1342"/>
+                <TextEquiv>
+                    <Unicode>and fiddlers, are ready to strike up, and two small six pounders, are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="211,1385 289,1395 341,1380 352,1391 397,1379 447,1393 566,1387 558,1359 279,1360 265,1351 248,1362 211,1351"/>
+                <Baseline points="217,1378 242,1378 267,1379 292,1380 317,1380 342,1380 367,1380 392,1380 417,1380 442,1380 467,1380 492,1379 517,1378 542,1378 567,1378"/>
+                <TextEquiv>
+                    <Unicode>loaded at the water’s edge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="251,1430 1104,1426 1104,1393 1068,1382 251,1393"/>
+                <Baseline points="257,1415 299,1419 342,1419 384,1419 427,1419 469,1419 512,1419 554,1419 597,1419 639,1419 682,1419 724,1419 767,1421 809,1419 852,1421 894,1419 937,1419 979,1419 1022,1419 1064,1419 1107,1419"/>
+                <TextEquiv>
+                    <Unicode>When the boat of honour is approaching, the Elliah Rajah, or first</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="209,1463 1102,1461 1102,1431 1054,1427 624,1448 209,1423"/>
+                <Baseline points="215,1456 259,1458 304,1460 348,1460 393,1460 437,1458 482,1458 526,1458 571,1458 615,1458 660,1458 704,1458 749,1458 793,1459 838,1458 882,1458 927,1458 971,1458 1016,1458 1060,1457 1105,1456"/>
+                <TextEquiv>
+                    <Unicode>Prince, attended by the Dewan, the officials, and others, proceed to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="205,1500 1102,1507 1102,1462 205,1480"/>
+                <Baseline points="212,1495 256,1497 301,1497 345,1497 390,1497 435,1497 479,1497 524,1496 569,1495 613,1497 658,1497 703,1497 747,1497 792,1497 837,1497 881,1497 926,1496 971,1495 1015,1497 1060,1495 1105,1497"/>
+                <TextEquiv>
+                    <Unicode>the landing place, to receive the strangers. After they are landed,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="203,1544 1131,1544 1131,1785 203,1785"/>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:0;}">
+                <Coords points="237,1575 1099,1578 1099,1541 1053,1531 736,1558 237,1540"/>
+                <Baseline points="243,1564 285,1571 328,1572 371,1572 414,1572 457,1572 500,1572 543,1572 586,1573 629,1572 672,1572 714,1572 757,1572 800,1572 843,1572 886,1572 929,1570 972,1568 1015,1570 1058,1570 1101,1570"/>
+                <TextEquiv>
+                    <Unicode>* Natives cannot understand, why Europea s clothe themselves to such an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:1;}">
+                <Coords points="209,1611 1096,1607 1076,1577 209,1581"/>
+                <Baseline points="215,1603 259,1604 303,1605 347,1604 391,1605 436,1603 480,1603 524,1603 568,1601 612,1603 657,1603 701,1603 745,1603 789,1603 833,1603 878,1601 922,1601 966,1601 1010,1601 1054,1601 1099,1600"/>
+                <TextEquiv>
+                    <Unicode>extent in India. A Namboorie visiting at the house of an European gentle-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:2;}">
+                <Coords points="205,1640 1104,1634 949,1608 205,1621"/>
+                <Baseline points="212,1637 256,1637 301,1636 346,1635 391,1634 435,1635 480,1634 525,1633 570,1635 614,1634 659,1633 704,1634 749,1635 793,1633 838,1633 883,1633 928,1633 972,1633 1017,1633 1062,1631 1107,1629"/>
+                <TextEquiv>
+                    <Unicode>man, after meditating for some little time suddenly pointed to a wine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:3;}">
+                <Coords points="205,1671 1102,1668 1062,1641 205,1649"/>
+                <Baseline points="212,1664 256,1666 301,1666 345,1666 390,1666 435,1665 479,1664 524,1664 569,1664 613,1664 658,1664 703,1664 747,1664 792,1662 837,1662 881,1662 926,1662 971,1662 1015,1662 1060,1662 1105,1662"/>
+                <TextEquiv>
+                    <Unicode>bottle which had on a worked cover, and exclaimed, "well you are a curious race</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:4;}">
+                <Coords points="209,1700 1101,1707 1102,1673 209,1680"/>
+                <Baseline points="215,1692 259,1697 303,1698 348,1699 392,1698 437,1697 481,1696 525,1696 570,1696 614,1697 659,1696 703,1696 747,1696 792,1696 836,1694 881,1694 925,1694 969,1696 1014,1694 1058,1694 1103,1698"/>
+                <TextEquiv>
+                    <Unicode>"of people, not only do you clothe yourselves from your head to your feet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:5;}">
+                <Coords points="205,1734 1051,1736 1011,1701 205,1704"/>
+                <Baseline points="212,1721 254,1728 296,1729 338,1730 380,1729 422,1729 464,1728 506,1729 548,1729 590,1729 633,1728 675,1727 717,1727 759,1727 801,1725 843,1725 885,1727 927,1725 969,1725 1011,1725 1054,1727"/>
+                <TextEquiv>
+                    <Unicode>"put cloths upon your wooden tables, but also petticoats on your bottles."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

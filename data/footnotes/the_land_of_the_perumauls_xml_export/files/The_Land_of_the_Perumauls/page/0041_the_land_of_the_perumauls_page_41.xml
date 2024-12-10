@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:31.085+01:00</Created>
+        <LastChange>2024-12-04T10:23:09.009+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960054" pageNr="41" tsid="209646099" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=AWBFJNPNGVGJXTIRMPPILSBL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HHUFSDBALXJYVUXONRLBQENN" imageId="70209358"/>
+    </Metadata>
+    <Page imageFilename="0041_the_land_of_the_perumauls_page_41.jpg" imageWidth="1162" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840511986" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="96,216 96,1704 1008,1704 1008,216"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="265,248 858,249 858,210 734,199 265,212"/>
+                <Baseline points="271,238 300,238 330,238 359,238 389,236 418,238 448,236 477,238 507,236 536,238 566,238 595,236 625,236 654,238 684,238 713,238 743,237 772,237 802,237 831,236 861,238"/>
+                <TextEquiv>
+                    <Unicode>MINIATURE ST. PETER’S.—CATHOLIC SCHOOL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="110,305 1006,313 1006,278 901,263 611,291 539,263 110,282"/>
+                <Baseline points="116,303 160,303 205,302 249,302 294,302 339,302 383,302 428,302 472,302 517,302 562,302 606,302 651,303 695,302 740,302 785,302 829,302 874,303 918,303 963,302 1008,303"/>
+                <TextEquiv>
+                    <Unicode>stands was destitute both of honses and cultivation, and formed a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="115,355 1004,353 960,312 115,323"/>
+                <Baseline points="121,348 165,342 209,342 253,342 298,340 342,342 386,340 430,340 475,341 519,340 563,342 607,342 652,342 696,342 740,342 784,341 829,342 873,342 917,342 961,342 1006,342"/>
+                <TextEquiv>
+                    <Unicode>portion of the territory of the Rajah of Cochin. The buildiug consists</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="110,381 1004,387 1004,361 936,351 110,359"/>
+                <Baseline points="116,381 160,381 205,379 249,381 294,381 338,380 383,381 427,380 472,381 516,381 561,380 605,379 650,381 694,379 739,381 783,381 828,381 872,381 917,381 961,381 1006,381"/>
+                <TextEquiv>
+                    <Unicode>of three straight piles of masonry, all of which (excepting the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="110,430 998,430 998,393 916,388 110,405"/>
+                <Baseline points="116,418 160,418 204,418 248,418 293,418 337,420 381,420 425,419 470,420 514,420 558,420 602,420 647,419 691,420 735,420 779,420 824,420 868,420 912,420 956,420 1001,420"/>
+                <TextEquiv>
+                    <Unicode>Church) are two or three stories high : their extremities face the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="110,465 999,467 999,430 110,430"/>
+                <Baseline points="116,458 160,456 204,456 248,458 293,458 337,458 381,458 426,458 470,458 514,458 559,458 603,458 647,458 691,458 736,458 780,458 824,458 869,458 913,458 957,458 1002,460"/>
+                <TextEquiv>
+                    <Unicode>river’s bank. A passage along the centre, from nortli to south,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="110,505 1004,513 973,464 110,468"/>
+                <Baseline points="116,495 160,495 205,495 249,496 294,497 338,497 383,497 427,497 472,496 516,495 561,495 605,495 650,497 694,497 739,497 783,495 828,497 872,497 917,496 961,497 1006,497"/>
+                <TextEquiv>
+                    <Unicode>forms a communication between various parts of tlie structure. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="115,546 999,543 999,515 938,503 115,507"/>
+                <Baseline points="121,534 165,534 209,534 253,534 297,534 341,535 385,536 429,536 473,536 517,535 561,534 605,536 649,534 693,536 737,536 781,535 825,534 869,534 913,536 957,536 1002,536"/>
+                <TextEquiv>
+                    <Unicode>Church is situated at the nortliem end of the building, and is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="112,584 999,583 999,552 962,544 112,549"/>
+                <Baseline points="118,575 162,573 206,574 250,573 294,575 339,573 383,574 427,573 471,574 515,575 560,573 604,574 648,575 692,575 736,573 781,574 825,575 869,575 913,575 957,575 1002,573"/>
+                <TextEquiv>
+                    <Unicode>miniature representation of St. Peter’s at Rome. It is perhaps the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="112,622 999,624 999,590 112,584"/>
+                <Baseline points="118,613 162,611 206,611 250,611 294,611 338,613 382,612 427,611 471,611 515,611 559,613 603,613 647,613 691,612 736,613 780,612 824,611 868,613 912,611 956,612 1001,611"/>
+                <TextEquiv>
+                    <Unicode>most exquisite little building in this part of India. In its various</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="112,663 995,657 995,622 112,626"/>
+                <Baseline points="118,652 164,651 210,650 256,650 303,650 349,650 395,650 441,650 488,650 534,652 580,651 626,652 673,652 719,651 765,650 811,651 858,650 904,652 950,650 997,648"/>
+                <TextEquiv>
+                    <Unicode>chapels are rude emblems of saints, and pictures of rather a primi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="106,704 323,703 323,669 301,663 106,663"/>
+                <Baseline points="112,689 138,687 165,687 191,687 218,687 245,688 271,689 298,689 325,689"/>
+                <TextEquiv>
+                    <Unicode>tive description.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="141,736 1000,738 1000,698 141,702"/>
+                <Baseline points="147,728 189,728 232,726 275,728 318,728 360,728 403,728 446,728 489,728 531,728 574,728 617,729 660,728 702,729 745,728 788,728 831,728 873,728 916,729 959,729 1002,729"/>
+                <TextEquiv>
+                    <Unicode>At the southern extremity of thie building, at its cast end, is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="110,782 998,771 998,740 110,749"/>
+                <Baseline points="116,764 160,765 204,764 248,764 293,764 337,766 381,764 425,766 470,766 514,766 558,764 602,766 647,766 691,766 735,766 779,766 824,766 868,766 912,767 956,768 1001,766"/>
+                <TextEquiv>
+                    <Unicode>school where about twenty native scholars reside, divided into two</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="106,815 990,824 982,781 106,784"/>
+                <Baseline points="112,803 156,804 200,803 244,803 288,803 332,804 376,805 420,804 464,803 508,804 552,805 596,805 640,805 684,805 728,805 772,804 816,803 860,805 904,806 948,807 993,805"/>
+                <TextEquiv>
+                    <Unicode>classcs. Their appearance gives the impression of extreme content¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="106,852 999,857 982,822 106,815"/>
+                <Baseline points="112,844 156,843 200,842 245,841 289,842 334,842 378,842 423,842 467,842 512,844 556,844 600,844 645,844 689,844 734,844 778,844 823,844 867,844 912,844 956,844 1001,846"/>
+                <TextEquiv>
+                    <Unicode>ment. Their school rooms are large and airy, and their cots are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="106,894 993,895 993,858 961,854 106,855"/>
+                <Baseline points="112,879 156,881 200,879 244,881 288,879 332,880 376,881 421,881 465,881 509,881 553,882 597,882 641,882 685,881 730,882 774,881 818,882 862,882 906,882 950,882 995,882"/>
+                <TextEquiv>
+                    <Unicode>ranged along the sides of the same apartment, serving as seats by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="108,938 990,929 983,895 108,896"/>
+                <Baseline points="114,919 160,919 206,919 252,919 299,918 345,917 391,918 437,919 484,919 530,919 576,919 622,919 669,919 715,920 761,920 807,919 854,920 900,921 946,921 993,919"/>
+                <TextEquiv>
+                    <Unicode>day, and couches by night. The books from which they are educat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="102,968 995,971 995,932 102,940"/>
+                <Baseline points="108,956 152,958 196,958 241,957 285,958 330,958 374,958 419,958 463,956 508,958 552,958 596,958 641,958 685,958 730,959 774,960 819,959 863,960 908,959 952,960 997,958"/>
+                <TextEquiv>
+                    <Unicode>ed are either in tlie Latin or Malayalim tongues. At the castern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="106,1008 995,1007 982,974 106,978"/>
+                <Baseline points="112,995 156,995 200,995 244,997 289,995 333,997 377,995 421,995 466,997 510,997 554,997 598,997 643,997 687,997 731,997 775,997 820,997 864,999 908,997 952,997 997,999"/>
+                <TextEquiv>
+                    <Unicode>end of the same pile of buildings is the refectory, the upper room</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="102,1037 995,1049 995,1007 102,1009"/>
+                <Baseline points="108,1033 152,1034 196,1035 241,1035 285,1035 330,1034 374,1033 419,1033 463,1033 508,1035 552,1035 596,1035 641,1035 685,1035 730,1035 774,1035 819,1035 863,1035 908,1035 952,1035 997,1037"/>
+                <TextEquiv>
+                    <Unicode>being appropriated by the Vicar and the other Europeans : and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="99,1086 817,1087 817,1050 150,1056 99,1038"/>
+                <Baseline points="106,1074 141,1072 177,1073 213,1074 248,1074 284,1074 320,1074 355,1073 391,1074 427,1074 463,1072 498,1073 534,1074 570,1074 605,1074 641,1074 677,1074 712,1074 748,1074 784,1074 820,1076"/>
+                <TextEquiv>
+                    <Unicode>lower by the native Clergy, who also live in this range.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="133,1129 990,1126 990,1087 852,1080 133,1088"/>
+                <Baseline points="139,1111 181,1111 224,1111 267,1112 309,1111 352,1112 395,1113 437,1111 480,1111 523,1111 566,1112 608,1111 651,1113 694,1113 736,1113 779,1113 822,1112 864,1113 907,1113 950,1113 993,1113"/>
+                <TextEquiv>
+                    <Unicode>There does not appear to be any distinct library, but the Vicar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="98,1167 995,1166 995,1132 935,1120 98,1131"/>
+                <Baseline points="104,1152 148,1152 193,1152 237,1151 282,1150 327,1150 371,1152 416,1151 461,1150 505,1150 550,1151 595,1152 639,1150 684,1152 729,1152 773,1150 818,1152 863,1152 907,1152 952,1152 997,1154"/>
+                <TextEquiv>
+                    <Unicode>Apostolic, or Bishop, possesses some excellent works, and others</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="99,1202 995,1200 995,1164 99,1167"/>
+                <Baseline points="106,1190 150,1190 195,1190 239,1188 284,1188 328,1188 373,1188 417,1188 462,1188 506,1188 551,1188 596,1188 640,1189 685,1190 729,1190 774,1188 818,1188 863,1188 907,1190 952,1188 997,1190"/>
+                <TextEquiv>
+                    <Unicode>especially those written by the Carmelite Friars, may be seen in most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="99,1235 992,1235 969,1198 99,1208"/>
+                <Baseline points="106,1229 150,1227 194,1227 239,1227 283,1229 328,1228 372,1227 417,1226 461,1227 506,1227 550,1227 594,1227 639,1227 683,1227 728,1227 772,1227 817,1227 861,1227 906,1228 950,1227 995,1229"/>
+                <TextEquiv>
+                    <Unicode>of tlie rooms. Some Protestant works are scattered about, labelled</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="98,1268 801,1278 801,1246 748,1237 98,1244"/>
+                <Baseline points="104,1258 140,1264 177,1267 214,1266 251,1266 287,1266 324,1266 361,1266 398,1264 435,1266 471,1266 508,1268 545,1266 582,1266 619,1266 655,1266 692,1266 729,1266 766,1266 803,1268"/>
+                <TextEquiv>
+                    <Unicode>“heretical,” but they do not appear to be prohibited.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="131,1313 988,1314 988,1276 131,1280"/>
+                <Baseline points="137,1305 179,1304 222,1303 265,1305 307,1305 350,1305 393,1305 435,1305 478,1305 521,1305 564,1305 606,1305 649,1305 692,1305 734,1305 777,1305 820,1304 862,1305 905,1305 948,1305 991,1305"/>
+                <TextEquiv>
+                    <Unicode>The Bishop and the European Carmelites are dressed in suits of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="94,1354 987,1358 987,1322 940,1315 94,1328"/>
+                <Baseline points="100,1343 144,1343 188,1343 233,1342 277,1343 322,1343 366,1343 411,1343 455,1343 500,1343 544,1343 588,1343 633,1343 677,1343 722,1343 766,1343 811,1341 855,1343 900,1343 944,1343 989,1343"/>
+                <TextEquiv>
+                    <Unicode>chocolate colour, the native Clergy in black, and those under train¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="94,1387 987,1390 980,1358 94,1356"/>
+                <Baseline points="100,1382 144,1381 188,1380 233,1380 277,1380 322,1380 366,1380 411,1380 455,1380 500,1380 544,1381 588,1382 633,1382 677,1382 722,1381 766,1382 811,1382 855,1382 900,1382 944,1382 989,1382"/>
+                <TextEquiv>
+                    <Unicode>ing in white. Their mode of life appcars very simple, and the effect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="99,1438 703,1433 703,1398 679,1391 99,1401"/>
+                <Baseline points="106,1425 136,1420 166,1419 196,1419 226,1419 256,1419 286,1419 316,1419 346,1419 376,1419 406,1419 436,1419 466,1419 496,1419 526,1419 556,1419 586,1419 616,1419 646,1419 676,1419 706,1419"/>
+                <TextEquiv>
+                    <Unicode>produced on the native mind is no doubt good.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="125,1471 987,1471 987,1433 924,1430 125,1435"/>
+                <Baseline points="131,1458 173,1458 216,1458 259,1458 302,1458 345,1458 388,1458 431,1458 474,1458 517,1458 560,1458 602,1458 645,1458 688,1458 731,1459 774,1459 817,1459 860,1459 903,1459 946,1458 989,1458"/>
+                <TextEquiv>
+                    <Unicode>The private rooms of the Bishop are nearly as plain as tlie rest of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="94,1505 990,1508 990,1478 952,1470 94,1472"/>
+                <Baseline points="100,1496 144,1495 189,1496 233,1496 278,1496 323,1496 367,1496 412,1495 457,1495 501,1496 546,1496 591,1496 635,1496 680,1496 725,1496 769,1496 814,1496 859,1496 903,1496 948,1498 993,1500"/>
+                <TextEquiv>
+                    <Unicode>the building. Altogether a visit to this place gives an impression that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="94,1550 985,1550 985,1510 907,1506 94,1508"/>
+                <Baseline points="100,1533 144,1534 188,1535 233,1535 277,1535 321,1535 366,1535 410,1534 454,1533 499,1535 543,1535 587,1535 632,1535 676,1535 720,1535 765,1535 809,1535 853,1535 898,1535 942,1535 987,1535"/>
+                <TextEquiv>
+                    <Unicode>these men could only leave their country and their friends to toil in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="89,1582 985,1587 985,1550 89,1552"/>
+                <Baseline points="96,1572 140,1574 185,1574 229,1573 274,1574 318,1574 363,1574 407,1574 452,1574 496,1574 541,1574 586,1574 630,1574 675,1574 719,1574 764,1574 808,1574 853,1576 897,1576 942,1576 987,1572"/>
+                <TextEquiv>
+                    <Unicode>comparative poverty amongst strangers, and lay their benes in o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="89,1611 980,1632 980,1592 931,1583 89,1592"/>
+                <Baseline points="96,1610 140,1612 184,1612 229,1612 273,1610 317,1612 362,1612 406,1612 450,1610 495,1612 539,1612 583,1612 628,1612 672,1612 716,1612 761,1612 805,1612 849,1612 894,1614 938,1614 983,1612"/>
+                <TextEquiv>
+                    <Unicode>foreign land, under the firm conviction that their cause was a riglit¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="92,1663 980,1665 980,1633 895,1623 92,1628"/>
+                <Baseline points="98,1649 142,1649 186,1651 230,1651 275,1651 319,1651 363,1651 407,1651 452,1651 496,1650 540,1649 584,1649 629,1651 673,1651 717,1651 761,1651 806,1652 850,1653 894,1653 938,1653 983,1655"/>
+                <TextEquiv>
+                    <Unicode>cous one. The amount tliey receive from Europe is said to be only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="92,1700 234,1722 980,1710 966,1664 92,1667"/>
+                <Baseline points="98,1688 142,1690 186,1688 230,1690 275,1690 319,1691 363,1690 407,1690 452,1690 496,1690 540,1690 584,1689 629,1690 673,1690 717,1692 761,1692 806,1690 850,1692 894,1692 938,1692 983,1694"/>
+                <TextEquiv>
+                    <Unicode>12,000 francs a year, or about five thousand Rupees, with which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

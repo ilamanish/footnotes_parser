@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:02.374+01:00</Created>
+        <LastChange>2024-12-10T01:28:14.566+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960449" pageNr="410" tsid="211283775" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=BYCWPYLSFOUTXGPDKQRIZSGO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CYAENADVVBKYULQMBFTMPBAS" imageId="70209740"/>
+    </Metadata>
+    <Page imageFilename="0410_the_land_of_the_perumauls_page_410.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840751157" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="137,213 137,1719 1048,1719 1048,213"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="131,235 136,235 143,242 198,242 198,199 179,200 173,205 165,205 160,200 147,201 136,212 131,212"/>
+                <Baseline points="137,233 168,233 200,233"/>
+                <TextEquiv>
+                    <Unicode>800</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="507,241 547,242 552,247 557,242 571,249 645,246 665,256 665,200 647,212 631,214 624,209 582,214 574,206 529,202 507,213"/>
+                <Baseline points="514,235 539,237 565,237 590,237 616,236 641,235 667,235"/>
+                <TextEquiv>
+                    <Unicode>ETIQUETTE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="131,299 1043,306 1043,273 825,253 543,287 131,274"/>
+                <Baseline points="137,298 182,297 227,296 273,299 318,298 364,298 409,300 455,298 500,299 546,300 591,300 636,300 682,300 727,300 773,300 818,300 864,300 909,300 955,300 1000,298 1046,296"/>
+                <TextEquiv>
+                    <Unicode>it very unlucky should they not sell any article at the first house</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="131,338 1041,354 1041,321 988,308 131,313"/>
+                <Baseline points="137,337 182,336 227,337 273,338 318,337 363,338 409,337 454,337 499,339 545,339 590,339 635,339 681,339 726,339 771,339 817,339 862,339 907,337 953,337 998,339 1044,339"/>
+                <TextEquiv>
+                    <Unicode>they visit in a day, and would rather dispose of something at a loss,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="134,384 212,395 280,381 399,384 432,397 457,389 457,361 445,355 355,362 325,347 247,356 235,346 185,359 173,347 134,347"/>
+                <Baseline points="141,374 167,376 194,376 220,376 247,376 273,375 300,375 326,377 353,378 379,378 406,378 432,378 459,380"/>
+                <TextEquiv>
+                    <Unicode>than part with nothing.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="167,422 1040,427 1008,387 167,389"/>
+                <Baseline points="174,408 217,416 260,414 304,416 347,416 391,417 434,416 477,418 521,418 564,418 608,418 651,418 694,418 738,418 781,416 825,416 868,417 911,416 955,416 998,416 1042,414"/>
+                <TextEquiv>
+                    <Unicode>The Syrians are as superstitious in their way, as the Hindus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="134,464 1045,460 1045,429 934,425 134,429"/>
+                <Baseline points="141,453 186,454 231,455 277,454 322,455 367,455 413,455 458,457 503,457 549,455 594,456 639,457 685,457 730,457 775,457 821,455 866,457 911,457 957,456 1002,455 1048,453"/>
+                <TextEquiv>
+                    <Unicode>One of tlieir most extraordinary ceremonies, consists in poking out</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="134,495 1045,498 929,464 134,469"/>
+                <Baseline points="141,492 186,492 231,490 277,493 322,494 367,494 413,494 458,494 503,496 549,496 594,496 639,496 685,496 730,494 775,495 821,494 866,494 911,494 957,493 1002,492 1048,492"/>
+                <TextEquiv>
+                    <Unicode>the eye of Judas Iscariot. On good Friday, a cake on which is a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="134,536 1041,538 1021,506 927,502 134,519"/>
+                <Baseline points="141,532 186,532 231,532 276,533 321,533 366,533 411,533 457,533 502,534 547,535 592,534 637,535 682,535 727,533 773,533 818,533 863,533 908,532 953,532 998,532 1044,528"/>
+                <TextEquiv>
+                    <Unicode>representation of an eye, is placed in the midst of the family circle-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="134,574 1037,585 1021,538 358,562 134,539"/>
+                <Baseline points="141,567 188,569 235,569 282,569 330,570 377,571 424,571 472,571 519,571 566,572 614,573 661,571 708,571 756,571 803,571 850,571 898,571 945,569 992,569 1040,571"/>
+                <TextEquiv>
+                    <Unicode>Each person is armed with a knife, and in succession makes a dig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="134,617 1041,620 1012,584 134,587"/>
+                <Baseline points="141,606 186,608 231,606 276,606 321,610 366,608 411,608 457,610 502,610 547,610 592,610 637,610 682,610 727,610 773,610 818,610 863,610 908,610 953,609 998,608 1044,612"/>
+                <TextEquiv>
+                    <Unicode>at the cye : after this is satisfactorily destroyed, the cake is cut up,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="134,654 232,657 245,667 263,656 358,665 358,620 295,629 281,617 240,629 226,618 134,627"/>
+                <Baseline points="141,645 168,647 196,647 223,645 251,645 278,645 306,645 333,646 361,649"/>
+                <TextEquiv>
+                    <Unicode>and distributed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="172,703 1041,692 1041,659 921,653 172,667"/>
+                <Baseline points="178,687 221,686 264,687 307,687 350,687 394,689 437,689 480,689 523,689 566,689 610,689 653,689 696,688 739,687 782,688 826,689 869,687 912,687 955,687 998,687 1042,687"/>
+                <TextEquiv>
+                    <Unicode>One sect were said not long since, once a year, to have had their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="134,729 1040,731 1040,695 134,710"/>
+                <Baseline points="141,724 186,725 231,724 276,726 321,726 366,726 411,726 456,726 501,728 546,728 591,728 636,726 681,727 726,726 771,726 816,726 861,726 906,726 951,726 996,726 1042,726"/>
+                <TextEquiv>
+                    <Unicode>sins written out on a piece of paper, by a Catanar, and then placed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="139,768 1043,770 1043,739 139,735"/>
+                <Baseline points="145,763 190,765 235,765 280,764 325,765 370,765 415,765 460,765 505,765 550,767 595,767 640,765 685,765 730,765 775,765 820,765 865,765 910,765 955,765 1000,763 1046,763"/>
+                <TextEquiv>
+                    <Unicode>inside a loaded bamboo gun, and discharged in the midst of a great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="139,808 1043,810 1026,777 139,780"/>
+                <Baseline points="145,802 190,802 235,802 280,804 325,803 370,804 415,804 460,804 505,804 550,804 595,804 640,804 685,804 730,804 775,804 820,804 865,804 910,804 955,806 1000,803 1046,800"/>
+                <TextEquiv>
+                    <Unicode>feast : the uproar thus effectually dissipating, and destroying, their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="142,858 1040,845 1040,821 935,814 142,819"/>
+                <Baseline points="149,844 193,842 238,843 282,844 327,844 372,844 416,844 461,844 506,844 550,844 595,844 640,844 684,844 729,844 774,844 818,843 863,844 908,844 952,844 997,843 1042,840"/>
+                <TextEquiv>
+                    <Unicode>year’s accumulation of misdemeanours. It is not unusual to per¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="141,886 1039,899 1023,852 141,859"/>
+                <Baseline points="147,881 191,879 236,880 280,881 325,883 370,883 414,883 459,883 504,883 548,883 593,883 638,883 682,883 727,883 772,883 816,882 861,883 906,883 950,883 995,883 1040,879"/>
+                <TextEquiv>
+                    <Unicode>ceive the skull of an animal, raised on a stick in a Christian’s paddy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="142,928 1040,927 1027,900 893,892 142,892"/>
+                <Baseline points="149,920 193,920 238,920 282,920 327,921 372,922 416,922 461,921 506,922 550,922 595,922 640,921 684,922 729,922 774,922 818,922 863,920 908,921 952,922 997,920 1042,918"/>
+                <TextEquiv>
+                    <Unicode>field to avert the evil eye, in the same way as in those of the sur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="134,968 1043,970 1043,934 134,938"/>
+                <Baseline points="141,958 186,958 231,960 276,960 322,960 367,960 412,961 457,960 503,960 548,961 593,961 638,961 684,961 729,961 774,960 819,960 865,960 910,960 955,960 1000,960 1046,960"/>
+                <TextEquiv>
+                    <Unicode>rounding Hindus; and very many of their superstitious rites, are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="141,1003 154,1003 162,1010 184,1002 200,1010 264,1010 263,977 225,973 199,983 184,981 168,970 141,975"/>
+                <Baseline points="147,995 176,997 206,997 236,997 266,999"/>
+                <TextEquiv>
+                    <Unicode>identical.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="180,1049 1041,1050 1026,1012 817,996 488,1027 180,1006"/>
+                <Baseline points="186,1036 228,1036 271,1036 314,1037 357,1038 400,1038 443,1038 486,1038 529,1038 572,1038 615,1038 657,1038 700,1038 743,1036 786,1038 829,1038 872,1038 915,1038 958,1038 1001,1036 1044,1038"/>
+                <TextEquiv>
+                    <Unicode>Of course atmospheric disturbances are viewed with great awe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="136,1082 1040,1083 1040,1051 136,1061"/>
+                <Baseline points="143,1075 190,1074 237,1075 284,1075 332,1076 379,1075 426,1075 474,1075 521,1077 568,1076 616,1077 663,1077 710,1077 758,1077 805,1076 852,1077 900,1077 947,1077 994,1077 1042,1077"/>
+                <TextEquiv>
+                    <Unicode>an eclipse is believed by the vulgar to be one of their two bad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="131,1116 1040,1123 1040,1094 925,1082 131,1097"/>
+                <Baseline points="137,1109 182,1114 227,1113 272,1114 318,1115 363,1115 408,1115 453,1116 499,1116 544,1117 589,1117 634,1117 680,1117 725,1117 770,1117 815,1117 861,1117 906,1117 951,1117 996,1117 1042,1115"/>
+                <TextEquiv>
+                    <Unicode>aspirits, swallowing the sun or moon. A comet, is supposed to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="142,1163 1035,1163 1010,1123 142,1124"/>
+                <Baseline points="149,1152 193,1152 237,1154 282,1153 326,1154 371,1154 415,1154 460,1154 504,1154 549,1156 593,1156 637,1156 682,1158 726,1156 771,1156 815,1156 860,1154 904,1156 949,1156 993,1156 1038,1154"/>
+                <TextEquiv>
+                    <Unicode>foretel disasters, a dear scason, or a frightful sickness : and light¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="142,1206 1043,1210 1043,1170 142,1166"/>
+                <Baseline points="149,1191 193,1191 238,1191 283,1193 328,1191 373,1193 418,1193 462,1194 507,1195 552,1194 597,1195 642,1195 687,1194 732,1193 776,1195 821,1195 866,1194 911,1195 956,1193 1001,1195 1046,1195"/>
+                <TextEquiv>
+                    <Unicode>ning with its attendant thunder, is believed to be tlie gods waging</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="144,1247 1042,1249 1015,1205 144,1216"/>
+                <Baseline points="151,1230 195,1230 240,1232 284,1232 329,1232 374,1232 418,1230 463,1232 508,1234 552,1232 597,1234 642,1233 686,1232 731,1233 776,1234 820,1234 865,1233 910,1234 954,1234 999,1232 1044,1234"/>
+                <TextEquiv>
+                    <Unicode>war in Heaven, or elsewhere, whilst the Mahomedans assert, the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="139,1284 1043,1283 1019,1242 139,1248"/>
+                <Baseline points="145,1270 190,1271 235,1272 280,1271 325,1272 370,1272 415,1272 460,1272 505,1272 550,1272 595,1273 640,1272 685,1273 730,1274 775,1274 820,1274 865,1273 910,1274 955,1274 1000,1272 1046,1274"/>
+                <TextEquiv>
+                    <Unicode>shooting stars to be missiles, discharged by angels, at evil spirits,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="151,1322 796,1320 796,1293 768,1282 151,1287"/>
+                <Baseline points="157,1309 189,1309 221,1311 253,1311 285,1310 317,1310 349,1311 381,1310 413,1309 445,1311 478,1311 510,1311 542,1311 574,1313 606,1311 638,1312 670,1313 702,1312 734,1311 766,1311 799,1313"/>
+                <TextEquiv>
+                    <Unicode>who are listening to what is going on in Heaven.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="176,1356 1040,1357 1040,1324 176,1322"/>
+                <Baseline points="182,1346 225,1348 268,1348 311,1348 354,1350 397,1350 440,1348 483,1350 526,1350 569,1350 612,1350 655,1350 698,1350 741,1350 784,1350 827,1350 870,1350 913,1350 956,1351 999,1350 1042,1352"/>
+                <TextEquiv>
+                    <Unicode>Etiquette is a subject deserving of a few remarks, those in power</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="142,1395 1043,1401 983,1358 142,1363"/>
+                <Baseline points="149,1387 193,1388 238,1389 283,1388 328,1389 373,1388 418,1389 462,1389 507,1389 552,1389 597,1389 642,1389 687,1389 732,1389 776,1389 821,1389 866,1389 911,1389 956,1389 1001,1389 1046,1391"/>
+                <TextEquiv>
+                    <Unicode>have at various times attempted to break through its regulations,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="142,1438 1043,1440 1043,1408 942,1397 142,1406"/>
+                <Baseline points="149,1425 193,1427 238,1427 283,1427 328,1429 373,1427 418,1427 462,1429 507,1427 552,1429 597,1429 642,1429 687,1429 732,1429 776,1429 821,1429 866,1429 911,1429 956,1429 1001,1429 1046,1427"/>
+                <TextEquiv>
+                    <Unicode>but unsuccessfully. He who disregards its observances, is liable to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="147,1480 1040,1473 1025,1438 147,1438"/>
+                <Baseline points="153,1464 197,1466 241,1466 286,1466 330,1466 375,1467 419,1468 464,1468 508,1468 553,1468 597,1468 641,1468 686,1468 730,1468 775,1468 819,1468 864,1468 908,1468 953,1468 997,1468 1042,1466"/>
+                <TextEquiv>
+                    <Unicode>be disrespectfully treated in public, and laughed at in private. Al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="144,1521 1045,1513 1045,1481 975,1474 144,1478"/>
+                <Baseline points="151,1503 195,1505 240,1505 285,1505 330,1505 375,1505 420,1505 464,1506 509,1507 554,1507 599,1507 644,1505 689,1507 734,1507 778,1507 823,1505 868,1506 913,1505 958,1506 1003,1507 1048,1505"/>
+                <TextEquiv>
+                    <Unicode>though to many Europeans, it may appear absurd to insist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="142,1547 1043,1555 1043,1514 142,1529"/>
+                <Baseline points="149,1543 193,1545 238,1545 283,1545 328,1545 373,1545 418,1545 462,1546 507,1547 552,1546 597,1547 642,1547 687,1546 732,1547 776,1545 821,1545 866,1545 911,1545 956,1546 1001,1545 1046,1545"/>
+                <TextEquiv>
+                    <Unicode>upon Natives, from a Prince to a Cooly, removing their shoes when</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="142,1598 1043,1603 1043,1561 967,1553 142,1569"/>
+                <Baseline points="149,1582 193,1584 238,1584 283,1584 328,1584 373,1584 418,1584 462,1584 507,1584 552,1585 597,1584 642,1586 687,1584 732,1584 776,1584 821,1584 866,1585 911,1584 956,1585 1001,1586 1046,1584"/>
+                <TextEquiv>
+                    <Unicode>entering an European house,* still all who understand the Native</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="147,1646 1041,1649 1015,1595 147,1600"/>
+                <Baseline points="153,1625 197,1623 242,1623 286,1623 331,1623 375,1623 420,1625 464,1624 509,1623 553,1623 598,1623 643,1624 687,1625 732,1625 776,1623 821,1623 865,1623 910,1623 954,1623 999,1624 1044,1625"/>
+                <TextEquiv>
+                    <Unicode>character, must admit its necessity ; they themselves originated the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="232,1692 941,1692 941,1743 232,1743"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="226,1721 919,1715 918,1678 226,1686"/>
+                <Baseline points="233,1702 267,1709 301,1709 336,1709 370,1709 405,1709 439,1709 474,1709 508,1709 543,1709 577,1709 611,1709 646,1709 680,1709 715,1709 749,1709 784,1709 818,1709 853,1709 887,1709 922,1709"/>
+                <TextEquiv>
+                    <Unicode>* In some places, Shroffs, have been excepted from this rule.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

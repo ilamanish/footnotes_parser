@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:19:59.038+01:00</Created>
+        <LastChange>2024-12-10T01:21:19.639+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960408" pageNr="373" tsid="211283547" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=EAVTMXMBTOMDNCPQASQVEFFU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XZZZCZVWJITIYUSXTRMJCYAN" imageId="70209680"/>
+    </Metadata>
+    <Page imageFilename="0373_the_land_of_the_perumauls_page_373.jpg" imageWidth="1178" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840728535" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="109,231 109,1759 1013,1759 1013,231"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="941,273 953,273 956,270 970,272 974,270 978,273 982,270 987,274 995,266 1004,266 1006,226 986,228 971,219 943,220"/>
+                <Baseline points="948,253 977,253 1007,251"/>
+                <TextEquiv>
+                    <Unicode>353</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="337,265 456,283 526,261 641,280 780,269 780,230 754,227 430,236 387,218 337,233"/>
+                <Baseline points="343,253 368,255 394,255 420,255 446,255 472,255 498,255 524,255 550,255 575,255 601,253 627,253 653,254 679,255 705,254 731,253 757,255 783,253"/>
+                <TextEquiv>
+                    <Unicode>BRITISH RELATIONS WITH JEWS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="105,335 1006,334 980,278 105,294"/>
+                <Baseline points="111,316 155,320 200,320 245,318 290,316 335,318 380,318 425,317 470,318 515,319 560,320 604,320 649,320 694,320 739,320 784,320 829,319 874,318 919,320 964,320 1009,320"/>
+                <TextEquiv>
+                    <Unicode>upon them by the Portuguese, for having assisted the Dutch, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="107,366 1002,370 975,329 107,334"/>
+                <Baseline points="113,359 157,359 202,359 246,357 291,357 336,357 380,355 425,356 469,359 514,357 559,359 603,359 648,359 692,359 737,359 782,358 826,359 871,358 915,359 960,358 1005,357"/>
+                <TextEquiv>
+                    <Unicode>their first attack upon Cochin. But after this date prosperity again</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="105,410 1006,415 996,369 105,381"/>
+                <Baseline points="111,398 155,398 200,397 245,396 290,396 335,394 380,396 425,396 470,396 515,396 560,396 604,398 649,396 694,396 739,396 784,396 829,396 874,396 919,394 964,397 1009,396"/>
+                <TextEquiv>
+                    <Unicode>dawned upon them, and a leading member of the community had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="107,447 995,451 995,417 953,409 107,414"/>
+                <Baseline points="113,435 157,436 201,435 245,434 289,435 334,434 378,435 422,435 466,435 510,435 555,437 599,437 643,437 687,435 731,435 776,435 820,435 864,435 908,437 952,435 997,431"/>
+                <TextEquiv>
+                    <Unicode>the title of Modeliar conferred upon him, whilst one rich family</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="119,493 1000,481 970,447 119,447"/>
+                <Baseline points="125,473 168,475 212,475 256,474 300,473 344,473 388,471 432,474 476,475 520,475 564,475 607,475 651,477 695,475 739,475 783,474 827,473 871,475 915,475 959,475 1003,473"/>
+                <TextEquiv>
+                    <Unicode>(Ezekiel,) acted a very important part, in contracting their treaties</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="109,527 1005,528 964,483 109,488"/>
+                <Baseline points="115,510 159,514 204,514 248,514 293,512 338,513 382,514 427,513 471,514 516,514 561,512 605,514 650,514 694,514 739,514 784,513 828,514 873,513 917,514 962,514 1007,512"/>
+                <TextEquiv>
+                    <Unicode>with the Samorin, the Travancore or Ram Rajah, and others. The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="109,560 1007,563 982,526 109,529"/>
+                <Baseline points="115,551 159,551 204,551 249,551 293,551 338,550 383,549 427,551 472,551 517,551 562,551 606,552 651,553 696,553 740,551 785,551 830,551 874,551 919,551 964,553 1009,555"/>
+                <TextEquiv>
+                    <Unicode>better class of Jews, were received in the best society of Cochin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="107,598 1006,606 1006,565 107,575"/>
+                <Baseline points="113,588 157,590 202,590 247,590 292,590 337,590 381,588 426,588 471,588 516,590 561,590 605,590 650,590 695,590 740,590 785,590 829,590 874,590 919,590 964,590 1009,592"/>
+                <TextEquiv>
+                    <Unicode>where the wealthier possessed houses. In 1685, an immigration of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="115,641 1005,642 1005,606 115,605"/>
+                <Baseline points="121,630 165,630 209,630 253,628 298,628 342,629 386,630 431,630 475,630 519,630 564,632 608,630 652,630 696,630 741,628 785,629 829,630 874,630 918,632 962,632 1007,630"/>
+                <TextEquiv>
+                    <Unicode>White Jews occurred from Amsterdam, and subsequently others joined</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="107,687 1006,687 988,645 107,647"/>
+                <Baseline points="113,665 157,669 202,667 247,667 292,667 337,666 381,667 426,667 471,669 516,669 561,669 605,667 650,669 695,669 740,669 785,669 829,669 874,669 919,669 964,669 1009,673"/>
+                <TextEquiv>
+                    <Unicode>themfrom Palestine, Persia, Bagdad, Egypt, England, Poland, Germany,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="107,720 136,732 180,718 533,719 533,685 469,678 385,691 107,687"/>
+                <Baseline points="113,706 139,704 165,705 192,706 218,706 244,704 271,704 297,706 324,706 350,706 376,706 403,706 429,706 455,706 482,706 508,706 535,700"/>
+                <TextEquiv>
+                    <Unicode>especially Frankfort, and Spain.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="139,753 1006,753 1005,719 939,712 139,725"/>
+                <Baseline points="145,746 188,746 231,744 274,744 317,744 361,745 404,746 447,745 490,746 533,746 577,746 620,746 663,746 706,746 749,746 793,746 836,746 879,746 922,746 965,746 1009,748"/>
+                <TextEquiv>
+                    <Unicode>It may be asked, what the British since their advent to Cochin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="105,800 1005,794 980,755 105,755"/>
+                <Baseline points="111,783 155,783 200,783 245,783 290,783 335,785 379,783 424,783 469,781 514,784 559,785 603,785 648,785 693,785 738,783 783,783 827,785 872,785 917,785 962,785 1007,781"/>
+                <TextEquiv>
+                    <Unicode>have done for the Jews? First came the Rev. C. Buchanan, who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="107,832 996,835 996,797 107,801"/>
+                <Baseline points="113,822 157,823 201,822 245,822 290,822 334,822 378,822 423,822 467,822 511,824 556,824 600,824 644,822 688,823 733,822 777,822 821,824 866,822 910,824 954,824 999,824"/>
+                <TextEquiv>
+                    <Unicode>interested himself greatly, both in the people and their records</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="109,874 1005,879 1005,845 965,835 109,846"/>
+                <Baseline points="115,861 159,861 204,860 248,861 293,861 338,861 382,861 427,861 471,861 516,862 561,863 605,861 650,861 694,861 739,861 784,861 828,861 873,862 917,863 962,862 1007,856"/>
+                <TextEquiv>
+                    <Unicode>many of which last he obtained, and removed to Europe, where they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="105,905 1005,911 971,873 105,883"/>
+                <Baseline points="111,901 155,899 200,901 245,899 290,901 335,899 379,900 424,901 469,901 514,901 559,901 603,900 648,901 693,898 738,901 783,899 827,901 872,901 917,901 962,901 1007,899"/>
+                <TextEquiv>
+                    <Unicode>are still regarded with wonder and interest. In his “ Christian Re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="107,950 1002,961 987,911 107,915"/>
+                <Baseline points="113,938 157,938 202,938 246,937 291,938 336,937 380,938 425,938 469,938 514,940 559,940 603,940 648,940 692,938 737,938 782,939 826,940 871,940 915,940 960,940 1005,938"/>
+                <TextEquiv>
+                    <Unicode>searches,” may be found an account of all he gleaned respecting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="107,987 1006,986 965,947 107,955"/>
+                <Baseline points="113,977 157,977 202,975 247,977 292,975 337,975 381,975 426,977 471,975 516,976 561,977 605,977 650,977 695,977 740,977 785,977 829,977 874,977 919,977 964,979 1009,979"/>
+                <TextEquiv>
+                    <Unicode>them. At the Black Jews’ Synagogue, he found many manuscripts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="111,1030 1005,1025 986,987 111,988"/>
+                <Baseline points="117,1013 161,1017 206,1017 250,1016 295,1017 339,1017 384,1017 428,1017 473,1017 517,1018 562,1017 606,1017 651,1017 695,1017 740,1017 784,1017 829,1017 873,1017 918,1018 962,1018 1007,1015"/>
+                <TextEquiv>
+                    <Unicode>written on parchments, goat’s skin, and cotton paper, many of these he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="111,1070 1010,1070 1010,1026 968,1048 111,1030"/>
+                <Baseline points="117,1056 161,1056 206,1056 251,1054 296,1054 341,1056 385,1054 430,1055 475,1054 520,1056 565,1056 609,1056 654,1056 699,1054 744,1054 789,1056 833,1056 878,1056 923,1056 968,1056 1013,1056"/>
+                <TextEquiv>
+                    <Unicode>purchased, or rather procured, notwithstanding the resistance of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="109,1102 687,1104 687,1070 546,1084 109,1070"/>
+                <Baseline points="115,1093 143,1093 172,1092 201,1092 229,1093 258,1093 287,1093 315,1093 344,1093 373,1093 402,1093 430,1093 459,1093 488,1093 516,1093 545,1093 574,1093 602,1093 631,1093 660,1093 689,1091"/>
+                <TextEquiv>
+                    <Unicode>the greatest part of the Jews, and their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="693,1105 850,1110 899,1097 942,1102 954,1115 1005,1106 1005,1071 977,1068 937,1084 911,1068 891,1082 841,1069 760,1077 716,1068 693,1078"/>
+                <Baseline points="700,1091 725,1093 751,1093 776,1094 802,1095 827,1094 853,1093 879,1095 904,1095 930,1093 955,1094 981,1095 1007,1093"/>
+                <TextEquiv>
+                    <Unicode>disinclination to part</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="111,1142 662,1143 662,1105 535,1102 509,1122 437,1104 369,1123 340,1105 111,1110"/>
+                <Baseline points="117,1130 144,1132 171,1132 199,1132 226,1132 254,1132 281,1132 308,1132 336,1131 363,1131 391,1131 418,1130 445,1132 473,1132 500,1130 528,1132 555,1132 582,1132 610,1132 637,1132 665,1130"/>
+                <TextEquiv>
+                    <Unicode>with the legends of their forefathers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="696,1138 741,1142 761,1130 801,1144 834,1134 908,1153 927,1141 1005,1145 1005,1118 959,1119 921,1102 897,1117 839,1109 823,1122 805,1107 757,1122 694,1106"/>
+                <Baseline points="702,1130 727,1130 752,1130 778,1131 803,1131 829,1131 854,1134 879,1134 905,1132 930,1132 956,1132 981,1133 1007,1134"/>
+                <TextEquiv>
+                    <Unicode>But he managed to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="107,1182 995,1187 995,1153 959,1144 107,1154"/>
+                <Baseline points="113,1170 157,1170 201,1170 245,1170 289,1170 334,1170 378,1170 422,1170 466,1170 510,1172 555,1172 599,1172 643,1172 687,1171 731,1170 776,1170 820,1172 864,1172 908,1174 952,1174 997,1172"/>
+                <TextEquiv>
+                    <Unicode>escape from Jew’s town with his prize, and by the aid of money</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="107,1218 1006,1219 1006,1188 968,1182 107,1183"/>
+                <Baseline points="113,1207 157,1209 202,1209 247,1209 292,1211 337,1209 381,1207 426,1209 471,1211 516,1210 561,1209 605,1209 650,1211 695,1209 740,1211 785,1209 829,1209 874,1211 919,1211 964,1213 1009,1209"/>
+                <TextEquiv>
+                    <Unicode>and the assistance of the Magistrate, it was finally agreed, that he</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="109,1259 292,1255 429,1274 488,1259 488,1235 398,1218 210,1235 193,1222 130,1219 109,1234"/>
+                <Baseline points="115,1248 140,1248 165,1248 190,1248 215,1248 240,1248 265,1248 290,1248 315,1248 340,1247 365,1246 390,1247 415,1248 440,1248 465,1250 490,1248"/>
+                <TextEquiv>
+                    <Unicode>should retain many of them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_44" custom="readingOrder {index:29;}">
+                <Coords points="503,1761 551,1761 557,1754 579,1754 579,1713 562,1718 554,1725 538,1725 534,1722 526,1725 503,1725"/>
+                <Baseline points="510,1749 545,1749 581,1749"/>
+                <TextEquiv>
+                    <Unicode>w 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="102,1295 1035,1295 1035,1739 102,1739"/>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:0;}">
+                <Coords points="133,1319 1002,1331 1002,1289 133,1292"/>
+                <Baseline points="139,1309 182,1317 225,1317 268,1318 312,1319 355,1319 398,1319 442,1319 485,1319 528,1319 572,1319 615,1319 658,1319 701,1319 745,1319 788,1319 831,1320 875,1319 918,1321 961,1321 1005,1321"/>
+                <TextEquiv>
+                    <Unicode>* Observers have remarked upon the White Jews, having existed many</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:1;}">
+                <Coords points="109,1360 1001,1362 1001,1331 886,1325 109,1332"/>
+                <Baseline points="115,1350 159,1348 203,1346 248,1348 292,1348 337,1349 381,1348 425,1349 470,1350 514,1350 559,1350 603,1350 647,1350 692,1349 736,1350 781,1350 825,1350 869,1349 914,1352 958,1351 1003,1354"/>
+                <TextEquiv>
+                    <Unicode>centuries in the Cochin State, and have argued, that this affords a proof,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:2;}">
+                <Coords points="112,1386 1002,1391 1002,1361 863,1355 112,1360"/>
+                <Baseline points="119,1380 163,1380 207,1378 251,1379 296,1380 340,1379 384,1380 429,1380 473,1380 517,1380 562,1380 606,1380 650,1382 694,1381 739,1380 783,1380 827,1380 872,1380 916,1382 960,1382 1005,1382"/>
+                <TextEquiv>
+                    <Unicode>that European blood, unmixed with that of the Native races, can be continued</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:3;}">
+                <Coords points="107,1417 1005,1425 1005,1391 945,1388 107,1389"/>
+                <Baseline points="113,1411 157,1409 202,1410 247,1410 291,1408 336,1409 381,1409 425,1409 470,1411 515,1411 560,1411 604,1411 649,1411 694,1411 738,1411 783,1411 828,1409 872,1411 917,1411 962,1412 1007,1409"/>
+                <TextEquiv>
+                    <Unicode>through many generations. But it is nothing of the sort, it is the best test</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:4;}">
+                <Coords points="107,1449 999,1459 999,1428 880,1417 107,1426"/>
+                <Baseline points="113,1441 157,1441 201,1441 246,1441 290,1441 335,1441 379,1441 423,1441 468,1441 512,1442 557,1443 601,1443 645,1443 690,1442 734,1441 779,1441 823,1441 867,1442 912,1443 956,1443 1001,1443"/>
+                <TextEquiv>
+                    <Unicode>that could be adduced to the contrary, (admitting them to be pure Europeans,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:5;}">
+                <Coords points="111,1479 1004,1482 957,1452 111,1454"/>
+                <Baseline points="117,1472 161,1471 205,1470 250,1471 294,1470 339,1470 383,1472 427,1472 472,1470 516,1472 561,1472 605,1472 649,1472 694,1472 738,1472 783,1472 827,1472 871,1472 916,1474 960,1474 1005,1474"/>
+                <TextEquiv>
+                    <Unicode>which they are not.) The pure White Jews have never been able to continue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:6;}">
+                <Coords points="109,1514 998,1511 972,1482 109,1484"/>
+                <Baseline points="115,1501 159,1501 203,1501 247,1501 292,1501 336,1499 380,1501 425,1501 469,1501 513,1503 558,1503 602,1503 646,1503 690,1503 735,1503 779,1503 823,1503 868,1501 912,1503 956,1503 1001,1505"/>
+                <TextEquiv>
+                    <Unicode>their race without the aid of immigrants from other places, and before this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:7;}">
+                <Coords points="109,1547 1001,1553 1001,1516 955,1510 109,1516"/>
+                <Baseline points="115,1533 159,1532 203,1531 248,1532 292,1531 337,1532 381,1531 425,1533 470,1531 514,1534 559,1533 603,1533 647,1533 692,1533 736,1533 781,1532 825,1533 869,1533 914,1535 958,1535 1003,1535"/>
+                <TextEquiv>
+                    <Unicode>question was ever mooted, Governor Moen’s remarked, that the White Jews</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:8;}">
+                <Coords points="107,1575 999,1578 999,1551 939,1540 107,1546"/>
+                <Baseline points="113,1562 157,1562 201,1562 246,1562 290,1562 335,1562 379,1562 423,1562 468,1562 512,1563 557,1564 601,1564 645,1564 690,1564 734,1562 779,1562 823,1564 867,1564 912,1564 956,1566 1001,1564"/>
+                <TextEquiv>
+                    <Unicode>were continued, owing to constant admixture with new blood. So it is now,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:9;}">
+                <Coords points="109,1602 1001,1605 973,1571 109,1574"/>
+                <Baseline points="115,1596 159,1594 203,1592 248,1594 292,1594 337,1593 381,1592 425,1594 470,1594 514,1594 559,1594 603,1595 647,1596 692,1595 736,1594 781,1594 825,1594 869,1594 914,1594 958,1597 1003,1598"/>
+                <TextEquiv>
+                    <Unicode>none of upwards of three generations, born in the country, of pure white</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:10;}">
+                <Coords points="107,1634 1000,1636 1000,1606 926,1602 107,1605"/>
+                <Baseline points="113,1623 157,1624 202,1623 246,1624 291,1623 335,1623 380,1623 424,1623 469,1623 513,1625 558,1625 602,1625 647,1625 691,1625 736,1623 780,1624 825,1623 869,1624 914,1625 958,1627 1003,1629"/>
+                <TextEquiv>
+                    <Unicode>blood on both father’s and mother’s side, can be detected. The plains of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:11;}">
+                <Coords points="107,1663 1000,1668 986,1636 107,1634"/>
+                <Baseline points="113,1657 157,1656 202,1655 246,1655 291,1655 335,1654 380,1655 424,1655 469,1655 513,1658 558,1657 602,1657 647,1657 691,1656 736,1655 780,1657 825,1655 869,1656 914,1657 958,1659 1003,1659"/>
+                <TextEquiv>
+                    <Unicode>India are unsuited for permanent colonization by the white races, if we are to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_42" custom="readingOrder {index:12;}">
+                <Coords points="102,1698 1006,1702 1006,1670 891,1661 102,1678"/>
+                <Baseline points="109,1686 153,1687 198,1686 243,1686 288,1686 333,1687 378,1688 423,1686 468,1688 513,1688 558,1690 602,1689 647,1688 692,1688 737,1688 782,1688 827,1688 872,1688 917,1690 962,1690 1007,1686"/>
+                <TextEquiv>
+                    <Unicode>draw conclusions from bygone facts, or reason by analogy with what is daily</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_43" custom="readingOrder {index:13;}">
+                <Coords points="115,1742 158,1745 167,1736 176,1745 279,1745 296,1734 344,1727 344,1699 330,1696 273,1706 252,1696 185,1701 171,1692 136,1693 115,1705"/>
+                <Baseline points="121,1717 149,1719 177,1719 205,1719 233,1719 261,1719 289,1719 317,1719 345,1719"/>
+                <TextEquiv>
+                    <Unicode>perceptible around.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:11.324+01:00</Created>
+        <LastChange>2024-12-10T01:46:54.051+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960531" pageNr="515" tsid="211286229" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=GFQFHJENFBIEJJULNVLTOGCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DKSXITEPQSTACMXMUTJIMKZK" imageId="70209852"/>
+    </Metadata>
+    <Page imageFilename="0515_the_land_of_the_perumauls_page_515.jpg" imageWidth="1184" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840875001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="63,226 63,1750 976,1750 976,226"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="900,253 921,259 941,258 944,255 951,259 963,258 967,220 966,218 958,221 952,221 950,218 938,220 936,216 932,221 925,217 915,225 903,220"/>
+                <Baseline points="907,250 937,250 968,246"/>
+                <TextEquiv>
+                    <Unicode>﻿495</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="357,259 396,274 506,258 557,265 592,253 665,266 675,228 546,230 523,216 478,230 357,231"/>
+                <Baseline points="363,254 389,254 415,254 441,254 467,252 493,252 519,252 545,251 571,251 597,252 623,252 649,252 676,250"/>
+                <TextEquiv>
+                    <Unicode>COLOURATION OF FISH.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="60,334 963,324 941,280 60,281"/>
+                <Baseline points="67,321 114,323 161,321 208,320 256,317 303,318 350,317 398,317 445,318 492,317 540,316 587,317 634,315 682,315 729,315 776,315 824,315 871,317 918,316 966,315"/>
+                <TextEquiv>
+                    <Unicode>Malabar. They are very bony, but are eaten by the Natives. There</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="57,374 963,367 963,323 57,336"/>
+                <Baseline points="63,361 108,361 153,359 198,359 243,361 288,359 333,359 379,359 424,359 469,357 514,357 559,355 604,357 649,356 695,357 740,356 785,355 830,356 875,357 920,357 966,355"/>
+                <TextEquiv>
+                    <Unicode>are several species, if a slight variety in the number of the fin rays</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="63,416 407,403 531,414 540,384 515,369 64,377"/>
+                <Baseline points="69,402 95,400 121,400 147,400 174,399 200,398 226,398 252,398 279,398 305,398 331,398 358,398 384,397 410,396 436,396 463,396 489,396 515,396 542,396"/>
+                <TextEquiv>
+                    <Unicode>may be taken as a distinctive mark.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="92,454 961,441 948,410 802,395 92,411"/>
+                <Baseline points="98,440 141,440 184,440 227,438 271,438 314,438 357,438 401,438 444,438 487,436 531,437 574,438 617,437 660,436 704,436 747,435 790,434 834,434 877,434 920,434 964,432"/>
+                <TextEquiv>
+                    <Unicode>Amongst the curious fishes, may be placed tlie Nandus marmora-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="60,495 963,486 963,454 846,442 60,457"/>
+                <Baseline points="67,477 114,479 161,477 208,476 256,477 303,477 350,475 398,475 445,476 492,475 540,476 587,477 634,475 682,475 729,473 776,472 824,473 871,473 918,473 966,475"/>
+                <TextEquiv>
+                    <Unicode>tus, C. V. which has an olive green body, marbled over with brown,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="57,528 961,522 961,491 796,481 57,497"/>
+                <Baseline points="63,516 108,518 153,516 198,516 243,516 288,514 333,514 378,514 423,514 468,514 513,514 558,514 603,514 648,514 693,514 738,513 783,513 828,513 873,513 918,513 964,511"/>
+                <TextEquiv>
+                    <Unicode>and fins also streaked with the same colour. It has a brassy reflec¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="59,566 965,563 965,524 59,530"/>
+                <Baseline points="65,556 110,556 155,555 200,554 245,556 290,556 335,554 381,554 426,554 471,554 516,554 561,554 606,554 651,553 697,554 742,553 787,552 832,553 877,554 922,553 968,550"/>
+                <TextEquiv>
+                    <Unicode>tion, when fresh. Its lateral line is interrupted in the posterior</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="63,607 967,599 959,566 63,566"/>
+                <Baseline points="69,595 114,595 159,594 204,593 249,595 294,595 339,594 384,593 429,593 474,593 519,593 564,593 609,593 654,593 699,593 744,591 789,591 834,591 879,593 924,592 970,593"/>
+                <TextEquiv>
+                    <Unicode>third. Its long protrusible mouth, does not add to its beauty, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="59,646 703,647 703,610 677,606 59,607"/>
+                <Baseline points="65,633 97,635 129,633 161,633 193,633 225,633 257,633 289,633 321,633 353,633 385,633 417,633 449,633 481,633 513,633 545,633 577,633 609,633 641,632 673,632 706,635"/>
+                <TextEquiv>
+                    <Unicode>no doubt is very serviceable in catching its prey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="92,686 961,677 932,643 92,646"/>
+                <Baseline points="98,670 141,672 184,672 227,672 271,672 314,672 357,672 401,672 444,672 487,672 531,672 574,672 617,672 660,672 704,672 747,672 790,670 834,672 877,670 920,670 964,668"/>
+                <TextEquiv>
+                    <Unicode>One of the prettiest fishes, although rarely found, is a small yellow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="65,725 968,722 968,690 912,682 65,689"/>
+                <Baseline points="71,712 118,712 165,712 212,712 260,712 307,713 354,712 402,712 449,712 496,712 544,712 591,712 638,712 686,712 733,712 780,710 828,712 875,710 922,711 970,708"/>
+                <TextEquiv>
+                    <Unicode>Upeneus, with longitudinal gold and chesnut stripes. The Mullus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="63,766 969,762 959,721 63,723"/>
+                <Baseline points="69,751 114,751 159,751 204,751 249,751 294,751 339,752 385,751 430,751 475,751 520,751 565,751 610,751 655,751 701,751 746,749 791,749 836,750 881,751 926,751 972,749"/>
+                <TextEquiv>
+                    <Unicode>family is interesting on account of the great esteem in which one of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="60,801 971,802 942,764 60,767"/>
+                <Baseline points="67,789 112,791 157,791 203,791 248,791 293,791 339,791 384,791 429,791 475,791 520,791 565,791 611,791 656,791 701,791 747,789 792,790 837,791 883,791 928,791 974,791"/>
+                <TextEquiv>
+                    <Unicode>the species belonging to it was held by Epicures of ancient Rome. Thus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="63,846 971,847 960,801 63,801"/>
+                <Baseline points="69,830 114,829 159,830 204,830 250,830 295,830 340,828 385,830 431,830 476,830 521,830 566,830 612,829 657,828 702,828 747,830 793,829 838,830 883,830 928,830 974,830"/>
+                <TextEquiv>
+                    <Unicode>a fish of six pound’s weight, is said to have been worth an amount</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="65,879 969,877 969,852 890,841 65,846"/>
+                <Baseline points="71,868 116,868 161,868 206,869 251,868 296,868 341,870 386,870 431,870 476,870 521,870 566,868 611,868 656,868 701,868 746,870 791,870 836,870 881,869 926,870 972,872"/>
+                <TextEquiv>
+                    <Unicode>equivalent, to 148 sterling, a large one as much as *64, whilst on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="67,918 733,923 726,879 67,879"/>
+                <Baseline points="73,907 106,907 139,907 172,907 205,907 238,907 271,906 304,905 337,907 370,907 404,909 437,907 470,907 503,907 536,907 569,907 602,907 635,907 668,907 701,907 735,907"/>
+                <TextEquiv>
+                    <Unicode>one occasion 1240 were given for three large ones.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="98,951 969,961 958,917 801,909 98,920"/>
+                <Baseline points="104,947 147,947 190,947 234,947 277,947 321,947 364,949 407,949 451,948 494,947 538,947 581,947 624,947 668,947 711,948 755,947 798,947 841,947 885,949 928,947 972,947"/>
+                <TextEquiv>
+                    <Unicode>Of the Maigre family, the Scionido are common, both in the fresh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="65,991 968,1002 952,961 65,956"/>
+                <Baseline points="71,984 118,985 165,986 212,986 260,986 307,986 354,986 402,986 449,986 496,986 544,986 591,986 638,986 686,986 733,986 780,984 828,986 875,986 922,988 970,990"/>
+                <TextEquiv>
+                    <Unicode>backwater, and in the sea. The Otolithus, and Corvina genero,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="60,1039 969,1033 948,996 60,998"/>
+                <Baseline points="67,1024 112,1024 157,1024 202,1025 248,1026 293,1026 338,1026 383,1027 429,1027 474,1026 519,1026 564,1026 610,1026 655,1026 700,1026 745,1026 791,1026 836,1026 881,1026 926,1027 972,1026"/>
+                <TextEquiv>
+                    <Unicode>have several species along the coast, and a beautiful Umbrina is also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="59,1077 971,1075 971,1034 59,1039"/>
+                <Baseline points="65,1065 110,1063 155,1063 201,1065 246,1065 292,1065 337,1065 383,1065 428,1065 474,1065 519,1066 564,1064 610,1065 655,1067 701,1067 746,1067 792,1065 837,1065 883,1065 928,1065 974,1067"/>
+                <TextEquiv>
+                    <Unicode>found, but as they are rarely eaten by Europeans, further notice of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="64,1119 138,1110 176,1120 341,1119 340,1083 320,1078 262,1086 63,1081"/>
+                <Baseline points="69,1104 96,1102 123,1102 151,1104 178,1103 206,1103 233,1103 260,1103 288,1104 315,1104 343,1106"/>
+                <TextEquiv>
+                    <Unicode>them is unnecessary.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="98,1150 969,1151 969,1111 820,1101 98,1115"/>
+                <Baseline points="104,1144 147,1143 190,1144 234,1144 277,1144 321,1144 364,1144 407,1144 451,1144 494,1144 538,1144 581,1144 624,1144 668,1144 711,1144 755,1144 798,1144 841,1144 885,1144 928,1144 972,1144"/>
+                <TextEquiv>
+                    <Unicode>There are numerous species of Pristipoma, and Scolopsides, whilst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="60,1190 965,1193 935,1153 60,1158"/>
+                <Baseline points="67,1181 112,1182 157,1181 202,1183 247,1181 292,1182 337,1183 382,1183 427,1183 472,1183 517,1183 562,1183 607,1183 652,1183 697,1183 742,1183 787,1183 832,1183 877,1183 922,1183 968,1181"/>
+                <TextEquiv>
+                    <Unicode>some very interesting ones are found amongst the Scionido, in tlie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="63,1233 969,1234 969,1202 928,1197 63,1198"/>
+                <Baseline points="69,1223 114,1223 159,1223 204,1222 249,1223 294,1223 339,1223 385,1222 430,1223 475,1223 520,1223 565,1223 610,1223 655,1223 701,1223 746,1223 791,1223 836,1223 881,1223 926,1223 972,1227"/>
+                <TextEquiv>
+                    <Unicode>fresh and backwaters. A species of Etroplus, of a deep green colour,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="65,1272 974,1275 952,1235 65,1233"/>
+                <Baseline points="71,1260 116,1262 161,1262 206,1260 252,1262 297,1261 342,1262 387,1260 433,1260 478,1260 523,1262 568,1262 614,1261 659,1262 704,1261 749,1260 795,1261 840,1260 885,1261 930,1260 976,1260"/>
+                <TextEquiv>
+                    <Unicode>with six vertical deep green bands, and an inky black base to its</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="68,1312 969,1313 969,1272 68,1273"/>
+                <Baseline points="74,1300 118,1301 163,1300 208,1302 253,1300 298,1300 343,1300 388,1302 433,1302 478,1300 523,1300 567,1302 612,1302 657,1300 702,1300 747,1302 792,1300 837,1302 882,1302 927,1302 972,1302"/>
+                <TextEquiv>
+                    <Unicode>ventral extremity, is found to above nine inches in length. This</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="67,1350 970,1348 944,1312 67,1312"/>
+                <Baseline points="73,1341 120,1341 167,1341 214,1339 262,1339 309,1341 356,1339 404,1339 451,1339 498,1339 546,1339 593,1339 640,1339 688,1341 735,1339 782,1339 830,1339 877,1341 924,1341 972,1341"/>
+                <TextEquiv>
+                    <Unicode>species may be the Etroplus maculatus, C. V. which also exists in the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="60,1390 971,1387 971,1352 935,1350 60,1360"/>
+                <Baseline points="67,1381 112,1381 157,1381 203,1381 248,1381 293,1379 339,1379 384,1380 429,1379 475,1381 520,1379 565,1379 611,1380 656,1379 701,1380 747,1379 792,1379 837,1379 883,1381 928,1381 974,1381"/>
+                <TextEquiv>
+                    <Unicode>same localities, but does not appear to grow to the same length, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="60,1425 975,1426 957,1388 60,1390"/>
+                <Baseline points="67,1418 112,1418 157,1418 203,1418 248,1418 294,1418 339,1416 385,1418 430,1416 476,1418 521,1418 566,1418 612,1418 657,1418 703,1419 748,1418 794,1418 839,1418 885,1418 930,1418 976,1420"/>
+                <TextEquiv>
+                    <Unicode>the colouration is a little different, but in both, the lateral line is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="63,1465 594,1466 580,1433 495,1442 420,1423 63,1441"/>
+                <Baseline points="69,1460 95,1458 121,1458 148,1458 174,1458 201,1458 227,1458 253,1458 280,1458 306,1458 333,1458 359,1458 385,1458 412,1458 438,1458 465,1458 491,1458 517,1458 544,1458 570,1458 597,1460"/>
+                <TextEquiv>
+                    <Unicode>absent in the posterior half of the body.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="92,1503 965,1507 965,1475 907,1462 92,1470"/>
+                <Baseline points="98,1497 141,1496 185,1495 228,1497 272,1497 315,1497 359,1497 402,1497 446,1497 489,1497 533,1497 576,1497 620,1497 663,1497 707,1497 750,1497 794,1497 837,1497 881,1497 924,1499 968,1497"/>
+                <TextEquiv>
+                    <Unicode>The colours of living fish, cannot be accurately determined by the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="60,1545 967,1552 967,1514 818,1504 60,1521"/>
+                <Baseline points="67,1537 112,1537 157,1537 202,1537 247,1537 292,1537 337,1537 383,1537 428,1537 473,1537 518,1537 563,1537 608,1537 653,1537 699,1537 744,1537 789,1537 834,1539 879,1539 924,1539 970,1542"/>
+                <TextEquiv>
+                    <Unicode>examination of dead, or dried specimens, the latter invariably change,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="67,1590 643,1586 643,1548 67,1544"/>
+                <Baseline points="73,1578 101,1577 130,1578 158,1577 187,1577 216,1577 244,1576 273,1576 301,1576 330,1576 359,1577 387,1577 416,1576 444,1576 473,1576 502,1578 530,1576 559,1576 587,1576 616,1576 645,1574"/>
+                <TextEquiv>
+                    <Unicode>as also do fresh fish, kept sodden in water."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="66,1632 993,1632 993,1752 66,1752"/>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:0;}">
+                <Coords points="108,1649 974,1653 973,1628 899,1614 107,1615"/>
+                <Baseline points="114,1643 157,1643 200,1643 243,1643 286,1643 329,1643 372,1643 415,1643 458,1643 501,1643 545,1643 588,1643 631,1643 674,1643 717,1645 760,1645 803,1645 846,1645 889,1645 932,1647 976,1647"/>
+                <TextEquiv>
+                    <Unicode>* It should be stated, that preserved specimens of every species of fish here</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:1;}">
+                <Coords points="63,1680 969,1690 951,1655 846,1651 63,1658"/>
+                <Baseline points="69,1679 114,1678 159,1677 204,1677 249,1675 294,1675 339,1675 385,1675 430,1675 475,1675 520,1675 565,1675 610,1676 655,1677 701,1677 746,1677 791,1677 836,1677 881,1677 926,1677 972,1679"/>
+                <TextEquiv>
+                    <Unicode>mentioned, besides many others, are kept for transmission to Europe, by an early</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:2;}">
+                <Coords points="60,1711 971,1714 971,1688 909,1684 60,1699"/>
+                <Baseline points="67,1708 112,1708 157,1708 203,1707 248,1706 293,1706 339,1708 384,1706 429,1706 475,1706 520,1706 565,1708 611,1707 656,1708 701,1708 747,1710 792,1708 837,1710 883,1710 928,1710 974,1710"/>
+                <TextEquiv>
+                    <Unicode>opportunity; when the new species, several of which are included amongst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:3;}">
+                <Coords points="65,1751 117,1751 160,1770 190,1753 209,1761 234,1747 243,1754 271,1745 314,1753 314,1713 228,1727 202,1718 139,1727 65,1715"/>
+                <Baseline points="71,1740 98,1740 125,1740 153,1740 180,1740 207,1740 235,1740 262,1740 289,1740 317,1738"/>
+                <TextEquiv>
+                    <Unicode>them, may be named.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

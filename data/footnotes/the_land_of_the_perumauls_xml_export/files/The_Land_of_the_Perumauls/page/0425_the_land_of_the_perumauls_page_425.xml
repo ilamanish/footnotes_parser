@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:03.679+01:00</Created>
+        <LastChange>2024-12-10T01:31:41.641+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960454" pageNr="425" tsid="211283562" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=MOLLBMFYUNRBCBBNGWZRJOSJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVHVQOUBTIZGWAFVMTKEZHZC" imageId="70209745"/>
+    </Metadata>
+    <Page imageFilename="0425_the_land_of_the_perumauls_page_425.jpg" imageWidth="1178" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840757971" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="90,248 90,1776 1016,1776 1016,248"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="426,293 450,294 473,283 548,284 556,291 573,281 658,294 658,246 616,249 581,238 549,256 526,247 426,250"/>
+                <Baseline points="433,270 458,272 483,271 509,270 534,270 559,270 585,270 610,270 635,270 661,270"/>
+                <TextEquiv>
+                    <Unicode>NATIVE HOUSES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="930,286 974,288 982,296 991,288 998,288 1002,239 963,238 962,235 950,237 945,234 941,238 934,238"/>
+                <Baseline points="938,272 970,272 1002,268"/>
+                <TextEquiv>
+                    <Unicode>405</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="118,352 997,347 997,303 751,285 473,316 118,306"/>
+                <Baseline points="125,337 168,336 212,335 256,335 300,335 343,335 387,335 431,335 475,335 518,335 562,335 606,335 650,335 693,337 737,337 781,336 825,337 868,335 912,336 956,337 1000,337"/>
+                <TextEquiv>
+                    <Unicode>Native houses are of most varied descriptions. That of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="90,386 997,387 997,347 944,342 90,345"/>
+                <Baseline points="96,376 141,376 186,376 231,375 276,376 322,376 367,376 412,374 457,374 502,374 548,374 593,374 638,376 683,376 728,376 774,376 819,373 864,376 909,375 954,370 1000,376"/>
+                <TextEquiv>
+                    <Unicode>Rajah is termed a Colgum* from Col “a sceptre” and “agum” “a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="84,431 996,426 962,386 84,387"/>
+                <Baseline points="90,416 135,416 180,414 226,416 271,416 317,416 362,416 407,416 453,415 498,416 544,416 589,416 634,416 680,418 725,418 771,416 816,416 861,418 907,416 952,415 998,416"/>
+                <TextEquiv>
+                    <Unicode>house.” It also means a distinct branch, or house, of any of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="84,461 997,465 997,426 84,434"/>
+                <Baseline points="90,453 135,453 181,455 226,454 272,455 317,456 363,454 408,455 454,456 499,457 545,456 590,455 636,457 681,455 727,457 772,455 818,456 863,457 909,457 954,456 1000,453"/>
+                <TextEquiv>
+                    <Unicode>regal Hindu dynasties of Malabar. In building for those of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="87,510 994,510 976,468 87,466"/>
+                <Baseline points="94,494 139,495 184,494 229,494 274,496 319,496 364,496 409,494 454,494 499,494 545,496 590,496 635,496 680,496 725,496 770,496 815,496 860,496 905,496 950,496 996,498"/>
+                <TextEquiv>
+                    <Unicode>higher castes, great care is necessary, as a piece of wood, clothing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="90,554 994,543 994,513 925,505 90,516"/>
+                <Baseline points="96,535 141,533 186,533 231,533 276,535 321,534 366,533 411,533 456,535 501,535 546,535 591,535 636,535 681,535 726,535 771,533 816,533 861,535 906,535 951,535 996,535"/>
+                <TextEquiv>
+                    <Unicode>or drapery will convey pollution, from the lower to the higher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="87,593 997,593 997,543 87,555"/>
+                <Baseline points="94,573 139,573 184,573 229,574 275,573 320,574 365,575 411,575 456,575 501,575 547,576 592,575 637,575 682,575 728,575 773,575 818,575 864,575 909,575 954,575 1000,573"/>
+                <TextEquiv>
+                    <Unicode>castes : as will also coir matting should it contain even one thread of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="87,634 999,625 999,597 927,586 87,594"/>
+                <Baseline points="94,612 139,612 184,614 230,614 275,614 321,614 366,614 411,614 457,614 502,614 548,614 593,614 638,614 684,614 729,615 775,614 820,614 865,614 911,614 956,613 1002,612"/>
+                <TextEquiv>
+                    <Unicode>cotton upon it although it is of itself unpollutable, a piece of new¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="90,657 994,661 970,623 90,635"/>
+                <Baseline points="96,653 141,653 186,653 231,654 276,653 321,653 366,653 411,655 456,653 501,653 546,655 591,655 636,655 681,653 726,653 771,655 816,653 861,653 906,653 951,653 996,653"/>
+                <TextEquiv>
+                    <Unicode>cloth may be thrown to a high caste person, who can look at it-and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="84,698 999,704 999,671 936,665 84,669"/>
+                <Baseline points="90,688 135,690 181,690 226,691 272,690 318,692 363,692 409,692 454,692 500,692 546,692 591,692 637,692 682,692 728,692 774,692 819,692 865,692 910,692 956,692 1002,690"/>
+                <TextEquiv>
+                    <Unicode>toss it back without having been defiled, but should it be old it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="94,740 995,747 995,716 928,702 873,724 94,703"/>
+                <Baseline points="100,730 144,730 189,730 234,732 279,732 324,732 369,733 414,732 459,732 504,732 549,732 593,732 638,733 683,733 728,732 773,732 818,733 863,732 908,733 953,732 998,735"/>
+                <TextEquiv>
+                    <Unicode>causes pollution. Floors must be made of chunam, stone, or earth,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="87,778 997,780 997,751 885,743 87,750"/>
+                <Baseline points="94,769 139,769 184,771 229,771 275,771 320,772 365,773 411,773 456,771 501,773 547,773 592,773 637,771 682,773 728,772 773,773 818,771 864,771 909,772 954,771 1000,769"/>
+                <TextEquiv>
+                    <Unicode>which are non-conductors, and not of planks : and for the same</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="87,818 997,819 997,785 893,779 87,786"/>
+                <Baseline points="94,808 139,809 184,810 229,810 275,810 320,810 365,810 411,812 456,811 501,812 547,811 592,812 637,810 682,812 728,812 773,812 818,810 864,812 909,812 954,812 1000,810"/>
+                <TextEquiv>
+                    <Unicode>reason no carpets or mats can be spread. The checquered black and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="87,860 999,858 978,821 87,828"/>
+                <Baseline points="94,847 139,847 184,849 230,849 275,849 321,850 366,851 411,849 457,851 502,851 548,851 593,851 638,850 684,851 729,851 775,851 820,851 865,851 911,851 956,850 1002,849"/>
+                <TextEquiv>
+                    <Unicode>white chunam floors, are therefore usually seen, in the houses of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="87,898 997,905 997,866 903,859 87,866"/>
+                <Baseline points="94,889 139,889 184,889 229,889 275,891 320,890 365,891 411,891 456,891 501,891 547,891 592,891 637,891 682,891 728,891 773,891 818,891 864,891 909,891 954,891 1000,889"/>
+                <TextEquiv>
+                    <Unicode>higher castes. Natives prefer houses situated in the centre of large</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="87,942 997,935 997,906 958,902 87,911"/>
+                <Baseline points="94,928 139,928 184,928 229,930 275,930 320,929 365,930 411,930 456,930 501,932 547,930 592,930 637,930 682,930 728,930 773,930 818,930 864,930 909,930 954,930 1000,928"/>
+                <TextEquiv>
+                    <Unicode>compounds, many of those belonging to the nobility are two stories</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="87,978 999,979 974,941 87,942"/>
+                <Baseline points="94,967 139,969 184,969 230,969 275,969 321,969 366,969 411,969 457,969 502,971 548,969 593,969 638,969 684,969 729,968 775,969 820,969 865,969 911,969 956,969 1002,967"/>
+                <TextEquiv>
+                    <Unicode>high, before the lowest of these there is a verandah, in which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="87,1010 1009,1018 1009,988 957,982 87,989"/>
+                <Baseline points="94,1004 139,1005 185,1004 231,1006 277,1006 323,1006 369,1007 415,1008 461,1008 507,1008 553,1008 598,1008 644,1010 690,1008 736,1008 782,1008 828,1008 874,1008 920,1008 966,1007 1012,1008"/>
+                <TextEquiv>
+                    <Unicode>visitors are received : when the reception room is not in a separate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="92,1058 1004,1057 993,1019 92,1019"/>
+                <Baseline points="98,1046 143,1047 188,1048 234,1048 279,1049 325,1049 370,1048 415,1049 461,1049 506,1048 552,1049 597,1049 642,1049 688,1049 733,1048 779,1048 824,1048 869,1049 915,1048 960,1048 1006,1046"/>
+                <TextEquiv>
+                    <Unicode>building. In the upper story, the family sleep, study, or transact</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="92,1098 164,1098 170,1094 179,1102 191,1103 226,1092 225,1075 190,1064 172,1071 133,1055 91,1060"/>
+                <Baseline points="98,1085 124,1085 150,1085 176,1086 202,1087 229,1087"/>
+                <TextEquiv>
+                    <Unicode>business.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="133,1134 1003,1138 1003,1098 875,1089 423,1117 339,1090 133,1098"/>
+                <Baseline points="139,1124 182,1125 225,1126 269,1126 312,1126 355,1128 399,1128 442,1128 485,1128 529,1128 572,1128 615,1128 659,1128 702,1128 745,1128 789,1128 832,1128 875,1128 919,1126 962,1126 1006,1128"/>
+                <TextEquiv>
+                    <Unicode>When the Portuguese arrived, few Natives were allowed to live in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="90,1174 1002,1179 1002,1141 964,1138 90,1148"/>
+                <Baseline points="96,1163 141,1164 186,1165 232,1165 277,1163 323,1165 368,1167 413,1165 459,1165 504,1165 550,1167 595,1167 640,1167 686,1167 731,1166 777,1165 822,1165 867,1165 913,1165 958,1165 1004,1165"/>
+                <TextEquiv>
+                    <Unicode>anything but thatched huts, with mud or bamboo leaf walls. Tra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="87,1211 1005,1218 1005,1179 87,1186"/>
+                <Baseline points="94,1203 139,1204 185,1205 231,1205 276,1205 322,1206 368,1206 413,1206 459,1205 505,1206 551,1206 596,1206 642,1206 688,1206 733,1206 779,1206 825,1206 870,1206 916,1206 962,1206 1008,1206"/>
+                <TextEquiv>
+                    <Unicode>ders such as the Moplahs, were allowed to build stone walls around</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="94,1248 1009,1257 979,1220 168,1234 94,1211"/>
+                <Baseline points="100,1244 145,1242 191,1242 236,1243 282,1244 328,1244 373,1245 419,1246 464,1246 510,1246 556,1246 601,1246 647,1246 692,1246 738,1246 784,1246 829,1244 875,1245 920,1246 966,1244 1012,1244"/>
+                <TextEquiv>
+                    <Unicode>their compounds, and even stone storehouses, in consequence of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="94,1297 1006,1293 1006,1257 952,1254 94,1264"/>
+                <Baseline points="100,1283 145,1283 190,1283 236,1282 281,1283 327,1284 372,1285 417,1285 463,1285 508,1287 554,1285 599,1285 644,1286 690,1287 735,1285 781,1285 826,1285 871,1285 917,1285 962,1286 1008,1287"/>
+                <TextEquiv>
+                    <Unicode>risks they were otherwise exposed to. Princes and Priests had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="94,1330 1003,1335 981,1297 94,1299"/>
+                <Baseline points="100,1322 145,1321 190,1322 235,1322 281,1322 326,1323 371,1324 417,1324 462,1324 507,1324 553,1324 598,1324 643,1324 688,1324 734,1324 779,1324 824,1324 870,1324 915,1324 960,1324 1006,1324"/>
+                <TextEquiv>
+                    <Unicode>stone houses, and Pagodas were allowed the privilege of tiled roofs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="98,1375 1004,1384 1004,1342 950,1333 98,1336"/>
+                <Baseline points="104,1360 149,1361 194,1360 239,1362 284,1362 329,1363 374,1363 419,1364 464,1363 509,1365 555,1363 600,1363 645,1365 690,1365 735,1364 780,1363 825,1362 870,1363 915,1363 960,1363 1006,1363"/>
+                <TextEquiv>
+                    <Unicode>Whole villages could thus easily be burnt down, if the inhabitants</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="90,1407 942,1418 911,1382 90,1377"/>
+                <Baseline points="96,1401 138,1401 180,1401 223,1401 265,1403 308,1403 350,1403 393,1405 435,1403 478,1403 520,1405 562,1403 605,1405 647,1405 690,1403 732,1403 775,1403 817,1403 860,1401 902,1403 945,1405"/>
+                <TextEquiv>
+                    <Unicode>refused to pay their taxes, or their evacuation were necessary.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="126,1453 1005,1457 1005,1413 980,1411 126,1411"/>
+                <Baseline points="133,1442 176,1442 220,1440 264,1443 308,1442 351,1443 395,1444 439,1444 483,1442 526,1444 570,1444 614,1444 658,1444 701,1444 745,1444 789,1444 833,1444 876,1444 920,1443 964,1444 1008,1444"/>
+                <TextEquiv>
+                    <Unicode>The miserable huts of the Churmurs, are dotted along the raised</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="93,1490 1005,1495 990,1455 92,1451"/>
+                <Baseline points="98,1481 143,1482 188,1481 234,1482 279,1483 325,1483 370,1483 415,1483 461,1484 506,1483 552,1482 597,1485 642,1483 688,1483 733,1483 779,1483 824,1483 869,1483 915,1483 960,1483 1006,1483"/>
+                <TextEquiv>
+                    <Unicode>banks of paddy fields, and those of the Niadis may occasionally be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="92,1531 1007,1534 995,1493 92,1498"/>
+                <Baseline points="98,1520 143,1521 189,1522 234,1520 280,1522 326,1522 371,1522 417,1522 462,1522 508,1522 554,1523 599,1524 645,1522 690,1524 736,1524 782,1522 827,1522 873,1522 918,1522 964,1522 1010,1522"/>
+                <TextEquiv>
+                    <Unicode>seen perched like baskets, or birds’ nests, up in jungle trees, into which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="92,1566 1007,1578 983,1536 919,1531 92,1542"/>
+                <Baseline points="98,1560 143,1562 189,1562 234,1563 280,1562 326,1564 371,1564 417,1564 462,1564 508,1562 554,1564 599,1564 645,1564 690,1564 736,1564 782,1564 827,1564 873,1563 918,1564 964,1564 1010,1568"/>
+                <TextEquiv>
+                    <Unicode>they crawl at night time. The situation of the generality of houses,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="92,1611 1007,1616 987,1571 92,1584"/>
+                <Baseline points="98,1601 143,1601 189,1601 234,1602 280,1603 326,1603 371,1603 417,1603 462,1603 508,1603 554,1603 599,1603 645,1603 690,1603 736,1603 782,1603 827,1603 873,1603 918,1605 964,1603 1010,1605"/>
+                <TextEquiv>
+                    <Unicode>may be said to be damp, either from the places in which they are built,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="85,1650 1034,1650 1034,1796 85,1796"/>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:0;}">
+                <Coords points="115,1663 1007,1681 1007,1645 115,1646"/>
+                <Baseline points="121,1662 165,1668 209,1670 254,1671 298,1672 343,1672 387,1672 432,1673 476,1674 521,1674 565,1672 609,1673 654,1674 698,1674 743,1674 787,1674 832,1672 876,1672 921,1674 965,1672 1010,1674"/>
+                <TextEquiv>
+                    <Unicode>* Wherever the Rajah has a Colgum, the Paliat Achen possessed an Illum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:1;}">
+                <Coords points="94,1709 1007,1714 988,1679 94,1677"/>
+                <Baseline points="100,1701 145,1701 191,1703 236,1703 282,1703 327,1703 373,1703 418,1703 464,1700 509,1703 555,1704 600,1705 646,1705 691,1705 737,1706 782,1705 828,1705 873,1704 919,1705 964,1705 1010,1705"/>
+                <TextEquiv>
+                    <Unicode>District courts go by the name of "the gate of the palace,” therefore should</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:2;}">
+                <Coords points="92,1739 1013,1751 1013,1714 92,1722"/>
+                <Baseline points="98,1730 143,1733 189,1734 235,1734 281,1736 327,1736 373,1736 419,1734 465,1735 511,1736 557,1737 602,1738 648,1737 694,1737 740,1736 786,1737 832,1736 878,1738 924,1738 970,1738 1016,1736"/>
+                <TextEquiv>
+                    <Unicode>the Rajah be hearing any case in the courts, he is "sitting in the gate of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:3;}">
+                <Coords points="95,1781 106,1785 122,1781 227,1782 229,1745 206,1750 196,1746 191,1751 185,1751 175,1740 156,1750 148,1745 134,1750 118,1742 96,1745"/>
+                <Baseline points="102,1766 127,1766 153,1766 179,1766 205,1766 231,1762"/>
+                <TextEquiv>
+                    <Unicode>the palace."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

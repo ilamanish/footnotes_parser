@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:03.598+01:00</Created>
+        <LastChange>2024-12-10T01:31:09.878+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960440" pageNr="424" tsid="211283561" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=POFWCWXFUXKAKIXWJHMUWTII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GSYWAUYFDFCAQKUJDQOGTKLY" imageId="70209754"/>
+    </Metadata>
+    <Page imageFilename="0424_the_land_of_the_perumauls_page_424.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840757503" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="182,219 182,1733 1093,1733 1093,219"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="178,255 184,257 191,251 196,251 201,257 209,252 212,255 225,255 233,249 237,254 243,254 246,210 224,209 212,203 199,208 192,201 182,200"/>
+                <Baseline points="186,243 216,241 247,239"/>
+                <TextEquiv>
+                    <Unicode>404</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="548,254 713,251 713,221 701,217 670,222 661,213 600,212 591,220 579,210 565,219 548,211"/>
+                <Baseline points="555,239 581,241 608,243 635,243 662,243 689,243 716,239"/>
+                <TextEquiv>
+                    <Unicode>UMBRELLAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="176,306 1083,317 1066,272 176,271"/>
+                <Baseline points="182,306 227,305 272,304 317,304 362,304 407,305 452,304 498,305 543,306 588,308 633,307 678,308 723,308 768,308 814,308 859,308 904,308 949,308 994,310 1039,310 1085,308"/>
+                <TextEquiv>
+                    <Unicode>times, were portioned by the congregations to which they belonged:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="178,353 1085,354 1068,323 1006,319 178,310"/>
+                <Baseline points="184,345 229,344 274,345 319,345 364,345 409,344 454,345 500,343 545,345 590,345 635,347 680,347 725,347 770,347 816,347 861,347 906,348 951,349 996,349 1041,349 1087,349"/>
+                <TextEquiv>
+                    <Unicode>the amount being raised by fines from the richer members. All female</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="179,393 1056,403 1081,363 178,355"/>
+                <Baseline points="186,386 233,384 280,384 327,384 375,384 422,384 469,384 517,384 564,386 611,386 659,386 706,387 753,386 801,386 848,386 895,386 943,387 990,388 1037,388 1085,388"/>
+                <TextEquiv>
+                    <Unicode>orphans, belonging to each congregation, had their names registered,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="179,428 1082,442 1082,402 1034,395 179,400"/>
+                <Baseline points="186,424 233,424 280,422 327,424 375,424 422,424 469,424 517,422 564,424 611,426 659,426 706,426 753,426 801,426 848,426 895,426 943,426 990,427 1037,427 1085,424"/>
+                <TextEquiv>
+                    <Unicode>and the Church Overseers, were obliged to provide them with hus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="179,469 1081,482 1062,439 179,436"/>
+                <Baseline points="186,465 230,463 275,462 320,463 365,462 410,463 455,463 499,465 544,464 589,463 634,465 679,465 724,465 769,465 813,465 858,466 903,467 948,466 993,467 1038,467 1083,463"/>
+                <TextEquiv>
+                    <Unicode>bands. On the wedding day, the gold ear rings are not the only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="179,504 1086,514 1062,477 179,487"/>
+                <Baseline points="186,502 231,502 276,500 321,501 366,502 411,502 456,502 502,502 547,503 592,504 637,504 682,502 727,504 772,504 818,504 863,504 908,504 953,504 998,505 1043,504 1089,504"/>
+                <TextEquiv>
+                    <Unicode>ornaments put on, for the first and probably for the last time, as a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="178,544 1088,555 1067,513 178,513"/>
+                <Baseline points="184,541 229,541 274,541 320,540 365,541 410,541 456,541 501,541 546,541 592,541 637,543 682,543 728,543 773,543 818,543 864,545 909,543 954,543 1000,543 1045,543 1091,543"/>
+                <TextEquiv>
+                    <Unicode>head dress is also worn, made of pasteboard, and wound round with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="178,586 1088,588 1043,555 178,564"/>
+                <Baseline points="184,579 229,581 274,579 320,580 365,581 410,581 456,581 501,583 546,581 592,581 637,582 682,581 728,583 773,583 818,583 864,583 909,583 954,583 1000,584 1045,583 1091,583"/>
+                <TextEquiv>
+                    <Unicode>chains of gold, silver, or precious stones, to which smaller ornaments</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="179,633 1032,634 1032,606 984,596 179,596"/>
+                <Baseline points="186,620 228,620 270,620 313,620 355,620 398,620 440,620 482,620 525,620 567,620 610,620 652,620 694,620 737,622 779,622 822,622 864,622 906,622 949,622 991,622 1034,622"/>
+                <TextEquiv>
+                    <Unicode>are also often attached, the weight of the whole being excessive.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="215,666 1082,673 1082,639 1048,632 215,630"/>
+                <Baseline points="221,657 264,657 307,657 350,659 393,659 437,659 480,657 523,657 566,657 609,659 653,659 696,659 739,659 782,659 825,659 869,661 912,661 955,661 998,661 1041,661 1085,661"/>
+                <TextEquiv>
+                    <Unicode>Hindu women, after the birth of their first child, invariably</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="178,704 1081,707 1051,667 177,675"/>
+                <Baseline points="184,693 231,697 278,696 325,696 373,697 420,698 467,696 515,697 562,698 609,698 657,698 704,698 751,698 799,700 846,700 893,698 941,700 988,700 1035,700 1083,700"/>
+                <TextEquiv>
+                    <Unicode>remove the bangles from their arms and occasionally their other</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="178,742 1085,750 1066,711 178,718"/>
+                <Baseline points="184,736 229,738 274,736 319,736 364,738 409,736 454,738 500,736 545,738 590,738 635,738 680,738 725,738 770,738 816,738 861,740 906,740 951,738 996,740 1041,740 1087,740"/>
+                <TextEquiv>
+                    <Unicode>ornaments also. Native Christians, sometimes follow this custom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="184,782 470,785 470,750 400,759 380,747 319,760 291,748 264,758 246,748 184,749"/>
+                <Baseline points="190,777 215,775 241,776 267,777 292,777 318,777 344,777 370,775 395,775 421,775 447,776 473,777"/>
+                <TextEquiv>
+                    <Unicode>but it is not the rule.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="215,832 1088,833 1087,793 1025,789 215,785"/>
+                <Baseline points="221,812 264,814 307,814 351,814 394,814 438,816 481,816 524,815 568,816 611,814 655,816 698,816 741,816 785,818 828,816 872,818 915,818 958,818 1002,817 1045,816 1089,818"/>
+                <TextEquiv>
+                    <Unicode>The women have hair of the deepest black, which reaches down</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="179,860 1082,874 1065,830 179,842"/>
+                <Baseline points="186,855 233,854 280,854 327,854 375,854 422,854 469,855 517,855 564,855 611,854 659,855 706,855 753,855 801,855 848,855 895,855 943,857 990,855 1037,855 1085,854"/>
+                <TextEquiv>
+                    <Unicode>as low as the waist, they are very proud of it, and keep it profusely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="178,898 1088,905 1027,864 178,872"/>
+                <Baseline points="184,893 229,893 274,893 320,893 365,893 410,894 456,895 501,895 546,895 592,895 637,895 682,895 728,895 773,895 818,895 864,895 909,895 954,895 1000,895 1045,895 1091,897"/>
+                <TextEquiv>
+                    <Unicode>oiled. It is coarse in texture, and differs from that of the African.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="184,941 1088,947 1088,909 1019,903 184,905"/>
+                <Baseline points="190,926 235,932 280,932 325,932 370,932 415,932 460,932 505,934 550,933 595,934 640,933 685,934 730,932 775,932 820,934 865,934 910,934 955,934 1000,935 1045,934 1091,936"/>
+                <TextEquiv>
+                    <Unicode>They are fond of false tresses, and nearly all, even those of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="179,991 276,976 536,983 536,958 470,944 377,960 299,942 270,955 179,942"/>
+                <Baseline points="186,971 211,971 236,971 261,971 286,971 311,971 336,971 361,971 386,971 411,972 436,972 461,971 486,971 511,973 537,973"/>
+                <TextEquiv>
+                    <Unicode>poorer classes, wear them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="217,1016 1086,1019 1086,990 918,975 217,978"/>
+                <Baseline points="223,1011 266,1011 309,1011 352,1011 396,1011 439,1011 482,1011 526,1012 569,1012 612,1013 656,1013 699,1011 742,1012 785,1013 829,1013 872,1013 915,1013 959,1013 1002,1013 1045,1013 1089,1011"/>
+                <TextEquiv>
+                    <Unicode>Cutting off the hair, or shaving the head, is considered a great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="182,1057 1086,1059 1062,1018 182,1022"/>
+                <Baseline points="188,1048 233,1050 278,1050 323,1050 368,1050 413,1050 458,1052 503,1051 548,1052 593,1050 638,1050 683,1050 728,1050 773,1050 818,1051 863,1050 908,1052 953,1052 998,1051 1043,1052 1089,1052"/>
+                <TextEquiv>
+                    <Unicode>disgrace. On festivals, or grand occasions, it is adorned with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="178,1102 558,1102 558,1071 528,1066 387,1073 352,1062 297,1074 264,1057 232,1073 178,1056"/>
+                <Baseline points="184,1089 209,1089 234,1089 259,1089 284,1089 309,1089 334,1089 359,1089 385,1089 410,1089 435,1089 460,1089 485,1089 510,1089 535,1089 561,1089"/>
+                <TextEquiv>
+                    <Unicode>flowers, or silver ornaments.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="217,1138 1084,1138 1084,1108 1000,1094 217,1104"/>
+                <Baseline points="223,1126 266,1127 309,1128 352,1126 395,1126 439,1128 482,1128 525,1128 568,1128 611,1128 655,1128 698,1128 741,1128 784,1128 827,1128 871,1128 914,1128 957,1128 1000,1129 1043,1128 1087,1130"/>
+                <TextEquiv>
+                    <Unicode>Umbrellas* were formerly only carried over the great and noble :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="179,1171 1088,1177 1079,1141 179,1134"/>
+                <Baseline points="186,1166 231,1168 276,1168 321,1168 367,1166 412,1168 457,1168 502,1168 548,1168 593,1168 638,1168 683,1168 729,1168 774,1168 819,1168 864,1168 910,1168 955,1168 1000,1169 1045,1168 1091,1166"/>
+                <TextEquiv>
+                    <Unicode>but all this is changed under British supremacy, although a remnant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="182,1214 1088,1213 1075,1183 948,1176 182,1185"/>
+                <Baseline points="188,1207 233,1207 278,1205 323,1207 368,1207 413,1207 458,1207 504,1207 549,1207 594,1207 639,1207 684,1207 729,1207 774,1207 820,1207 865,1207 910,1207 955,1207 1000,1207 1045,1207 1091,1207"/>
+                <TextEquiv>
+                    <Unicode>of the old idea, of the distinction of carrying it, still remains, and is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="182,1251 1071,1262 1083,1228 180,1233"/>
+                <Baseline points="188,1244 235,1245 282,1244 329,1244 377,1244 424,1244 471,1246 519,1246 566,1246 613,1246 661,1246 708,1246 755,1246 803,1246 850,1246 897,1246 945,1246 992,1246 1039,1246 1087,1244"/>
+                <TextEquiv>
+                    <Unicode>enforced by law in the native state. The Rajah on ceremonial occa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="178,1295 1086,1293 1086,1258 976,1254 178,1260"/>
+                <Baseline points="184,1283 229,1285 274,1285 319,1283 365,1283 410,1283 455,1283 500,1285 546,1283 591,1285 636,1283 681,1285 727,1285 772,1285 817,1285 862,1285 908,1285 953,1285 998,1285 1043,1285 1089,1285"/>
+                <TextEquiv>
+                    <Unicode>sions, has a crimson one, with silver mountings carried over him, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="182,1334 1088,1330 1057,1294 182,1308"/>
+                <Baseline points="188,1323 233,1325 278,1323 323,1323 368,1323 413,1324 458,1323 504,1323 549,1324 594,1325 639,1324 684,1325 729,1325 774,1323 820,1325 865,1323 910,1323 955,1323 1000,1325 1045,1325 1091,1325"/>
+                <TextEquiv>
+                    <Unicode>a similar one shades the Hindu gods, from the rain or sunshine, when</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="182,1374 1052,1374 1088,1371 1087,1335 180,1344"/>
+                <Baseline points="188,1362 233,1363 278,1362 323,1362 368,1362 413,1362 458,1364 504,1362 549,1364 594,1362 639,1362 684,1364 729,1363 774,1362 820,1363 865,1364 910,1363 955,1364 1000,1364 1045,1364 1091,1364"/>
+                <TextEquiv>
+                    <Unicode>taken out of the Pagodas. At Christian weddings, the Bride and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="186,1410 1087,1407 1040,1370 186,1373"/>
+                <Baseline points="192,1401 236,1401 281,1401 326,1401 371,1401 416,1401 461,1401 505,1401 550,1401 595,1401 640,1401 685,1401 730,1401 775,1401 819,1401 864,1401 909,1401 954,1401 999,1401 1044,1403 1089,1403"/>
+                <TextEquiv>
+                    <Unicode>Bridegroom, also each have one carried over them; it is always a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="186,1451 1087,1445 1071,1414 925,1406 186,1422"/>
+                <Baseline points="192,1441 236,1441 281,1441 326,1441 371,1441 416,1441 461,1441 505,1441 550,1441 595,1441 640,1441 685,1441 730,1441 775,1441 819,1441 864,1442 909,1441 954,1441 999,1441 1044,1442 1089,1439"/>
+                <TextEquiv>
+                    <Unicode>mark of honour. The size of the umbrella, was formerly in propor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="186,1486 1090,1490 1063,1452 186,1458"/>
+                <Baseline points="192,1478 237,1480 282,1480 327,1479 372,1480 417,1479 462,1480 507,1480 552,1480 597,1480 642,1480 687,1480 732,1480 777,1480 822,1480 867,1480 912,1480 957,1480 1002,1480 1047,1480 1093,1482"/>
+                <TextEquiv>
+                    <Unicode>tion to the rank of the person, over whom it was carried. Common</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="186,1528 1087,1530 1061,1487 186,1502"/>
+                <Baseline points="192,1517 236,1519 281,1519 326,1519 371,1519 416,1519 461,1517 505,1519 550,1517 595,1519 640,1517 685,1519 730,1519 775,1519 819,1518 864,1519 909,1519 954,1519 999,1519 1044,1519 1089,1519"/>
+                <TextEquiv>
+                    <Unicode>umbrellas are usually made of the dried leaf of the Talipot palm which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="182,1575 477,1582 477,1532 300,1530 281,1541 216,1541 182,1531"/>
+                <Baseline points="188,1556 214,1558 240,1558 267,1558 293,1558 320,1558 346,1557 373,1556 399,1556 426,1556 452,1558 479,1556"/>
+                <TextEquiv>
+                    <Unicode>is oocasionally tarred.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="176,1579 1118,1579 1118,1751 176,1751"/>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:0;}">
+                <Coords points="233,1605 1086,1611 1086,1579 1010,1575 233,1579"/>
+                <Baseline points="239,1598 281,1599 324,1598 366,1598 409,1598 451,1598 494,1598 536,1598 579,1599 621,1598 664,1600 706,1600 749,1598 791,1598 834,1600 876,1600 919,1600 961,1598 1004,1598 1046,1598 1089,1596"/>
+                <TextEquiv>
+                    <Unicode>* Cope mentions, that when he was in Canara about 1714, no man was per-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:1;}">
+                <Coords points="178,1638 1088,1640 1088,1612 1020,1604 178,1615"/>
+                <Baseline points="184,1629 229,1630 274,1631 320,1630 365,1629 410,1629 456,1629 501,1629 546,1629 592,1629 637,1629 682,1629 728,1629 773,1631 818,1631 864,1629 909,1629 954,1627 1000,1629 1045,1629 1091,1633"/>
+                <TextEquiv>
+                    <Unicode>mitted to ride on horses, mules, or elephants, but Troopers, or Officers of State,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:2;}">
+                <Coords points="182,1670 1090,1667 1069,1636 182,1639"/>
+                <Baseline points="188,1660 233,1660 278,1660 323,1660 369,1660 414,1659 459,1658 504,1658 550,1658 595,1660 640,1660 685,1660 731,1660 776,1660 821,1660 866,1660 912,1660 957,1658 1002,1660 1047,1660 1093,1660"/>
+                <TextEquiv>
+                    <Unicode>although Europeans, were allowed to ride on oxen or buffaloes. Neither might</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:3;}">
+                <Coords points="182,1690 1086,1706 1086,1668 182,1671"/>
+                <Baseline points="188,1690 233,1692 278,1692 323,1690 368,1690 413,1690 458,1690 503,1690 548,1690 593,1690 638,1690 683,1692 728,1692 773,1692 818,1692 863,1692 908,1692 953,1692 998,1692 1043,1692 1089,1692"/>
+                <TextEquiv>
+                    <Unicode>umbrellas be carried over them by servants, but if the sun or rain offended</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:4;}">
+                <Coords points="184,1734 788,1743 788,1702 747,1698 184,1708"/>
+                <Baseline points="190,1721 220,1723 250,1723 280,1723 310,1723 340,1723 370,1723 400,1723 430,1723 460,1723 490,1721 520,1723 550,1723 580,1723 610,1723 640,1723 670,1723 700,1723 730,1723 760,1723 791,1723"/>
+                <TextEquiv>
+                    <Unicode>them, they might carry them themselves. Page 300.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

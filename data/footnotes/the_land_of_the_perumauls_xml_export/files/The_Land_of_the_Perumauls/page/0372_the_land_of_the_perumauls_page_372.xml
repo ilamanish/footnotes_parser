@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:19:58.953+01:00</Created>
+        <LastChange>2024-12-10T01:19:58.526+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960393" pageNr="372" tsid="211281839" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=YJTRRBKSKVXPYESJEZZHRHUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXZROXEWPRQKFYFASDWVRRCU" imageId="70209693"/>
+    </Metadata>
+    <Page imageFilename="0372_the_land_of_the_perumauls_page_372.jpg" imageWidth="1184" imageHeight="1973">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840728513" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="193,236 193,1744 1104,1744 1104,236"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="186,278 977,267 977,233 851,212 784,235 187,236"/>
+                <Baseline points="193,262 232,261 271,262 311,261 350,259 389,260 429,260 468,260 507,258 547,258 586,258 625,258 665,257 704,256 743,256 783,256 822,256 861,256 901,258 940,258 980,258"/>
+                <TextEquiv>
+                    <Unicode>352 JEWS SEEK PROTECTION IN PORTUGUESE COCHIN.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="187,338 1090,337 1090,305 987,287 187,299"/>
+                <Baseline points="193,327 238,325 283,325 328,325 373,323 418,323 463,322 508,321 553,321 598,321 643,323 688,323 733,323 778,322 823,323 868,323 913,323 958,323 1003,323 1048,323 1093,325"/>
+                <TextEquiv>
+                    <Unicode>Portuguesc, many of the Jews were probably carried away to Chenotta,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="187,369 1092,369 1092,337 987,354 933,329 187,340"/>
+                <Baseline points="193,365 238,365 283,365 328,365 373,363 418,363 463,363 508,363 553,363 598,363 644,363 689,363 734,361 779,363 824,363 869,362 914,363 959,363 1004,363 1049,362 1095,363"/>
+                <TextEquiv>
+                    <Unicode>or Chennamungalum, where a colony of them still exists. There</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="188,409 1090,412 1090,372 188,384"/>
+                <Baseline points="195,402 239,403 284,404 329,404 374,404 419,403 464,404 509,402 554,402 599,402 644,402 688,400 733,400 778,401 823,402 868,401 913,402 958,402 1003,402 1048,402 1093,402"/>
+                <TextEquiv>
+                    <Unicode>were no Jews in Cochin, when the Portuguese arrived there in 1500,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="187,455 1092,449 1092,411 187,415"/>
+                <Baseline points="193,441 238,441 283,441 328,441 373,443 418,442 463,441 508,443 553,441 598,441 644,441 689,441 734,442 779,441 824,441 869,441 914,441 959,439 1004,441 1049,441 1095,441"/>
+                <TextEquiv>
+                    <Unicode>but at Cranganore there were a few, in a miserable state of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="188,490 1090,494 1061,451 188,454"/>
+                <Baseline points="195,483 239,481 284,481 329,482 374,483 419,482 464,481 509,483 554,481 599,481 644,483 688,481 733,481 778,481 823,481 868,481 913,480 958,481 1003,481 1048,481 1093,485"/>
+                <TextEquiv>
+                    <Unicode>destitution, who were probably a remnant of the former community,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="188,526 1086,530 1062,491 188,499"/>
+                <Baseline points="195,520 239,521 284,522 329,520 373,520 418,520 463,522 507,521 552,522 597,521 642,520 686,520 731,522 776,520 820,520 865,520 910,520 954,520 999,518 1044,518 1089,520"/>
+                <TextEquiv>
+                    <Unicode>who had either returned, or escaped from servitude. It is only</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="191,571 1092,568 1092,539 965,530 191,541"/>
+                <Baseline points="197,562 241,562 286,562 331,562 376,561 421,562 466,562 511,562 556,560 601,562 646,562 690,561 735,560 780,561 825,560 870,561 915,560 960,560 1005,560 1050,560 1095,558"/>
+                <TextEquiv>
+                    <Unicode>natural, that they should after this, wish to quit the scene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="187,609 1092,605 1092,571 187,580"/>
+                <Baseline points="193,601 238,599 283,599 328,599 373,599 418,601 463,601 508,601 553,601 598,601 644,601 689,601 734,601 779,600 824,601 869,599 914,599 959,599 1004,599 1049,598 1095,599"/>
+                <TextEquiv>
+                    <Unicode>of their former power, and grandeur, which had now passed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="188,653 1093,645 1093,612 945,607 188,621"/>
+                <Baseline points="195,641 240,641 285,641 330,641 375,640 420,639 465,639 510,639 555,640 600,641 645,641 690,641 735,639 780,639 825,639 870,639 915,639 960,639 1005,639 1050,638 1096,637"/>
+                <TextEquiv>
+                    <Unicode>away, and in 1565, when the Samorin, and his Moorish Allies, assisted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="187,688 1092,683 1037,647 187,654"/>
+                <Baseline points="193,678 238,680 283,678 328,678 373,678 418,678 463,679 508,680 553,680 598,680 644,680 689,679 734,678 779,678 824,678 869,678 914,678 959,678 1004,678 1049,678 1095,676"/>
+                <TextEquiv>
+                    <Unicode>by one of the petty Rajahs, again invaded the Cochin State, these</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="191,732 1092,723 1092,693 1052,688 191,699"/>
+                <Baseline points="197,724 241,720 286,717 331,718 376,718 421,718 466,718 511,719 556,720 601,718 646,718 690,718 735,718 780,718 825,718 870,718 915,718 960,718 1005,718 1050,718 1095,718"/>
+                <TextEquiv>
+                    <Unicode>people were probably again severely treated, for the Samorin’s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="193,772 1092,764 1092,735 860,725 193,741"/>
+                <Baseline points="199,763 243,757 288,755 333,755 378,755 423,757 467,757 512,758 557,757 602,757 647,757 691,757 736,759 781,757 826,757 871,757 915,755 960,757 1005,757 1050,756 1095,755"/>
+                <TextEquiv>
+                    <Unicode>party were victorious, and the Coehin Rajah, and two Princes, were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="193,814 1092,809 1051,767 193,774"/>
+                <Baseline points="199,799 243,797 288,795 333,797 378,797 423,797 467,797 512,798 557,797 602,797 647,797 691,798 736,797 781,797 826,797 871,797 915,797 960,797 1005,797 1050,797 1095,801"/>
+                <TextEquiv>
+                    <Unicode>slain in battle on January 27th, 1565,* whilst the succeeding Rajah,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="193,846 1090,839 1025,804 193,816"/>
+                <Baseline points="199,836 243,835 288,836 333,835 377,836 422,836 467,836 511,837 556,836 601,836 646,836 690,836 735,836 780,836 824,836 869,836 914,836 958,835 1003,836 1048,835 1093,834"/>
+                <TextEquiv>
+                    <Unicode>met with the same fate, fourteen days later. Some of the Portu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="195,890 1091,890 1091,855 1050,844 195,859"/>
+                <Baseline points="201,879 245,876 290,876 334,875 379,876 424,876 468,876 513,876 557,876 602,876 647,876 691,876 736,876 780,876 825,876 870,876 914,876 959,876 1003,876 1048,876 1093,874"/>
+                <TextEquiv>
+                    <Unicode>guesc, were no doubt present, with tlie Cochin party, and as they</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="193,923 1090,925 1090,893 1003,883 193,891"/>
+                <Baseline points="199,915 243,914 288,915 333,914 377,915 422,915 467,913 511,915 556,915 601,915 646,915 690,915 735,915 780,915 824,913 869,915 914,915 958,914 1003,915 1048,913 1093,913"/>
+                <TextEquiv>
+                    <Unicode>werc worsted, had no time for oppressing the Jews, who in this very</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="195,969 1092,964 1092,930 1007,923 195,931"/>
+                <Baseline points="201,956 245,955 290,954 335,953 379,952 424,953 469,954 513,954 558,954 603,954 648,954 692,954 737,954 782,954 826,954 871,953 916,954 960,954 1005,954 1050,954 1095,952"/>
+                <TextEquiv>
+                    <Unicode>year, (probably after thie occurrence of the above events,) obtained</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="191,1001 1090,1004 1090,976 990,962 191,974"/>
+                <Baseline points="197,994 241,993 286,992 331,992 376,992 421,994 465,994 510,994 555,994 600,994 645,994 689,994 734,994 779,994 824,994 869,994 913,994 958,994 1003,994 1048,994 1093,996"/>
+                <TextEquiv>
+                    <Unicode>refuge in Cochin, during the time they were building Jews town,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="193,1041 1090,1041 1090,1011 838,1001 193,1012"/>
+                <Baseline points="199,1033 243,1032 288,1033 333,1031 377,1033 422,1032 467,1033 511,1034 556,1035 601,1033 646,1033 690,1033 735,1033 780,1033 824,1033 869,1033 914,1033 958,1033 1003,1033 1048,1032 1093,1033"/>
+                <TextEquiv>
+                    <Unicode>under tlic walls of tlie fort. In this year also, the Portuguese were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="193,1087 1094,1083 1094,1042 193,1050"/>
+                <Baseline points="199,1075 243,1073 288,1073 333,1071 378,1073 423,1071 468,1073 512,1073 557,1073 602,1073 647,1073 692,1073 737,1073 782,1073 826,1073 871,1073 916,1073 961,1073 1006,1073 1051,1073 1096,1073"/>
+                <TextEquiv>
+                    <Unicode>obliged to cnlarge and strengthen the fortress, at Cranganore,f evi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="188,1118 1093,1128 1093,1088 997,1083 188,1087"/>
+                <Baseline points="195,1112 240,1112 285,1112 330,1112 375,1111 420,1112 465,1112 510,1112 555,1112 600,1112 645,1112 690,1112 735,1112 780,1112 825,1112 870,1112 915,1112 960,1112 1005,1112 1050,1112 1096,1110"/>
+                <TextEquiv>
+                    <Unicode>dently against the Samorin’s party. All that appears to be now</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="188,1168 1090,1162 1060,1121 188,1121"/>
+                <Baseline points="195,1152 239,1152 284,1152 329,1152 374,1152 419,1151 464,1152 509,1152 554,1152 599,1152 644,1152 688,1152 733,1152 778,1152 823,1152 868,1152 913,1152 958,1152 1003,1152 1048,1152 1093,1156"/>
+                <TextEquiv>
+                    <Unicode>known, is, that in 1565, the Jews fled from Cranganore to Cochin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="193,1202 878,1202 878,1174 821,1166 193,1169"/>
+                <Baseline points="199,1189 233,1191 267,1191 301,1191 335,1191 369,1191 403,1191 437,1193 471,1191 505,1191 540,1191 574,1191 608,1191 642,1191 676,1191 710,1191 744,1191 778,1191 812,1191 846,1191 881,1191"/>
+                <TextEquiv>
+                    <Unicode>and erected their present settlement of Jews town.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="224,1238 1096,1239 1096,1210 926,1199 446,1224 224,1201"/>
+                <Baseline points="230,1233 273,1231 316,1231 360,1231 403,1231 447,1231 490,1231 533,1231 577,1231 620,1231 664,1231 707,1231 750,1231 794,1231 837,1233 881,1232 924,1231 967,1232 1011,1231 1054,1231 1098,1231"/>
+                <TextEquiv>
+                    <Unicode>A want of spacc, preeludes the possibility of giving the numerous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="191,1275 1098,1283 1076,1244 191,1238"/>
+                <Baseline points="197,1270 242,1268 287,1268 332,1270 377,1270 422,1270 467,1270 513,1269 558,1270 603,1272 648,1270 693,1270 738,1270 783,1270 829,1270 874,1270 919,1271 964,1270 1009,1271 1054,1270 1100,1270"/>
+                <TextEquiv>
+                    <Unicode>Jewish legends, which vary in diffcrent places, and may be said to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="191,1322 1098,1315 1098,1283 191,1284"/>
+                <Baseline points="197,1308 242,1309 287,1310 332,1310 377,1308 422,1308 467,1310 513,1310 558,1310 603,1310 648,1310 693,1310 738,1310 783,1310 829,1310 874,1312 919,1310 964,1310 1009,1311 1054,1312 1100,1312"/>
+                <TextEquiv>
+                    <Unicode>be simply their own surmises, some of which are founded on actual</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="191,1361 1101,1362 1101,1329 1066,1326 191,1326"/>
+                <Baseline points="197,1347 242,1349 287,1349 333,1349 378,1349 423,1348 469,1349 514,1349 559,1351 605,1349 650,1350 695,1349 741,1350 786,1349 831,1350 877,1351 922,1351 967,1351 1013,1351 1058,1351 1104,1357"/>
+                <TextEquiv>
+                    <Unicode>occurrences affecting themselves, and others on those concerning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="196,1396 995,1402 995,1369 889,1360 196,1361"/>
+                <Baseline points="203,1390 242,1388 282,1388 322,1388 362,1389 401,1390 441,1390 481,1389 521,1390 560,1390 600,1390 640,1390 680,1390 719,1390 759,1390 799,1390 839,1390 878,1390 918,1390 958,1390 998,1390"/>
+                <TextEquiv>
+                    <Unicode>either the Syrians, or some of the other sects around them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="234,1451 1099,1437 1099,1409 1058,1404 234,1403"/>
+                <Baseline points="240,1428 283,1428 326,1428 369,1430 412,1428 455,1428 498,1428 541,1430 584,1430 627,1430 671,1430 714,1430 757,1430 800,1430 843,1430 886,1432 929,1430 972,1430 1015,1430 1058,1430 1102,1428"/>
+                <TextEquiv>
+                    <Unicode>On the capture of Cochin by the Dutch in 1663, the Jews were</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="196,1474 1095,1481 1086,1437 196,1449"/>
+                <Baseline points="203,1469 247,1468 292,1469 337,1469 382,1469 426,1469 471,1469 516,1469 561,1469 605,1469 650,1469 695,1469 740,1469 784,1469 829,1469 874,1470 919,1471 963,1471 1008,1471 1053,1471 1098,1471"/>
+                <TextEquiv>
+                    <Unicode>much depressed, owing to the punishment which had been inflicted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="197,1504 1125,1504 1125,1757 197,1757"/>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:0;}">
+                <Coords points="218,1528 1096,1539 1096,1506 218,1506"/>
+                <Baseline points="224,1527 267,1528 311,1529 355,1530 398,1529 442,1531 486,1531 529,1531 573,1531 617,1531 661,1531 704,1531 748,1532 792,1533 835,1533 879,1533 923,1533 966,1533 1010,1533 1054,1533 1098,1533"/>
+                <TextEquiv>
+                    <Unicode>* This battle was celebrated in Malabar verse, the poem is still extant, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:1;}">
+                <Coords points="196,1571 1099,1579 1065,1538 196,1548"/>
+                <Baseline points="203,1562 250,1562 297,1562 344,1562 392,1561 439,1562 486,1562 534,1562 581,1562 628,1563 676,1564 723,1564 770,1564 818,1564 865,1564 912,1564 960,1564 1007,1564 1054,1564 1102,1568"/>
+                <TextEquiv>
+                    <Unicode>enters fully into the details of the defeat, and death, of the Rajah of Cochin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:2;}">
+                <Coords points="196,1598 249,1606 300,1596 336,1606 352,1598 403,1614 448,1615 447,1572 426,1579 405,1570 196,1577"/>
+                <Baseline points="203,1594 230,1594 258,1594 285,1594 313,1593 340,1592 368,1592 395,1592 423,1593 451,1594"/>
+                <TextEquiv>
+                    <Unicode>and the two Princes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:3;}">
+                <Coords points="220,1649 1099,1643 1099,1614 826,1598 220,1614"/>
+                <Baseline points="226,1633 269,1634 313,1635 357,1635 400,1635 444,1636 488,1637 531,1637 575,1637 619,1638 663,1637 706,1637 750,1637 794,1637 837,1637 881,1637 925,1637 968,1639 1012,1637 1056,1637 1100,1639"/>
+                <TextEquiv>
+                    <Unicode>† From the above it would seem probable, that the statement of Mr. White-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:4;}">
+                <Coords points="193,1675 1100,1675 1065,1646 193,1643"/>
+                <Baseline points="199,1667 244,1667 289,1669 334,1669 379,1667 424,1667 469,1669 515,1669 560,1669 605,1669 650,1667 695,1665 740,1669 785,1669 831,1669 876,1669 921,1669 966,1671 1011,1671 1056,1671 1102,1671"/>
+                <TextEquiv>
+                    <Unicode>house, in HISTORICAL NOTICES OF COCHIN "That in 1565 the Jews to escape the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:5;}">
+                <Coords points="199,1702 1100,1708 1083,1675 199,1676"/>
+                <Baseline points="205,1690 249,1698 294,1698 339,1699 384,1698 429,1700 474,1700 518,1700 563,1700 608,1702 653,1700 698,1700 743,1702 788,1702 832,1702 877,1701 922,1702 967,1702 1012,1702 1057,1702 1102,1704"/>
+                <TextEquiv>
+                    <Unicode>"persecutions of the Portuguese, left Cranganore, and put themselves under</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:6;}">
+                <Coords points="197,1746 749,1746 748,1716 729,1708 196,1713"/>
+                <Baseline points="203,1730 230,1732 257,1732 285,1732 312,1732 340,1732 367,1733 394,1734 422,1734 449,1734 477,1734 504,1734 531,1734 559,1734 586,1734 614,1734 641,1734 668,1734 696,1734 723,1734 751,1734"/>
+                <TextEquiv>
+                    <Unicode>the protection of the Cochin Rajah," is an error.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

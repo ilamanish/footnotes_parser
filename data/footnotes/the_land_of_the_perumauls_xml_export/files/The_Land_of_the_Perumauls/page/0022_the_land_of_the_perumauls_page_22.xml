@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:29.466+01:00</Created>
+        <LastChange>2024-12-04T10:23:06.465+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959420" pageNr="22" tsid="209646209" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=WASGOYRMRLFZELFDEGHYHEDP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYOPPRABXACVJEJDRQNATHMK" imageId="70209324"/>
+    </Metadata>
+    <Page imageFilename="0022_the_land_of_the_perumauls_page_22.jpg" imageWidth="1184" imageHeight="2006">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840508635" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="134,218 134,1711 1029,1711 1029,218"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="366,249 786,250 787,210 367,222"/>
+                <Baseline points="372,242 398,241 424,242 450,242 476,242 502,242 528,240 554,238 581,238 607,240 633,240 659,239 685,239 711,240 737,240 763,240 790,238"/>
+                <TextEquiv>
+                    <Unicode>KUNNEEANUR.—TRIPOONTERAT.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="129,313 1022,314 998,272 129,288"/>
+                <Baseline points="136,309 180,309 224,307 269,307 313,305 358,306 402,305 447,306 491,305 536,306 580,305 624,304 669,305 713,304 758,303 802,302 847,305 891,305 936,305 980,305 1025,303"/>
+                <TextEquiv>
+                    <Unicode>a few hundred yards in width, on the west face of which lies the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="132,360 1022,353 1022,322 962,314 132,328"/>
+                <Baseline points="138,347 182,347 226,347 271,346 315,345 359,345 404,345 448,344 492,345 537,345 581,345 625,344 670,343 714,344 758,345 803,344 847,345 891,344 936,345 980,343 1025,341"/>
+                <TextEquiv>
+                    <Unicode>sea, whilst its eastem side is bounded by the baekwater, sometinies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="132,401 1022,392 1022,361 980,353 939,375 132,361"/>
+                <Baseline points="138,386 182,385 226,384 271,383 315,384 359,383 404,382 448,383 492,382 537,382 581,382 625,381 670,382 714,381 758,382 803,382 847,382 891,382 936,382 980,382 1025,380"/>
+                <TextEquiv>
+                    <Unicode>two miles wide, but more commonly a few hundred yards. This</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="132,434 1018,428 1018,401 893,395 132,404"/>
+                <Baseline points="138,426 182,424 226,424 270,422 314,424 358,421 402,422 447,422 491,420 535,422 579,422 623,422 667,422 711,421 756,420 800,422 844,422 888,422 932,422 976,422 1021,420"/>
+                <TextEquiv>
+                    <Unicode>maritime territory is intersected by the openings of the Cranganore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="129,475 1022,466 959,432 129,439"/>
+                <Baseline points="136,463 180,463 224,463 269,460 313,461 358,461 402,459 447,459 491,457 536,459 580,459 624,459 669,459 713,460 758,461 802,460 847,459 891,461 936,461 980,461 1025,457"/>
+                <TextEquiv>
+                    <Unicode>river at Ayacotta, and the Vypeen river at Cochin. One-third of this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="129,514 1026,506 1026,473 871,467 129,484"/>
+                <Baseline points="136,501 180,502 225,499 269,500 314,499 358,498 403,497 447,498 492,499 536,499 581,497 626,498 670,497 715,498 759,499 804,499 848,499 893,499 937,499 982,499 1027,497"/>
+                <TextEquiv>
+                    <Unicode>tract is eovered by water, and more than half the rest by cocoanut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="134,546 1022,546 1022,513 934,508 134,515"/>
+                <Baseline points="140,538 184,538 228,538 272,538 317,538 361,538 405,536 449,536 494,538 538,537 582,536 626,537 671,536 715,536 759,536 803,537 848,538 892,537 936,536 980,537 1025,536"/>
+                <TextEquiv>
+                    <Unicode>trees : it is essentially the land of the fishermen, and along it went</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="134,588 1025,583 1025,553 985,546 134,558"/>
+                <Baseline points="140,577 184,579 228,577 273,577 317,577 361,576 406,573 450,574 494,575 539,575 583,575 627,575 672,575 716,575 760,575 805,575 849,575 893,574 938,573 982,574 1027,572"/>
+                <TextEquiv>
+                    <Unicode>the only road low easte men might use in olden times: here very few</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="134,626 1020,627 1020,597 979,585 134,588"/>
+                <Baseline points="140,617 184,618 228,617 272,616 316,615 360,615 404,615 449,615 493,613 537,614 581,613 625,615 669,613 713,615 758,615 802,615 846,615 890,615 934,615 978,615 1023,613"/>
+                <TextEquiv>
+                    <Unicode>Brahmans and no Namboories will reside, unless attached to apalace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="128,666 192,666 207,676 220,667 244,672 259,665 271,670 290,661 290,636 278,636 269,627 240,636 233,630 216,630 206,639 128,636"/>
+                <Baseline points="134,654 160,654 187,654 213,653 240,653 266,654 293,654"/>
+                <TextEquiv>
+                    <Unicode>or a pagoda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="167,704 1025,700 1025,668 980,662 167,668"/>
+                <Baseline points="173,690 215,692 258,692 301,692 343,692 386,692 429,692 471,692 514,691 557,694 600,692 642,692 685,692 728,692 770,692 813,692 856,692 898,693 941,692 984,694 1027,690"/>
+                <TextEquiv>
+                    <Unicode>The remainder of the low-lands, or the plains, are the portion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="134,746 1022,746 1022,714 981,702 134,706"/>
+                <Baseline points="140,735 184,732 228,731 272,730 317,731 361,729 405,729 449,729 494,729 538,730 582,731 626,730 671,729 715,729 759,729 803,731 848,729 892,731 936,731 980,731 1025,727"/>
+                <TextEquiv>
+                    <Unicode>lying between the backwater and the hills : which, instead of being</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="134,786 1025,778 1025,747 847,737 134,754"/>
+                <Baseline points="140,771 184,771 228,771 273,771 317,771 361,769 406,771 450,768 494,767 539,769 583,769 627,769 672,769 716,769 760,769 805,769 849,769 893,770 938,771 982,771 1027,769"/>
+                <TextEquiv>
+                    <Unicode>sandy, are more commonly either alluvial, or composed of laterite, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="129,817 1022,818 1010,780 129,787"/>
+                <Baseline points="136,810 180,809 224,808 269,808 313,810 358,808 402,808 447,807 491,806 536,807 580,806 624,805 669,806 713,807 758,808 802,808 847,808 891,808 936,808 980,808 1025,808"/>
+                <TextEquiv>
+                    <Unicode>interseeted in many places by rivers. This portion of the State is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="129,857 823,863 823,824 772,818 129,825"/>
+                <Baseline points="136,850 170,848 205,850 239,848 274,847 308,848 343,848 377,848 412,848 446,848 481,847 515,847 550,847 584,848 619,846 653,846 688,846 722,847 757,847 791,848 826,844"/>
+                <TextEquiv>
+                    <Unicode>more holy than either the maritime or hilly districts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="177,899 1020,899 1020,864 991,861 177,863"/>
+                <Baseline points="183,883 225,886 267,887 309,885 351,885 393,887 435,885 477,885 519,885 561,885 603,885 645,885 687,885 729,885 771,885 813,885 855,885 897,885 939,887 981,887 1023,883"/>
+                <TextEquiv>
+                    <Unicode>The Hilly portion, or the Ghauts, are nearly eovered by magnifi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="136,937 1022,935 1022,900 136,900"/>
+                <Baseline points="142,923 186,925 230,925 274,925 318,925 362,925 406,923 451,925 495,925 539,924 583,925 627,924 671,925 715,925 760,925 804,925 848,925 892,926 936,925 980,927 1025,927"/>
+                <TextEquiv>
+                    <Unicode>cent jungles, mostly upon a granite formation. Here the tiger and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="132,970 1020,972 1006,939 132,942"/>
+                <Baseline points="138,962 182,963 226,964 270,964 315,964 359,964 403,962 447,964 492,962 536,962 580,962 624,962 669,962 713,962 757,962 801,964 846,964 890,964 934,964 978,964 1023,962"/>
+                <TextEquiv>
+                    <Unicode>cheetah, the bear and the elephant, dispute with man his elaim to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="132,1010 146,1018 173,1007 466,1010 466,980 399,982 379,972 360,983 328,971 242,987 231,977 207,986 132,978"/>
+                <Baseline points="138,1002 163,1002 188,1002 214,1002 239,1002 265,1002 290,1002 316,1002 341,1002 367,1000 392,1000 418,1001 443,1002 469,1002"/>
+                <TextEquiv>
+                    <Unicode>be the lord of the forests.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="163,1050 1018,1050 991,1008 163,1015"/>
+                <Baseline points="169,1041 211,1041 254,1039 296,1039 339,1039 382,1039 424,1039 467,1039 509,1041 552,1039 595,1040 637,1041 680,1041 722,1041 765,1041 808,1041 850,1039 893,1041 935,1041 978,1042 1021,1041"/>
+                <TextEquiv>
+                    <Unicode>Kunnecanúr is the division to the south-east, of atriangular</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="132,1090 1018,1098 990,1050 132,1048"/>
+                <Baseline points="138,1078 182,1078 226,1078 270,1079 314,1078 358,1078 402,1078 447,1078 491,1078 535,1078 579,1078 623,1080 667,1078 711,1080 756,1080 800,1080 844,1080 888,1080 932,1080 976,1081 1021,1080"/>
+                <TextEquiv>
+                    <Unicode>figure, having a cireumference of about 55 miles, and comprehending</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="134,1131 1016,1129 993,1092 134,1101"/>
+                <Baseline points="140,1118 186,1118 232,1118 278,1118 325,1116 371,1116 417,1117 463,1118 510,1118 556,1117 602,1118 648,1119 695,1118 741,1118 787,1118 833,1116 880,1119 926,1118 972,1120 1019,1116"/>
+                <TextEquiv>
+                    <Unicode>a superficies of 63% square miles, but little outlying spots pertain¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="136,1173 507,1158 575,1169 575,1134 556,1131 202,1143 136,1132"/>
+                <Baseline points="142,1155 167,1155 193,1155 218,1157 244,1156 269,1155 295,1155 321,1155 346,1155 372,1155 397,1155 423,1155 449,1155 474,1155 500,1155 525,1155 551,1153 577,1151"/>
+                <TextEquiv>
+                    <Unicode>ing to it, inercase its size to 804.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="604,1164 1018,1171 1018,1143 959,1131 944,1142 853,1131 840,1144 814,1131 700,1143 604,1132"/>
+                <Baseline points="611,1155 636,1155 662,1156 687,1156 713,1156 739,1157 764,1157 790,1157 816,1157 841,1157 867,1158 892,1159 918,1159 944,1159 969,1157 995,1159 1021,1155"/>
+                <TextEquiv>
+                    <Unicode>The aspeet of this distriet is va¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="132,1210 1017,1211 1004,1172 132,1176"/>
+                <Baseline points="138,1195 182,1195 226,1197 270,1196 314,1195 358,1195 402,1195 446,1194 490,1195 534,1196 578,1197 622,1194 666,1195 710,1196 754,1195 798,1196 842,1195 886,1197 930,1199 974,1199 1019,1195"/>
+                <TextEquiv>
+                    <Unicode>ried, and its capacity very great : it presents a series of minute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="132,1242 1025,1244 1025,1210 132,1214"/>
+                <Baseline points="138,1234 182,1234 226,1232 271,1233 315,1232 360,1233 404,1236 449,1234 493,1234 538,1234 582,1232 626,1232 671,1232 715,1234 760,1234 804,1234 849,1234 893,1235 938,1236 982,1236 1027,1234"/>
+                <TextEquiv>
+                    <Unicode>chains of steep slopes, much overgrown with thiek stunted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="136,1290 1022,1282 1022,1255 978,1249 136,1243"/>
+                <Baseline points="142,1276 186,1273 230,1272 274,1272 318,1274 362,1273 406,1274 451,1272 495,1274 539,1274 583,1272 627,1274 671,1274 715,1273 760,1272 804,1274 848,1274 892,1275 936,1276 980,1276 1025,1274"/>
+                <TextEquiv>
+                    <Unicode>jungle, whilst about one-third is eultivated. The intermediate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="132,1315 1025,1330 1011,1281 132,1290"/>
+                <Baseline points="138,1309 182,1311 226,1311 271,1312 315,1311 360,1311 404,1313 449,1311 493,1313 538,1311 582,1313 626,1311 671,1311 715,1313 760,1313 804,1313 849,1313 893,1313 938,1313 982,1314 1027,1317"/>
+                <TextEquiv>
+                    <Unicode>vallies and flat surfaces have nearly two-thirds under cultivation,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="132,1361 799,1361 799,1332 738,1321 132,1325"/>
+                <Baseline points="138,1351 171,1350 204,1351 237,1351 270,1351 304,1351 337,1351 370,1351 403,1351 436,1351 470,1351 503,1351 536,1351 569,1351 602,1351 636,1351 669,1352 702,1353 735,1353 768,1353 802,1349"/>
+                <TextEquiv>
+                    <Unicode>half being rice, and tlie otlier cocoa-nnt plantations.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="163,1400 1026,1403 1026,1370 933,1358 898,1381 163,1363"/>
+                <Baseline points="169,1376 212,1388 255,1388 298,1390 341,1390 384,1390 427,1390 470,1389 513,1390 556,1390 599,1390 642,1390 685,1390 728,1390 771,1391 814,1392 857,1391 900,1390 943,1392 986,1392 1029,1392"/>
+                <TextEquiv>
+                    <Unicode>This division contains five sub-divisions, (Proverties), of about</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="128,1433 1016,1451 1016,1414 847,1400 128,1412"/>
+                <Baseline points="134,1426 178,1428 222,1430 266,1428 311,1428 355,1428 399,1430 443,1429 488,1428 532,1429 576,1428 620,1429 665,1430 709,1432 753,1430 797,1430 842,1430 886,1431 930,1432 974,1432 1019,1433"/>
+                <TextEquiv>
+                    <Unicode>equal size, including detaehed places, viz., Kunneeanúr, Neendacurray,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="136,1476 1021,1482 1021,1451 958,1443 136,1441"/>
+                <Baseline points="142,1464 186,1466 230,1467 274,1467 318,1467 362,1467 406,1467 450,1466 494,1468 538,1468 582,1467 626,1468 670,1467 714,1468 758,1469 802,1469 846,1469 890,1467 934,1470 978,1471 1023,1469"/>
+                <TextEquiv>
+                    <Unicode>Nettúr, Ernacollum, and Vullarapullay, comprised in 99 villages.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="134,1512 1019,1521 1019,1487 909,1478 856,1501 134,1477"/>
+                <Baseline points="140,1503 184,1504 228,1504 272,1504 316,1504 360,1506 404,1504 448,1506 492,1506 536,1506 580,1504 624,1505 668,1508 712,1507 756,1506 800,1507 844,1508 888,1508 932,1506 976,1510 1021,1508"/>
+                <TextEquiv>
+                    <Unicode>The whole contains about 23,000 productive trecs. The most</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="132,1554 1018,1557 1018,1522 132,1521"/>
+                <Baseline points="138,1542 182,1544 226,1544 270,1544 314,1544 358,1544 402,1546 447,1546 491,1546 535,1546 579,1544 623,1546 667,1546 711,1547 756,1548 800,1547 844,1548 888,1548 932,1550 976,1550 1021,1548"/>
+                <TextEquiv>
+                    <Unicode>remarkable place is Tripoonterah (Teereepuneythoray), the prineipal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="134,1592 1019,1597 1019,1562 134,1563"/>
+                <Baseline points="140,1583 184,1583 228,1581 272,1582 316,1583 360,1583 404,1583 448,1585 492,1585 536,1585 580,1585 624,1585 668,1585 712,1585 756,1587 800,1587 844,1587 888,1587 932,1587 976,1587 1021,1587"/>
+                <TextEquiv>
+                    <Unicode>residence of H. H. the Rajah, and nine miles east of Cochin. Though</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="134,1633 1022,1635 985,1600 866,1594 134,1594"/>
+                <Baseline points="140,1621 184,1621 228,1621 272,1621 317,1623 361,1623 405,1623 449,1622 494,1623 538,1625 582,1625 626,1624 671,1625 715,1626 759,1627 803,1625 848,1625 892,1626 936,1627 980,1627 1025,1623"/>
+                <TextEquiv>
+                    <Unicode>denominated a fort, and surrounded by a moat and wall, withi gates</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="128,1664 1019,1674 997,1636 128,1642"/>
+                <Baseline points="134,1658 178,1660 222,1660 267,1661 311,1662 355,1660 400,1662 444,1659 488,1660 533,1662 577,1664 621,1664 666,1664 710,1664 754,1664 799,1664 843,1666 887,1666 932,1666 976,1666 1021,1662"/>
+                <TextEquiv>
+                    <Unicode>at each entrance, it may be said to be incapable of offering resis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="132,1706 207,1713 217,1703 252,1704 283,1714 306,1705 327,1713 327,1685 306,1685 287,1672 265,1685 240,1685 229,1674 215,1685 165,1685 144,1674 132,1677"/>
+                <Baseline points="138,1698 165,1700 192,1700 219,1700 247,1700 274,1700 301,1701 329,1700"/>
+                <TextEquiv>
+                    <Unicode>tance to a foc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

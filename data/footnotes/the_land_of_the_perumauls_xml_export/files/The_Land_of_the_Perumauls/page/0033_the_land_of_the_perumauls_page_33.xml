@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:30.392+01:00</Created>
+        <LastChange>2024-12-04T10:23:07.916+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960050" pageNr="33" tsid="209646095" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=NGKQVPMWRVZCCODYKQIGDPQD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHZKHOLXHITMUIUSSJLRBMXR" imageId="70209354"/>
+    </Metadata>
+    <Page imageFilename="0033_the_land_of_the_perumauls_page_33.jpg" imageWidth="1142" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840509552" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="83,221 83,1703 978,1703 978,221"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="285,257 759,249 749,198 674,198 590,227 286,221"/>
+                <Baseline points="291,243 317,245 343,245 369,244 395,242 421,241 447,243 473,244 499,244 526,245 552,245 578,245 604,243 630,243 656,241 682,242 708,243 734,243 761,243"/>
+                <TextEquiv>
+                    <Unicode>LEECHES.—WILD ANIMALS, TIGERS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="80,312 976,323 974,284 926,272 79,283"/>
+                <Baseline points="85,302 129,306 174,312 218,311 263,310 308,310 352,310 397,310 442,310 486,310 531,310 576,310 620,310 665,311 710,310 754,310 799,310 844,310 888,308 933,310 978,313"/>
+                <TextEquiv>
+                    <Unicode>“Chief is designated Archbishop of Cranganore, his residenee being</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="80,345 971,359 949,318 80,332"/>
+                <Baseline points="87,340 131,349 175,350 220,349 264,348 308,348 353,349 397,350 441,349 486,348 530,349 574,350 619,349 663,348 707,349 752,349 796,348 840,344 885,346 929,348 974,346"/>
+                <TextEquiv>
+                    <Unicode>half a mile from Pooteneherra, in the Cochin territory.” Up to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="80,394 971,399 962,361 80,361"/>
+                <Baseline points="87,388 131,386 175,388 220,388 264,388 308,387 353,386 397,388 441,388 486,388 530,388 574,388 619,388 663,388 707,388 752,388 796,388 840,387 885,386 929,387 974,384"/>
+                <TextEquiv>
+                    <Unicode>1706 this Kaimul had been under the Samorin, he tlien shook off</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="83,435 802,451 802,398 83,405"/>
+                <Baseline points="89,428 124,426 160,427 196,426 232,426 267,424 303,425 339,425 375,426 410,426 446,427 482,426 518,426 553,426 589,426 625,426 661,426 696,426 732,426 768,426 804,426"/>
+                <TextEquiv>
+                    <Unicode>his authority, and joined himself to the Coehiu faction.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="115,475 976,473 969,431 660,456 606,431 463,455 115,435"/>
+                <Baseline points="121,466 163,466 206,464 249,465 292,464 335,462 378,464 420,462 463,464 506,465 549,464 592,463 635,464 678,464 720,464 763,463 806,464 849,465 892,464 935,464 978,464"/>
+                <TextEquiv>
+                    <Unicode>Amongst its few villages (about 13) is seen the remains of a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="79,521 968,519 968,478 901,469 79,486"/>
+                <Baseline points="85,500 129,504 173,504 217,504 262,504 306,504 350,503 394,504 439,504 483,504 527,504 571,504 616,502 660,504 704,504 748,502 793,502 837,502 881,502 925,501 970,500"/>
+                <TextEquiv>
+                    <Unicode>small fort, once tlie residence of a family whieh exereised sovereign</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="83,549 970,548 970,520 920,516 83,517"/>
+                <Baseline points="89,540 133,540 177,540 221,542 265,544 309,542 353,542 398,542 442,543 486,544 530,542 574,542 618,543 662,542 707,540 751,540 795,540 839,540 883,540 927,540 972,538"/>
+                <TextEquiv>
+                    <Unicode>sway over this part of the country, and whose descendants as private</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="85,592 643,590 643,558 570,553 85,555"/>
+                <Baseline points="91,578 118,578 146,580 174,580 201,580 229,580 257,582 284,580 312,580 340,580 368,580 395,581 423,581 451,581 478,581 506,580 534,581 561,581 589,580 617,580 645,580"/>
+                <TextEquiv>
+                    <Unicode>individuals still live in the neighbourhood.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="115,629 971,620 963,591 735,582 115,595"/>
+                <Baseline points="121,616 163,618 206,618 248,618 291,618 334,619 376,618 419,620 462,620 504,619 547,618 590,619 632,618 675,618 718,618 760,618 803,618 846,618 888,618 931,616 974,614"/>
+                <TextEquiv>
+                    <Unicode>Shallacoodee is the chief place in this sub-division : liere the of¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="83,664 973,669 973,635 826,626 83,633"/>
+                <Baseline points="89,656 133,657 177,656 222,657 266,658 310,658 355,658 399,658 443,657 488,658 532,656 576,656 621,658 665,658 709,656 754,658 798,654 842,658 887,658 931,654 976,654"/>
+                <TextEquiv>
+                    <Unicode>ficials reside, and the Rajah lias also a small palace. It is a great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="77,700 970,706 970,669 934,666 77,677"/>
+                <Baseline points="83,696 127,696 171,696 216,696 260,696 305,696 349,696 394,696 438,696 483,696 527,694 571,694 616,694 660,694 705,695 749,696 794,694 838,695 883,696 927,695 972,692"/>
+                <TextEquiv>
+                    <Unicode>satisfaction to find a comparative absence of the rattan and allied</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="77,743 973,742 961,706 77,714"/>
+                <Baseline points="83,732 127,733 172,732 216,733 261,734 306,733 350,734 395,733 440,732 484,734 529,734 574,734 618,733 663,734 708,734 752,734 797,734 842,734 886,734 931,733 976,730"/>
+                <TextEquiv>
+                    <Unicode>elimbers, in these jungles. The small Ceylon leech is here a great</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="89,787 971,784 957,745 89,755"/>
+                <Baseline points="95,774 141,772 187,771 233,772 280,772 326,772 372,770 418,772 465,772 511,771 557,772 603,772 650,770 696,772 742,772 788,772 835,770 881,772 927,771 974,772"/>
+                <TextEquiv>
+                    <Unicode>pest to the traveller. Shooting, especially for bison, is very good.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="85,816 973,818 973,784 938,782 85,787"/>
+                <Baseline points="91,808 135,809 179,808 223,810 268,810 312,810 356,810 400,810 445,810 489,810 533,809 577,810 622,810 666,810 710,810 754,810 799,810 843,810 887,810 931,810 976,808"/>
+                <TextEquiv>
+                    <Unicode>The Mulehers (a tribe of hill people) assert that in the depth of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="77,853 971,866 963,822 77,828"/>
+                <Baseline points="83,846 127,847 172,846 216,848 261,848 305,850 350,849 394,848 439,848 483,850 528,848 573,848 617,848 662,848 706,848 751,848 795,848 840,848 884,848 929,848 974,846"/>
+                <TextEquiv>
+                    <Unicode>forest there is an enormous tiger, of a white or eream colour, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="83,902 973,893 973,864 928,860 83,859"/>
+                <Baseline points="89,886 133,886 177,882 222,884 266,886 310,886 355,885 399,886 443,885 488,884 532,885 576,886 621,887 665,886 709,886 754,886 798,886 842,886 887,886 931,886 976,886"/>
+                <TextEquiv>
+                    <Unicode>having yellow stripes : it is reputed to be most ferocious, aud its</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="83,925 158,939 237,928 425,931 425,905 413,900 83,905"/>
+                <Baseline points="89,922 115,922 141,924 167,924 193,924 219,924 245,924 271,924 297,924 323,924 349,924 375,922 401,922 428,924"/>
+                <TextEquiv>
+                    <Unicode>destruction much desired.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="111,976 973,970 973,934 111,936"/>
+                <Baseline points="117,962 162,963 207,964 252,962 297,962 343,962 388,962 433,962 478,962 523,962 569,962 614,962 659,962 704,964 749,962 795,961 840,962 885,962 930,962 976,961"/>
+                <TextEquiv>
+                    <Unicode>A few miles from-Shallacoodee is Angamale, formerly tlie seat of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="77,1002 970,1008 970,981 830,970 77,980"/>
+                <Baseline points="83,999 127,1000 171,1000 216,1000 260,1000 305,1000 349,1001 394,1000 438,1000 483,1000 527,1000 571,1000 616,1001 660,1000 705,1000 749,1000 794,1000 838,1001 883,1000 927,1000 972,1000"/>
+                <TextEquiv>
+                    <Unicode>the Syrian power in Malabar. Tippoo laid this town waste and des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="77,1043 970,1057 970,1024 924,1010 77,1020"/>
+                <Baseline points="83,1037 127,1038 171,1039 216,1038 260,1039 305,1039 349,1039 394,1039 438,1039 483,1039 527,1039 571,1040 616,1039 660,1039 705,1039 749,1039 794,1037 838,1039 883,1039 927,1039 972,1035"/>
+                <TextEquiv>
+                    <Unicode>troyed the churches, but that dedicated to St. George was subse¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="85,1091 969,1087 935,1048 85,1050"/>
+                <Baseline points="91,1077 135,1078 179,1077 223,1077 267,1077 311,1077 355,1078 399,1077 443,1078 487,1077 531,1078 575,1078 619,1078 663,1077 707,1078 751,1078 795,1077 839,1078 883,1078 927,1078 972,1077"/>
+                <TextEquiv>
+                    <Unicode>quently restored. On the bauks of the backwater stauds Tekkali Pa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="83,1135 973,1134 949,1094 767,1086 83,1095"/>
+                <Baseline points="89,1115 133,1115 177,1115 222,1116 266,1117 310,1115 355,1116 399,1117 443,1117 488,1117 532,1116 576,1115 621,1115 665,1115 709,1116 754,1116 798,1115 842,1114 887,1113 931,1114 976,1115"/>
+                <TextEquiv>
+                    <Unicode>roor, and on the opposite side is a eross whieh, tradition asserts, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="80,1170 819,1163 806,1124 80,1134"/>
+                <Baseline points="87,1153 123,1153 160,1154 197,1153 234,1153 270,1154 307,1155 344,1155 381,1154 417,1154 454,1155 491,1155 528,1155 564,1154 601,1153 638,1154 675,1154 711,1155 748,1153 785,1155 822,1153"/>
+                <TextEquiv>
+                    <Unicode>erected by St. Thonias. This Chureh was built in 1712.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="113,1199 973,1208 973,1169 919,1159 113,1160"/>
+                <Baseline points="119,1191 161,1192 204,1191 247,1190 290,1193 333,1193 376,1193 418,1193 461,1193 504,1192 547,1193 590,1192 633,1193 676,1192 718,1191 761,1192 804,1193 847,1192 890,1191 933,1193 976,1189"/>
+                <TextEquiv>
+                    <Unicode>Paulathingul is still more mountaious thau Kodachayree, whilst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="83,1248 973,1242 973,1210 816,1201 83,1215"/>
+                <Baseline points="89,1229 133,1229 177,1231 222,1230 266,1231 310,1231 355,1231 399,1231 443,1231 488,1231 532,1231 576,1231 621,1231 665,1231 709,1231 754,1231 798,1231 842,1231 887,1231 931,1231 976,1229"/>
+                <TextEquiv>
+                    <Unicode>only a seventeenth part is under eultivation. It comprises cighteen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="87,1273 971,1274 932,1243 87,1249"/>
+                <Baseline points="93,1267 137,1267 181,1267 225,1269 269,1269 313,1269 357,1269 401,1267 445,1269 489,1267 533,1269 577,1269 621,1269 665,1269 709,1269 753,1269 797,1268 841,1268 885,1269 929,1269 974,1267"/>
+                <TextEquiv>
+                    <Unicode>villages, most of which lie along its wester boundary, or that far¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="80,1313 971,1321 971,1277 80,1291"/>
+                <Baseline points="87,1305 131,1305 175,1307 220,1307 264,1305 308,1306 353,1306 397,1305 441,1307 486,1307 530,1307 574,1307 619,1307 663,1309 707,1309 752,1306 796,1305 840,1307 885,1309 929,1309 974,1307"/>
+                <TextEquiv>
+                    <Unicode>thest from the ghauts. This distriet is much infested by clephants,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="80,1352 976,1357 976,1323 939,1314 80,1330"/>
+                <Baseline points="87,1343 131,1343 176,1343 220,1342 265,1345 309,1345 354,1345 398,1345 443,1345 487,1345 532,1345 577,1345 621,1345 666,1347 710,1345 755,1345 799,1347 844,1343 888,1347 933,1347 978,1347"/>
+                <TextEquiv>
+                    <Unicode>rendering cultivation diffieult ; other game also abounds. From its</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="85,1390 626,1395 615,1356 85,1358"/>
+                <Baseline points="91,1381 117,1379 144,1382 171,1383 198,1383 225,1383 251,1382 278,1382 305,1383 332,1383 359,1383 385,1383 412,1383 439,1383 466,1383 493,1383 519,1383 546,1383 573,1383 600,1383 627,1383"/>
+                <TextEquiv>
+                    <Unicode>forests, a large amount of timber is felled.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="115,1426 969,1434 962,1390 115,1396"/>
+                <Baseline points="121,1410 163,1419 206,1421 248,1420 291,1419 333,1419 376,1419 418,1421 461,1421 503,1423 546,1423 589,1420 631,1422 674,1423 716,1423 759,1422 801,1420 844,1421 886,1421 929,1423 972,1419"/>
+                <TextEquiv>
+                    <Unicode>Thaulayeaad possesses thirteen straggling villages. It was for¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="80,1467 939,1475 973,1471 972,1439 79,1443"/>
+                <Baseline points="85,1457 129,1459 173,1459 218,1459 262,1459 307,1459 351,1459 396,1459 440,1459 485,1459 529,1459 573,1461 618,1459 662,1461 707,1461 751,1460 796,1461 840,1460 885,1461 929,1460 974,1459"/>
+                <TextEquiv>
+                    <Unicode>merly a wealthy distriet, but during tlie present generation its opu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="80,1505 973,1506 972,1477 850,1468 79,1468"/>
+                <Baseline points="87,1497 131,1496 175,1497 220,1495 264,1497 309,1497 353,1497 398,1497 442,1497 487,1497 531,1498 575,1497 620,1499 664,1499 709,1499 753,1499 798,1499 842,1497 887,1499 931,1499 976,1497"/>
+                <TextEquiv>
+                    <Unicode>lenee has vanished, owing to its trade having deelined. Thiere is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="83,1553 970,1547 959,1509 83,1516"/>
+                <Baseline points="89,1541 133,1535 177,1537 221,1536 265,1535 309,1535 353,1535 398,1535 442,1535 486,1535 530,1537 574,1537 618,1537 662,1537 707,1536 751,1537 795,1537 839,1537 883,1537 927,1537 972,1533"/>
+                <TextEquiv>
+                    <Unicode>good inland navigation as far as this district. The town of Auwut¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="85,1587 969,1587 969,1548 85,1554"/>
+                <Baseline points="91,1573 135,1573 179,1573 223,1573 267,1573 311,1573 355,1570 399,1573 443,1574 487,1573 531,1575 575,1575 619,1575 663,1573 707,1575 751,1575 795,1575 839,1573 883,1575 927,1575 972,1573"/>
+                <TextEquiv>
+                    <Unicode>tatoor, with its large pagoda, is said to have been one of the 32 di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="85,1626 735,1625 735,1591 676,1585 85,1592"/>
+                <Baseline points="91,1611 123,1611 155,1611 188,1611 220,1611 252,1611 285,1611 317,1611 349,1611 382,1613 414,1611 446,1611 479,1612 511,1613 543,1613 576,1611 608,1611 640,1613 673,1613 705,1613 738,1613"/>
+                <TextEquiv>
+                    <Unicode>visions into which Malabar was formerly divided.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="115,1658 976,1656 958,1628 837,1617 115,1626"/>
+                <Baseline points="121,1647 163,1649 206,1649 249,1649 292,1649 335,1650 378,1649 420,1649 463,1651 506,1650 549,1649 592,1650 635,1649 678,1650 720,1651 763,1652 806,1653 849,1652 892,1649 935,1651 978,1649"/>
+                <TextEquiv>
+                    <Unicode>Koruttee is the most southern Proverty of the Kodachayree Di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="85,1697 976,1706 958,1664 85,1663"/>
+                <Baseline points="91,1687 135,1689 179,1687 224,1689 268,1689 312,1688 357,1687 401,1686 445,1687 490,1686 534,1688 578,1689 623,1689 667,1689 711,1690 756,1690 800,1691 844,1690 889,1689 933,1691 978,1693"/>
+                <TextEquiv>
+                    <Unicode>vision: containing twenty villages, and is also the most populous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

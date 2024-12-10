@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:19:59.620+01:00</Created>
+        <LastChange>2024-12-10T01:21:36.593+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960311" pageNr="380" tsid="211283548" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=PPRNNJJYXPBLFSLNCMTDPNYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IAAMTTDWSYGYCIKSYYOYUYML" imageId="70209682"/>
+    </Metadata>
+    <Page imageFilename="0380_the_land_of_the_perumauls_page_380.jpg" imageWidth="1189" imageHeight="2000">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840730012" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="150,225 150,1740 1058,1740 1058,225"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="511,256 559,262 616,255 669,260 669,210 649,210 641,202 622,202 612,212 573,210 559,223 529,226 511,219"/>
+                <Baseline points="517,245 542,248 568,249 594,249 619,249 645,248 671,247"/>
+                <TextEquiv>
+                    <Unicode>THE IMAMS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="143,272 151,273 154,270 164,270 170,265 180,266 196,260 206,264 209,226 200,224 197,227 189,221 186,224 181,223 176,229 166,226 161,230 154,223 146,223"/>
+                <Baseline points="150,253 180,253 210,249"/>
+                <TextEquiv>
+                    <Unicode>360</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="147,328 1045,323 1045,278 147,287"/>
+                <Baseline points="154,317 198,317 243,315 288,315 332,315 377,313 422,311 466,313 511,313 556,314 601,313 645,314 690,315 735,315 779,315 824,313 869,315 913,315 958,317 1003,315 1048,313"/>
+                <TextEquiv>
+                    <Unicode>cause of the Mahomedan divisions was thie existence of Ali, Mowa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="155,365 1048,362 1020,322 155,332"/>
+                <Baseline points="162,354 206,354 250,356 295,352 339,352 384,351 428,350 472,350 517,352 561,351 606,350 650,352 694,352 739,352 783,352 828,352 872,352 916,352 961,354 1005,353 1050,354"/>
+                <TextEquiv>
+                    <Unicode>yeeah, and his friend Amru, so they determined to assassinate all in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="147,402 1045,410 1015,363 147,379"/>
+                <Baseline points="154,396 198,396 243,394 288,392 332,392 377,390 422,390 466,390 511,392 556,391 601,390 645,392 690,392 735,391 779,390 824,392 869,394 913,393 958,392 1003,394 1048,392"/>
+                <TextEquiv>
+                    <Unicode>one day. This they attempted, but were only successful in murdering</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="155,442 1045,442 1045,415 989,405 155,412"/>
+                <Baseline points="162,434 206,434 250,434 294,432 339,430 383,430 427,432 472,431 516,430 560,431 605,430 649,431 693,432 737,432 782,432 826,431 870,432 915,432 959,430 1003,432 1048,432"/>
+                <TextEquiv>
+                    <Unicode>Ali, and thus terminated the reign of the last Caliph, in whom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="147,474 1048,481 1048,452 990,442 147,450"/>
+                <Baseline points="154,469 198,471 243,471 288,471 333,469 378,469 422,469 467,467 512,467 557,468 602,469 646,469 691,469 736,470 781,471 826,471 870,471 915,470 960,471 1005,471 1050,471"/>
+                <TextEquiv>
+                    <Unicode>was united, both the temporal sovereignty or Caliphite, and the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="152,529 1048,526 1048,498 963,476 152,485"/>
+                <Baseline points="158,513 202,511 247,511 291,509 336,509 381,508 425,505 470,507 514,507 559,509 604,509 648,508 693,509 737,509 782,509 827,509 871,509 916,510 960,511 1005,509 1050,507"/>
+                <TextEquiv>
+                    <Unicode>Iman or spiritual power. The first from this period fell to Mowa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="152,561 986,554 964,519 152,532"/>
+                <Baseline points="158,549 199,550 241,551 282,549 324,549 365,547 407,547 448,545 490,547 531,547 573,547 615,547 656,549 698,547 739,548 781,549 822,549 864,549 905,549 947,549 989,547"/>
+                <TextEquiv>
+                    <Unicode>veeah and his successors, the latter to the descendants of Ali.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="184,602 1035,600 959,560 184,566"/>
+                <Baseline points="190,590 232,588 274,588 317,586 359,586 402,586 444,586 486,586 529,585 571,586 614,586 656,587 698,586 741,586 783,586 826,587 868,586 910,588 953,588 995,588 1038,590"/>
+                <TextEquiv>
+                    <Unicode>Hassan, Ali’s eldest son, was proclaimed Caliph, as well as Imam,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="147,633 1045,635 1031,600 866,594 147,603"/>
+                <Baseline points="154,626 198,628 243,628 288,626 332,626 377,624 422,626 466,624 511,624 556,626 601,626 645,626 690,626 735,626 779,624 824,626 869,626 913,625 958,626 1003,628 1048,628"/>
+                <TextEquiv>
+                    <Unicode>but Mowaveeah compelled him to resign the first dignity, A. D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="147,673 1043,673 1024,634 981,656 147,644"/>
+                <Baseline points="154,666 198,667 243,666 287,665 332,664 377,664 421,664 466,664 510,664 555,664 600,664 644,665 689,664 733,665 778,666 823,665 867,666 912,666 956,666 1001,665 1046,664"/>
+                <TextEquiv>
+                    <Unicode>669, and nine years subsequently, he was poisoned by his wife. His</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="150,713 1041,718 1041,679 150,677"/>
+                <Baseline points="156,705 200,705 244,705 289,705 333,703 378,702 422,703 466,701 511,703 555,703 600,703 644,704 688,703 733,702 777,703 822,703 866,703 910,704 955,705 999,705 1044,705"/>
+                <TextEquiv>
+                    <Unicode>brother Hossein, was second Imam, and when Mowaveeah died</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="147,754 1048,753 1022,717 714,703 147,719"/>
+                <Baseline points="154,745 198,744 243,743 288,742 333,745 378,741 422,743 467,741 512,741 557,741 602,741 646,742 691,743 736,743 781,743 826,743 870,743 915,744 960,745 1005,745 1050,743"/>
+                <TextEquiv>
+                    <Unicode>A. D. 679, and was succeeded by his profligate son Yezid, Hossein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="147,794 1048,791 1048,756 1012,753 147,764"/>
+                <Baseline points="154,782 198,782 243,782 288,780 333,780 378,780 422,780 467,779 512,780 557,780 602,780 646,780 691,780 736,782 781,780 826,781 870,782 915,781 960,782 1005,782 1050,778"/>
+                <TextEquiv>
+                    <Unicode>attempted to obtain the Caliphite, but was surrounded by Yezid’s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="150,834 1045,831 1036,796 150,796"/>
+                <Baseline points="156,822 200,822 245,820 289,821 334,820 379,820 423,816 468,818 512,818 557,820 602,820 646,820 691,822 735,819 780,820 825,820 869,822 914,821 958,822 1003,823 1048,820"/>
+                <TextEquiv>
+                    <Unicode>troops, and mortally wounded. He staggered to his tent, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="146,874 1043,865 1043,838 991,833 146,836"/>
+                <Baseline points="152,862 196,860 241,860 286,859 330,860 375,859 420,858 464,858 509,858 554,859 599,860 643,860 688,860 733,859 777,860 822,860 867,860 911,860 956,860 1001,860 1046,860"/>
+                <TextEquiv>
+                    <Unicode>lifted up his infant to give it his last blessing, when an arrow pierc¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="150,907 1045,908 1045,873 150,883"/>
+                <Baseline points="156,901 200,899 245,899 289,898 334,897 379,898 423,897 468,897 512,897 557,896 602,897 646,898 691,897 735,897 780,897 825,898 869,899 914,899 958,899 1003,900 1048,897"/>
+                <TextEquiv>
+                    <Unicode>ed the child’s breast, and its life blood flowed over its agonised</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="144,946 1045,960 1024,913 144,917"/>
+                <Baseline points="150,939 194,938 239,937 284,938 329,937 374,937 419,937 464,937 509,935 554,937 599,939 643,937 688,937 733,938 778,937 823,938 868,939 913,939 958,939 1003,939 1048,941"/>
+                <TextEquiv>
+                    <Unicode>father, who rushing amongst the foe, soon fell a victim to their fury.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="144,986 1045,992 1045,960 773,943 144,965"/>
+                <Baseline points="150,981 194,978 239,977 284,978 329,977 374,977 419,977 464,975 509,975 554,975 599,975 643,976 688,975 733,976 778,977 823,976 868,979 913,977 958,979 1003,979 1048,979"/>
+                <TextEquiv>
+                    <Unicode>All his family, excepting his son Ali, 12 years of age, and two sisters,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="150,1032 1048,1025 1031,989 150,994"/>
+                <Baseline points="156,1020 200,1016 245,1016 290,1016 334,1016 379,1015 424,1014 468,1014 513,1014 558,1014 603,1014 647,1014 692,1014 737,1014 781,1014 826,1016 871,1014 915,1014 960,1016 1005,1018 1050,1018"/>
+                <TextEquiv>
+                    <Unicode>perished at the same time, but his murder was fearfully avenged.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="149,1067 1049,1078 1049,1040 942,1024 149,1032"/>
+                <Baseline points="155,1045 199,1056 244,1056 289,1053 334,1054 378,1053 423,1054 468,1052 513,1054 557,1054 602,1054 647,1054 692,1054 736,1054 781,1054 826,1054 871,1055 915,1056 960,1056 1005,1056 1050,1058"/>
+                <TextEquiv>
+                    <Unicode>The anniversary of Hossein’s martyrdom, is kept as the Mohorrum,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="150,1105 483,1101 483,1076 451,1066 424,1077 393,1065 365,1074 261,1067 248,1078 150,1067"/>
+                <Baseline points="156,1096 181,1094 206,1095 231,1095 257,1094 282,1094 307,1094 333,1094 358,1093 383,1092 409,1092 434,1093 459,1094 485,1092"/>
+                <TextEquiv>
+                    <Unicode>both in India and Persia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="178,1145 1050,1150 1050,1103 178,1107"/>
+                <Baseline points="184,1123 227,1131 270,1131 314,1131 357,1133 401,1131 444,1129 487,1131 531,1131 574,1131 618,1131 661,1133 704,1132 748,1133 791,1133 835,1133 878,1133 921,1133 965,1135 1008,1135 1052,1133"/>
+                <TextEquiv>
+                    <Unicode>There were altogether twelve Imams, although some Moslem sects</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="144,1185 1050,1186 1050,1156 995,1148 144,1156"/>
+                <Baseline points="150,1173 195,1172 240,1173 285,1171 330,1171 375,1171 420,1173 465,1171 510,1171 555,1172 601,1173 646,1171 691,1173 736,1172 781,1173 826,1173 871,1173 916,1173 961,1174 1006,1173 1052,1173"/>
+                <TextEquiv>
+                    <Unicode>acknowledge only one, others seven, whilst it is considered, there</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="153,1219 944,1238 1045,1223 1044,1183 152,1190"/>
+                <Baseline points="158,1211 202,1212 247,1213 291,1211 336,1211 380,1211 425,1211 469,1211 514,1209 558,1211 603,1211 647,1211 692,1211 736,1211 781,1213 825,1212 870,1213 914,1213 959,1213 1003,1214 1048,1213"/>
+                <TextEquiv>
+                    <Unicode>will be no legitimate Sovereign upon earth, until Mahomed the last</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="146,1258 565,1258 565,1230 548,1227 146,1228"/>
+                <Baseline points="152,1252 177,1252 203,1250 229,1251 255,1251 281,1250 307,1250 333,1250 359,1250 384,1250 410,1249 436,1249 462,1250 488,1250 514,1250 540,1250 566,1250"/>
+                <TextEquiv>
+                    <Unicode>Imam, or his spirit, re-appears.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="181,1306 1048,1305 1048,1263 1011,1254 181,1266"/>
+                <Baseline points="188,1286 231,1291 274,1290 317,1289 360,1290 403,1290 446,1290 489,1288 532,1288 575,1290 619,1290 662,1290 705,1290 748,1290 791,1290 834,1290 877,1290 920,1292 963,1292 1006,1292 1050,1290"/>
+                <TextEquiv>
+                    <Unicode>The Mahomedans are separated into two great divisions, the Sheeas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="144,1345 1045,1346 1045,1306 849,1299 144,1314"/>
+                <Baseline points="150,1330 194,1330 239,1330 284,1329 329,1330 374,1329 419,1330 464,1329 509,1330 554,1330 599,1328 643,1330 688,1330 733,1330 778,1330 823,1330 868,1330 913,1330 958,1332 1003,1332 1048,1330"/>
+                <TextEquiv>
+                    <Unicode>of whom the Persians are the chief representatives, and the Soonees</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="147,1379 1045,1379 1045,1348 951,1338 147,1346"/>
+                <Baseline points="154,1367 198,1368 243,1367 288,1366 332,1367 377,1367 422,1367 466,1367 511,1367 556,1367 601,1367 645,1368 690,1367 735,1368 779,1369 824,1367 869,1367 913,1368 958,1369 1003,1370 1048,1369"/>
+                <TextEquiv>
+                    <Unicode>amongst whom the Turks form the largest division. They are in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="144,1416 1050,1422 1017,1376 144,1391"/>
+                <Baseline points="150,1407 195,1408 240,1407 285,1408 330,1407 375,1407 420,1407 465,1407 510,1407 555,1407 601,1407 646,1408 691,1409 736,1407 781,1407 826,1407 871,1407 916,1409 961,1409 1006,1411 1052,1409"/>
+                <TextEquiv>
+                    <Unicode>most places very rancorous against one another, and have separate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="144,1457 1041,1470 1041,1430 940,1419 144,1421"/>
+                <Baseline points="150,1446 194,1448 239,1446 284,1446 328,1448 373,1446 418,1448 462,1446 507,1446 552,1446 597,1448 641,1446 686,1448 731,1446 775,1446 820,1447 865,1446 909,1447 954,1448 999,1448 1044,1446"/>
+                <TextEquiv>
+                    <Unicode>Mosques, or should a member of one sect attend the house of prayer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="144,1498 1050,1502 1050,1470 908,1456 144,1475"/>
+                <Baseline points="150,1486 195,1487 240,1488 285,1487 330,1486 375,1487 420,1486 465,1485 510,1484 555,1485 601,1484 646,1486 691,1488 736,1486 781,1486 826,1486 871,1484 916,1488 961,1489 1006,1488 1052,1486"/>
+                <TextEquiv>
+                    <Unicode>of the other, it is mostly to cavil, whilst each dooms the other to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="144,1538 717,1532 717,1508 694,1503 144,1508"/>
+                <Baseline points="150,1526 178,1524 206,1526 235,1526 263,1526 292,1526 320,1526 349,1526 377,1526 406,1526 434,1526 462,1526 491,1525 519,1524 548,1525 576,1526 605,1526 633,1526 662,1526 690,1526 719,1526"/>
+                <TextEquiv>
+                    <Unicode>eternal condemnation in the world to come.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="180,1578 1052,1571 1027,1537 854,1526 180,1536"/>
+                <Baseline points="186,1563 229,1566 272,1565 316,1565 359,1565 403,1565 446,1565 489,1563 533,1564 576,1563 620,1564 663,1565 706,1564 750,1565 793,1565 837,1565 880,1565 923,1565 967,1566 1010,1567 1054,1565"/>
+                <TextEquiv>
+                    <Unicode>The Sheeas call themselves lovers of justice, and assert that Ali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="147,1610 1048,1614 1016,1576 147,1580"/>
+                <Baseline points="154,1601 198,1604 243,1605 288,1604 333,1605 378,1605 422,1605 467,1604 512,1603 557,1603 602,1605 646,1605 691,1605 736,1605 781,1605 826,1605 870,1605 915,1605 960,1607 1005,1605 1050,1605"/>
+                <TextEquiv>
+                    <Unicode>was Mahomed’s lawful successor, and therefore the three other Caliphs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="148,1649 1071,1649 1071,1752 148,1752"/>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:0;}">
+                <Coords points="166,1664 1049,1673 1049,1647 1005,1645 166,1648"/>
+                <Baseline points="172,1657 215,1664 259,1666 303,1666 347,1666 391,1666 435,1666 479,1666 523,1666 567,1666 611,1666 654,1666 698,1666 742,1666 786,1666 830,1666 874,1666 918,1666 962,1667 1006,1668 1050,1666"/>
+                <TextEquiv>
+                    <Unicode>* Some sects assert, that the spirit of one Imam was transmigrated into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:1;}">
+                <Coords points="146,1707 447,1730 484,1705 1056,1705 1056,1679 884,1672 146,1673"/>
+                <Baseline points="152,1694 197,1698 242,1698 287,1700 333,1698 378,1698 423,1700 469,1698 514,1698 559,1700 605,1698 650,1698 695,1699 740,1700 786,1698 831,1700 876,1700 922,1700 967,1700 1012,1702 1058,1700"/>
+                <TextEquiv>
+                    <Unicode>that of his successor : whilst others even believed them to be incarnations of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:2;}">
+                <Coords points="147,1738 188,1738 194,1734 204,1743 224,1737 248,1751 272,1753 271,1712 258,1707 252,1712 235,1701 218,1712 206,1702 175,1713 168,1706 161,1710 147,1706"/>
+                <Baseline points="154,1728 183,1730 213,1730 243,1730 273,1730"/>
+                <TextEquiv>
+                    <Unicode>the Deity.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

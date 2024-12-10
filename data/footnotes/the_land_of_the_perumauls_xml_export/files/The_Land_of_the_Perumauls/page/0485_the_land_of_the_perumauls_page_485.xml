@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:08.771+01:00</Created>
+        <LastChange>2024-12-10T01:43:39.521+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960507" pageNr="485" tsid="211285011" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=ZLPMGXZZGEAFNBUSAWHIWZQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJQWTEQIMLPZQVQKKDBYUOSJ" imageId="70209813"/>
+    </Metadata>
+    <Page imageFilename="0485_the_land_of_the_perumauls_page_485.jpg" imageWidth="1184" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840833567" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="116,220 116,1728 1026,1728 1026,220"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="534,248 630,250 640,245 640,219 600,214 534,218"/>
+                <Baseline points="540,240 565,240 591,240 617,240 643,240"/>
+                <TextEquiv>
+                    <Unicode>CROWS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="956,242 965,242 975,250 980,249 984,253 994,249 1001,256 1019,249 1019,212 1011,214 1006,209 993,209 986,214 976,209 967,218 956,218"/>
+                <Baseline points="962,240 992,242 1022,240"/>
+                <TextEquiv>
+                    <Unicode>﻿465</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="118,313 1019,322 1019,268 118,282"/>
+                <Baseline points="124,301 168,303 213,301 258,303 303,303 348,303 393,303 438,303 483,303 528,304 573,305 617,303 662,305 707,304 752,303 797,303 842,305 887,303 932,305 977,307 1022,307"/>
+                <TextEquiv>
+                    <Unicode>structive in fields of that grain, Andropogon sorghum, watchers are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="115,353 1023,351 972,314 115,318"/>
+                <Baseline points="122,341 167,343 212,343 257,343 302,343 348,343 393,343 438,344 483,343 528,344 574,344 619,343 664,345 709,345 754,345 800,345 845,344 890,345 935,345 980,347 1026,345"/>
+                <TextEquiv>
+                    <Unicode>obliged to be constantly kept, to frighten tliem away. These birds</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="118,387 1011,399 991,355 118,360"/>
+                <Baseline points="124,382 168,380 213,382 257,382 302,382 346,382 391,382 435,382 480,382 524,382 569,382 613,382 658,382 702,383 747,384 791,384 836,384 880,384 925,384 969,385 1014,384"/>
+                <TextEquiv>
+                    <Unicode>roost in enormous flocks, often in bamboo trees, and so closely pack¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="115,428 1017,449 1009,397 115,407"/>
+                <Baseline points="122,420 166,421 211,422 256,422 301,422 346,422 391,420 436,422 481,422 526,423 571,422 615,424 660,424 705,423 750,424 795,424 840,424 885,424 930,425 975,426 1020,426"/>
+                <TextEquiv>
+                    <Unicode>ed, that dozens may be killed at a shot: they are very fat and good</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="122,472 129,472 135,466 174,466 180,471 184,467 193,474 217,473 217,445 202,443 195,438 181,441 173,433 158,439 146,433 122,436"/>
+                <Baseline points="128,461 158,459 188,459 219,463"/>
+                <TextEquiv>
+                    <Unicode>eating.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="149,503 1017,518 1017,481 977,467 149,466"/>
+                <Baseline points="155,493 198,498 241,499 284,499 328,499 371,499 414,499 457,499 501,500 544,499 587,501 630,499 674,500 717,501 760,501 803,501 847,503 890,503 933,503 976,503 1020,505"/>
+                <TextEquiv>
+                    <Unicode>The family of the Crows, brings itself more into notice, than any</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="118,548 1017,550 997,512 118,518"/>
+                <Baseline points="124,536 168,536 213,536 258,538 303,538 348,538 392,538 437,538 482,538 527,538 572,538 616,538 661,538 706,538 751,538 796,539 840,540 885,541 930,542 975,540 1020,542"/>
+                <TextEquiv>
+                    <Unicode>other. The Indian Carrion Crow, Corvus culminatus, Sykes, (Undun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="115,585 1019,586 1019,555 954,550 115,551"/>
+                <Baseline points="122,578 167,576 212,576 257,577 302,578 347,578 392,578 437,578 482,578 527,578 572,578 617,580 662,578 707,578 752,579 797,578 842,578 887,578 932,580 977,580 1022,582"/>
+                <TextEquiv>
+                    <Unicode>Kaka, Mal.) is the species most frequently seen in the country, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="118,618 1016,630 1016,601 884,584 118,592"/>
+                <Baseline points="124,615 168,616 213,617 258,617 302,617 347,617 392,617 436,616 481,615 526,616 571,617 615,617 660,617 705,617 749,617 794,617 839,617 883,617 928,617 973,619 1018,621"/>
+                <TextEquiv>
+                    <Unicode>excepting during the South West Monsoon it almost forsakes the town:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="115,660 1011,661 1011,630 906,624 115,627"/>
+                <Baseline points="122,653 166,653 211,653 255,653 300,653 345,654 389,655 434,655 478,657 523,655 568,657 612,657 657,657 701,658 746,659 791,656 835,655 880,655 924,655 969,656 1014,657"/>
+                <TextEquiv>
+                    <Unicode>its eggs are bluish, with darker spots, 1 ; x ; inches. The com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="115,697 1017,707 996,666 115,675"/>
+                <Baseline points="122,692 166,692 211,692 256,692 301,692 346,693 391,692 436,693 481,694 526,694 571,694 615,694 660,694 705,694 750,694 795,694 840,695 885,694 930,695 975,696 1020,700"/>
+                <TextEquiv>
+                    <Unicode>mon Grey Headed Crow, Corvus splendens, Vieill. (Kaka, Mal.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="112,738 1014,736 870,705 112,714"/>
+                <Baseline points="118,730 162,731 207,732 252,732 297,732 342,732 387,733 432,733 477,732 522,733 567,733 611,732 656,732 701,732 746,732 791,732 836,732 881,732 926,733 971,733 1016,732"/>
+                <TextEquiv>
+                    <Unicode>is very numerous, and troublesome. If windows are left open un¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="120,774 1012,779 1000,747 120,741"/>
+                <Baseline points="126,769 170,770 214,771 259,771 303,771 348,771 392,771 436,772 481,771 525,771 570,771 614,771 658,771 703,771 747,771 792,771 836,771 880,772 925,773 969,773 1014,773"/>
+                <TextEquiv>
+                    <Unicode>watched for a few minutes, a Crow is almost sure to walk in, to see if</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="118,816 1014,822 998,783 118,788"/>
+                <Baseline points="124,810 168,809 213,808 257,809 302,810 347,810 391,810 436,810 480,810 525,810 570,810 614,810 659,810 703,810 748,808 793,810 837,810 882,810 926,810 971,811 1016,812"/>
+                <TextEquiv>
+                    <Unicode>there is anything he can find to eat: not satisfied with this, he carries</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="115,857 1014,856 929,822 115,830"/>
+                <Baseline points="122,846 166,849 211,848 256,848 300,848 345,850 390,848 434,849 479,850 524,850 569,850 613,850 658,850 703,850 747,848 792,850 837,850 881,850 926,850 971,850 1016,850"/>
+                <TextEquiv>
+                    <Unicode>off any small articles which may be lying about, and destroys flowers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="114,898 1015,912 1015,868 965,861 114,864"/>
+                <Baseline points="120,885 164,885 209,885 254,887 299,887 344,887 389,887 434,887 479,887 524,887 569,887 613,887 658,887 703,887 748,887 793,887 838,887 883,889 928,889 973,889 1018,893"/>
+                <TextEquiv>
+                    <Unicode>in vases, as if for pure mischief. Even the presence of persons sitting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="112,938 1007,936 958,902 112,910"/>
+                <Baseline points="118,927 162,926 207,925 251,926 296,925 341,926 385,927 430,926 474,927 519,927 564,925 608,926 653,927 697,927 742,925 787,925 831,927 876,928 920,927 965,927 1010,927"/>
+                <TextEquiv>
+                    <Unicode>at the table, will not always deter these impudent birds, from dart¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="114,969 1015,982 986,939 114,939"/>
+                <Baseline points="120,966 164,965 209,964 254,964 299,964 344,964 389,966 434,965 479,964 524,965 569,964 613,964 658,964 703,965 748,964 793,965 838,966 883,968 928,966 973,966 1018,966"/>
+                <TextEquiv>
+                    <Unicode>ing down, and seizing anything they can carry off. They appear to be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="112,1009 1010,1014 1010,988 821,972 112,988"/>
+                <Baseline points="118,1004 162,1004 207,1006 252,1004 296,1004 341,1004 386,1006 430,1005 475,1004 520,1003 565,1002 609,1001 654,1004 699,1006 743,1006 788,1005 833,1006 877,1006 922,1006 967,1004 1012,1004"/>
+                <TextEquiv>
+                    <Unicode>mating nearly all the year round.* The eggs are blotched all over</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="118,1058 1014,1058 1014,1028 854,1017 118,1032"/>
+                <Baseline points="124,1049 168,1049 213,1049 257,1049 302,1049 347,1050 391,1051 436,1049 480,1049 525,1051 570,1051 614,1051 659,1051 703,1052 748,1051 793,1050 837,1049 882,1049 926,1049 971,1051 1016,1051"/>
+                <TextEquiv>
+                    <Unicode>with bluish brown, on a blue ground, 1 ; X „ inches in size. An</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="112,1098 1007,1104 1007,1069 934,1060 112,1059"/>
+                <Baseline points="118,1091 162,1089 207,1089 251,1089 296,1089 341,1089 385,1089 430,1089 474,1089 519,1089 564,1089 608,1089 653,1089 697,1089 742,1089 787,1088 831,1087 876,1089 920,1089 965,1091 1010,1091"/>
+                <TextEquiv>
+                    <Unicode>instance occurred near Cochin, in which a little boy was eating a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="112,1144 991,1139 1011,1103 113,1106"/>
+                <Baseline points="118,1134 162,1128 207,1128 252,1128 297,1128 342,1128 386,1128 431,1128 476,1128 521,1128 566,1128 610,1128 655,1126 700,1126 745,1128 790,1126 834,1126 879,1127 924,1128 969,1128 1014,1128"/>
+                <TextEquiv>
+                    <Unicode>piece of bread and butter, when a large Crow darted down to take it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="114,1173 1007,1180 1007,1147 946,1140 114,1144"/>
+                <Baseline points="120,1168 164,1168 209,1168 253,1168 298,1168 342,1168 387,1168 431,1168 476,1168 520,1168 565,1166 609,1167 654,1168 698,1168 743,1168 787,1167 832,1166 876,1166 921,1166 965,1168 1010,1168"/>
+                <TextEquiv>
+                    <Unicode>from his hand, but the little fellow held it tightly, when the Crow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="110,1219 1008,1213 998,1179 110,1186"/>
+                <Baseline points="116,1207 160,1206 205,1207 250,1205 294,1207 339,1205 384,1205 428,1205 473,1205 518,1205 563,1205 607,1205 652,1205 697,1205 741,1205 786,1205 831,1205 875,1205 920,1205 965,1205 1010,1205"/>
+                <TextEquiv>
+                    <Unicode>determined on getting it, wounded him severely with his strong bill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="118,1250 143,1252 162,1265 238,1265 262,1251 282,1262 298,1262 298,1218 284,1215 262,1225 118,1223"/>
+                <Baseline points="124,1247 149,1247 174,1245 199,1245 224,1246 249,1247 274,1247 299,1245"/>
+                <TextEquiv>
+                    <Unicode>on the hand.f</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="147,1315 1009,1310 1009,1266 878,1250 360,1277 147,1259"/>
+                <Baseline points="153,1294 198,1293 243,1294 288,1292 333,1292 379,1292 424,1292 469,1293 514,1292 559,1293 605,1292 650,1292 695,1292 740,1292 785,1291 831,1292 876,1292 921,1292 966,1292 1012,1292"/>
+                <TextEquiv>
+                    <Unicode>Crows are very wary; the sight of a pellet bow, will scare them</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:28;}">
+                <Coords points="527,1720 536,1720 544,1725 555,1725 564,1718 567,1718 572,1725 595,1723 597,1686 570,1686 557,1697 549,1690 541,1696 528,1697"/>
+                <Baseline points="534,1718 566,1718 599,1716"/>
+                <TextEquiv>
+                    <Unicode>L 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="100,1354 1055,1354 1055,1709 100,1709"/>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:0;}">
+                <Coords points="140,1370 1005,1373 1005,1337 140,1339"/>
+                <Baseline points="146,1367 189,1369 232,1369 275,1369 318,1369 361,1368 404,1367 447,1367 490,1367 533,1367 576,1367 619,1367 662,1367 705,1367 748,1367 791,1367 834,1367 877,1367 920,1365 963,1366 1006,1367"/>
+                <TextEquiv>
+                    <Unicode>* A writer in the Calcutta Review, mentions a "curious fact, of two Crows'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:1;}">
+                <Coords points="115,1403 1009,1408 1000,1371 115,1379"/>
+                <Baseline points="122,1394 166,1400 211,1400 255,1400 300,1398 344,1398 389,1398 433,1398 478,1398 522,1398 567,1398 611,1398 656,1398 700,1397 745,1398 789,1398 834,1396 878,1398 923,1396 967,1396 1012,1396"/>
+                <TextEquiv>
+                    <Unicode>"nests being found, entirely and very neatly constructed, of the wires used</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:2;}">
+                <Coords points="118,1432 347,1450 727,1438 716,1404 118,1408"/>
+                <Baseline points="124,1426 154,1432 184,1432 214,1432 245,1432 275,1432 305,1432 336,1430 366,1430 396,1430 427,1430 457,1430 487,1430 517,1430 548,1430 578,1430 608,1430 639,1430 669,1429 699,1428 730,1430"/>
+                <TextEquiv>
+                    <Unicode>"for fastening down, the corks of soda water bottles."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:3;}">
+                <Coords points="140,1486 1010,1479 1010,1440 879,1431 140,1454"/>
+                <Baseline points="146,1473 189,1473 232,1473 275,1472 319,1471 362,1471 405,1471 449,1471 492,1471 535,1471 579,1471 622,1471 665,1471 708,1471 752,1470 795,1471 838,1469 882,1471 925,1471 968,1471 1012,1473"/>
+                <TextEquiv>
+                    <Unicode>† Lieutenant Burgess mentions the following anecdote, which well illustrates</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:4;}">
+                <Coords points="112,1515 1006,1517 1006,1486 937,1479 112,1486"/>
+                <Baseline points="118,1505 162,1505 207,1505 251,1503 296,1503 340,1502 385,1503 429,1502 474,1501 518,1502 563,1501 607,1502 652,1501 696,1501 741,1501 785,1501 830,1501 874,1501 919,1503 963,1503 1008,1505"/>
+                <TextEquiv>
+                    <Unicode>the manners of these birds. "Some Crows had been sitting near a young dog,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:5;}">
+                <Coords points="112,1535 1006,1540 957,1507 112,1518"/>
+                <Baseline points="118,1531 162,1536 207,1537 251,1535 296,1535 340,1534 385,1533 429,1533 474,1533 518,1533 563,1533 607,1533 652,1533 696,1533 741,1533 785,1533 830,1533 874,1533 919,1533 963,1533 1008,1533"/>
+                <TextEquiv>
+                    <Unicode>"watching him whilst engaged with a bone. Having apparently concerted the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:6;}">
+                <Coords points="114,1568 1007,1572 1007,1545 936,1537 114,1548"/>
+                <Baseline points="120,1560 164,1567 208,1568 253,1566 297,1566 342,1564 386,1564 430,1564 475,1564 519,1564 564,1564 608,1564 652,1562 697,1564 741,1564 786,1562 830,1562 874,1562 919,1564 963,1564 1008,1562"/>
+                <TextEquiv>
+                    <Unicode>"plan, one of them alighted, stepped up, and took a peck at the dog’s tail; the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:7;}">
+                <Coords points="114,1602 1007,1600 842,1566 114,1578"/>
+                <Baseline points="120,1590 164,1599 208,1598 253,1598 297,1598 342,1596 386,1596 430,1596 475,1596 519,1595 564,1596 608,1596 652,1594 697,1595 741,1594 786,1594 830,1594 874,1594 919,1594 963,1596 1008,1596"/>
+                <TextEquiv>
+                    <Unicode>"dog irritated, made a snap at the bully ; on which a comrade who appears</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:8;}">
+                <Coords points="112,1626 1006,1631 990,1600 112,1608"/>
+                <Baseline points="118,1621 162,1628 207,1629 251,1628 296,1627 340,1627 385,1627 429,1627 474,1625 518,1626 563,1625 607,1625 652,1625 696,1623 741,1625 785,1625 830,1625 874,1625 919,1625 963,1625 1008,1627"/>
+                <TextEquiv>
+                    <Unicode>"to have been ready, made a dash and went off with the prize." A Cochin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:9;}">
+                <Coords points="112,1665 1007,1681 990,1632 112,1627"/>
+                <Baseline points="118,1661 162,1661 207,1661 251,1659 296,1659 341,1659 385,1659 430,1659 474,1659 519,1659 564,1659 608,1657 653,1657 697,1657 742,1657 787,1657 831,1657 876,1657 920,1657 965,1657 1010,1657"/>
+                <TextEquiv>
+                    <Unicode>dog before turning round to snap at a Crow puts his paw on the bone he is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:10;}">
+                <Coords points="113,1698 130,1697 136,1703 146,1698 152,1703 171,1703 174,1706 192,1703 191,1673 179,1673 170,1677 161,1671 154,1671 139,1675 128,1673 124,1678 120,1673 112,1673"/>
+                <Baseline points="118,1690 143,1692 169,1693 195,1694"/>
+                <TextEquiv>
+                    <Unicode>eating.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

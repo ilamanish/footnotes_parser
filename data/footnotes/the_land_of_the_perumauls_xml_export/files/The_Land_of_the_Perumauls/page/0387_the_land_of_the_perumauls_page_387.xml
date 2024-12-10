@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:00.437+01:00</Created>
+        <LastChange>2024-12-10T01:23:15.584+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960316" pageNr="387" tsid="211283846" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=EZWVEJYLEFAKFMQDHLYYMOLP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QOVILYWATXYZQLLJLXODNSHW" imageId="70209687"/>
+    </Metadata>
+    <Page imageFilename="0387_the_land_of_the_perumauls_page_387.jpg" imageWidth="1178" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840741691" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="60,223 60,1756 981,1756 981,223"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="896,252 907,254 914,259 920,259 924,255 933,258 939,254 942,258 948,259 958,257 960,211 955,211 942,220 933,221 928,217 911,215 909,211 902,217 897,217"/>
+                <Baseline points="902,245 931,245 961,243"/>
+                <TextEquiv>
+                    <Unicode>367</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="340,274 415,281 457,268 478,278 510,261 671,261 672,218 499,226 470,196 432,225 342,218"/>
+                <Baseline points="347,253 372,252 397,252 422,250 447,249 473,249 498,249 523,249 548,249 574,249 599,250 624,250 649,249 675,251"/>
+                <TextEquiv>
+                    <Unicode>BEEBEE OF CANNANORE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="53,333 958,329 958,283 927,278 53,289"/>
+                <Baseline points="60,321 105,319 150,318 195,319 240,317 285,317 330,315 375,314 420,314 465,315 510,315 555,314 600,315 645,314 690,314 735,313 780,312 825,312 870,312 915,312 961,312"/>
+                <TextEquiv>
+                    <Unicode>their language is likewise such as is not found elsewhere, being a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="60,375 633,370 674,361 675,336 60,335"/>
+                <Baseline points="66,361 96,361 127,360 157,359 188,358 218,358 249,358 279,357 310,357 340,357 371,356 402,355 432,355 463,354 493,353 524,355 554,355 585,355 615,355 646,353 677,353"/>
+                <TextEquiv>
+                    <Unicode>combination and corruption of several tongues.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="87,414 960,403 961,361 87,372"/>
+                <Baseline points="94,400 137,398 180,396 224,396 267,395 311,394 354,393 398,392 441,392 485,392 528,394 571,394 615,392 658,392 702,392 745,393 789,392 832,390 876,390 919,390 963,390"/>
+                <TextEquiv>
+                    <Unicode>Before the arrival of Vasco de Gama, the Moplahs had increased</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="56,448 960,449 944,404 56,411"/>
+                <Baseline points="62,439 107,437 152,437 197,435 242,435 287,435 332,434 377,433 422,433 467,433 512,433 557,433 602,433 647,431 692,431 737,432 782,431 827,431 872,431 917,430 963,431"/>
+                <TextEquiv>
+                    <Unicode>the trade of the cities on the Malabar coast, and the people were in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="56,494 957,481 942,446 56,453"/>
+                <Baseline points="62,478 106,476 151,475 196,474 241,474 286,474 331,472 375,472 420,472 465,472 510,471 555,472 600,471 645,472 689,471 734,471 779,472 824,471 869,471 914,471 959,471"/>
+                <TextEquiv>
+                    <Unicode>a flourishing condition though having no Emir of note, they sub¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="60,522 962,530 962,485 916,482 60,495"/>
+                <Baseline points="66,516 113,516 160,516 207,514 255,514 302,514 349,513 397,512 444,512 491,512 539,512 586,511 633,510 681,508 728,509 775,510 823,511 870,511 917,512 965,516"/>
+                <TextEquiv>
+                    <Unicode>mitted to Pagan laws. But none of their race were ever exccuted,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="61,568 766,560 766,523 61,535"/>
+                <Baseline points="68,555 103,555 138,555 173,555 208,553 243,553 278,552 313,551 348,552 383,551 418,551 453,551 488,551 523,551 558,551 593,551 628,551 663,550 698,550 733,547 769,551"/>
+                <TextEquiv>
+                    <Unicode>until those of his sect, first confirmed the judgment.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="92,600 959,606 952,558 93,565"/>
+                <Baseline points="98,594 141,594 184,593 227,592 270,592 313,594 356,592 400,592 443,590 486,590 529,590 572,588 615,590 658,590 702,590 745,590 788,590 831,589 874,590 917,590 961,590"/>
+                <TextEquiv>
+                    <Unicode>In the foregoing pages, it has been shown that they invariably</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="61,649 962,642 964,606 62,598"/>
+                <Baseline points="67,637 111,633 156,632 201,631 246,631 291,631 336,631 381,631 426,629 471,629 516,629 560,629 605,629 650,629 695,628 740,629 785,629 830,629 875,629 920,629 965,631"/>
+                <TextEquiv>
+                    <Unicode>joined against the Europeans, as well as the many sources of irritation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="60,681 964,681 964,644 60,649"/>
+                <Baseline points="66,671 111,673 156,671 201,671 246,671 291,669 336,670 381,671 426,669 471,669 516,669 561,669 606,668 651,669 696,669 741,667 786,667 831,669 876,669 921,670 967,667"/>
+                <TextEquiv>
+                    <Unicode>they efcountered. In the last chapter, it has also been stated that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="61,720 966,720 966,687 842,679 61,687"/>
+                <Baseline points="68,710 113,710 158,710 203,710 248,709 293,708 338,708 383,708 428,708 473,708 518,708 563,708 608,708 653,707 698,708 743,708 788,706 833,706 878,706 923,707 969,706"/>
+                <TextEquiv>
+                    <Unicode>they massacred the Jews, a people aceursed by Mahomed; whilst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="61,763 964,757 947,717 61,728"/>
+                <Baseline points="68,749 115,749 162,749 209,749 257,747 304,747 351,749 399,747 446,747 493,747 541,747 588,747 635,747 683,746 730,745 777,746 825,745 872,745 919,747 967,747"/>
+                <TextEquiv>
+                    <Unicode>they persuaded the Samorin, to expel the Syrian Christians from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="60,802 964,814 964,772 919,760 60,767"/>
+                <Baseline points="66,788 111,788 156,788 201,788 246,787 291,786 336,786 381,786 426,787 471,786 516,786 561,788 606,786 651,786 696,786 741,786 786,786 831,786 876,786 921,787 967,786"/>
+                <TextEquiv>
+                    <Unicode>his territories, which was the principal reason of their seeking refuge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="60,841 550,840 568,807 61,802"/>
+                <Baseline points="66,828 91,828 116,828 141,828 166,828 191,828 216,828 242,828 267,826 292,826 317,826 342,826 367,826 392,826 418,826 443,825 468,825 493,826 518,825 543,824 569,824"/>
+                <TextEquiv>
+                    <Unicode>in the Cochin and Travancore States.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="95,881 968,878 957,835 95,846"/>
+                <Baseline points="102,867 145,865 188,865 232,865 275,866 319,865 362,865 406,865 449,865 493,865 536,865 579,865 623,865 666,865 710,865 753,865 797,865 840,865 884,867 927,865 971,865"/>
+                <TextEquiv>
+                    <Unicode>The Mahomedan author Zeireddein, writing about two centuries</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="64,919 968,915 968,880 939,877 64,884"/>
+                <Baseline points="70,906 115,906 160,906 205,906 250,906 295,905 340,904 385,904 430,904 475,904 520,904 565,904 610,903 655,904 700,904 745,904 790,904 835,904 880,904 925,906 971,906"/>
+                <TextEquiv>
+                    <Unicode>and a half since, gave his version of the manner in which this sect was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="66,953 968,958 958,917 66,919"/>
+                <Baseline points="72,945 119,945 166,945 213,943 261,944 308,943 355,943 403,943 450,942 497,943 545,943 592,943 639,943 687,943 734,943 781,943 829,943 876,945 923,943 971,945"/>
+                <TextEquiv>
+                    <Unicode>treated by the Portuguese. He was naturally as much biassed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="60,999 970,998 970,958 60,967"/>
+                <Baseline points="66,985 111,986 156,985 202,985 247,985 292,984 338,983 383,983 428,983 474,983 519,983 564,983 610,983 655,983 700,984 746,983 791,984 836,985 882,985 927,985 973,985"/>
+                <TextEquiv>
+                    <Unicode>against the latter people, as their authors were against the Moplahs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="66,1033 964,1033 964,999 916,994 66,999"/>
+                <Baseline points="72,1022 116,1024 161,1023 206,1022 251,1022 295,1022 340,1022 385,1022 430,1022 474,1022 519,1022 564,1022 609,1022 653,1022 698,1022 743,1021 788,1022 832,1022 877,1024 922,1022 967,1020"/>
+                <TextEquiv>
+                    <Unicode>He says that because the Mussalmen sinned so, God sent the Por¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="66,1067 970,1078 959,1033 66,1034"/>
+                <Baseline points="72,1063 117,1063 162,1063 207,1061 252,1063 297,1062 342,1061 387,1062 432,1063 477,1063 522,1063 567,1063 612,1061 657,1061 702,1062 747,1063 792,1062 837,1063 882,1062 927,1063 973,1063"/>
+                <TextEquiv>
+                    <Unicode>tuguese to punish them, by oppression, and cruelty, that they beat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="64,1113 970,1119 970,1078 64,1083"/>
+                <Baseline points="70,1100 115,1102 160,1100 205,1100 250,1100 295,1101 340,1100 386,1100 431,1100 476,1102 521,1100 566,1100 611,1100 656,1100 702,1102 747,1102 792,1101 837,1100 882,1102 927,1102 973,1100"/>
+                <TextEquiv>
+                    <Unicode>and derided them, sunk or stranded their vessels, spit in their faces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="66,1152 968,1154 968,1119 896,1113 66,1117"/>
+                <Baseline points="72,1140 119,1141 166,1142 213,1140 261,1141 308,1142 355,1141 403,1140 450,1140 497,1140 545,1140 592,1140 639,1140 687,1140 734,1141 781,1142 829,1142 876,1142 923,1142 971,1146"/>
+                <TextEquiv>
+                    <Unicode>when they met, prohibited them from making voyages to Mecca,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="79,1193 964,1193 964,1161 741,1150 79,1155"/>
+                <Baseline points="86,1179 130,1179 174,1179 218,1179 262,1179 306,1179 350,1179 394,1179 438,1179 482,1179 526,1179 570,1179 614,1179 658,1179 702,1179 746,1179 790,1181 834,1181 878,1179 922,1179 967,1181"/>
+                <TextEquiv>
+                    <Unicode>lundered their property, and burnt their houses and Mosques.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="66,1233 973,1235 973,1199 896,1192 66,1193"/>
+                <Baseline points="72,1220 117,1220 162,1220 207,1219 252,1218 297,1218 342,1218 388,1218 433,1219 478,1218 523,1219 568,1220 613,1220 658,1220 704,1218 749,1218 794,1219 839,1218 884,1220 929,1220 975,1224"/>
+                <TextEquiv>
+                    <Unicode>That they also endeavoured to persuade the followers of the crescent,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="64,1266 970,1270 970,1235 934,1230 64,1236"/>
+                <Baseline points="70,1258 115,1259 160,1259 205,1258 250,1258 295,1258 340,1256 386,1257 431,1258 476,1258 521,1258 566,1258 611,1258 656,1258 702,1258 747,1258 792,1259 837,1258 882,1258 927,1258 973,1259"/>
+                <TextEquiv>
+                    <Unicode>to embrace the cross, and offered pecuniary rewards to those who</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="69,1310 962,1311 962,1276 869,1268 69,1276"/>
+                <Baseline points="76,1299 120,1298 164,1297 209,1297 253,1297 298,1296 342,1297 387,1297 431,1297 476,1298 520,1297 564,1297 609,1297 653,1297 698,1297 742,1297 787,1299 831,1299 876,1299 920,1299 965,1299"/>
+                <TextEquiv>
+                    <Unicode>would accede. Hadjees and others were put to cruel deaths, Ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="66,1350 968,1347 968,1317 848,1311 66,1310"/>
+                <Baseline points="72,1338 119,1338 166,1336 213,1336 261,1336 308,1337 355,1336 403,1336 450,1336 497,1336 545,1336 592,1336 639,1336 687,1336 734,1338 781,1337 829,1336 876,1338 923,1338 971,1336"/>
+                <TextEquiv>
+                    <Unicode>homed was publicly reviled, and his followers, sold as slaves, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="69,1390 974,1388 973,1356 881,1347 68,1356"/>
+                <Baseline points="74,1375 119,1377 164,1377 209,1376 254,1377 299,1375 344,1375 389,1375 434,1375 479,1377 524,1377 569,1377 614,1377 659,1377 704,1376 749,1377 794,1377 839,1377 884,1377 929,1377 975,1375"/>
+                <TextEquiv>
+                    <Unicode>else led about loaded with irons, and large ransoms demanded from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="64,1429 974,1431 974,1387 64,1392"/>
+                <Baseline points="70,1415 115,1415 160,1415 206,1416 251,1415 296,1415 342,1415 387,1416 432,1415 478,1416 523,1415 568,1416 614,1415 659,1415 704,1416 750,1415 795,1415 840,1416 886,1416 931,1416 977,1416"/>
+                <TextEquiv>
+                    <Unicode>their friends, and until these were obtained, they were confined at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="68,1470 976,1471 976,1429 68,1430"/>
+                <Baseline points="74,1458 119,1456 164,1455 209,1454 255,1455 300,1456 345,1456 390,1456 436,1456 481,1454 526,1456 571,1456 617,1456 662,1456 707,1456 752,1456 798,1456 843,1457 888,1456 933,1457 979,1456"/>
+                <TextEquiv>
+                    <Unicode>night time, in dark, noisome, and hideous dungeons : beaten with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="69,1503 973,1506 973,1471 910,1465 69,1470"/>
+                <Baseline points="76,1495 123,1495 170,1495 217,1493 265,1493 312,1493 359,1494 407,1495 454,1495 501,1495 549,1495 596,1495 643,1495 691,1495 738,1495 785,1495 833,1496 880,1495 927,1495 975,1495"/>
+                <TextEquiv>
+                    <Unicode>slippers, tortured by fire, and had the most severe tasks imposed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="68,1545 975,1545 941,1505 68,1515"/>
+                <Baseline points="74,1534 119,1534 164,1534 209,1533 254,1532 299,1534 344,1534 390,1534 435,1535 480,1534 525,1534 570,1534 615,1534 660,1536 706,1534 751,1536 796,1535 841,1536 886,1536 931,1536 977,1534"/>
+                <TextEquiv>
+                    <Unicode>upon them. The Cochin Rajah he observes, refused to debar the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="68,1590 976,1598 976,1558 925,1545 68,1545"/>
+                <Baseline points="74,1573 119,1573 164,1573 209,1573 255,1572 300,1573 345,1573 390,1574 436,1573 481,1575 526,1575 571,1575 617,1575 662,1573 707,1575 752,1575 798,1575 843,1577 888,1576 933,1575 979,1575"/>
+                <TextEquiv>
+                    <Unicode>Mahomedans from trafficking in his country, when requested to do</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="69,1633 146,1629 161,1617 170,1626 356,1630 377,1625 378,1590 304,1598 238,1582 207,1598 129,1587 109,1601 69,1598"/>
+                <Baseline points="76,1615 101,1614 126,1614 152,1615 177,1615 202,1615 228,1613 253,1613 278,1613 304,1613 329,1613 354,1613 380,1613"/>
+                <TextEquiv>
+                    <Unicode>so, by the Portuguese.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="99,1662 978,1670 978,1626 858,1614 99,1631"/>
+                <Baseline points="105,1654 148,1656 192,1656 236,1656 280,1654 324,1654 367,1654 411,1654 455,1654 499,1655 543,1654 586,1655 630,1654 674,1655 718,1654 762,1656 805,1656 849,1656 893,1656 937,1656 981,1652"/>
+                <TextEquiv>
+                    <Unicode>The Beebee of Cannanore, may be considered as the chief of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="249,1717 829,1717 829,1769 249,1769"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="263,1754 807,1755 807,1734 737,1716 263,1714"/>
+                <Baseline points="270,1742 297,1744 324,1744 351,1743 378,1742 405,1742 432,1742 459,1743 486,1744 513,1744 540,1744 567,1744 594,1744 621,1744 648,1744 675,1744 702,1745 729,1746 756,1746 783,1746 810,1746"/>
+                <TextEquiv>
+                    <Unicode>* Tohfut-ul-Mujahideen translated by Rawlinson.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

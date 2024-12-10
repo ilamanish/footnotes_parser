@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:04.937+01:00</Created>
+        <LastChange>2024-12-10T01:35:19.648+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960459" pageNr="440" tsid="211283850" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=OWRTYTEWYESGXXLCYPIDDYSK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZKZEJKQRNJUPRQLQQXZVRTYL" imageId="70209770"/>
+    </Metadata>
+    <Page imageFilename="0440_the_land_of_the_perumauls_page_440.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840770393" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="145,224 145,1735 1062,1735 1062,224"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="145,253 949,253 949,221 832,215 145,220"/>
+                <Baseline points="151,245 191,246 231,244 271,247 311,247 351,247 391,247 431,247 471,247 511,247 551,247 591,247 631,247 671,247 711,247 751,247 791,247 831,247 871,247 911,245 952,245"/>
+                <TextEquiv>
+                    <Unicode>420 PREVALENT FORMS OF FEVER IN DIFFERENT MONTHS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="143,321 1040,322 1040,293 999,284 143,291"/>
+                <Baseline points="149,310 193,310 238,310 282,310 327,312 372,312 416,312 461,312 506,312 550,312 595,312 640,311 684,312 729,312 774,312 818,314 863,314 908,314 952,313 997,312 1042,312"/>
+                <TextEquiv>
+                    <Unicode>affects dogs and cats, whilst horses go weak in the loins, which has</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="145,363 1035,356 1006,322 145,323"/>
+                <Baseline points="151,351 195,350 239,349 284,349 328,349 372,351 417,351 461,351 505,351 550,351 594,351 638,350 683,351 727,351 771,351 816,351 860,351 904,351 949,351 993,351 1038,349"/>
+                <TextEquiv>
+                    <Unicode>been attributed sither to their eating the Lathyrus sativus or analo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="145,402 1040,398 1028,362 145,369"/>
+                <Baseline points="151,392 195,388 240,388 284,389 329,390 373,390 418,390 462,389 507,390 551,389 596,392 641,389 685,390 730,390 774,390 819,392 863,392 908,390 952,388 997,390 1042,388"/>
+                <TextEquiv>
+                    <Unicode>gous vetches or else to their being exposed to a draught of cold</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="143,432 1040,435 1038,400 1006,396 142,404"/>
+                <Baseline points="149,426 193,426 238,427 282,427 327,427 372,427 416,427 461,428 506,429 550,428 595,429 640,429 684,429 729,429 774,429 818,431 863,429 908,429 952,429 997,429 1042,429"/>
+                <TextEquiv>
+                    <Unicode>wind when freely perspiring. Person’s teeth become extremely brittle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="139,466 648,496 679,472 1040,481 1038,444 137,441"/>
+                <Baseline points="145,465 189,467 234,465 279,467 324,467 369,467 414,469 458,469 503,469 548,469 593,469 638,469 683,470 728,469 772,470 817,471 862,469 907,469 952,468 997,469 1042,469"/>
+                <TextEquiv>
+                    <Unicode>and are very apt to break when brought in contact with any hard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="143,508 158,515 179,516 186,511 190,515 252,514 270,519 283,515 282,490 259,483 206,482 202,487 191,476 181,476 161,488 154,484 142,487"/>
+                <Baseline points="149,504 176,504 203,504 231,506 258,506 286,506"/>
+                <TextEquiv>
+                    <Unicode>substance.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="173,546 1040,554 1014,510 173,520"/>
+                <Baseline points="180,543 223,544 266,545 309,545 352,545 395,545 438,545 481,547 524,547 567,547 611,546 654,547 697,547 740,547 783,546 826,547 869,547 912,547 955,546 998,545 1042,543"/>
+                <TextEquiv>
+                    <Unicode>The Monsoon rains when heavy are productive of irritation of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="143,594 1041,606 1026,562 143,555"/>
+                <Baseline points="149,583 193,583 238,585 283,585 328,585 372,585 417,585 462,585 507,587 551,587 596,587 641,587 686,585 730,587 775,585 820,585 865,586 909,587 954,586 999,585 1044,583"/>
+                <TextEquiv>
+                    <Unicode>intestines, consequently diarrhaa and dysentery are then very pre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="151,626 158,626 166,634 247,632 247,597 233,596 216,606 208,605 198,595 179,598 173,604 151,603"/>
+                <Baseline points="157,620 187,622 218,622 249,620"/>
+                <TextEquiv>
+                    <Unicode>valent."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="184,672 1044,673 1044,628 184,633"/>
+                <Baseline points="190,661 232,661 275,663 318,663 361,663 404,663 446,662 489,663 532,663 575,663 618,663 660,663 703,663 746,663 789,663 832,663 874,663 917,662 960,663 1003,663 1046,659"/>
+                <TextEquiv>
+                    <Unicode>When epidemics of cholera or Small Pox are severe, evil spirits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="143,704 1040,719 1029,675 143,685"/>
+                <Baseline points="149,698 193,700 238,700 282,701 327,702 372,702 416,702 461,702 506,702 550,702 595,702 640,702 684,702 729,702 774,702 818,702 863,702 908,700 952,701 997,700 1042,698"/>
+                <TextEquiv>
+                    <Unicode>are believed to be roaming about after dark, through the towns, vil¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="146,744 1017,759 1041,721 145,715"/>
+                <Baseline points="153,740 197,740 242,740 286,741 331,740 375,741 420,742 464,742 509,742 553,742 598,742 643,742 687,742 732,742 776,742 821,740 865,742 910,742 954,742 999,742 1044,744"/>
+                <TextEquiv>
+                    <Unicode>lages and highways, consequently as soon as it begins to get dusk,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="149,785 1040,786 1040,756 999,752 149,759"/>
+                <Baseline points="155,777 199,779 243,779 288,780 332,779 376,780 421,781 465,781 509,781 554,781 598,781 642,781 687,781 731,781 775,781 820,781 864,781 908,781 953,779 997,779 1042,777"/>
+                <TextEquiv>
+                    <Unicode>all doors are securely fastened, to prevent their entrance. This super¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="146,822 1043,832 1028,794 146,794"/>
+                <Baseline points="153,816 197,817 242,818 286,818 331,820 376,820 420,820 465,820 510,820 554,818 599,820 644,820 688,820 733,819 778,818 822,818 867,818 912,818 956,818 1001,818 1046,820"/>
+                <TextEquiv>
+                    <Unicode>stitious belief, is apparently prevalent, amongst all creeds and castes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="184,864 1050,865 1050,839 892,829 184,835"/>
+                <Baseline points="190,857 233,857 276,857 319,857 362,857 405,859 448,857 491,857 534,859 577,857 621,859 664,859 707,858 750,859 793,858 836,857 879,857 922,857 965,857 1008,857 1052,857"/>
+                <TextEquiv>
+                    <Unicode>Malarious fevers, (Puney, Mal.) in the form of dumb aques, are</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="151,899 1045,911 1045,865 151,872"/>
+                <Baseline points="157,895 201,897 246,895 290,897 335,897 379,897 424,899 468,897 513,897 557,897 602,897 647,899 691,899 736,899 780,899 825,897 869,897 914,897 958,897 1003,897 1048,897"/>
+                <TextEquiv>
+                    <Unicode>amongst the most common  diseases in Cochin, and are rather fatal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="154,942 1049,945 1049,911 935,906 154,911"/>
+                <Baseline points="160,936 204,936 249,936 293,935 338,936 382,936 427,936 471,935 516,936 560,936 605,936 649,936 694,936 738,936 783,936 827,936 872,936 916,936 961,936 1005,936 1050,936"/>
+                <TextEquiv>
+                    <Unicode>in their effects, especially if contracted in the jungles. It is curious</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="154,987 1045,998 1045,955 1010,948 154,948"/>
+                <Baseline points="160,973 204,973 248,973 293,974 337,975 382,975 426,975 470,975 515,975 559,975 604,975 648,975 692,975 737,975 781,975 826,975 870,973 914,974 959,973 1003,974 1048,975"/>
+                <TextEquiv>
+                    <Unicode>to observe, that the further south a locality is on the Western</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="158,1022 872,1019 872,998 792,987 158,987"/>
+                <Baseline points="164,1013 199,1013 234,1014 270,1014 305,1013 341,1014 376,1014 412,1014 447,1014 483,1014 518,1014 553,1014 589,1014 624,1014 660,1014 695,1014 731,1014 766,1014 802,1014 837,1014 873,1014"/>
+                <TextEquiv>
+                    <Unicode>Coast, the less frequent are the attacks of this disease.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="186,1059 1043,1070 1033,1019 186,1025"/>
+                <Baseline points="192,1050 234,1052 277,1052 320,1052 362,1052 405,1052 448,1054 490,1052 533,1054 576,1054 619,1054 661,1054 704,1052 747,1054 789,1054 832,1054 875,1052 917,1053 960,1052 1003,1054 1046,1054"/>
+                <TextEquiv>
+                    <Unicode>During the dry cold months of the year, namely December,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="154,1098 1049,1110 1032,1071 908,1063 154,1068"/>
+                <Baseline points="160,1091 204,1091 249,1093 293,1092 338,1091 382,1092 427,1093 471,1092 516,1093 560,1093 605,1091 649,1093 694,1093 738,1092 783,1091 827,1091 872,1091 916,1093 961,1093 1005,1093 1050,1093"/>
+                <TextEquiv>
+                    <Unicode>January,and February, the number of attacks is below the average,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="151,1134 1043,1150 1043,1112 989,1104 151,1101"/>
+                <Baseline points="157,1130 201,1129 245,1130 290,1130 334,1130 379,1130 423,1132 468,1131 512,1132 557,1132 601,1132 645,1131 690,1132 734,1131 779,1130 823,1130 868,1132 912,1132 957,1132 1001,1132 1046,1130"/>
+                <TextEquiv>
+                    <Unicode>but the mortality exceeds it. The virulence of the malaria, how¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="154,1176 1049,1185 1049,1153 1008,1145 154,1149"/>
+                <Baseline points="160,1168 204,1169 249,1170 293,1170 338,1170 382,1172 427,1172 471,1172 516,1172 560,1171 605,1172 649,1172 694,1172 738,1172 783,1172 827,1169 872,1170 916,1172 961,1172 1005,1172 1050,1170"/>
+                <TextEquiv>
+                    <Unicode>ever decreases in the three succceding hot months. With the man¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="155,1223 1047,1219 1047,1190 992,1184 155,1178"/>
+                <Baseline points="162,1215 206,1209 250,1209 295,1210 339,1211 384,1211 428,1211 472,1211 517,1211 561,1211 606,1211 650,1211 694,1211 739,1211 783,1209 828,1209 872,1211 916,1211 961,1211 1005,1211 1050,1211"/>
+                <TextEquiv>
+                    <Unicode>goe showers in March, the jungles and some other localities, become</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="155,1258 1045,1264 1045,1231 993,1222 155,1226"/>
+                <Baseline points="162,1248 206,1248 250,1248 294,1249 339,1250 383,1250 427,1250 472,1250 516,1250 560,1250 605,1248 649,1250 693,1250 737,1249 782,1248 826,1247 870,1248 915,1249 959,1250 1003,1250 1048,1250"/>
+                <TextEquiv>
+                    <Unicode>feverish, whilst in the plains, fevers become very severe, until the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="158,1296 1052,1297 1052,1263 1007,1261 497,1281 158,1258"/>
+                <Baseline points="164,1287 208,1287 253,1287 297,1287 342,1287 386,1289 431,1287 475,1289 520,1289 564,1288 609,1289 653,1287 698,1289 742,1287 787,1287 831,1287 876,1287 920,1288 965,1289 1009,1289 1054,1289"/>
+                <TextEquiv>
+                    <Unicode>Monsoon has well set in, when they begin to decrease. Different</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="154,1337 1050,1344 1049,1302 1015,1300 153,1295"/>
+                <Baseline points="160,1327 204,1328 249,1327 293,1328 338,1329 383,1329 427,1331 472,1329 516,1329 561,1329 606,1329 650,1328 695,1329 739,1327 784,1329 829,1327 873,1329 918,1329 962,1329 1007,1329 1052,1327"/>
+                <TextEquiv>
+                    <Unicode>localities in the Jungles, apparently suffer from fever at slightly dif¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="160,1379 1051,1376 1042,1341 160,1339"/>
+                <Baseline points="166,1366 210,1366 254,1366 299,1367 343,1366 388,1368 432,1368 476,1368 521,1368 565,1367 610,1368 654,1368 698,1368 743,1367 787,1366 832,1366 876,1366 920,1366 965,1368 1009,1368 1054,1368"/>
+                <TextEquiv>
+                    <Unicode>ferent times, whilst the most sickly period in the hilly ranges, is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="158,1418 1052,1422 1052,1384 993,1379 158,1386"/>
+                <Baseline points="164,1405 208,1406 253,1407 297,1407 342,1407 386,1407 431,1407 475,1407 520,1407 564,1407 609,1407 653,1407 698,1407 742,1406 787,1407 831,1405 876,1407 920,1406 965,1405 1009,1407 1054,1407"/>
+                <TextEquiv>
+                    <Unicode>not the same as that in the plains. In August the unhealthy Northi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="162,1457 1051,1463 1040,1421 162,1419"/>
+                <Baseline points="168,1442 212,1443 256,1444 300,1446 345,1446 389,1445 433,1446 478,1446 522,1446 566,1446 611,1446 655,1446 699,1446 743,1446 788,1446 832,1446 876,1446 921,1446 965,1446 1009,1446 1054,1450"/>
+                <TextEquiv>
+                    <Unicode>West long shore winds, are frequently perceived, and cause fevers,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="158,1496 304,1490 347,1504 401,1496 434,1505 456,1492 456,1468 402,1458 374,1469 328,1468 316,1457 300,1468 280,1457 244,1472 208,1454 158,1471"/>
+                <Baseline points="164,1484 190,1486 217,1486 244,1486 271,1486 298,1486 324,1486 351,1486 378,1486 405,1486 432,1486 459,1486"/>
+                <TextEquiv>
+                    <Unicode>colds, and dysentefles.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="139,1519 1076,1519 1076,1727 139,1727"/>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:0;}">
+                <Coords points="196,1540 1051,1541 1001,1510 196,1517"/>
+                <Baseline points="202,1533 244,1537 287,1539 329,1539 372,1539 415,1537 457,1537 500,1537 542,1537 585,1537 628,1535 670,1535 713,1536 755,1535 798,1535 841,1536 883,1535 926,1535 968,1535 1011,1535 1054,1533"/>
+                <TextEquiv>
+                    <Unicode>* For a detailed account of the diseases of Cochin, which is unsuited to these</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:1;}">
+                <Coords points="158,1581 1011,1581 1054,1551 159,1553"/>
+                <Baseline points="164,1572 208,1570 253,1570 297,1568 342,1568 387,1568 431,1568 476,1568 520,1568 565,1568 610,1566 654,1567 699,1566 743,1566 788,1566 833,1566 877,1566 922,1566 966,1566 1011,1566 1056,1568"/>
+                <TextEquiv>
+                    <Unicode>pages, the reader is referred, to the Madras Journal of Medical Science, Vols.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:2;}">
+                <Coords points="154,1611 1051,1600 916,1571 154,1582"/>
+                <Baseline points="160,1601 204,1601 249,1600 294,1600 338,1600 383,1600 428,1600 472,1598 517,1600 562,1598 607,1598 651,1598 696,1600 741,1598 785,1598 830,1598 875,1598 919,1598 964,1596 1009,1596 1054,1596"/>
+                <TextEquiv>
+                    <Unicode>1, 2, and 3. Out of upwards of 20,000 admissions, into the Cochin Civil Dispen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:3;}">
+                <Coords points="154,1641 1055,1633 1025,1605 154,1611"/>
+                <Baseline points="160,1633 204,1633 249,1633 294,1631 339,1631 384,1631 429,1631 474,1631 519,1630 564,1629 609,1629 653,1629 698,1629 743,1629 788,1629 833,1629 878,1627 923,1629 968,1627 1013,1628 1058,1629"/>
+                <TextEquiv>
+                    <Unicode>sary, in five years, ending 1861, they were as follows : malarious fevers 9.7 :</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:4;}">
+                <Coords points="155,1675 1055,1663 1037,1636 155,1642"/>
+                <Baseline points="162,1660 206,1662 251,1662 296,1662 341,1662 386,1662 430,1662 475,1662 520,1660 565,1659 610,1660 654,1659 699,1660 744,1660 789,1658 834,1658 878,1660 923,1658 968,1658 1013,1658 1058,1658"/>
+                <TextEquiv>
+                    <Unicode>eruptive fevers 3.5 : lung affections 5.5: liver 0.3 : intestines 28.8 : brain 1.2:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:5;}">
+                <Coords points="155,1697 1059,1702 1059,1669 964,1666 155,1675"/>
+                <Baseline points="162,1692 207,1694 252,1694 297,1694 342,1694 387,1694 432,1692 477,1692 522,1692 567,1692 612,1692 657,1692 702,1692 747,1691 792,1690 837,1691 882,1690 927,1690 972,1690 1017,1690 1062,1690"/>
+                <TextEquiv>
+                    <Unicode>cholera 0.1 : dropsies 2.3 : rheumatism 5.8: lock hospital 4.4: abscesses and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:6;}">
+                <Coords points="158,1730 866,1742 866,1702 158,1711"/>
+                <Baseline points="164,1725 199,1725 234,1724 269,1723 305,1723 340,1725 375,1725 410,1723 446,1723 481,1721 516,1723 551,1723 587,1723 622,1723 657,1723 692,1723 728,1723 763,1723 798,1723 833,1723 869,1721"/>
+                <TextEquiv>
+                    <Unicode>ulcers 10.1: wounds 10.4: eye 2.4: skin 7.1: other diseases 8.4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

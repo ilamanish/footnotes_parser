@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:08.851+01:00</Created>
+        <LastChange>2024-12-10T01:43:53.815+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960493" pageNr="486" tsid="211286126" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=QVQMYKNVCKYQZIGEMIHMZVMK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVWXTLJUCDTUACNKYCDGBHUY" imageId="70209834"/>
+    </Metadata>
+    <Page imageFilename="0486_the_land_of_the_perumauls_page_486.jpg" imageWidth="1178" imageHeight="1975">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840833644" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="153,239 153,1747 1060,1747 1060,239"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="482,271 630,271 645,259 659,271 746,273 746,235 724,231 645,239 614,224 482,233"/>
+                <Baseline points="488,259 514,259 540,259 566,259 592,259 618,259 644,260 670,261 696,259 722,259 749,259"/>
+                <TextEquiv>
+                    <Unicode>SALIVATING CROWS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="162,264 183,267 190,274 214,271 219,267 224,267 224,235 213,232 203,236 196,236 194,233 180,235 177,232 162,230"/>
+                <Baseline points="168,261 197,261 227,261"/>
+                <TextEquiv>
+                    <Unicode>466</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="159,328 1051,329 1051,283 159,302"/>
+                <Baseline points="166,325 210,325 254,323 299,323 343,323 388,323 432,323 476,323 521,323 565,323 610,323 654,323 698,323 743,323 787,323 832,321 876,321 920,322 965,323 1009,323 1054,323"/>
+                <TextEquiv>
+                    <Unicode>away. If one is killed, the others make a most uproarious noise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="168,374 1017,368 1017,336 168,332"/>
+                <Baseline points="174,359 216,365 258,363 300,363 343,363 385,365 427,365 470,363 512,363 554,363 597,363 639,363 681,363 723,363 766,363 808,363 850,363 893,363 935,363 977,362 1020,363"/>
+                <TextEquiv>
+                    <Unicode>They are very destructive in gardens, especially amongst creepers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="186,414 1053,411 1053,376 993,372 186,382"/>
+                <Baseline points="192,404 235,404 278,404 321,404 364,402 408,403 451,402 494,402 537,402 580,402 624,401 667,402 710,402 753,402 796,402 840,402 883,402 926,402 969,402 1012,402 1056,404"/>
+                <TextEquiv>
+                    <Unicode>The black plumage of the Crow, Corvus culminatus, has rendered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="162,450 1055,449 1028,411 162,415"/>
+                <Baseline points="168,443 212,443 257,443 301,441 346,441 390,441 435,441 479,441 524,443 568,441 613,441 657,441 702,441 746,440 791,441 835,441 880,441 924,441 969,441 1013,441 1058,441"/>
+                <TextEquiv>
+                    <Unicode>him an object of aversion, to many classes of persons, even the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="159,491 1057,491 1057,448 159,453"/>
+                <Baseline points="166,480 210,481 255,482 300,480 344,480 389,480 434,480 478,480 523,480 568,480 613,480 657,480 702,480 747,480 791,480 836,480 881,480 925,480 970,480 1015,480 1060,480"/>
+                <TextEquiv>
+                    <Unicode>Hindu Puranas, give the following legend, as one of the reasons of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="154,526 223,526 275,543 337,524 396,538 445,523 515,529 515,494 154,501"/>
+                <Baseline points="160,520 185,522 211,521 236,521 262,521 287,520 313,520 339,520 364,520 390,520 415,519 441,518 466,519 492,520 518,520"/>
+                <TextEquiv>
+                    <Unicode>its being an accursed bird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="186,571 1050,572 1050,519 991,542 186,530"/>
+                <Baseline points="192,559 235,559 278,559 321,559 364,559 407,557 450,559 493,557 536,558 579,559 622,559 665,559 708,558 751,559 794,559 837,559 880,559 923,559 966,559 1009,558 1052,555"/>
+                <TextEquiv>
+                    <Unicode>Chanacya,” caused eight royal brothers to be murdered, but sub¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="156,618 1050,607 1048,574 935,567 155,570"/>
+                <Baseline points="162,598 206,598 251,600 295,598 340,596 384,597 429,596 473,598 518,598 562,597 607,598 651,598 696,598 740,598 785,598 829,598 874,598 918,598 963,598 1007,598 1052,598"/>
+                <TextEquiv>
+                    <Unicode>sequently when his conscience smote him, he applied to the Brah¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="158,650 1051,644 1051,613 1005,606 158,618"/>
+                <Baseline points="164,638 208,639 253,638 297,638 342,638 386,636 431,636 475,637 520,636 564,637 609,636 653,636 698,638 742,638 787,636 831,638 876,638 920,638 965,638 1009,638 1054,638"/>
+                <TextEquiv>
+                    <Unicode>mans, and requested to know how he could atone for his sins, which</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="154,682 625,679 625,663 589,643 553,658 154,656"/>
+                <Baseline points="160,677 186,677 212,677 238,677 264,677 290,677 316,676 342,675 368,675 394,675 420,675 446,675 472,676 498,676 524,675 550,675 576,675 602,675 628,677"/>
+                <TextEquiv>
+                    <Unicode>they informed him was impossible.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="641,687 1050,688 1050,651 961,649 922,665 890,645 872,659 721,658 684,642 641,653"/>
+                <Baseline points="647,675 672,677 697,676 722,675 748,676 773,677 798,677 824,675 849,675 874,676 900,677 925,677 950,677 976,677 1001,677 1026,677 1052,677"/>
+                <TextEquiv>
+                    <Unicode>Subsequently as the gods and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="150,723 1051,731 1033,687 150,697"/>
+                <Baseline points="157,716 201,717 246,716 291,715 336,714 381,714 426,714 470,714 515,714 560,714 605,714 650,714 695,714 740,714 784,715 829,714 874,715 919,716 964,716 1009,716 1054,720"/>
+                <TextEquiv>
+                    <Unicode>holy men were assembled in Indra’s presence, they were conversing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="154,758 1051,768 1051,733 1014,723 154,736"/>
+                <Baseline points="160,753 204,755 249,753 293,754 338,753 383,753 427,753 472,753 516,753 561,754 606,755 650,753 695,753 739,754 784,755 829,753 873,753 918,755 962,755 1007,755 1052,755"/>
+                <TextEquiv>
+                    <Unicode>on this subject, and one of the sages enquired of the god, what</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="154,801 587,804 587,769 559,767 419,763 397,782 335,760 284,772 260,761 154,780"/>
+                <Baseline points="160,795 185,795 210,795 235,795 261,795 286,794 311,794 337,794 362,793 387,793 412,793 438,793 463,793 488,793 514,793 539,793 564,793 590,793"/>
+                <TextEquiv>
+                    <Unicode>mode of expiation was necessary.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="607,810 1050,803 1048,768 720,776 606,764"/>
+                <Baseline points="614,793 639,793 665,793 691,794 717,794 742,794 768,795 794,795 820,795 845,795 871,795 897,795 923,795 948,795 974,795 1000,795 1026,795 1052,795"/>
+                <TextEquiv>
+                    <Unicode>Indra replied, that certain severe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="156,850 1047,851 1036,805 156,810"/>
+                <Baseline points="162,836 206,834 250,832 295,833 339,832 384,832 428,832 472,832 517,834 561,832 606,832 650,831 694,832 739,832 783,832 828,834 872,834 916,834 961,834 1005,834 1050,836"/>
+                <TextEquiv>
+                    <Unicode>religious austerities, and expiatory ceremonies must be employed,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="153,880 1045,881 1033,846 153,858"/>
+                <Baseline points="159,873 203,872 247,871 292,872 336,871 381,871 425,871 470,871 514,871 559,871 603,871 647,871 692,871 736,872 781,873 825,872 870,873 914,873 959,873 1003,873 1048,873"/>
+                <TextEquiv>
+                    <Unicode>after which Chanacya should sail in a boat with white sails, when</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="157,929 943,931 1047,924 1047,889 156,885"/>
+                <Baseline points="162,910 206,910 250,908 295,909 339,910 384,910 428,910 472,910 517,910 561,910 606,910 650,911 694,912 739,911 783,912 828,912 872,912 916,912 961,912 1005,912 1050,912"/>
+                <TextEquiv>
+                    <Unicode>if they turned black, it would be a sure sign of the remission of his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="154,971 163,970 171,974 189,959 220,960 220,933 201,932 194,935 180,922 167,931 154,929"/>
+                <Baseline points="160,952 191,952 223,952"/>
+                <TextEquiv>
+                    <Unicode>sins.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="186,999 1050,1001 1050,961 186,959"/>
+                <Baseline points="192,989 235,989 278,987 321,988 364,989 407,989 450,987 493,987 536,987 579,989 622,989 665,987 708,989 751,989 794,989 837,991 880,991 923,991 966,991 1009,991 1052,991"/>
+                <TextEquiv>
+                    <Unicode>A Crow was present during this conversation, who from his</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="154,1043 1047,1042 1047,1009 900,998 154,1007"/>
+                <Baseline points="160,1028 204,1028 249,1026 293,1027 338,1028 382,1028 427,1026 471,1026 516,1028 560,1027 605,1028 649,1027 694,1028 738,1028 783,1028 827,1028 872,1028 916,1030 961,1030 1005,1029 1050,1026"/>
+                <TextEquiv>
+                    <Unicode>friendly disposition, was named Mitra kaka, and it immediately</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="153,1076 1045,1083 1045,1044 887,1036 153,1055"/>
+                <Baseline points="159,1067 203,1067 247,1067 292,1066 336,1066 381,1066 425,1066 470,1066 514,1066 559,1067 603,1067 647,1067 692,1067 736,1067 781,1067 825,1067 870,1067 914,1068 959,1067 1003,1067 1048,1067"/>
+                <TextEquiv>
+                    <Unicode>carried the welcome news to Chanacya, who performed the necessary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="154,1111 1047,1115 1047,1087 922,1075 154,1078"/>
+                <Baseline points="160,1107 204,1107 249,1107 293,1106 338,1107 382,1106 427,1107 471,1105 516,1105 560,1105 605,1105 649,1105 694,1107 738,1107 783,1107 827,1107 872,1107 916,1107 961,1107 1005,1107 1050,1109"/>
+                <TextEquiv>
+                    <Unicode>rite, (the Carshagni,) and went to Heaven. But the Crow was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="156,1162 1047,1158 1047,1121 1015,1118 156,1121"/>
+                <Baseline points="162,1146 206,1145 250,1146 295,1144 339,1144 384,1144 428,1144 472,1146 517,1144 561,1144 606,1146 650,1145 694,1144 739,1146 783,1146 828,1145 872,1146 916,1146 961,1148 1005,1148 1050,1148"/>
+                <TextEquiv>
+                    <Unicode>cursed for its indiscretion, and it and all its tribe, were forbidden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="150,1193 1050,1198 1050,1160 988,1156 150,1164"/>
+                <Baseline points="157,1185 201,1184 246,1183 291,1184 336,1185 380,1183 425,1183 470,1183 515,1183 559,1183 604,1185 649,1183 694,1183 738,1183 783,1185 828,1185 873,1185 917,1185 962,1186 1007,1187 1052,1187"/>
+                <TextEquiv>
+                    <Unicode>ever to enter Heaven again, and doomed whilst on earth, to subsist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="150,1234 184,1240 207,1233 253,1238 290,1231 301,1234 301,1199 231,1199 212,1209 190,1209 184,1204 175,1209 164,1203 150,1208"/>
+                <Baseline points="157,1225 186,1225 215,1225 244,1225 273,1225 302,1225"/>
+                <TextEquiv>
+                    <Unicode>on carrion.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="182,1276 1045,1274 1045,1233 182,1238"/>
+                <Baseline points="188,1262 231,1264 274,1262 317,1262 360,1264 403,1264 446,1262 489,1262 532,1262 575,1262 618,1262 661,1262 704,1264 747,1262 790,1264 833,1264 876,1264 919,1264 962,1266 1005,1266 1048,1266"/>
+                <TextEquiv>
+                    <Unicode>It may be mentioned here, that the rite of Carshagni is performed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="150,1314 1045,1319 1017,1275 150,1275"/>
+                <Baseline points="157,1301 201,1303 246,1303 290,1301 335,1301 379,1301 424,1301 468,1301 513,1301 557,1301 602,1301 647,1301 691,1301 736,1301 780,1303 825,1303 869,1303 914,1304 958,1305 1003,1305 1048,1305"/>
+                <TextEquiv>
+                    <Unicode>at the present day, although the expense of a boat with white sails,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="148,1345 983,1362 1047,1355 1046,1319 147,1318"/>
+                <Baseline points="153,1340 197,1340 242,1342 287,1340 332,1340 377,1340 422,1340 466,1340 511,1340 556,1340 601,1340 646,1340 691,1341 736,1340 780,1342 825,1342 870,1342 915,1344 960,1344 1005,1344 1050,1346"/>
+                <TextEquiv>
+                    <Unicode>is not generally incurred, an earthen pot being now considered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="150,1385 1047,1394 1019,1355 915,1351 150,1367"/>
+                <Baseline points="157,1380 201,1382 246,1382 290,1380 335,1380 380,1380 424,1380 469,1380 514,1380 558,1380 603,1380 648,1380 692,1380 737,1380 782,1382 826,1382 871,1382 916,1384 960,1384 1005,1386 1050,1384"/>
+                <TextEquiv>
+                    <Unicode>sufficient, for carrying the sins of a Hindu. This is sent adrift on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="156,1426 1050,1429 1032,1401 876,1391 156,1386"/>
+                <Baseline points="162,1419 206,1421 251,1421 295,1419 340,1419 384,1419 429,1419 473,1419 518,1419 562,1419 607,1419 651,1419 696,1419 740,1420 785,1421 829,1421 874,1421 918,1423 963,1423 1007,1424 1052,1423"/>
+                <TextEquiv>
+                    <Unicode>Ganges, loaded with the suppliant’s misdemeanours which are expect¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="153,1472 1047,1483 1020,1435 153,1444"/>
+                <Baseline points="159,1460 203,1459 248,1458 292,1458 337,1458 381,1458 426,1458 470,1458 515,1458 559,1458 604,1458 649,1458 693,1458 738,1458 782,1460 827,1460 871,1460 916,1462 960,1462 1005,1464 1050,1462"/>
+                <TextEquiv>
+                    <Unicode>ed to be either carried away, or covered by tlie waters of that holy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="150,1504 217,1503 227,1505 244,1518 263,1518 263,1466 251,1466 245,1473 237,1470 232,1475 211,1472 191,1482 178,1475 150,1475"/>
+                <Baseline points="157,1497 184,1497 211,1497 238,1497 265,1497"/>
+                <TextEquiv>
+                    <Unicode>stream..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="182,1547 1042,1554 1042,1518 883,1502 182,1520"/>
+                <Baseline points="188,1537 230,1537 273,1537 316,1537 359,1537 402,1537 444,1537 487,1537 530,1537 573,1537 616,1537 658,1537 701,1537 744,1537 787,1539 830,1539 872,1539 915,1541 958,1541 1001,1543 1044,1543"/>
+                <TextEquiv>
+                    <Unicode>A cruel experiment has been sometimes tried, of salivating, or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="150,1586 969,1594 1047,1588 1047,1564 149,1556"/>
+                <Baseline points="157,1576 201,1576 246,1576 290,1575 335,1576 380,1576 424,1574 469,1576 514,1576 558,1576 603,1576 648,1577 692,1576 737,1577 782,1576 826,1578 871,1578 916,1580 960,1580 1005,1582 1050,1582"/>
+                <TextEquiv>
+                    <Unicode>rather mercurializing Crows, by feeding them every day with pieces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="147,1630 1044,1625 1044,1592 751,1579 147,1595"/>
+                <Baseline points="153,1613 197,1615 242,1615 286,1615 331,1615 376,1615 420,1615 465,1615 510,1615 554,1615 599,1615 644,1616 688,1617 733,1617 778,1617 822,1617 867,1618 912,1619 956,1619 1001,1621 1046,1619"/>
+                <TextEquiv>
+                    <Unicode>of bread, in which calomel is secreted. In a few days, the poor birds"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="149,1668 1014,1680 1046,1675 1045,1629 148,1629"/>
+                <Baseline points="155,1653 199,1654 244,1654 288,1653 333,1654 378,1654 422,1654 467,1654 512,1654 556,1654 601,1654 646,1655 690,1654 735,1656 780,1654 824,1657 869,1658 914,1660 958,1660 1003,1662 1048,1662"/>
+                <TextEquiv>
+                    <Unicode>heads begin to droop, whilst their feathiers get dull, and fall off,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="292,1717 895,1717 895,1768 292,1768"/>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:0;}">
+                <Coords points="305,1729 418,1747 827,1747 826,1708 798,1705 305,1704"/>
+                <Baseline points="312,1723 337,1728 363,1730 389,1731 415,1732 441,1733 466,1733 492,1733 518,1733 544,1733 570,1735 595,1735 621,1735 647,1735 673,1735 699,1735 724,1737 750,1735 776,1735 802,1736 828,1735"/>
+                <TextEquiv>
+                    <Unicode>* Wilford, Asiatic Researches, Vol. 9 page 96.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

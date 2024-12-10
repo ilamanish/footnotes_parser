@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=39995:lm=none:date=04_12_2024_10:23</Creator>
+        <Created>2024-11-27T19:19:29.553+01:00</Created>
+        <LastChange>2024-12-04T23:35:51.375+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84959944" pageNr="23" tsid="209850675" status="IN_PROGRESS" userId="314981" imgUrl="https://files.transkribus.eu/Get?id=UBLOMTNNJUUFXNVPRYFRKZRJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWDZKMKWDTDVOHZCTUTRNFNJ" imageId="70208608"/>
+    </Metadata>
+    <Page imageFilename="0023_the_land_of_the_perumauls_page_23.jpg" imageWidth="1170" imageHeight="1992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840508683" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="79,211 79,1736 997,1736 997,211"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="235,233 337,257 525,238 582,263 637,241 672,262 775,262 822,254 823,212 325,198 235,215"/>
+                <Baseline points="241,231 270,237 299,237 328,237 358,237 387,237 416,235 445,235 475,235 504,233 533,233 562,235 592,233 621,231 650,233 679,235 709,233 738,233 767,233 796,233 826,233"/>
+                <TextEquiv>
+                    <Unicode>“STAR-DECORATINO" FEAST.—TIIE PALACE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="102,296 328,320 987,307 987,277 914,262 102,281"/>
+                <Baseline points="109,292 153,300 197,302 241,302 285,302 329,301 373,302 417,301 461,300 505,300 549,300 593,299 637,300 681,299 725,298 769,298 813,298 857,298 901,298 945,300 990,298"/>
+                <TextEquiv>
+                    <Unicode>“ In the distress which followed the great war,* a Brahman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="76,338 983,350 983,319 889,307 76,313"/>
+                <Baseline points="83,333 128,340 173,343 218,341 263,341 308,341 353,341 399,341 444,341 489,341 534,341 579,341 624,341 669,341 715,339 760,339 805,339 850,339 895,339 940,339 986,339"/>
+                <TextEquiv>
+                    <Unicode>“ came to Khristna and Arjuna, complaining of the loss of his nine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="73,376 276,401 983,387 909,348 281,351 238,375 73,353"/>
+                <Baseline points="79,372 124,381 169,383 214,382 260,382 305,382 350,382 395,382 441,382 486,382 531,382 576,382 622,382 667,382 712,381 757,382 803,380 848,380 893,380 938,380 984,378"/>
+                <TextEquiv>
+                    <Unicode>“children. Khristna was silent, but Arjuna hearing the Brah¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="75,418 985,434 955,389 75,394"/>
+                <Baseline points="81,413 126,420 171,422 217,422 262,421 307,422 353,422 398,421 443,421 489,421 534,421 579,421 625,421 670,421 715,421 761,421 806,421 851,420 897,419 942,421 988,421"/>
+                <TextEquiv>
+                    <Unicode>“ man’s wife was likely soon to become a mother, guaranteed the life</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="75,459 980,477 982,432 75,435"/>
+                <Baseline points="81,452 126,460 171,461 216,461 261,461 307,461 352,461 397,461 442,461 487,459 533,461 578,459 623,461 668,459 713,461 759,459 804,459 849,458 894,459 939,459 985,461"/>
+                <TextEquiv>
+                    <Unicode>“ of the forthcoming infant, even by himself, if necessary, entering</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="76,499 986,507 986,475 900,467 76,473"/>
+                <Baseline points="83,491 128,499 173,500 218,500 264,500 309,500 354,500 399,500 445,500 490,500 535,499 580,498 626,499 671,498 716,498 761,498 807,498 852,497 897,498 942,498 988,500"/>
+                <TextEquiv>
+                    <Unicode>“ the fire as a sacrifice to Yama, to save its existence. Khristna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="76,539 982,551 982,506 76,515"/>
+                <Baseline points="83,532 128,538 173,539 218,539 263,539 308,539 353,539 398,539 443,539 488,539 533,539 578,539 623,539 668,539 713,539 758,539 803,537 848,537 893,538 938,537 984,536"/>
+                <TextEquiv>
+                    <Unicode>“ rebuked Arjuna for his rash promise, and then took him to Vai¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="75,586 985,584 985,553 933,541 75,552"/>
+                <Baseline points="81,571 126,577 171,580 217,578 262,578 307,578 353,578 398,578 443,578 489,578 534,578 579,578 625,578 670,578 715,576 761,578 806,578 851,578 897,576 942,577 988,578"/>
+                <TextEquiv>
+                    <Unicode>“ cont’ha, where the Brahman’s nine children were found seated in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="75,618 985,625 985,584 75,597"/>
+                <Baseline points="81,610 126,616 171,619 217,618 262,617 307,617 353,617 398,617 443,617 489,617 534,617 579,617 625,617 670,617 715,617 761,617 806,617 851,616 897,617 942,617 988,615"/>
+                <TextEquiv>
+                    <Unicode>“ Luchsmi’s lap. They were brought back to earth in a celestial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="102,664 985,670 985,634 933,627 102,638"/>
+                <Baseline points="109,656 155,658 201,658 247,658 294,658 340,658 386,656 432,658 479,656 525,656 571,656 617,656 664,656 710,656 756,656 802,656 849,656 895,656 941,656 988,652"/>
+                <TextEquiv>
+                    <Unicode>car, and descended at Tripoonterali, which was set apart as a holy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="106,713 691,704 692,668 107,678"/>
+                <Baseline points="113,699 142,697 171,699 200,697 229,697 258,697 287,697 316,697 345,697 374,695 404,695 433,695 462,695 491,695 520,695 549,695 578,695 607,695 636,695 665,695 695,695"/>
+                <TextEquiv>
+                    <Unicode>place, in the fifty first day of the Cali-yuga."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="112,745 990,746 990,708 838,701 112,714"/>
+                <Baseline points="118,734 161,736 205,736 249,736 292,736 336,736 380,736 423,734 467,734 511,735 555,734 598,734 642,734 686,735 729,734 773,734 817,734 860,734 904,734 948,734 992,734"/>
+                <TextEquiv>
+                    <Unicode>Once a year, ten days before the Ohnam, (about the middle of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="79,785 983,787 983,753 931,747 79,756"/>
+                <Baseline points="85,775 130,775 175,775 220,775 265,775 310,775 355,774 400,775 445,775 490,773 535,774 580,773 625,773 670,773 715,773 760,773 805,773 850,773 895,773 940,772 986,769"/>
+                <TextEquiv>
+                    <Unicode>August,) the Rajah goes in state, wearing his star, and attended by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="81,819 991,820 959,783 81,796"/>
+                <Baseline points="87,814 132,814 177,814 222,814 268,812 313,814 358,814 403,814 449,812 494,812 539,813 584,812 630,813 675,812 720,812 765,812 811,814 856,812 901,812 946,813 992,810"/>
+                <TextEquiv>
+                    <Unicode>all his native officials, from one palace to the other. This feast is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="81,856 974,864 974,830 845,822 81,831"/>
+                <Baseline points="87,851 131,853 175,853 220,852 264,853 309,853 353,853 398,853 442,853 487,853 531,853 575,852 620,851 664,851 709,850 753,851 798,851 842,853 887,852 931,853 976,855"/>
+                <TextEquiv>
+                    <Unicode>called the Uttum Chumium, Mal. or that of “ star decorating.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="84,900 991,898 991,867 944,862 84,867"/>
+                <Baseline points="91,894 136,892 181,892 226,892 271,892 316,892 361,892 407,892 452,892 497,892 542,890 587,892 632,891 677,890 723,890 768,891 813,890 858,890 903,892 948,891 994,890"/>
+                <TextEquiv>
+                    <Unicode>It is said to be held in commemoration of the day when the first</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="83,938 930,942 930,910 796,898 83,906"/>
+                <Baseline points="89,933 131,932 173,933 215,933 257,931 300,931 342,931 384,931 426,931 468,931 511,930 553,931 595,931 637,931 679,931 722,931 764,931 806,929 848,931 890,931 933,929"/>
+                <TextEquiv>
+                    <Unicode>Cochin Rajah entered into possession of his Malabar dominions.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="116,978 988,987 990,950 116,946"/>
+                <Baseline points="122,970 165,971 209,972 252,971 296,970 339,970 383,970 426,969 470,970 513,969 557,970 600,970 644,970 687,970 731,970 774,970 818,968 861,970 905,970 948,970 992,966"/>
+                <TextEquiv>
+                    <Unicode>The palace (Colgaum,) is a curious pile of old buildings, entirely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="79,1017 990,1026 990,987 939,983 79,987"/>
+                <Baseline points="85,1009 130,1011 175,1011 221,1010 266,1011 311,1009 357,1009 402,1009 447,1008 493,1009 538,1007 583,1007 629,1009 674,1009 719,1008 765,1009 810,1009 855,1009 901,1009 946,1009 992,1011"/>
+                <TextEquiv>
+                    <Unicode>of native architecture : its small windows, narrow stairs, low passages,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="79,1062 988,1059 988,1026 785,1013 350,1040 79,1019"/>
+                <Baseline points="85,1050 130,1049 175,1048 220,1048 266,1048 311,1048 356,1048 401,1048 447,1047 492,1048 537,1048 582,1048 628,1047 673,1048 718,1048 763,1048 809,1048 854,1048 899,1048 944,1048 990,1048"/>
+                <TextEquiv>
+                    <Unicode>and confined yards, are very differently formed to European ideas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="87,1102 993,1095 993,1066 928,1059 87,1062"/>
+                <Baseline points="93,1089 138,1089 183,1089 228,1089 273,1089 318,1087 363,1087 409,1087 454,1087 499,1087 544,1087 589,1087 634,1087 679,1087 725,1087 770,1087 815,1087 860,1087 905,1089 950,1088 996,1089"/>
+                <TextEquiv>
+                    <Unicode>of comfort. In some, rooms, doors, and large glass windows, have</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="83,1135 987,1139 965,1100 852,1094 83,1101"/>
+                <Baseline points="89,1126 134,1128 179,1128 224,1127 269,1128 314,1126 359,1126 404,1126 449,1126 494,1126 539,1126 584,1126 629,1126 674,1126 719,1126 764,1126 809,1126 854,1126 899,1128 944,1128 990,1126"/>
+                <TextEquiv>
+                    <Unicode>evidently been introduced at a later date, than the erection of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="79,1182 991,1180 991,1144 870,1134 79,1147"/>
+                <Baseline points="85,1165 130,1167 175,1167 221,1166 266,1167 312,1167 357,1165 403,1165 448,1165 494,1165 539,1166 584,1165 630,1166 675,1165 721,1165 766,1165 812,1165 857,1167 903,1167 948,1167 994,1163"/>
+                <TextEquiv>
+                    <Unicode>building. A guard is stationed at the gate, within which no low</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="81,1214 991,1223 991,1189 944,1179 81,1193"/>
+                <Baseline points="87,1208 132,1207 177,1206 223,1206 268,1206 313,1205 359,1206 404,1206 449,1204 495,1204 540,1204 585,1204 631,1205 676,1204 721,1204 767,1204 812,1206 857,1206 903,1206 948,1206 994,1208"/>
+                <TextEquiv>
+                    <Unicode>caste person may enter. A covered passage reaches from the palace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="81,1254 991,1258 991,1228 931,1218 81,1230"/>
+                <Baseline points="87,1247 132,1246 177,1247 223,1245 268,1245 313,1245 359,1245 404,1245 449,1244 495,1245 540,1245 585,1245 631,1245 676,1245 721,1244 767,1245 812,1245 857,1245 903,1245 948,1247 994,1245"/>
+                <TextEquiv>
+                    <Unicode>to the gateway, but a screen or scarlet curtain prevents any passer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="87,1295 991,1299 991,1269 837,1253 87,1261"/>
+                <Baseline points="93,1280 140,1283 187,1284 234,1284 282,1283 329,1284 376,1284 424,1284 471,1282 518,1284 566,1282 613,1284 660,1284 708,1284 755,1284 802,1284 850,1286 897,1286 944,1286 992,1288"/>
+                <TextEquiv>
+                    <Unicode>by from being able to gaze within. The entrance hall is square,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="83,1333 987,1331 987,1299 83,1303"/>
+                <Baseline points="89,1321 134,1323 179,1323 224,1323 269,1323 314,1322 359,1323 404,1323 449,1322 494,1323 539,1323 584,1323 629,1323 674,1323 719,1323 764,1323 809,1323 854,1325 899,1324 944,1325 990,1323"/>
+                <TextEquiv>
+                    <Unicode>and lcads directly inte the room where the Rajah daily transacts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="87,1370 991,1371 942,1333 87,1339"/>
+                <Baseline points="93,1362 140,1362 187,1362 234,1362 282,1360 329,1360 376,1360 424,1361 471,1362 518,1362 566,1362 613,1362 660,1362 708,1362 755,1362 802,1362 850,1364 897,1364 944,1362 992,1364"/>
+                <TextEquiv>
+                    <Unicode>business and receives visitors. At one end is a swinging silver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="84,1417 994,1412 963,1374 84,1370"/>
+                <Baseline points="91,1403 136,1401 181,1401 226,1400 272,1401 317,1401 362,1401 407,1399 453,1400 498,1401 543,1401 588,1401 634,1401 679,1401 724,1401 769,1401 815,1401 860,1402 905,1401 950,1403 996,1403"/>
+                <TextEquiv>
+                    <Unicode>cot and an almirah full of books, whilst pictures adorn the walls.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="87,1451 993,1454 979,1410 87,1417"/>
+                <Baseline points="93,1440 138,1440 183,1438 228,1439 273,1440 318,1440 363,1438 409,1440 454,1440 499,1440 544,1440 589,1440 634,1442 679,1442 725,1442 770,1440 815,1442 860,1442 905,1442 950,1443 996,1444"/>
+                <TextEquiv>
+                    <Unicode>On the opposite side of the road is a handsome reception hall,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="87,1487 994,1491 994,1460 927,1452 87,1454"/>
+                <Baseline points="93,1479 138,1480 183,1479 228,1479 273,1477 319,1479 364,1479 409,1479 454,1479 499,1479 545,1479 590,1479 635,1480 680,1481 725,1481 771,1481 816,1481 861,1481 906,1481 951,1483 997,1483"/>
+                <TextEquiv>
+                    <Unicode>built by tlie Dutch, consisting of two very fine rooms, of elegant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="87,1538 962,1529 951,1497 828,1489 87,1502"/>
+                <Baseline points="93,1522 136,1520 180,1520 223,1518 267,1518 310,1517 354,1518 397,1518 441,1518 484,1518 528,1520 572,1520 615,1518 659,1520 702,1520 746,1520 789,1520 833,1522 876,1520 920,1522 964,1522"/>
+                <TextEquiv>
+                    <Unicode>proportions, and well lighted by means of large glazed windows.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="116,1570 990,1577 990,1535 116,1533"/>
+                <Baseline points="122,1559 165,1559 209,1559 252,1557 296,1557 339,1557 383,1557 426,1557 470,1557 513,1559 557,1559 600,1559 644,1559 687,1560 731,1561 774,1561 818,1559 861,1561 905,1561 948,1561 992,1565"/>
+                <TextEquiv>
+                    <Unicode>In the immediate vicinity of the palace is a small bazaar (Pilla),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="81,1609 994,1611 994,1579 905,1567 877,1592 81,1569"/>
+                <Baseline points="87,1598 132,1598 178,1598 223,1598 269,1596 314,1598 360,1597 405,1598 451,1597 496,1598 542,1598 587,1598 633,1598 678,1598 724,1600 769,1600 815,1600 860,1600 906,1600 951,1600 997,1598"/>
+                <TextEquiv>
+                    <Unicode>into which no person below the rank of a Nair may enter. (Native</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="87,1651 993,1647 955,1614 87,1609"/>
+                <Baseline points="93,1637 138,1637 183,1637 228,1637 273,1637 318,1637 363,1637 409,1637 454,1636 499,1637 544,1637 589,1639 634,1639 679,1639 725,1639 770,1639 815,1639 860,1639 905,1639 950,1641 996,1639"/>
+                <TextEquiv>
+                    <Unicode>Christians are admissible.) There is also a pagoda having a fine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="83,1682 991,1692 991,1659 903,1650 83,1651"/>
+                <Baseline points="89,1676 134,1676 179,1676 224,1676 270,1676 315,1676 360,1676 405,1676 451,1676 496,1676 541,1676 586,1676 632,1678 677,1676 722,1678 767,1678 813,1678 858,1678 903,1678 948,1680 994,1678"/>
+                <TextEquiv>
+                    <Unicode>tank and a large Ootooparrah where any Brahmans, should taey</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="257,1711 917,1711 917,1751 257,1751"/>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:0;}">
+                <Coords points="270,1746 906,1742 891,1705 270,1706"/>
+                <Baseline points="276,1723 307,1724 339,1724 370,1724 402,1724 434,1724 465,1724 497,1724 528,1724 560,1725 592,1726 623,1726 655,1726 686,1726 718,1726 750,1726 781,1726 813,1726 844,1726 876,1726 908,1726"/>
+                <TextEquiv>
+                    <Unicode>* Mackenzie Manuscripts, Book No. 3. Countermark 896.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

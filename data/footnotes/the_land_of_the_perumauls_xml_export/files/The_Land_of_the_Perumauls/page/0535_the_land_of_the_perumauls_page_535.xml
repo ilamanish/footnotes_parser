@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:13.012+01:00</Created>
+        <LastChange>2024-12-10T01:48:18.693+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960539" pageNr="535" tsid="211286213" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=ZMIZUTHUOISNCLFIRIZNVNBL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CNUJOISZRQPDALTEMECSHHUQ" imageId="70209860"/>
+    </Metadata>
+    <Page imageFilename="0535_the_land_of_the_perumauls_page_535.jpg" imageWidth="1184" imageHeight="1981">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840886727" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="86,224 86,1732 994,1732 994,224"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="929,257 941,255 950,258 956,255 966,257 991,252 991,220 982,220 970,208 963,211 952,202 947,206 929,206"/>
+                <Baseline points="935,244 964,244 994,244"/>
+                <TextEquiv>
+                    <Unicode>515</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="435,263 494,257 505,265 532,258 575,265 582,258 602,270 656,270 655,214 519,215 512,208 503,215 434,217"/>
+                <Baseline points="441,246 468,246 495,246 522,246 550,246 577,247 604,248 631,248 659,248"/>
+                <TextEquiv>
+                    <Unicode>TIGER BEETLES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="130,320 986,317 986,278 130,263"/>
+                <Baseline points="136,311 178,311 221,311 263,311 306,311 349,311 391,311 434,311 476,311 519,311 562,312 604,313 647,312 689,313 732,313 775,313 817,313 860,312 902,311 945,311 988,311"/>
+                <TextEquiv>
+                    <Unicode>Besides the seasons, other causes are in operation, regulating the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="92,353 990,361 990,326 92,324"/>
+                <Baseline points="98,351 142,351 187,351 232,351 276,351 321,351 366,351 410,351 455,351 500,352 545,353 589,352 634,353 679,353 723,353 768,352 813,351 857,352 902,351 947,351 992,347"/>
+                <TextEquiv>
+                    <Unicode>distribution of insects; thus, amongst the Beetles,* the great mass</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="92,394 990,402 962,362 92,370"/>
+                <Baseline points="98,390 142,390 187,390 232,390 276,390 321,390 366,390 410,390 455,390 500,392 545,392 589,392 634,392 679,392 723,392 768,390 813,390 857,391 902,390 947,390 992,394"/>
+                <TextEquiv>
+                    <Unicode>of Cicindelido are found along the sea shore, and the Scorpion beetle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="93,436 987,436 987,411 907,401 93,406"/>
+                <Baseline points="100,432 144,430 189,430 233,430 278,430 322,430 367,430 411,429 456,428 500,430 545,430 589,430 634,430 678,431 723,432 767,431 812,430 856,430 901,430 945,429 990,430"/>
+                <TextEquiv>
+                    <Unicode>(Anthia 6-guttata) prolific on the mountainous ghauts, is unknown</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="92,475 984,481 984,448 925,438 92,444"/>
+                <Baseline points="98,469 142,469 186,469 231,469 275,469 320,468 364,469 408,469 453,469 497,469 542,471 586,469 630,469 675,469 719,471 764,469 808,469 852,469 897,469 941,469 986,469"/>
+                <TextEquiv>
+                    <Unicode>in the plains. This Geographical limitation, is perceptible in many</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="92,515 986,523 986,489 941,478 92,492"/>
+                <Baseline points="98,509 142,509 187,509 231,508 276,507 320,507 365,507 409,509 454,509 498,509 543,509 587,509 632,509 676,509 721,509 765,509 810,509 854,509 899,507 943,508 988,505"/>
+                <TextEquiv>
+                    <Unicode>other forms of insect life, and though many species have a most exten¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="93,555 974,555 930,515 93,526"/>
+                <Baseline points="100,548 143,546 187,548 231,547 275,546 319,546 362,546 406,548 450,546 494,548 538,548 581,548 625,548 669,548 713,547 757,546 800,546 844,548 888,546 932,546 976,548"/>
+                <TextEquiv>
+                    <Unicode>sive range, there are others with a most circumscribed distribution.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="126,598 984,596 984,563 889,556 126,561"/>
+                <Baseline points="132,587 174,586 217,586 260,586 302,586 345,586 388,587 430,587 473,587 516,587 559,587 601,587 644,587 687,587 729,587 772,587 815,587 857,587 900,587 943,586 986,584"/>
+                <TextEquiv>
+                    <Unicode>The Beetles, Coleoptere,f form a numerous family, not only on ac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="92,635 991,629 968,594 92,603"/>
+                <Baseline points="98,625 142,625 187,625 232,625 277,625 322,625 366,625 411,625 456,625 501,627 546,625 590,627 635,627 680,625 725,625 770,625 814,625 859,625 904,625 949,625 994,625"/>
+                <TextEquiv>
+                    <Unicode>count of the number of their generoe, but also in respect of the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="92,674 990,674 990,647 938,636 92,641"/>
+                <Baseline points="98,664 142,663 187,664 232,663 276,664 321,664 366,664 410,664 455,664 500,666 545,666 589,664 634,664 679,664 723,664 768,664 813,664 857,665 902,664 947,664 992,664"/>
+                <TextEquiv>
+                    <Unicode>infinity of individuals belonging to each. Some are employed as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="93,718 987,718 987,681 917,675 93,681"/>
+                <Baseline points="100,702 144,704 189,704 233,703 278,704 322,704 367,704 411,704 456,704 500,704 545,704 589,704 634,704 678,704 723,704 767,703 812,704 856,704 901,704 945,704 990,708"/>
+                <TextEquiv>
+                    <Unicode>medicine, others as food, some are admired for their brilliant colours,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="92,750 981,748 981,715 92,718"/>
+                <Baseline points="98,741 142,743 186,743 230,741 275,743 319,741 363,741 408,743 452,743 496,743 541,743 585,743 629,743 673,743 718,743 762,743 806,743 851,743 895,743 939,743 984,741"/>
+                <TextEquiv>
+                    <Unicode>and again others are dreaded for the mischief they occasion, especial¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="93,789 989,789 971,753 93,754"/>
+                <Baseline points="100,783 144,781 189,781 233,781 278,781 323,783 367,781 412,781 456,783 501,783 546,783 590,783 635,783 679,783 724,783 769,783 813,783 858,783 902,783 947,783 992,783"/>
+                <TextEquiv>
+                    <Unicode>ly amongst the Cocoanut trees, which form much of the wealth of this</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="92,837 986,827 986,799 942,796 92,801"/>
+                <Baseline points="98,826 142,821 187,820 231,820 276,820 320,820 365,820 409,820 454,820 498,821 543,822 587,821 632,822 676,822 721,820 765,821 810,820 854,821 899,822 943,821 988,820"/>
+                <TextEquiv>
+                    <Unicode>portion of India. Whilst some destroy the rice which is being kept</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="88,869 987,866 973,838 872,830 88,839"/>
+                <Baseline points="94,860 138,860 183,860 228,858 273,860 318,860 362,860 407,860 452,860 497,862 542,860 586,860 631,860 676,861 721,860 766,860 810,860 855,860 900,860 945,861 990,862"/>
+                <TextEquiv>
+                    <Unicode>for human food, or the Ginger in readiness for export to European</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="89,910 990,905 944,869 88,877"/>
+                <Baseline points="94,897 138,896 183,897 228,897 273,897 318,898 363,899 408,898 453,897 498,898 543,899 587,899 632,899 677,899 722,899 767,899 812,899 857,899 902,898 947,899 992,899"/>
+                <TextEquiv>
+                    <Unicode>markets, others again clear away dead animal substances, and thus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="92,954 987,944 987,911 943,908 92,912"/>
+                <Baseline points="98,941 142,937 187,937 231,937 276,937 321,937 365,937 410,937 454,937 499,937 544,937 588,938 633,939 677,937 722,937 767,938 811,939 856,937 900,939 945,938 990,937"/>
+                <TextEquiv>
+                    <Unicode>prevent much of the unwholesome taint, which the atmosplere might</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="88,986 986,987 986,954 920,946 88,955"/>
+                <Baseline points="94,976 138,975 183,976 228,974 272,976 317,976 362,976 406,976 451,976 496,976 541,976 585,976 630,978 675,978 719,978 764,976 809,976 853,976 898,976 943,976 988,976"/>
+                <TextEquiv>
+                    <Unicode>receive therefrom. Cocoanut beetles vary in different localities.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="92,1026 990,1023 981,988 92,988"/>
+                <Baseline points="98,1014 142,1015 187,1016 232,1016 276,1016 321,1014 366,1016 410,1016 455,1016 500,1016 545,1016 589,1015 634,1016 679,1016 723,1016 768,1016 813,1016 857,1016 902,1016 947,1016 992,1016"/>
+                <TextEquiv>
+                    <Unicode>In Ceylont the dreaded Cocoanut beetle, is of the Long Horned</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="90,1072 986,1065 986,1025 90,1036"/>
+                <Baseline points="96,1053 140,1054 185,1055 229,1055 274,1053 319,1053 363,1055 408,1055 452,1055 497,1055 542,1055 586,1055 631,1055 675,1055 720,1055 765,1055 809,1055 854,1055 898,1055 943,1055 988,1055"/>
+                <TextEquiv>
+                    <Unicode>species, Longecornia, and in South Travancore a Longirostral</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="88,1096 986,1099 973,1069 857,1063 88,1077"/>
+                <Baseline points="94,1093 138,1093 183,1093 228,1093 272,1093 317,1093 362,1093 406,1093 451,1095 496,1095 541,1095 585,1095 630,1095 675,1095 719,1095 764,1094 809,1093 853,1094 898,1093 943,1093 988,1095"/>
+                <TextEquiv>
+                    <Unicode>curculio, is accused of causing the mischief, but in North Travancore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="90,1147 983,1138 969,1106 90,1106"/>
+                <Baseline points="96,1132 140,1131 185,1132 229,1132 274,1132 318,1131 363,1132 407,1132 452,1132 496,1132 541,1134 585,1134 630,1134 674,1134 719,1134 763,1132 808,1132 852,1133 897,1132 941,1132 986,1130"/>
+                <TextEquiv>
+                    <Unicode>and Cochin, the Heliocopris midas, has the credit of it. But it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="90,1178 986,1179 977,1139 90,1147"/>
+                <Baseline points="96,1172 140,1170 185,1170 229,1170 274,1172 319,1172 363,1172 408,1172 452,1172 497,1172 542,1173 586,1172 631,1173 675,1173 720,1172 765,1172 809,1172 854,1172 898,1172 943,1172 988,1172"/>
+                <TextEquiv>
+                    <Unicode>must be remembered, that some species attack the stem, and cause</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="88,1223 978,1224 978,1186 900,1179 88,1187"/>
+                <Baseline points="94,1209 138,1209 182,1209 226,1209 271,1209 315,1210 359,1211 404,1210 448,1211 492,1211 537,1209 581,1211 625,1211 669,1211 714,1211 758,1209 802,1209 847,1210 891,1211 935,1210 980,1213"/>
+                <TextEquiv>
+                    <Unicode>it to become rotten, whilst others attach themselves to the leaves,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="84,1259 973,1264 973,1233 902,1220 84,1236"/>
+                <Baseline points="90,1250 134,1248 178,1248 222,1248 267,1248 311,1248 355,1248 400,1249 444,1248 488,1248 533,1250 577,1250 621,1250 665,1250 710,1250 754,1250 798,1250 843,1249 887,1250 931,1248 976,1247"/>
+                <TextEquiv>
+                    <Unicode>and others again fix themselves to the summit of the tree, and des¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="89,1305 614,1295 612,1270 546,1257 88,1266"/>
+                <Baseline points="94,1288 120,1288 146,1288 172,1288 198,1289 224,1289 250,1288 276,1288 302,1288 328,1288 354,1288 380,1288 406,1289 432,1289 458,1288 484,1288 510,1288 536,1288 562,1290 588,1290 615,1290"/>
+                <TextEquiv>
+                    <Unicode>troy the portion known as the cabbage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="121,1333 983,1345 973,1299 121,1311"/>
+                <Baseline points="128,1329 170,1327 213,1327 256,1327 299,1327 342,1327 385,1327 428,1327 471,1327 514,1327 557,1327 599,1327 642,1329 685,1329 728,1328 771,1327 814,1327 857,1329 900,1327 943,1327 986,1329"/>
+                <TextEquiv>
+                    <Unicode>Along the sea shore, a beautiful and most numerous species of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="90,1379 979,1374 964,1341 90,1338"/>
+                <Baseline points="96,1369 140,1366 184,1367 228,1367 273,1367 317,1367 361,1367 406,1367 450,1367 494,1367 539,1369 583,1368 627,1369 671,1368 716,1367 760,1369 804,1369 849,1368 893,1367 937,1367 982,1367"/>
+                <TextEquiv>
+                    <Unicode>Cicindela, (C. Biramosa, Fab.) may be found, its long legs assist it</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="84,1417 977,1410 977,1382 870,1373 84,1380"/>
+                <Baseline points="90,1406 134,1406 178,1406 223,1407 267,1406 312,1406 356,1406 400,1407 445,1408 489,1407 534,1406 578,1408 622,1406 667,1406 711,1406 756,1408 800,1408 844,1406 889,1406 933,1406 978,1402"/>
+                <TextEquiv>
+                    <Unicode>in jumping about most actively, whilst its bright purple under¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="78,1454 1012,1454 1012,1740 78,1740"/>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:0;}">
+                <Coords points="121,1465 975,1475 975,1449 921,1442 121,1444"/>
+                <Baseline points="128,1464 170,1466 213,1466 255,1466 298,1466 340,1466 383,1466 425,1466 468,1466 510,1466 553,1466 595,1466 638,1467 680,1466 723,1466 765,1466 808,1466 850,1466 893,1466 935,1466 978,1469"/>
+                <TextEquiv>
+                    <Unicode>* A large collection of Coleopterœ, has been personally made in Malabar;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:1;}">
+                <Coords points="85,1505 873,1505 873,1482 824,1471 85,1462"/>
+                <Baseline points="92,1499 131,1497 170,1497 209,1496 248,1497 288,1497 327,1497 366,1497 405,1497 444,1497 484,1497 523,1497 562,1497 601,1497 640,1497 680,1497 719,1497 758,1497 797,1497 836,1497 876,1497"/>
+                <TextEquiv>
+                    <Unicode>amongst which are specimens, of every species named in these pages.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:2;}">
+                <Coords points="118,1543 977,1538 954,1505 118,1505"/>
+                <Baseline points="124,1533 166,1531 209,1531 252,1531 294,1531 337,1530 380,1531 422,1531 465,1531 508,1531 551,1531 593,1531 636,1531 679,1531 721,1531 764,1531 807,1531 849,1531 892,1531 935,1531 978,1531"/>
+                <TextEquiv>
+                    <Unicode>† Amongst much valuable information on insects, and shells, kindly furnish-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:3;}">
+                <Coords points="82,1567 980,1568 980,1538 82,1538"/>
+                <Baseline points="88,1560 132,1562 177,1562 222,1561 266,1562 311,1561 356,1562 400,1562 445,1562 490,1561 535,1560 579,1562 624,1560 669,1562 713,1562 758,1561 803,1560 847,1560 892,1560 937,1560 982,1560"/>
+                <TextEquiv>
+                    <Unicode>ed me by W. H. Benson, Esq., and included in these pages, I am also indebted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:4;}">
+                <Coords points="84,1601 969,1598 936,1568 84,1580"/>
+                <Baseline points="90,1592 134,1594 178,1592 222,1592 266,1592 310,1592 354,1592 398,1592 442,1592 486,1593 531,1592 575,1592 619,1592 663,1592 707,1592 751,1592 795,1590 839,1590 883,1592 927,1592 972,1592"/>
+                <TextEquiv>
+                    <Unicode>to him for the knowledge, that Cajeput oil, is the best preservative in collec-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:5;}">
+                <Coords points="84,1626 977,1633 954,1596 84,1601"/>
+                <Baseline points="90,1623 134,1623 178,1623 223,1623 267,1623 312,1623 356,1623 400,1623 445,1623 489,1623 534,1623 578,1622 622,1623 667,1622 711,1623 756,1622 800,1623 844,1622 889,1623 933,1623 978,1623"/>
+                <TextEquiv>
+                    <Unicode>tions of insects, against the depredations to which they are so subject, especial-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:6;}">
+                <Coords points="80,1662 978,1663 957,1633 80,1627"/>
+                <Baseline points="86,1655 130,1655 175,1655 220,1655 264,1655 309,1655 354,1655 398,1653 443,1653 488,1654 533,1655 577,1654 622,1655 667,1654 711,1653 756,1654 801,1655 845,1654 890,1655 935,1655 980,1655"/>
+                <TextEquiv>
+                    <Unicode>ly within the tropics. A few drops on a piece of sponge, renewed every three or</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:7;}">
+                <Coords points="85,1705 794,1691 794,1670 741,1664 85,1663"/>
+                <Baseline points="92,1688 127,1687 162,1687 197,1687 233,1687 268,1687 303,1687 338,1687 374,1686 409,1685 444,1687 479,1687 515,1687 550,1687 585,1687 620,1687 656,1687 691,1687 726,1687 761,1687 797,1687"/>
+                <TextEquiv>
+                    <Unicode>four months, in each tray will be found to be most efficacious.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:8;}">
+                <Coords points="112,1746 224,1750 261,1729 349,1750 490,1750 490,1695 479,1693 363,1708 112,1695"/>
+                <Baseline points="118,1722 143,1722 168,1722 193,1722 218,1722 243,1722 268,1722 293,1722 318,1722 343,1722 368,1721 393,1721 418,1722 443,1720 468,1720 493,1722"/>
+                <TextEquiv>
+                    <Unicode>‡ Sir Emerson Tennent, Ceylon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

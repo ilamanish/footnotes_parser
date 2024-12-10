@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:20:00.686+01:00</Created>
+        <LastChange>2024-12-10T01:24:56.494+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960318" pageNr="390" tsid="211283768" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=YVXGAPPXSQMSGEREHCWOSGER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGFAQCESNHLOHPAPFHQZIZKB" imageId="70209689"/>
+    </Metadata>
+    <Page imageFilename="0390_the_land_of_the_perumauls_page_390.jpg" imageWidth="1198" imageHeight="1967">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840743234" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="159,217 159,1719 1076,1719 1076,217"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="171,249 218,251 227,243 237,243 237,201 218,203 211,210 171,211"/>
+                <Baseline points="177,237 208,237 239,237"/>
+                <TextEquiv>
+                    <Unicode>370</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="437,247 504,262 620,244 798,249 798,217 437,217"/>
+                <Baseline points="443,239 468,239 494,239 519,238 545,237 570,237 596,237 621,237 647,237 672,237 698,237 723,238 749,239 774,239 800,237"/>
+                <TextEquiv>
+                    <Unicode>PRIESTS AND CEREMONIES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="171,311 1071,312 1071,279 1034,270 171,284"/>
+                <Baseline points="177,299 221,301 266,301 311,299 356,301 401,301 446,301 490,301 535,299 580,302 625,303 670,301 715,303 760,302 804,303 849,303 894,303 939,303 984,303 1029,303 1074,299"/>
+                <TextEquiv>
+                    <Unicode>ception of pork,) and partly probably, to their indulging in spiritu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="173,346 1067,355 1067,318 1025,314 173,322"/>
+                <Baseline points="179,339 223,341 268,341 312,339 357,339 401,339 446,341 490,338 535,341 579,341 624,343 669,342 713,341 758,341 802,341 847,342 891,341 936,341 980,341 1025,341 1070,339"/>
+                <TextEquiv>
+                    <Unicode>ous liquors in private. Their countenances, show the play of their</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="171,388 889,388 889,357 841,350 750,372 588,349 171,358"/>
+                <Baseline points="177,381 212,379 248,381 284,380 320,379 355,379 391,379 427,379 463,379 498,379 534,381 570,381 606,381 641,381 677,381 713,381 749,379 784,380 820,379 856,380 892,381"/>
+                <TextEquiv>
+                    <Unicode>minds, more than do those of Mahomedans elsewhere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="205,433 1074,431 1051,393 205,393"/>
+                <Baseline points="211,419 254,418 297,419 340,418 384,417 427,417 470,419 513,419 557,420 600,419 643,419 686,419 730,419 773,421 816,419 859,419 903,421 946,419 989,419 1032,419 1076,419"/>
+                <TextEquiv>
+                    <Unicode>The Koran* is written in Arabic, which few but the Priests</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="171,464 1068,466 1068,441 736,426 171,441"/>
+                <Baseline points="177,457 221,459 266,459 310,458 355,457 400,458 444,459 489,459 534,457 578,459 623,457 668,459 712,459 757,459 802,459 846,459 891,459 936,459 980,461 1025,459 1070,457"/>
+                <TextEquiv>
+                    <Unicode>understand, it is held in great reverence by some sects, and never</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="173,505 1067,506 1051,467 173,481"/>
+                <Baseline points="179,499 223,498 268,497 312,497 357,497 401,497 446,497 490,498 535,499 579,498 624,497 669,497 713,499 758,498 802,499 847,497 891,497 936,498 980,499 1025,499 1070,497"/>
+                <TextEquiv>
+                    <Unicode>carried lower than the girdle. In education, a smattering of Arabic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="165,542 245,554 332,538 510,545 510,523 481,512 451,520 435,507 165,512"/>
+                <Baseline points="171,537 197,537 223,538 249,539 276,537 302,537 328,537 355,537 381,536 407,535 434,535 460,535 486,537 513,535"/>
+                <TextEquiv>
+                    <Unicode>is taught in their schools.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="202,593 1063,592 1063,541 202,550"/>
+                <Baseline points="209,577 251,576 294,575 337,574 380,573 423,575 466,575 508,575 551,575 594,575 637,575 680,575 723,575 766,576 808,575 851,577 894,577 937,577 980,577 1023,577 1066,577"/>
+                <TextEquiv>
+                    <Unicode>Their chief priest, whose office is hereditary, is called a Tungel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="165,625 1066,627 1038,590 165,588"/>
+                <Baseline points="171,615 215,616 260,615 305,614 350,613 395,613 440,613 484,612 529,615 574,614 619,615 664,615 709,615 754,614 798,615 843,615 888,615 933,615 978,615 1023,616 1068,613"/>
+                <TextEquiv>
+                    <Unicode>he usually resides at Ponany, but is now a transported felon, for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="167,666 1061,666 1061,636 1014,629 167,633"/>
+                <Baseline points="173,656 217,655 262,655 306,654 351,653 395,653 440,653 484,653 529,655 573,654 618,655 663,654 707,653 752,655 796,655 841,655 885,655 930,655 974,655 1019,655 1064,655"/>
+                <TextEquiv>
+                    <Unicode>inciting his caste to insurrection, and the commission of murders.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="199,710 1066,713 1066,673 1029,667 199,669"/>
+                <Baseline points="205,682 248,692 291,692 334,690 377,690 420,692 463,692 507,692 550,692 593,692 636,692 679,692 722,692 765,692 809,692 852,692 895,694 938,694 981,694 1024,694 1068,692"/>
+                <TextEquiv>
+                    <Unicode>The head Priest in each Mosque, is also called a Tungel, and another</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="167,746 1067,746 1067,716 999,702 167,713"/>
+                <Baseline points="173,734 217,734 262,732 307,732 352,730 397,730 442,730 486,731 531,732 576,731 621,732 666,732 711,732 756,732 800,730 845,731 890,732 935,732 980,732 1025,734 1070,734"/>
+                <TextEquiv>
+                    <Unicode>an Imam, these inferior clergy, are supported by their congregations.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="168,782 1067,781 1067,746 168,746"/>
+                <Baseline points="175,768 219,769 264,772 309,769 354,768 398,768 443,768 488,769 533,770 577,769 622,770 667,770 712,770 756,770 801,770 846,772 891,772 935,771 980,772 1025,772 1070,774"/>
+                <TextEquiv>
+                    <Unicode>They are jealous of any one, even approaching their mosques, and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="171,831 1068,817 1068,792 982,779 171,799"/>
+                <Baseline points="177,812 221,811 266,808 310,808 355,808 400,808 444,808 489,808 534,808 578,806 623,808 668,810 712,810 757,810 802,808 846,809 891,810 936,810 980,812 1025,811 1070,810"/>
+                <TextEquiv>
+                    <Unicode>are so unsociable, that they will not assemble in any numbers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="165,860 1066,859 1066,831 931,820 165,827"/>
+                <Baseline points="171,850 215,849 260,848 305,845 350,848 395,846 440,846 484,846 529,848 574,846 619,846 664,848 709,848 754,848 798,848 843,848 888,848 933,849 978,850 1023,850 1068,850"/>
+                <TextEquiv>
+                    <Unicode>to pray. Their prayers should be recited five times daily, and on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="168,899 1061,896 1061,860 168,859"/>
+                <Baseline points="175,886 219,889 263,886 308,886 352,886 397,885 441,884 486,886 530,886 575,886 619,886 663,886 708,888 752,887 797,888 841,886 886,886 930,888 975,888 1019,890 1064,888"/>
+                <TextEquiv>
+                    <Unicode>Fridays, should be repeated at the musjeed. Boys are named</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="160,938 1067,936 1031,902 892,898 160,918"/>
+                <Baseline points="167,930 212,929 257,926 302,925 347,924 392,926 437,926 483,925 528,926 573,925 618,926 663,926 708,926 753,927 799,926 844,925 889,926 934,926 979,926 1024,928 1070,926"/>
+                <TextEquiv>
+                    <Unicode>about the seventh day after birth, when their heads ought also</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="163,976 1063,984 1042,938 163,946"/>
+                <Baseline points="169,968 213,966 258,966 303,964 348,964 393,964 438,962 482,965 527,964 572,964 617,964 662,965 707,966 752,966 796,964 841,964 886,966 931,966 976,966 1021,966 1066,966"/>
+                <TextEquiv>
+                    <Unicode>to be shaved. They may be circumcised at any age, but generally</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="167,1023 1067,1018 1067,991 923,972 167,989"/>
+                <Baseline points="173,1006 217,1006 262,1006 307,1004 352,1004 397,1004 442,1004 486,1003 531,1004 576,1004 621,1004 666,1004 711,1004 756,1004 800,1004 845,1003 890,1004 935,1006 980,1006 1025,1006 1070,1006"/>
+                <TextEquiv>
+                    <Unicode>are so, before ten, this rite is not essential to the Mahomedan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="165,1058 1063,1052 1049,1017 165,1028"/>
+                <Baseline points="171,1046 215,1046 260,1046 305,1045 350,1042 394,1042 439,1042 484,1043 529,1044 573,1043 618,1044 663,1044 708,1044 752,1044 797,1044 842,1043 887,1044 931,1044 976,1044 1021,1045 1066,1046"/>
+                <TextEquiv>
+                    <Unicode>religion, but is universal in India, amongst those of this creed.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="167,1092 1061,1090 1061,1053 167,1061"/>
+                <Baseline points="173,1084 217,1084 262,1084 306,1082 351,1082 395,1082 440,1082 484,1082 529,1082 573,1083 618,1082 663,1084 707,1082 752,1082 796,1084 841,1081 885,1081 930,1083 974,1084 1019,1084 1064,1084"/>
+                <TextEquiv>
+                    <Unicode>Their ears are never bored : from an early age they carry a sheathed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="160,1137 1058,1129 1058,1098 982,1095 160,1102"/>
+                <Baseline points="167,1124 211,1125 256,1124 300,1123 345,1122 390,1121 434,1120 479,1121 524,1120 568,1122 613,1122 658,1122 702,1122 747,1122 792,1122 836,1122 881,1122 926,1122 970,1122 1015,1122 1060,1120"/>
+                <TextEquiv>
+                    <Unicode>knife, as the terrible Kydakathee, or Moplah knife, has been inter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="157,1189 1077,1189 1077,1734 157,1734"/>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:0;}">
+                <Coords points="181,1217 1061,1226 1061,1190 1022,1182 181,1190"/>
+                <Baseline points="187,1206 230,1212 274,1214 318,1214 362,1214 406,1214 450,1212 493,1214 537,1214 581,1214 625,1214 669,1212 713,1213 757,1212 800,1214 844,1214 888,1214 932,1214 976,1214 1020,1214 1064,1214"/>
+                <TextEquiv>
+                    <Unicode>* It has been already shown, (Chap. VII) how the Hindus venerate the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:1;}">
+                <Coords points="165,1254 1059,1252 1059,1226 957,1219 165,1217"/>
+                <Baseline points="171,1242 215,1244 260,1246 304,1244 349,1244 393,1244 438,1242 482,1243 527,1244 571,1244 616,1244 661,1244 705,1244 750,1244 794,1244 839,1246 883,1246 928,1245 972,1246 1017,1246 1062,1244"/>
+                <TextEquiv>
+                    <Unicode>Vedas, and what care they take, to prevent their even being seen by the lower</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:2;}">
+                <Coords points="160,1283 1059,1285 1041,1254 912,1248 160,1253"/>
+                <Baseline points="167,1276 211,1275 256,1276 301,1274 346,1274 390,1273 435,1274 480,1274 525,1274 569,1274 614,1274 659,1274 704,1276 748,1275 793,1276 838,1276 883,1276 927,1277 972,1278 1017,1278 1062,1278"/>
+                <TextEquiv>
+                    <Unicode>castes : how carefully the Jews preserve their Pentateuch, and the honour in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:3;}">
+                <Coords points="160,1314 1058,1315 1051,1284 160,1292"/>
+                <Baseline points="167,1308 211,1308 256,1306 300,1304 345,1306 390,1305 434,1306 479,1304 524,1304 568,1305 613,1304 658,1306 702,1306 747,1306 792,1306 836,1306 881,1306 926,1307 970,1308 1015,1308 1060,1306"/>
+                <TextEquiv>
+                    <Unicode>which they hold it. It has been discussed, whether the Bible ought or ought</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:4;}">
+                <Coords points="157,1344 1055,1347 1055,1315 1014,1314 157,1329"/>
+                <Baseline points="163,1337 207,1336 252,1335 297,1335 342,1335 386,1336 431,1335 476,1335 521,1335 565,1335 610,1335 655,1335 700,1337 744,1336 789,1337 834,1335 879,1337 923,1337 968,1337 1013,1338 1058,1337"/>
+                <TextEquiv>
+                    <Unicode>not, to be in the hands of all indiscriminately. The Roman Catholics consider</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:5;}">
+                <Coords points="159,1377 1058,1376 1012,1345 159,1349"/>
+                <Baseline points="165,1367 209,1367 254,1367 299,1367 344,1365 388,1365 433,1363 478,1365 523,1365 567,1365 612,1365 657,1366 702,1365 746,1367 791,1367 836,1366 881,1367 925,1368 970,1369 1015,1369 1060,1369"/>
+                <TextEquiv>
+                    <Unicode>that the former course would end in its not being respected, whilst on the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:6;}">
+                <Coords points="159,1410 1053,1407 1053,1383 944,1377 159,1388"/>
+                <Baseline points="165,1399 209,1399 254,1397 298,1397 343,1397 387,1396 432,1397 476,1397 521,1395 565,1396 610,1397 655,1397 699,1397 744,1397 788,1397 833,1397 877,1397 922,1398 966,1399 1011,1399 1056,1399"/>
+                <TextEquiv>
+                    <Unicode>other hand many Protestants think it would be advisable to use it as a class</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:7;}">
+                <Coords points="159,1436 1057,1440 1057,1414 994,1403 159,1410"/>
+                <Baseline points="165,1431 209,1429 254,1429 298,1428 343,1429 388,1427 432,1427 477,1427 522,1427 566,1427 611,1429 656,1429 700,1427 745,1427 790,1429 834,1427 879,1427 924,1428 968,1429 1013,1431 1058,1431"/>
+                <TextEquiv>
+                    <Unicode>book in the schools. It may well be remarked, with what respect the Koran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:8;}">
+                <Coords points="153,1472 1058,1477 1027,1437 153,1436"/>
+                <Baseline points="159,1461 204,1460 249,1459 294,1458 339,1459 384,1459 429,1459 474,1459 519,1459 564,1459 609,1459 654,1459 699,1459 744,1459 789,1459 834,1459 879,1459 924,1459 969,1461 1014,1461 1060,1463"/>
+                <TextEquiv>
+                    <Unicode>is treated by the Mahomedans. In a public discussion in Mysore, regarding</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:9;}">
+                <Coords points="157,1502 1055,1505 1055,1478 988,1468 157,1477"/>
+                <Baseline points="163,1493 207,1490 252,1489 297,1489 342,1491 386,1489 431,1489 476,1489 521,1489 565,1489 610,1489 655,1490 700,1489 744,1489 789,1489 834,1489 879,1489 923,1491 968,1491 1013,1493 1058,1491"/>
+                <TextEquiv>
+                    <Unicode>the respective merits of the Christian and Mahomedan faith, the Missionary</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:10;}">
+                <Coords points="163,1537 1058,1531 992,1498 163,1506"/>
+                <Baseline points="169,1525 213,1523 258,1521 302,1521 347,1521 391,1518 436,1519 480,1521 525,1521 569,1520 614,1521 659,1521 703,1521 748,1521 792,1521 837,1521 881,1521 926,1521 970,1519 1015,1523 1060,1523"/>
+                <TextEquiv>
+                    <Unicode>produced his bible, "but a difficulty arose about the Koran, for the Jury insist-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:11;}">
+                <Coords points="157,1554 1055,1563 1055,1531 157,1539"/>
+                <Baseline points="163,1547 207,1552 252,1551 297,1552 342,1553 386,1552 431,1553 476,1552 521,1551 565,1551 610,1551 655,1551 700,1551 744,1552 789,1553 834,1553 879,1553 923,1553 968,1553 1013,1555 1058,1551"/>
+                <TextEquiv>
+                    <Unicode>"ed on its being produced. After much delay, discussion, and anger amongst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:12;}">
+                <Coords points="159,1585 1058,1594 1049,1568 960,1561 159,1564"/>
+                <Baseline points="165,1577 209,1583 254,1585 299,1582 344,1583 388,1582 433,1581 478,1582 523,1581 567,1580 612,1581 657,1582 702,1583 746,1581 791,1583 836,1583 881,1583 925,1584 970,1585 1015,1586 1060,1585"/>
+                <TextEquiv>
+                    <Unicode>"the Mussalmen, it was brought carefully folded in a handkerchief, and a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:13;}">
+                <Coords points="157,1619 1045,1624 1036,1597 923,1591 157,1594"/>
+                <Baseline points="163,1607 207,1615 251,1613 295,1612 340,1613 384,1612 428,1611 472,1613 517,1613 561,1610 605,1609 649,1613 694,1613 738,1613 782,1613 826,1613 871,1614 915,1615 959,1615 1003,1615 1048,1613"/>
+                <TextEquiv>
+                    <Unicode>"chair provided for its reception, as the Jury could not deface these</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:14;}">
+                <Coords points="153,1638 1055,1659 1055,1627 1020,1624 153,1628"/>
+                <Baseline points="159,1637 206,1644 253,1645 300,1644 348,1644 395,1643 442,1645 490,1645 537,1642 584,1643 632,1643 679,1644 726,1643 774,1645 821,1645 868,1645 916,1645 963,1647 1010,1647 1058,1649"/>
+                <TextEquiv>
+                    <Unicode>"books, or even touch them, thcy were carefully folded up in a handkerchief,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:15;}">
+                <Coords points="157,1674 1058,1692 1058,1659 1022,1655 157,1650"/>
+                <Baseline points="163,1669 207,1675 252,1677 297,1677 342,1677 387,1675 432,1675 476,1677 521,1677 566,1675 611,1675 656,1674 701,1675 746,1675 790,1677 835,1676 880,1675 925,1677 970,1677 1015,1679 1060,1681"/>
+                <TextEquiv>
+                    <Unicode>"and the mark was put upon the knot, so that it could not be opened, but</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:16;}">
+                <Coords points="153,1705 240,1729 643,1714 664,1735 710,1713 933,1715 927,1683 153,1684"/>
+                <Baseline points="159,1699 197,1704 236,1706 275,1707 314,1709 353,1708 392,1707 430,1703 469,1704 508,1707 547,1707 586,1707 625,1705 664,1705 702,1707 741,1707 780,1707 819,1707 858,1707 897,1708 936,1709"/>
+                <TextEquiv>
+                    <Unicode>"by consent of the Jury."—Mullens' Missions in South India, 1854.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

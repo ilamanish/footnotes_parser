@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.20.0:model_id=241369:lm=none:date=09_12_2024_19:55</Creator>
+        <Created>2024-11-27T19:19:58.542+01:00</Created>
+        <LastChange>2024-12-10T01:12:18.587+01:00</LastChange>
+        <TranskribusMetadata docId="5452014" pageId="84960406" pageNr="367" tsid="211281091" status="IN_PROGRESS" userId="302539" imgUrl="https://files.transkribus.eu/Get?id=TPCKYZSWDJEBXBGJUREIETTY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFOSLBCOEYWZTPXNNVMQZSPD" imageId="70209678"/>
+    </Metadata>
+    <Page imageFilename="0367_the_land_of_the_perumauls_page_367.jpg" imageWidth="1178" imageHeight="1964">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1733840727782" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="66,198 66,1698 976,1698 976,198"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="355,227 442,234 491,222 587,224 646,238 690,227 690,193 629,193 585,170 563,170 548,186 452,178 427,193 388,183 355,193"/>
+                <Baseline points="361,219 386,219 412,219 437,219 463,219 488,218 514,219 539,219 565,219 590,219 616,219 641,219 667,219 693,218"/>
+                <TextEquiv>
+                    <Unicode>FEAST OF TAABERNACLES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="907,246 921,247 933,238 951,238 959,230 965,230 965,185 951,185 943,181 939,183 933,178 926,184 907,183"/>
+                <Baseline points="913,219 940,219 968,219"/>
+                <TextEquiv>
+                    <Unicode>347</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="63,291 973,290 973,247 688,240 596,272 434,246 372,272 63,237"/>
+                <Baseline points="70,284 115,284 160,284 205,284 251,283 296,284 341,284 387,284 432,284 477,284 523,284 568,284 613,284 658,282 704,284 749,283 794,284 840,284 885,286 930,284 976,282"/>
+                <TextEquiv>
+                    <Unicode>and in the Synagogue, repcated about three in the evening; and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="70,333 96,339 143,329 167,336 294,334 294,311 278,300 236,311 206,295 129,302 70,293"/>
+                <Baseline points="76,324 103,324 131,324 158,324 186,324 213,324 241,323 268,323 296,324"/>
+                <TextEquiv>
+                    <Unicode>again at sun set.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="104,367 970,367 970,334 732,317 104,334"/>
+                <Baseline points="111,361 154,361 197,361 240,362 283,361 326,363 369,363 412,363 455,362 498,361 541,363 584,361 627,363 670,361 713,361 756,363 799,361 842,361 885,361 928,361 972,361"/>
+                <TextEquiv>
+                    <Unicode>On one day in the year, in commemoration of the destruction of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="70,410 972,410 972,381 900,371 70,372"/>
+                <Baseline points="76,402 120,400 165,400 210,402 255,401 300,400 345,402 390,398 435,400 480,402 525,402 569,402 614,402 659,401 704,402 749,400 794,400 839,400 884,400 929,400 974,400"/>
+                <TextEquiv>
+                    <Unicode>Jerusalem, they hold a very strict and solemn fast, from 3-30 one</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="68,444 965,452 965,414 936,409 68,414"/>
+                <Baseline points="74,439 118,439 163,439 208,439 252,439 297,439 342,439 386,439 431,439 476,439 521,439 565,439 610,439 655,439 699,439 744,439 789,438 833,437 878,439 923,439 968,441"/>
+                <TextEquiv>
+                    <Unicode>day, until 7 P. M. on the following. They clothe themselves in deep</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="70,483 965,484 965,458 908,449 70,460"/>
+                <Baseline points="76,479 120,479 165,479 209,481 254,479 299,479 343,479 388,479 432,479 477,478 522,479 566,479 611,479 655,479 700,479 745,479 789,479 834,479 878,479 923,477 968,477"/>
+                <TextEquiv>
+                    <Unicode>mourning, and bewail the desolation of their parent city. The Jews</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="63,524 965,531 949,490 845,483 63,494"/>
+                <Baseline points="70,518 114,517 159,518 204,518 249,518 294,517 339,518 384,518 429,518 474,516 519,516 563,517 608,516 653,516 698,516 743,516 788,516 833,516 878,516 923,516 968,520"/>
+                <TextEquiv>
+                    <Unicode>in their Synagogues, and the Jewesses on the floors of their houses,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="66,562 967,568 935,527 66,526"/>
+                <Baseline points="72,557 116,555 161,557 206,555 251,555 296,555 341,554 386,557 431,556 476,555 521,555 565,556 610,555 655,555 700,555 745,555 790,555 835,555 880,553 925,555 970,555"/>
+                <TextEquiv>
+                    <Unicode>all appear to be weeping for sone great calamity, and mourning</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="68,599 965,610 965,573 904,565 68,570"/>
+                <Baseline points="74,593 118,595 163,595 208,595 252,595 297,595 342,595 386,595 431,593 476,594 521,595 565,595 610,595 655,595 699,595 744,595 789,595 833,593 878,593 923,595 968,597"/>
+                <TextEquiv>
+                    <Unicode>the loss of some dear object.* The great day of atonement every year,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="68,639 965,649 944,607 68,607"/>
+                <Baseline points="74,632 118,632 163,630 208,633 252,634 297,633 342,634 386,633 431,634 476,633 521,634 565,632 610,632 655,632 699,632 744,632 789,632 833,632 878,632 923,632 968,634"/>
+                <TextEquiv>
+                    <Unicode>is kept very strietly, and the males are dressed in the same white</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="68,686 796,686 796,643 68,642"/>
+                <Baseline points="74,671 110,671 146,672 182,672 219,671 255,671 291,672 327,671 364,671 400,671 436,672 472,671 509,673 545,671 581,671 617,671 654,671 690,671 726,671 762,671 799,673"/>
+                <TextEquiv>
+                    <Unicode>fowing robes, that will after death, form their shrouds.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="98,720 967,722 967,668 627,698 98,676"/>
+                <Baseline points="104,710 147,710 190,709 233,709 277,709 320,710 363,710 407,710 450,710 493,710 537,710 580,709 623,709 666,709 710,710 753,710 796,710 840,710 883,710 926,710 970,710"/>
+                <TextEquiv>
+                    <Unicode>The Passover is strietly kept, and very few Europeans have had</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="63,753 969,755 925,721 63,730"/>
+                <Baseline points="70,748 115,750 160,750 205,748 250,748 295,748 340,748 385,749 430,750 475,750 521,750 566,750 611,749 656,748 701,748 746,748 791,749 836,748 881,748 926,748 972,748"/>
+                <TextEquiv>
+                    <Unicode>an opportunity of obserying its celebration. Every one is dressed as</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="63,798 964,803 964,763 926,755 63,768"/>
+                <Baseline points="70,787 114,787 159,787 204,787 249,787 294,787 338,787 383,787 428,787 473,787 518,787 562,787 607,787 652,787 697,787 742,787 786,787 831,787 876,787 921,787 966,787"/>
+                <TextEquiv>
+                    <Unicode>for a journey, the kid is divided in accordance with the Mosaie order,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="63,833 964,847 964,803 870,797 63,815"/>
+                <Baseline points="70,826 114,826 159,826 204,826 249,826 294,826 338,826 383,826 428,826 473,826 518,826 562,826 607,826 652,826 697,826 742,826 786,826 831,826 876,826 921,826 966,826"/>
+                <TextEquiv>
+                    <Unicode>and is eaten in haste, but the blood is not sprinkled upon the door</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="69,887 101,870 138,868 180,879 221,873 231,881 273,868 273,838 262,836 181,838 173,846 93,838 70,846"/>
+                <Baseline points="76,870 101,864 126,866 151,865 176,864 201,864 226,864 251,864 276,866"/>
+                <TextEquiv>
+                    <Unicode>post and lintel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="95,910 964,906 964,864 95,870"/>
+                <Baseline points="102,897 145,896 188,897 231,896 274,897 318,897 361,897 404,897 447,897 490,897 534,897 577,897 620,897 663,897 706,897 750,897 793,897 836,897 879,897 922,897 966,897"/>
+                <TextEquiv>
+                    <Unicode>* The feast of the Tabernacles, is observed with mere pomp and ecre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="65,946 947,955 958,915 63,915"/>
+                <Baseline points="70,934 114,935 159,936 203,935 248,934 293,935 337,936 382,936 426,936 471,936 516,936 560,936 605,936 649,934 694,936 739,936 783,936 828,936 872,936 917,936 962,936"/>
+                <TextEquiv>
+                    <Unicode>mony, than any of the others, and then the women appear in public.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="70,990 967,991 957,947 70,950"/>
+                <Baseline points="76,976 120,975 165,974 210,974 254,972 299,974 344,974 388,974 433,974 478,975 523,976 567,974 612,974 657,974 701,974 746,974 791,974 835,974 880,974 925,974 970,976"/>
+                <TextEquiv>
+                    <Unicode>Attached to every house, is an open flat roof or space, on which some</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="66,1019 967,1018 940,984 66,990"/>
+                <Baseline points="72,1013 116,1013 161,1013 206,1012 251,1011 296,1011 341,1013 386,1013 431,1011 476,1013 521,1013 565,1013 610,1013 655,1013 700,1011 745,1013 790,1013 835,1013 880,1013 925,1013 970,1015"/>
+                <TextEquiv>
+                    <Unicode>eadjan leaves are raised, so as to form a sort of covering, and here in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="68,1058 969,1057 943,1020 68,1026"/>
+                <Baseline points="74,1050 118,1050 163,1052 208,1052 253,1050 298,1050 343,1050 388,1052 433,1052 478,1050 523,1050 567,1052 612,1051 657,1052 702,1051 747,1050 792,1052 837,1050 882,1051 927,1052 972,1050"/>
+                <TextEquiv>
+                    <Unicode>the open air, all take their meals. Cups of oil are kept lighted at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="68,1096 969,1099 969,1070 899,1058 68,1070"/>
+                <Baseline points="74,1088 118,1090 163,1090 208,1089 253,1088 298,1090 343,1090 388,1090 433,1090 478,1090 523,1090 567,1090 612,1090 657,1090 702,1090 747,1088 792,1090 837,1090 882,1090 927,1090 972,1090"/>
+                <TextEquiv>
+                    <Unicode>doorways of every house, whilst opposite the Synagogue is a large</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="63,1137 965,1145 965,1101 63,1100"/>
+                <Baseline points="70,1127 114,1129 159,1129 204,1128 249,1129 294,1128 339,1129 384,1129 429,1129 474,1129 519,1129 563,1129 608,1129 653,1129 698,1129 743,1129 788,1128 833,1127 878,1129 923,1129 968,1133"/>
+                <TextEquiv>
+                    <Unicode>stand, filled with oil lights. On the last and great day of the feast,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="68,1172 965,1179 946,1141 68,1146"/>
+                <Baseline points="74,1166 118,1166 163,1166 208,1166 252,1166 297,1168 342,1168 386,1167 431,1166 476,1167 521,1168 565,1168 610,1166 655,1168 699,1168 744,1167 789,1168 833,1168 878,1167 923,1168 968,1172"/>
+                <TextEquiv>
+                    <Unicode>the congregation assembles in the Synagogue, at about half-past one,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="66,1210 967,1217 967,1179 66,1190"/>
+                <Baseline points="72,1203 116,1204 161,1205 206,1204 251,1205 296,1205 341,1205 386,1205 431,1205 476,1205 521,1205 565,1205 610,1205 655,1205 700,1205 745,1205 790,1205 835,1205 880,1205 925,1205 970,1205"/>
+                <TextEquiv>
+                    <Unicode>und the service commences at two. Persons of both sexes and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="70,1251 967,1251 932,1213 70,1226"/>
+                <Baseline points="76,1245 120,1241 165,1241 210,1244 254,1245 299,1245 344,1245 388,1245 433,1245 478,1245 523,1245 567,1246 612,1245 657,1245 701,1245 746,1245 791,1245 835,1245 880,1245 925,1245 970,1247"/>
+                <TextEquiv>
+                    <Unicode>every age, congregate in the house of prayer, which is decorated, for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="71,1288 967,1295 967,1251 71,1261"/>
+                <Baseline points="78,1280 122,1282 167,1282 211,1282 256,1282 301,1283 345,1282 390,1283 434,1282 479,1283 524,1282 568,1283 613,1282 657,1282 702,1282 747,1284 791,1282 836,1284 880,1284 925,1284 970,1288"/>
+                <TextEquiv>
+                    <Unicode>the oceasion : square picces of coloured tinsel hang from the ceiling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="63,1330 929,1340 966,1305 62,1303"/>
+                <Baseline points="70,1321 115,1320 160,1321 205,1321 250,1321 295,1321 340,1321 385,1320 430,1321 475,1321 520,1321 565,1321 610,1321 655,1321 700,1321 745,1321 790,1321 835,1321 880,1321 925,1321 970,1325"/>
+                <TextEquiv>
+                    <Unicode>of the porch, whilst within, the walls are hiddeu from view, by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="70,1366 965,1371 965,1343 853,1324 70,1339"/>
+                <Baseline points="76,1359 120,1361 165,1359 209,1359 254,1359 299,1360 343,1361 388,1361 432,1361 477,1361 522,1361 566,1361 611,1361 655,1361 700,1361 745,1361 789,1361 834,1361 878,1361 923,1361 968,1363"/>
+                <TextEquiv>
+                    <Unicode>eloths of various eolours, some of which are spangled with silver.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="68,1407 969,1410 969,1372 68,1375"/>
+                <Baseline points="74,1400 118,1400 163,1400 208,1399 253,1400 298,1400 343,1400 388,1400 433,1400 478,1400 523,1400 567,1400 612,1400 657,1400 702,1399 747,1398 792,1400 837,1400 882,1400 927,1400 972,1402"/>
+                <TextEquiv>
+                    <Unicode>Around the reading desk, is a string of the white flowers, of the Indian</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="63,1449 965,1450 951,1410 63,1421"/>
+                <Baseline points="70,1439 114,1439 159,1439 204,1437 249,1439 294,1438 339,1437 384,1439 429,1439 474,1439 519,1439 563,1439 608,1439 653,1437 698,1439 743,1439 788,1439 833,1439 878,1439 923,1439 968,1439"/>
+                <TextEquiv>
+                    <Unicode>Jessamine. The five books of the law are seen in the tabernacle, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="66,1497 967,1489 967,1453 916,1444 66,1456"/>
+                <Baseline points="72,1478 116,1476 161,1476 206,1476 251,1476 296,1476 341,1476 386,1476 431,1478 476,1477 521,1476 565,1478 610,1477 655,1478 700,1478 745,1476 790,1476 835,1478 880,1478 925,1478 970,1478"/>
+                <TextEquiv>
+                    <Unicode>their silver eases, cach being surmounted by a golden crown, the two</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;} structure {type:footnote;}">
+            <Coords points="72,1522 985,1522 985,1707 72,1707"/>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:0;}">
+                <Coords points="87,1561 967,1569 967,1543 918,1538 87,1533"/>
+                <Baseline points="94,1551 137,1556 181,1559 225,1559 269,1559 313,1559 356,1561 400,1559 444,1561 488,1560 532,1561 575,1561 619,1561 663,1561 707,1561 751,1562 794,1563 838,1563 882,1563 926,1563 970,1565"/>
+                <TextEquiv>
+                    <Unicode>* The observer acquainted with the cause of this great mourning, must on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:1;}">
+                <Coords points="70,1601 967,1607 948,1573 70,1565"/>
+                <Baseline points="76,1592 120,1590 165,1590 210,1590 254,1590 299,1590 344,1590 388,1590 433,1590 478,1590 523,1590 567,1591 612,1590 657,1592 701,1592 746,1592 791,1592 835,1594 880,1595 925,1594 970,1596"/>
+                <TextEquiv>
+                    <Unicode>entering the Synagogue of the black Jews, experience a mixed feeling, of pain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:2;}">
+                <Coords points="63,1628 949,1636 961,1604 62,1602"/>
+                <Baseline points="70,1622 114,1622 159,1622 204,1622 248,1622 293,1620 338,1620 382,1621 427,1620 472,1622 517,1622 561,1622 606,1622 651,1623 695,1624 740,1624 785,1624 829,1626 874,1625 919,1626 964,1626"/>
+                <TextEquiv>
+                    <Unicode>and absurdity. The former at witnessing the mournful aspect, and doleful</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:3;}">
+                <Coords points="65,1659 970,1673 969,1636 63,1634"/>
+                <Baseline points="70,1653 115,1653 160,1653 205,1652 250,1651 295,1652 340,1651 385,1653 430,1653 475,1653 521,1653 566,1653 611,1654 656,1655 701,1655 746,1657 791,1657 836,1657 881,1657 926,1657 972,1657"/>
+                <TextEquiv>
+                    <Unicode>lamentations around him; and the latter on remembering, that they are all</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:4;}">
+                <Coords points="60,1690 701,1710 694,1660 60,1659"/>
+                <Baseline points="66,1685 97,1685 129,1683 161,1683 193,1683 225,1684 257,1685 288,1685 320,1685 352,1685 384,1685 416,1685 448,1685 480,1685 511,1687 543,1685 575,1686 607,1686 639,1687 671,1688 703,1687"/>
+                <TextEquiv>
+                    <Unicode>Natives of India, alike ignorant of history, or geography.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
